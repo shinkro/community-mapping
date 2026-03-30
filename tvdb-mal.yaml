@@ -4989,6 +4989,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 27957
+      title: 'Steins;Gate: Soumei Eichi no Cognitive Computing'
+      type: ona
+      tvdbid: 244061
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 27989
       title: Hibike! Euphonium
       type: tv
@@ -5284,6 +5293,15 @@ AnimeMap:
       type: ova
       tvdbid: 281249
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30484
+      title: Steins;Gate 0
+      type: tv
+      tvdbid: 339268
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -5652,9 +5670,9 @@ AnimeMap:
     - malid: 32188
       title: 'Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero'
       type: tv_special
-      tvdbid: 339268
+      tvdbid: 244061
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
