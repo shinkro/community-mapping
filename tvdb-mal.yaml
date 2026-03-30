@@ -8818,6 +8818,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 43555
+      title: 'Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou'
+      type: special
+      tvdbid: 355774
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 43591
       title: Hetalia World★Stars
       type: ona
