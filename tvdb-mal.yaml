@@ -1074,6 +1074,15 @@ AnimeMap:
         - tvdbseason: 2
           start: 14
 
+    - malid: 620
+      title: Takahashi Rumiko Gekijou Ningyo no Mori
+      type: tv
+      tvdbid: 120151
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 631
       title: Mahoromatic Summer Special
       type: special
@@ -1964,6 +1973,24 @@ AnimeMap:
       tvdbid: 358557
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2016
+      title: Ningyo no Mori
+      type: ova
+      tvdbid: 120151
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2017
+      title: Ningyo no Kizu
+      type: ova
+      tvdbid: 120151
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -12712,6 +12739,15 @@ AnimeMap:
       tvdbid: 442363
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 57239
+      title: Takahashi Rumiko Gekijou Ningyo no Mori Specials
+      type: special
+      tvdbid: 120151
+      tvdbseason: 1
+      start: 12
       useMapping: false
       animeMapping: []
 
