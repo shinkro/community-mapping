@@ -2295,6 +2295,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4106
+      title: 'Trigun: Badlands Rumble'
+      type: movie
+      tvdbid: 77680
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 4155
       title: 'One Piece Film: Strong World'
       type: movie
