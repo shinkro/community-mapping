@@ -263,10 +263,6 @@ animeMovies:
       tmdbid: 0
       malid: 5868
 
-    - mainTitle: Penguin no Mondai Movie
-      tmdbid: 0
-      malid: 6063
-
     - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 0
       malid: 6072
@@ -6451,6 +6447,10 @@ animeMovies:
       tmdbid: 0
       malid: 56144
 
+    - mainTitle: Microcosm
+      tmdbid: 0
+      malid: 56205
+
     - mainTitle: Niger Monogatari
       tmdbid: 0
       malid: 56236
@@ -7782,4 +7782,12 @@ animeMovies:
     - mainTitle: Friend Ship
       tmdbid: 0
       malid: 63836
+
+    - mainTitle: 'King of Prism: Dramatic Prism.1'
+      tmdbid: 0
+      malid: 63877
+
+    - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
+      tmdbid: 0
+      malid: 63897
 
