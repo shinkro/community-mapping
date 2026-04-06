@@ -658,10 +658,14 @@ AnimeMap:
       title: GetBackers
       type: tv
       tvdbid: 79056
-      tvdbseason: 1
+      tvdbseason: 0
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 26
 
     - malid: 133
       title: Green Green
@@ -2130,6 +2134,15 @@ AnimeMap:
       title: Akahori Gedou Hour Rabuge
       type: tv
       tvdbid: 120351
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 310
+      title: 'Chiisana Obake: Acchi, Kocchi, Socchi'
+      type: tv
+      tvdbid: 401207
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -4060,7 +4073,7 @@ AnimeMap:
         - tvdbseason: 3
           start: 100
         - tvdbseason: 4
-          start: 153
+          start: 151
 
     - malid: 935
       title: Witchblade
@@ -4907,6 +4920,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1666
+      title: Babel Nisei
+      type: tv
+      tvdbid: 307693
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 1673
+      title: Bomberman B-Daman Bakugaiden Victory
+      type: tv
+      tvdbid: 72904
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1686
       title: 'Bleach Movie 1: Memories of Nobody'
       type: movie
@@ -5137,6 +5168,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2078
+      title: Landlock
+      type: ova
+      tvdbid: 96231
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2107
       title: 'One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi'
       type: movie
@@ -5209,6 +5249,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2127
+      title: Chouja Raideen
+      type: tv
+      tvdbid: 249430
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2153
       title: 'Saint Beast: Kouin Jojishi Tenshi Tan'
       type: tv
@@ -5227,9 +5276,21 @@ AnimeMap:
       useMapping: true
       animeMapping:
         - tvdbseason: 0
-          start: 23
-        - tvdbseason: 1
           start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 23
+        - tvdbseason: 1
+          start: 1
+
+    - malid: 2213
+      title: Black Jack (TV)
+      type: tv
+      tvdbid: 81092
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
 
     - malid: 2217
       title: 'Hand Maid May: Akiramemasen'
@@ -5303,6 +5364,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2475
+      title: 6 Angels
+      type: ona
+      tvdbid: 354231
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2476
       title: School Days
       type: tv
@@ -5372,6 +5442,15 @@ AnimeMap:
       tvdbid: 258908
       tvdbseason: 0
       start: 4
+      useMapping: false
+      animeMapping: []
+
+    - malid: 2786
+      title: Bakegyamon
+      type: tv
+      tvdbid: 251458
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -5483,6 +5562,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3132
+      title: 'Boukensha: The Man Was from Spain'
+      type: tv
+      tvdbid: 204681
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 3221
       title: Shakugan no Shana-tan Movie
       type: special
@@ -5534,6 +5622,15 @@ AnimeMap:
       tvdbid: 81807
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 3430
+      title: Blame! Prologue
+      type: ova
+      tvdbid: 80304
+      tvdbseason: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -5877,6 +5974,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4923
+      title: Akai Hayate
+      type: ova
+      tvdbid: 344350
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 4938
       title: 'Tsubasa: Shunraiki'
       type: ova
@@ -6088,6 +6194,15 @@ AnimeMap:
       title: K-On!
       type: tv
       tvdbid: 87501
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5829
+      title: Blocker Gundan IV Machine Blaster
+      type: tv
+      tvdbid: 299549
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -8953,6 +9068,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 21659
+      title: Kill la Kill Specials
+      type: special
+      tvdbid: 272074
+      tvdbseason: 0
+      start: 1
+      useMapping: false
+      animeMapping: []
+
     - malid: 21729
       title: 'Cardfight!! Vanguard: Legion Mate-hen'
       type: tv
@@ -11370,6 +11494,25 @@ AnimeMap:
       start: 35
       useMapping: false
       animeMapping: []
+
+    - malid: 33712
+      title: Bikini Warriors OVA
+      type: ova
+      tvdbid: 295897
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            14: 1
+            15: 2
+            16: 3
+            17: 4
+            18: 5
+            20: 6
 
     - malid: 33818
       title: 'Amanchu!: Yakusoku no Natsu to Atarashii Omoide no Koto'
@@ -17834,6 +17977,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 51358
+      title: Dead Dead Demons Dededede Destruction
+      type: movie
+      tvdbid: 418123
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 51366
       title: Bastard!! Ankoku no Hakaishin Part 2 (ONA)
       type: ona
@@ -18038,8 +18190,15 @@ AnimeMap:
       tvdbid: 421378
       tvdbseason: 1
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 12
 
     - malid: 52107
       title: 'Mononoke Movie 1: Karakasa'
@@ -22303,9 +22462,17 @@ AnimeMap:
       type: ona
       tvdbid: 453480
       tvdbseason: 1
-      start: 0
-      useMapping: false
-      animeMapping: []
+      start: 1
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 21
+        - tvdbseason: 3
+          start: 41
+        - tvdbseason: 4
+          start: 61
 
     - malid: 59596
       title: 'One Piece: Araburu Henkaku no Log: Anyaku Suru Kakumeigun!'
