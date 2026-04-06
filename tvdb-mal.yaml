@@ -5295,6 +5295,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2942
+      title: 'Sketchbook: Full Color''s'
+      type: tv
+      tvdbid: 81375
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2964
       title: 'Blue Drop: Tenshi-tachi no Gikyoku'
       type: tv
@@ -6010,6 +6019,15 @@ AnimeMap:
       tvdbid: 114921
       tvdbseason: 1
       start: 1
+      useMapping: false
+      animeMapping: []
+
+    - malid: 6251
+      title: 'Sketchbook: Full Color''s Picture Drama'
+      type: special
+      tvdbid: 81375
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
