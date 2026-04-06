@@ -5421,6 +5421,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3420
+      title: Shigofumi
+      type: tv
+      tvdbid: 81807
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 3455
       title: To LOVE-Ru
       type: tv
@@ -5578,6 +5587,15 @@ AnimeMap:
       tvdbid: 81797
       tvdbseason: 0
       start: 19
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4173
+      title: Shigofumi Picture Drama
+      type: special
+      tvdbid: 81807
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
