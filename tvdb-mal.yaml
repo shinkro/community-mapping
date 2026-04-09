@@ -5508,6 +5508,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 2993
+      title: Rosario to Vampire
+      type: tv
+      tvdbid: 81184
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 2994
       title: 'Death Note: Rewrite'
       type: tv_special
@@ -5816,6 +5825,15 @@ AnimeMap:
       title: Hayate no Gotoku!!
       type: tv
       tvdbid: 80554
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4214
+      title: Rosario to Vampire Capu2
+      type: tv
+      tvdbid: 81184
       tvdbseason: 2
       start: 0
       useMapping: false
