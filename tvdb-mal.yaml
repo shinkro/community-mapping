@@ -6334,6 +6334,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 6500
+      title: Seikon no Qwaser
+      type: tv
+      tvdbid: 134181
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 6547
       title: Angel Beats!
       type: tv
@@ -6970,6 +6979,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8668
+      title: Seikon no Qwaser Picture Drama
+      type: special
+      tvdbid: 134181
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 8676
       title: Amagami SS
       type: tv
@@ -7084,6 +7102,15 @@ AnimeMap:
       tvdbid: 81831
       tvdbseason: 2
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 9202
+      title: 'Seikon no Qwaser: Jotei no Shouzou'
+      type: ova
+      tvdbid: 134181
+      tvdbseason: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
@@ -7210,6 +7237,15 @@ AnimeMap:
       title: 'Nurarihyon no Mago: Sennen Makyou'
       type: tv
       tvdbid: 171731
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10073
+      title: Seikon no Qwaser II
+      type: tv
+      tvdbid: 134181
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -7536,6 +7572,15 @@ AnimeMap:
       tvdbid: 244061
       tvdbseason: 0
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 10920
+      title: Seikon no Qwaser II Picture Drama
+      type: special
+      tvdbid: 134181
+      tvdbseason: 0
+      start: 18
       useMapping: false
       animeMapping: []
 
