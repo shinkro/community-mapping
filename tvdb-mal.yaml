@@ -8270,6 +8270,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 16417
+      title: Tamako Market
+      type: tv
+      tvdbid: 264534
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 16468
       title: 'One Piece: Glorious Island'
       type: ona
@@ -8460,6 +8469,15 @@ AnimeMap:
       tvdbid: 82154
       tvdbseason: 0
       start: 10
+      useMapping: false
+      animeMapping: []
+
+    - malid: 17879
+      title: Tamako Market Specials
+      type: special
+      tvdbid: 264534
+      tvdbseason: 0
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -9065,6 +9083,15 @@ AnimeMap:
       tvdbid: 279533
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 21647
+      title: Tamako Love Story
+      type: movie
+      tvdbid: 264534
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
