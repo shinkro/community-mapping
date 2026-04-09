@@ -4228,6 +4228,19 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 961
+      title: Virtua Fighter
+      type: tv
+      tvdbid: 82206
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 25
+
     - malid: 962
       title: Aria the Natural
       type: tv
@@ -7304,6 +7317,21 @@ AnimeMap:
       start: 21
       useMapping: false
       animeMapping: []
+
+    - malid: 10015
+      title: Yu☆Gi☆Oh! Zexal
+      type: tv
+      tvdbid: 248049
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 26
+        - tvdbseason: 3
+          start: 50
 
     - malid: 10030
       title: Bakuman. 2nd Season
