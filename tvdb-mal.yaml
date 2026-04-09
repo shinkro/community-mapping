@@ -2526,6 +2526,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 391
+      title: Tales of Phantasia The Animation
+      type: ova
+      tvdbid: 81693
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 392
       title: Yuu☆Yuu☆Hakusho
       type: tv
@@ -4956,6 +4965,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 1731
+      title: 'Tales of Symphonia The Animation: Sylvarant-hen'
+      type: ova
+      tvdbid: 80328
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 1735
       title: 'Naruto: Shippuuden'
       type: tv
@@ -5742,6 +5760,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 3954
+      title: 'Tales of Symphonia The Animation: Kratos-sensei no Private Lesson'
+      type: special
+      tvdbid: 80328
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 3956
       title: Shakugan no Shana-tan II (Second)
       type: special
@@ -5942,6 +5969,15 @@ AnimeMap:
       title: Doukyuusei 2
       type: ova
       tvdbid: 273223
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 4884
+      title: Tales of the Abyss
+      type: tv
+      tvdbid: 83335
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -6158,6 +6194,15 @@ AnimeMap:
       title: Zoku Natsume Yuujinchou
       type: tv
       tvdbid: 82788
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5306
+      title: 'Tales of Symphonia The Animation: Tethe''alla-hen'
+      type: ova
+      tvdbid: 80328
       tvdbseason: 2
       start: 0
       useMapping: false
@@ -7006,6 +7051,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8754
+      title: Tales of the Abyss Special Fan Disc
+      type: special
+      tvdbid: 83335
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 8769
       title: Ore no Imouto ga Konnani Kawaii Wake ga Nai
       type: tv
@@ -7042,11 +7096,38 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 8908
+      title: 'Tales of Symphonia The Animation: Kaette Kita Kratos-sensei no Private Lesson'
+      type: special
+      tvdbid: 80328
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8909
+      title: 'Tales of Symphonia The Animation: Tethe''alla-hen Specials'
+      type: special
+      tvdbid: 80328
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 8937
       title: Toaru Majutsu no Index II
       type: tv
       tvdbid: 83322
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 8995
+      title: 'Tales of Symphonia The Animation: Sekai Tougou-hen'
+      type: ova
+      tvdbid: 80328
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -7914,6 +7995,24 @@ AnimeMap:
       tvdbid: 172921
       tvdbseason: 0
       start: 8
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12699
+      title: Tales of Gekijou
+      type: special
+      tvdbid: 424166
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 12709
+      title: 'Tales of Symphonia The Animation: Sekai Tougou-hen Specials'
+      type: special
+      tvdbid: 80328
+      tvdbseason: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -9632,6 +9731,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 24459
+      title: 'Tales of Zestiria: Doushi no Yoake'
+      type: tv_special
+      tvdbid: 311014
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 24469
       title: 'Buddy Complex: Kanketsu-hen - Ano Sora ni Kaeru Mirai de'
       type: tv_special
@@ -10410,6 +10518,15 @@ AnimeMap:
       title: Kono Subarashii Sekai ni Shukufuku wo!
       type: tv
       tvdbid: 303867
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 30911
+      title: Tales of Zestiria the Cross
+      type: tv
+      tvdbid: 311014
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -11576,6 +11693,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33558
+      title: 'Tales of Zestiria the Cross: Saiyaku no Jidai'
+      type: special
+      tvdbid: 311014
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 33606
       title: 'One Piece Film: Gold Episode 0 - 711 ver.'
       type: ona
@@ -11664,6 +11790,15 @@ AnimeMap:
       tvdbid: 245821
       tvdbseason: 8
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 34086
+      title: Tales of Zestiria the Cross 2nd Season
+      type: tv
+      tvdbid: 311014
+      tvdbseason: 1
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -17398,6 +17533,15 @@ AnimeMap:
       tvdbid: 389422
       tvdbseason: 1
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49942
+      title: 'Tales of Luminaria: The Fateful Crossroad'
+      type: ona
+      tvdbid: 413474
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
