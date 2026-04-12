@@ -603,10 +603,6 @@ animeMovies:
       tmdbid: 0
       malid: 9282
 
-    - mainTitle: Hello Kitty no Cinderella
-      tmdbid: 1518649
-      malid: 9291
-
     - mainTitle: Samero
       tmdbid: 0
       malid: 9318
@@ -7443,10 +7439,6 @@ animeMovies:
       tmdbid: 0
       malid: 61225
 
-    - mainTitle: 'Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko'
-      tmdbid: 0
-      malid: 61278
-
     - mainTitle: 'Oshiri Tantei: Nandemo Kaiketsu Club vs. Kaitou U'
       tmdbid: 0
       malid: 61314
@@ -7486,10 +7478,6 @@ animeMovies:
     - mainTitle: Akuru Hi no Aru ka Nai Ashi
       tmdbid: 0
       malid: 61688
-
-    - mainTitle: 'Liaozhai: Lanre Si'
-      tmdbid: 0
-      malid: 61751
 
     - mainTitle: 'Foxing: Kitsuné-tsuki'
       tmdbid: 0
@@ -7703,10 +7691,6 @@ animeMovies:
       tmdbid: 0
       malid: 62973
 
-    - mainTitle: 'Chiikawa Movie: Ningyo no Shima no Himitsu'
-      tmdbid: 0
-      malid: 63011
-
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -7738,10 +7722,6 @@ animeMovies:
     - mainTitle: Taiheiyou Hikouki Ichibannori
       tmdbid: 0
       malid: 63312
-
-    - mainTitle: 'Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan'
-      tmdbid: 0
-      malid: 63317
 
     - mainTitle: Medalist Movie
       tmdbid: 0
@@ -7790,4 +7770,8 @@ animeMovies:
     - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
       tmdbid: 0
       malid: 63897
+
+    - mainTitle: 'Cardfight!! Vanguard: Divinez Unmei Seisen-hen'
+      tmdbid: 0
+      malid: 63938
 
