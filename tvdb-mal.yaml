@@ -267,6 +267,21 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 45
+      title: 'Rurouni Kenshin: Meiji Kenkaku Romantan'
+      type: tv
+      tvdbid: 70863
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 28
+        - tvdbseason: 3
+          start: 63
+
     - malid: 48
       title: .hack//Sign
       type: tv
@@ -329,6 +344,26 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 59
+      title: Chobits
+      type: tv
+      tvdbid: 72070
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 9
+            2: 18
+        - tvdbseason: 1
+          start: 1
+          skipMalEpisodes:
+            - 9
+            - 18
 
     - malid: 60
       title: Chrno Crusade
@@ -1178,6 +1213,23 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 170
+      title: Slam Dunk
+      type: tv
+      tvdbid: 72491
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 27
+        - tvdbseason: 3
+          start: 53
+        - tvdbseason: 4
+          start: 79
 
     - malid: 171
       title: Strange Dawn
@@ -3497,6 +3549,25 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 481
+      title: Yu☆Gi☆Oh! Duel Monsters
+      type: tv
+      tvdbid: 76894
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 50
+        - tvdbseason: 3
+          start: 98
+        - tvdbseason: 4
+          start: 145
+        - tvdbseason: 5
+          start: 185
+
     - malid: 483
       title: Kurau Phantom Memory
       type: tv
@@ -3685,6 +3756,25 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 527
+      title: Pokemon
+      type: tv
+      tvdbid: 76703
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 83
+        - tvdbseason: 3
+          start: 119
+        - tvdbseason: 4
+          start: 160
+        - tvdbseason: 5
+          start: 212
 
     - malid: 529
       title: Saishuu Heiki Kanojo
@@ -7236,6 +7326,19 @@ AnimeMap:
       start: 25
       useMapping: false
       animeMapping: []
+
+    - malid: 1482
+      title: D.Gray-man
+      type: tv
+      tvdbid: 79635
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 52
 
     - malid: 1483
       title: Master Keaton
@@ -10943,10 +11046,19 @@ AnimeMap:
       title: Ookami to Koushinryou
       type: tv
       tvdbid: 81178
-      tvdbseason: 1
+      tvdbseason: 0
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 7
+        - tvdbseason: 1
+          start: 1
+          skipMalEpisodes:
+            - 7
 
     - malid: 2970
       title: Night Wizard
@@ -29819,6 +29931,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36946
+      title: 'Dragon Ball Super: Broly'
+      type: movie
+      tvdbid: 295068
+      tvdbseason: 0
+      start: 3
+      useMapping: false
+      animeMapping: []
+
     - malid: 36949
       title: 'Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen'
       type: tv
@@ -33070,6 +33191,19 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 40052
+      title: Great Pretender
+      type: tv
+      tvdbid: 376144
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 1
+        - tvdbseason: 2
+          start: 15
 
     - malid: 40056
       title: Deca-Dence
