@@ -13173,6 +13173,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 4715
+      title: 'Shigofumi: Sore kara'
+      type: special
+      tvdbid: 81807
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
     - malid: 4719
       title: 'Queen''s Blade: Rurou no Senshi'
       type: tv
