@@ -47,10 +47,6 @@ animeMovies:
       tmdbid: 0
       malid: 2173
 
-    - mainTitle: Jumping
-      tmdbid: 0
-      malid: 2211
-
     - mainTitle: Choujin Densetsu Urotsukidouji 2
       tmdbid: 0
       malid: 2360
@@ -1275,10 +1271,6 @@ animeMovies:
       tmdbid: 0
       malid: 20963
 
-    - mainTitle: Chang
-      tmdbid: 0
-      malid: 21025
-
     - mainTitle: Wake Up, Girls! Shichinin no Idol
       tmdbid: 0
       malid: 21189
@@ -1859,10 +1851,6 @@ animeMovies:
       tmdbid: 0
       malid: 29766
 
-    - mainTitle: Recorder
-      tmdbid: 0
-      malid: 29771
-
     - mainTitle: Calm
       tmdbid: 0
       malid: 29772
@@ -1870,10 +1858,6 @@ animeMovies:
     - mainTitle: Tokyo Fantasia
       tmdbid: 0
       malid: 29780
-
-    - mainTitle: Are wa Dare?
-      tmdbid: 0
-      malid: 29791
 
     - mainTitle: 'Panpaka Pants Movie: Bananan Oukoku no Hihou'
       tmdbid: 0
@@ -1898,10 +1882,6 @@ animeMovies:
     - mainTitle: Yellow
       tmdbid: 0
       malid: 29904
-
-    - mainTitle: Fue
-      tmdbid: 0
-      malid: 29907
 
     - mainTitle: Kobutori (1957)
       tmdbid: 0
@@ -2607,17 +2587,9 @@ animeMovies:
       tmdbid: 0
       malid: 35379
 
-    - mainTitle: Misemono Kenbutsu
-      tmdbid: 0
-      malid: 35395
-
     - mainTitle: Kamishibai Itazura Tanuki no Maki
       tmdbid: 0
       malid: 35399
-
-    - mainTitle: An Expression
-      tmdbid: 0
-      malid: 35402
 
     - mainTitle: Rhythm
       tmdbid: 0
@@ -2815,10 +2787,6 @@ animeMovies:
       tmdbid: 0
       malid: 37967
 
-    - mainTitle: 'Shika no Ou: Yuna to Yakusoku no Tabi'
-      tmdbid: 0
-      malid: 38015
-
     - mainTitle: Natsu wo Yarinaosu
       tmdbid: 0
       malid: 38057
@@ -2830,10 +2798,6 @@ animeMovies:
     - mainTitle: Bai Niao
       tmdbid: 0
       malid: 38341
-
-    - mainTitle: Timing (Movie)
-      tmdbid: 0
-      malid: 38461
 
     - mainTitle: Tug-Tug
       tmdbid: 0
@@ -3027,10 +2991,6 @@ animeMovies:
       tmdbid: 0
       malid: 39703
 
-    - mainTitle: Shiroi Unabara
-      tmdbid: 0
-      malid: 39704
-
     - mainTitle: Na Bbeun Sang Sa
       tmdbid: 0
       malid: 39731
@@ -3091,10 +3051,6 @@ animeMovies:
       tmdbid: 0
       malid: 40673
 
-    - mainTitle: G9+1 no Nantoka Tengoku
-      tmdbid: 0
-      malid: 40674
-
     - mainTitle: Bijutsu Kyouiku
       tmdbid: 0
       malid: 40728
@@ -3106,10 +3062,6 @@ animeMovies:
     - mainTitle: Kuroi Neko
       tmdbid: 0
       malid: 40811
-
-    - mainTitle: Furidashi
-      tmdbid: 0
-      malid: 40812
 
     - mainTitle: Zenbu Wakatteru
       tmdbid: 0
@@ -3238,10 +3190,6 @@ animeMovies:
     - mainTitle: Line
       tmdbid: 0
       malid: 42271
-
-    - mainTitle: Karasu
-      tmdbid: 0
-      malid: 42272
 
     - mainTitle: Kidou
       tmdbid: 0
@@ -4511,10 +4459,6 @@ animeMovies:
       tmdbid: 0
       malid: 44680
 
-    - mainTitle: Xun
-      tmdbid: 0
-      malid: 44685
-
     - mainTitle: Xiaohu Banban
       tmdbid: 0
       malid: 44686
@@ -5235,10 +5179,6 @@ animeMovies:
       tmdbid: 0
       malid: 50110
 
-    - mainTitle: Sigh of Sighs
-      tmdbid: 0
-      malid: 50241
-
     - mainTitle: Beolineun Seom
       tmdbid: 0
       malid: 50245
@@ -5539,10 +5479,6 @@ animeMovies:
       tmdbid: 0
       malid: 52713
 
-    - mainTitle: Shuizhong de Nuhai
-      tmdbid: 0
-      malid: 52714
-
     - mainTitle: Shi Tu
       tmdbid: 0
       malid: 52772
@@ -5598,10 +5534,6 @@ animeMovies:
     - mainTitle: Yuwang Jungle
       tmdbid: 0
       malid: 53027
-
-    - mainTitle: Ni Yao Relie de Qin Qin Die
-      tmdbid: 0
-      malid: 53028
 
     - mainTitle: Yu Sheng
       tmdbid: 0
@@ -5806,10 +5738,6 @@ animeMovies:
     - mainTitle: SSSS.Dynazenon Movie
       tmdbid: 0
       malid: 53851
-
-    - mainTitle: Kaerimichi
-      tmdbid: 0
-      malid: 53867
 
     - mainTitle: 'One Piece: Uchuu tte Omoshiree! Hoshizora Jima-hen'
       tmdbid: 0
@@ -6631,10 +6559,6 @@ animeMovies:
       tmdbid: 0
       malid: 57018
 
-    - mainTitle: The Button
-      tmdbid: 0
-      malid: 57040
-
     - mainTitle: Nanzoya
       tmdbid: 0
       malid: 57062
@@ -6734,10 +6658,6 @@ animeMovies:
     - mainTitle: Fiction Shigi Yama
       tmdbid: 0
       malid: 57364
-
-    - mainTitle: 'Kaixin Chaoren: Yingxiong de Xin'
-      tmdbid: 0
-      malid: 57384
 
     - mainTitle: Zhu Luo Ji da Leyuan
       tmdbid: 0
@@ -6939,10 +6859,6 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
-    - mainTitle: Chan
-      tmdbid: 0
-      malid: 59024
-
     - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
       tmdbid: 0
       malid: 59041
@@ -6970,10 +6886,6 @@ animeMovies:
     - mainTitle: First Line
       tmdbid: 0
       malid: 59231
-
-    - mainTitle: Luo Fanchen (Movie)
-      tmdbid: 0
-      malid: 59237
 
     - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
       tmdbid: 0
@@ -7262,10 +7174,6 @@ animeMovies:
     - mainTitle: Seikatsu wa Psychopath no Shi no You ni
       tmdbid: 0
       malid: 60770
-
-    - mainTitle: Kingyo no Ohirune
-      tmdbid: 0
-      malid: 60780
 
     - mainTitle: Luffy, Law
       tmdbid: 0
@@ -7591,10 +7499,6 @@ animeMovies:
       tmdbid: 0
       malid: 62427
 
-    - mainTitle: Shoujo Kou
-      tmdbid: 0
-      malid: 62429
-
     - mainTitle: Jingzi
       tmdbid: 0
       malid: 62441
@@ -7754,4 +7658,8 @@ animeMovies:
     - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
       tmdbid: 0
       malid: 63897
+
+    - mainTitle: 'Ginga Tetsudou 999: Glass no Clair 3D'
+      tmdbid: 0
+      malid: 63999
 
