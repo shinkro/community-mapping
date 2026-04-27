@@ -2417,7 +2417,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 303
-      title: 'Aa! Megami-sama!: Chichaitte Koto wa Benri da ne'
+      title: 'Aa! Megami-sama!: Chicchai tte Koto wa Benri da ne'
       type: tv
       tvdbid: 79411
       tvdbseason: 1
@@ -14348,6 +14348,15 @@ AnimeMap:
       type: tv
       tvdbid: 102491
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 5953
+      title: 'Mahou no Princess Minky Momo: Yume wo Dakishimete'
+      type: tv
+      tvdbid: 74504
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -42330,7 +42339,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 56732
-      title: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season
+      title: Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru Season 2
       type: tv
       tvdbid: 398193
       tvdbseason: 2
@@ -44044,6 +44053,15 @@ AnimeMap:
       type: tv
       tvdbid: 434704
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59135
+      title: Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.
+      type: tv
+      tvdbid: 451527
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
