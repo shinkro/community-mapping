@@ -36103,6 +36103,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 46488
+      title: 'Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai'
+      type: tv
+      tvdbid: 402642
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 46569
       title: Jigokuraku
       type: tv
@@ -40565,6 +40574,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 54000
+      title: Otome Game Sekai wa Mob ni Kibishii Sekai desu 2
+      type: tv
+      tvdbid: 412826
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 54028
       title: Turkey!
       type: tv
@@ -42351,6 +42369,24 @@ AnimeMap:
       title: Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta
       type: tv
       tvdbid: 440057
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56735
+      title: Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi Datta Ken
+      type: tv
+      tvdbid: 467401
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 56736
+      title: Saikyou Degarashi Ouji no Anyaku Teii Arasoi
+      type: tv
+      tvdbid: 476185
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -46420,6 +46456,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61686
+      title: Heroine? Seijo? Iie, All Works Maid desu (Hokori)!
+      type: tv
+      tvdbid: 463578
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61687
       title: Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.
       type: tv
@@ -46461,6 +46506,15 @@ AnimeMap:
       type: tv
       tvdbid: 271591
       tvdbseason: 15
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 61814
+      title: Oni no Hanayome
+      type: tv
+      tvdbid: 464625
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -46663,6 +46717,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62031
+      title: 'Honoo no Toukyuujo: Dodge Danko'
+      type: tv
+      tvdbid: 465707
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62048
       title: Mao
       type: tv
@@ -46676,6 +46739,15 @@ AnimeMap:
       title: Kami no Niwatsuki Kusunoki-tei
       type: tv
       tvdbid: 465799
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62051
+      title: 'Grow Up Show: Himawari no Circus-dan'
+      type: tv
+      tvdbid: 465802
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -46712,6 +46784,24 @@ AnimeMap:
       title: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
       type: tv
       tvdbid: 465987
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62080
+      title: Mujikaku Seijo wa Kyou mo Muishiki ni Chikara wo Tare Nagasu
+      type: tv
+      tvdbid: 465988
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62102
+      title: Ibitte Konai Gibo to Gishi
+      type: tv
+      tvdbid: 466092
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -46996,6 +47086,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62535
+      title: Hanaori-san wa Tensei shitemo Kenka ga Shitai
+      type: tv
+      tvdbid: 468399
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62542
       title: Grand Blue Season 3
       type: tv
@@ -47068,6 +47167,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62683
+      title: Let's Go Kaiki-gumi
+      type: tv
+      tvdbid: 469143
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62804
       title: High School! Kimengumi (2026)
       type: tv
@@ -47118,6 +47226,15 @@ AnimeMap:
       type: tv
       tvdbid: 470406
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62883
+      title: Bungou Stray Dogs Wan! 2
+      type: tv
+      tvdbid: 392195
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -47257,6 +47374,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63047
+      title: Yoroi Shin Den Samurai Troopers Part 2
+      type: tv
+      tvdbid: 464693
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63061
+      title: Uchi no Otouto-domo ga Sumimasen
+      type: tv
+      tvdbid: 471296
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63082
       title: Reiwa no Dara-san
       type: tv
@@ -47281,6 +47416,15 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 23
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63150
+      title: Otome Kaijuu Caraméliser
+      type: tv
+      tvdbid: 471878
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
@@ -47333,6 +47477,15 @@ AnimeMap:
       title: Dogulwang
       type: tv
       tvdbid: 452039
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63324
+      title: Iwamoto-senpai no Suisen
+      type: tv
+      tvdbid: 472831
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -47482,11 +47635,47 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63752
+      title: 'Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita'
+      type: tv
+      tvdbid: 475631
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63817
+      title: 'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season'
+      type: tv
+      tvdbid: 457532
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63832
+      title: Seihantai na Kimi to Boku 2nd Season
+      type: tv
+      tvdbid: 457078
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63833
       title: Baki-dou Part 2
       type: ona
       tvdbid: 467753
       tvdbseason: 1
       start: 14
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63878
+      title: Migawari Reijou wo Sukutta no wa Reikoku Mujihi na Koori no Ouji no Ai deshita
+      type: tv
+      tvdbid: 476227
+      tvdbseason: 1
+      start: 0
       useMapping: false
       animeMapping: []
