@@ -27701,6 +27701,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34420
+      title: 'Isekai Izakaya: Koto Aitheria no Izakaya Nobu'
+      type: ona
+      tvdbid: 344974
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 34427
       title: Frame Arms Girl
       type: tv
