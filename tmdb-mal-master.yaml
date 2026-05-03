@@ -6859,10 +6859,6 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
-    - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
-      tmdbid: 0
-      malid: 59041
-
     - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
       tmdbid: 0
       malid: 59043
@@ -7575,10 +7571,6 @@ animeMovies:
       tmdbid: 0
       malid: 62942
 
-    - mainTitle: Wareware wa Uchuujin
-      tmdbid: 0
-      malid: 62973
-
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -7662,4 +7654,12 @@ animeMovies:
     - mainTitle: 'Ginga Tetsudou 999: Glass no Clair 3D'
       tmdbid: 0
       malid: 63999
+
+    - mainTitle: Beni Bara, Shiro Bara
+      tmdbid: 0
+      malid: 64065
+
+    - mainTitle: 'Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari'
+      tmdbid: 0
+      malid: 64100
 
