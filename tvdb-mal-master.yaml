@@ -10238,7 +10238,7 @@ AnimeMap:
 
     - malid: 1206
       title: 'Ihatov Gensou: Kenji no Haru'
-      type: movie
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -33559,7 +33559,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 4511
-      title: Hoero! Bun Bun
+      title: Hoero Bunbun
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -43295,7 +43295,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6840
-      title: Maabou no Daikyousou
+      title: Mabo no Daikyousou
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -43304,7 +43304,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 6841
-      title: Maabou no Kinoshita Toukichirou
+      title: Mabo no Kinoshita Toukichirou
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -45661,7 +45661,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 7500
-      title: Maabou no Shounen Koukuu Tsuwamono
+      title: Mabo no Shounen Koukuu Tsuwamono
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -56496,7 +56496,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10509
-      title: Hoero! Bun Bun (Movie)
+      title: Hoero Bunbun (Movie)
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -100457,7 +100457,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31892
-      title: The Legend of Huainanzi
+      title: Huainanzi Chuanqi
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -100466,7 +100466,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31893
-      title: The Legend of Huainanzi 2nd Season
+      title: Huainanzi Chuanqi 2nd Season
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -108423,7 +108423,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33762
-      title: Yong Zhe Da Maoxian
+      title: Yongzhe Da Maoxian
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -108432,7 +108432,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33763
-      title: Yong Zhe Da Maoxian 2nd Season
+      title: Yongzhe Da Maoxian 2nd Season
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -133165,7 +133165,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 38346
-      title: And2! And2!
+      title: An Tu! An Tu!
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -162005,7 +162005,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 44179
-      title: Qin Han Ying Xiong Zhuan
+      title: Qin Han Yingxiong Zhuan
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -185881,6 +185881,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48055
+      title: Wo Shi Wangzhe
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 48056
       title: Xiu Rong Zhen
       type: movie
@@ -202416,7 +202425,7 @@ AnimeMap:
 
     - malid: 51862
       title: Xin Weiqi Shaonian
-      type: ona
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -214691,6 +214700,15 @@ AnimeMap:
     - malid: 54218
       title: 'Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime: Onsen'
       type: special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 54224
+      title: Wo Shi Xuexiao Weiyi de Renlei
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -263879,7 +263897,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62718
-      title: Xingchen Bian 7th Season
+      title: 'Xingchen Bian: Zuizhong Ji'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -268290,7 +268308,7 @@ AnimeMap:
 
     - malid: 63514
       title: Perfect Addiction
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -269818,6 +269836,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63953
+      title: Mofumofu Man
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63956
       title: Black Channel
       type: tv
@@ -270531,7 +270558,7 @@ AnimeMap:
 
     - malid: 64107
       title: 'Boku no Hero Academia: I Am a Hero Too'
-      type: unknown
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270763,6 +270790,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64186
+      title: Kyouiku Eigamatsuri Jushou Anime Series
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64187
       title: Otoko to Christmas Tree
       type: movie
@@ -270784,6 +270820,213 @@ AnimeMap:
     - malid: 64193
       title: Kitsune to Hiyoko
       type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64200
+      title: 'Osaru Sankichi: Tatakau Sensuikan'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64201
+      title: Mabo no Rakkasan Butai
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64205
+      title: Shounen to Gundam
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64213
+      title: Gigant
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64216
+      title: 'Yume Miru, Anime: On-chan Season 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64229
+      title: 'Chao Shen Xueyuan 2nd Season: Ju Xia Hao'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64230
+      title: Kawaisouni! Theater
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64231
+      title: 'Omocha Bako Series: Tokkyuu Kantai'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64235
+      title: Omae, Tanuki ni Naranee ka?
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64236
+      title: Okashi na Tsuitachi
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64238
+      title: Tarou no Tanjou
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64244
+      title: Nestlé CMs
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64245
+      title: 'Rakuraku Fukuyaku Jelly: Oshaberi na Ningen no Tame ni'
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64248
+      title: Numb Numb feat. Hatsune Miku, Kasane Teto
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64249
+      title: Hoero Bunbun (TV Special)
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64250
+      title: Deco x Deco The Animation
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64251
+      title: 'Mao Zhi Ming 2nd Season: Xiao Juchang'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64253
+      title: Gekkakoku Kiiden
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64254
+      title: Hyouken no Majutsushi ga Sekai wo Suberu II
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64262
+      title: Bite (2024)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64265
+      title: Expressions
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64266
+      title: 'Takopii no Genzai: Arigatou, Mata Ashita'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64269
+      title: Tokyo Night Dreaming feat. No Rome
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0

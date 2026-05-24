@@ -7408,7 +7408,7 @@
       "title": "Ihatov Gensou: Kenji no Haru",
       "enTitle": "Spring and Chaos",
       "malid": 1206,
-      "type": "movie",
+      "type": "tv_special",
       "releaseDate": "1996-12-14"
    },
    {
@@ -24539,7 +24539,7 @@
       "releaseDate": "1978-12-31"
    },
    {
-      "title": "Hoero! Bun Bun",
+      "title": "Hoero Bunbun",
       "malid": 4511,
       "type": "tv",
       "releaseDate": "1980-10-09"
@@ -31592,14 +31592,14 @@
       "releaseDate": "1936"
    },
    {
-      "title": "Maabou no Daikyousou",
+      "title": "Mabo no Daikyousou",
       "enTitle": "Mabo's Big Race",
       "malid": 6840,
       "type": "movie",
       "releaseDate": "1936"
    },
    {
-      "title": "Maabou no Kinoshita Toukichirou",
+      "title": "Mabo no Kinoshita Toukichirou",
       "enTitle": "Mabo as Tokichiro Kinoshita",
       "malid": 6841,
       "type": "movie",
@@ -33314,7 +33314,7 @@
       "releaseDate": "1928-09-04"
    },
    {
-      "title": "Maabou no Shounen Koukuu Tsuwamono",
+      "title": "Mabo no Shounen Koukuu Tsuwamono",
       "malid": 7500,
       "type": "movie",
       "releaseDate": "1937-10-27"
@@ -41009,7 +41009,7 @@
       "releaseDate": "2011-05-04"
    },
    {
-      "title": "Hoero! Bun Bun (Movie)",
+      "title": "Hoero Bunbun (Movie)",
       "malid": 10509,
       "type": "movie",
       "releaseDate": "1987-04-02"
@@ -53200,10 +53200,10 @@
    },
    {
       "title": "Weiqi Shaonian 2",
-      "enTitle": "Go Player 2; Go Youngsters 2; Go Boy 2",
+      "enTitle": "Chess Player 2nd Season",
       "malid": 19839,
       "type": "tv",
-      "releaseDate": "2009"
+      "releaseDate": "2009-05-23"
    },
    {
       "title": "Super Seisyun Brothers",
@@ -71602,7 +71602,7 @@
       "enTitle": "Twins on the Pasture",
       "malid": 31701,
       "type": "tv",
-      "releaseDate": "2007"
+      "releaseDate": "2007-05-30"
    },
    {
       "title": "One Punch Man: Road to Hero",
@@ -72118,13 +72118,15 @@
       "releaseDate": "2016-01-10"
    },
    {
-      "title": "The Legend of Huainanzi",
+      "title": "Huainanzi Chuanqi",
+      "enTitle": "The Legend of Huainanzi",
       "malid": 31892,
       "type": "tv",
       "releaseDate": "2012-04-23"
    },
    {
-      "title": "The Legend of Huainanzi 2nd Season",
+      "title": "Huainanzi Chuanqi 2nd Season",
+      "enTitle": "The Legend of Huainanzi 2nd Season",
       "malid": 31893,
       "type": "tv",
       "releaseDate": "2014-03-03"
@@ -77815,13 +77817,13 @@
       "releaseDate": "2015-07-16"
    },
    {
-      "title": "Yong Zhe Da Maoxian",
+      "title": "Yongzhe Da Maoxian",
       "malid": 33762,
       "type": "ona",
       "releaseDate": "2015-03-31"
    },
    {
-      "title": "Yong Zhe Da Maoxian 2nd Season",
+      "title": "Yongzhe Da Maoxian 2nd Season",
       "malid": 33763,
       "type": "ona",
       "releaseDate": "2016-03-25"
@@ -87349,7 +87351,7 @@
    },
    {
       "title": "Quanzhi Fashi II",
-      "enTitle": "Full-Time Magister 2nd Season",
+      "enTitle": "Full-Time Magister 2",
       "malid": 36318,
       "type": "ona",
       "releaseDate": "2017-09-15"
@@ -88260,7 +88262,7 @@
    },
    {
       "title": "Doupo Cangqiong Special 1",
-      "enTitle": "Fights Break Sphere Special 1",
+      "enTitle": "Fights Break Sphere Special: Fate",
       "malid": 36561,
       "type": "ona",
       "releaseDate": "2017-09-30"
@@ -95600,7 +95602,7 @@
       "releaseDate": "2017-06-13"
    },
    {
-      "title": "And2! And2!",
+      "title": "An Tu! An Tu!",
       "enTitle": "And2 Girls",
       "malid": 38346,
       "type": "ona",
@@ -96334,7 +96336,7 @@
    },
    {
       "title": "Quanzhi Fashi III",
-      "enTitle": "Full-Time Magister 3rd Season",
+      "enTitle": "Full-Time Magister 3",
       "malid": 38528,
       "type": "ona",
       "releaseDate": "2018-10-12"
@@ -102356,7 +102358,7 @@
    },
    {
       "title": "Quanzhi Fashi IV",
-      "enTitle": "Full-Time Magister 4th Season",
+      "enTitle": "Versatile Mage Season 4",
       "malid": 40005,
       "type": "ona",
       "releaseDate": "2020-05-27"
@@ -106244,7 +106246,7 @@
    },
    {
       "title": "Yao Jing Zhong Zhi Shou Ce",
-      "enTitle": "Demon Spirit Seed Manual",
+      "enTitle": "Li Goblin Planting Manual",
       "malid": 41093,
       "type": "ona",
       "releaseDate": "2020-01-17"
@@ -114940,7 +114942,7 @@
       "title": "Xin Datou Er Zi He Xiao Tou Baba 5th Season",
       "malid": 43926,
       "type": "tv",
-      "releaseDate": "2018"
+      "releaseDate": "2018-02-05"
    },
    {
       "title": "Xin Datou Er Zi He Xiao Tou Baba 6th Season",
@@ -116181,7 +116183,7 @@
       "releaseDate": "2002-09-01"
    },
    {
-      "title": "Qin Han Ying Xiong Zhuan",
+      "title": "Qin Han Yingxiong Zhuan",
       "malid": 44179,
       "type": "tv",
       "releaseDate": "2011-01-12"
@@ -121514,7 +121516,7 @@
       "title": "Wuzi Shuo",
       "malid": 45467,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2005"
    },
    {
       "title": "Yule Shuangxiang Pao",
@@ -130899,7 +130901,7 @@
       "enTitle": "Animal Chorus",
       "malid": 47703,
       "type": "tv",
-      "releaseDate": "2016"
+      "releaseDate": "2018-09-28"
    },
    {
       "title": "Caoben Jiazu",
@@ -132637,6 +132639,12 @@
       "malid": 48054,
       "type": "ona",
       "releaseDate": "2020"
+   },
+   {
+      "title": "Wo Shi Wangzhe",
+      "malid": 48055,
+      "type": "ona",
+      "releaseDate": "2020-07-11"
    },
    {
       "title": "Wo Shi Wangzhe",
@@ -135580,7 +135588,7 @@
    },
    {
       "title": "Quanzhi Fashi V",
-      "enTitle": "Full-Time Magister 5th Season",
+      "enTitle": "Versatile Mage Season 5",
       "malid": 48941,
       "type": "ona",
       "releaseDate": "2021-07-28"
@@ -137323,7 +137331,7 @@
    },
    {
       "title": "Quanzhi Fashi VI",
-      "enTitle": "Full-Time Magister 6th Season",
+      "enTitle": "Versatile Mage Season 6",
       "malid": 49572,
       "type": "ona",
       "releaseDate": "2023-06-02"
@@ -137626,7 +137634,7 @@
    },
    {
       "title": "Doupo Cangqiong: San Nian Zhi Yue",
-      "enTitle": "Battle Through the Heavens: Three Year Agreement",
+      "enTitle": "Fights Break Sphere Special 3: Three Years of Pledge",
       "malid": 49701,
       "type": "ona",
       "releaseDate": "2021-10-31"
@@ -139354,7 +139362,7 @@
       "title": "Shanhe Jian Xin Xiao Juchang",
       "malid": 50217,
       "type": "ona",
-      "releaseDate": "2021"
+      "releaseDate": "2021-02-08"
    },
    {
       "title": "Makafushigi",
@@ -141602,7 +141610,7 @@
    },
    {
       "title": "Doupo Cangqiong: Yuanqi",
-      "enTitle": "Fights Break Sphere: Origin",
+      "enTitle": "Fights Break Sphere Special 4: Origin",
       "malid": 51038,
       "type": "ona",
       "releaseDate": "2022-07-17"
@@ -144623,7 +144631,7 @@
    {
       "title": "Xin Weiqi Shaonian",
       "malid": 51862,
-      "type": "ona",
+      "type": "tv",
       "releaseDate": "2022-06-01"
    },
    {
@@ -153421,6 +153429,12 @@
       "releaseDate": "2023-01-17"
    },
    {
+      "title": "Wo Shi Xuexiao Weiyi de Renlei",
+      "malid": 54224,
+      "type": "ona",
+      "releaseDate": "2023-01-17"
+   },
+   {
       "title": "Inu ni Nattara Suki na Hito ni Hirowareta. Specials",
       "enTitle": "My Life as Inukai-san’s Dog. OVA",
       "malid": 54225,
@@ -155837,7 +155851,7 @@
    },
    {
       "title": "Shanhai Jihui",
-      "enTitle": "Mountain and Sea Organization",
+      "enTitle": "M\u0026S Organization",
       "malid": 54895,
       "type": "ona",
       "releaseDate": "2023-04-13"
@@ -183473,7 +183487,7 @@
    },
    {
       "title": "Xiao Xian Zhiyao",
-      "enTitle": "Little Fairy Yao",
+      "enTitle": "The Little Immortal's Jade",
       "malid": 61496,
       "type": "ona",
       "releaseDate": "2025-04-21"
@@ -188455,7 +188469,7 @@
       "releaseDate": "2026"
    },
    {
-      "title": "Xingchen Bian 7th Season",
+      "title": "Xingchen Bian: Zuizhong Ji",
       "enTitle": "Stellar Transformation 7th Season",
       "malid": 62718,
       "type": "ona",
@@ -188463,7 +188477,7 @@
    },
    {
       "title": "Quanzhi Fashi VII",
-      "enTitle": "Full-Time Magister 7th Season",
+      "enTitle": "Versatile Mage Season 7",
       "malid": 62719,
       "type": "ona",
       "releaseDate": "2026-05-13"
@@ -188954,7 +188968,7 @@
       "title": "Isshiki-san wa Koi wo Shiritai.",
       "malid": 62808,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Kasukana Yuuhi",
@@ -189167,7 +189181,7 @@
       "enTitle": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
       "malid": 62876,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-05"
    },
    {
       "title": "Tomedo Naki Hakujou",
@@ -191499,7 +191513,7 @@
       "title": "Sora wa Akai Kawa no Hotori",
       "malid": 63489,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "Doko? Doko?",
@@ -191617,8 +191631,8 @@
    {
       "title": "Perfect Addiction",
       "malid": 63514,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2026-07"
    },
    {
       "title": "Todo no Tsumari",
@@ -192314,7 +192328,7 @@
       "enTitle": "Hana-Kimi Season 2",
       "malid": 63780,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Primadonna",
@@ -192701,6 +192715,12 @@
       "malid": 63947,
       "type": "ova",
       "releaseDate": "2019"
+   },
+   {
+      "title": "Mofumofu Man",
+      "malid": 63953,
+      "type": "ona",
+      "releaseDate": "2025-04-10"
    },
    {
       "title": "Black Channel",
@@ -193209,8 +193229,8 @@
       "title": "Boku no Hero Academia: I Am a Hero Too",
       "enTitle": "My Hero Academia: I Am a Hero Too",
       "malid": 64107,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "ona",
+      "releaseDate": "2026-08-03"
    },
    {
       "title": "I",
@@ -193374,6 +193394,12 @@
       "releaseDate": "2026-05-20"
    },
    {
+      "title": "Kyouiku Eigamatsuri Jushou Anime Series",
+      "malid": 64186,
+      "type": "ova",
+      "releaseDate": "1989"
+   },
+   {
       "title": "Otoko to Christmas Tree",
       "malid": 64187,
       "type": "movie",
@@ -193390,5 +193416,148 @@
       "malid": 64193,
       "type": "movie",
       "releaseDate": "1947"
+   },
+   {
+      "title": "Osaru Sankichi: Tatakau Sensuikan",
+      "malid": 64200,
+      "type": "movie",
+      "releaseDate": "1943-07-01"
+   },
+   {
+      "title": "Mabo no Rakkasan Butai",
+      "malid": 64201,
+      "type": "movie",
+      "releaseDate": "1943-07-01"
+   },
+   {
+      "title": "Shounen to Gundam",
+      "enTitle": "A Boy with Gundam",
+      "malid": 64205,
+      "type": "ona",
+      "releaseDate": "2026-05-15"
+   },
+   {
+      "title": "Gigant",
+      "malid": 64213,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Yume Miru, Anime: On-chan Season 2",
+      "malid": 64216,
+      "type": "tv",
+      "releaseDate": "2010-11-09"
+   },
+   {
+      "title": "Chao Shen Xueyuan 2nd Season: Ju Xia Hao",
+      "enTitle": "Transcend the Gods 2nd Season",
+      "malid": 64229,
+      "type": "ona",
+      "releaseDate": "2014-06-06"
+   },
+   {
+      "title": "Kawaisouni! Theater",
+      "malid": 64230,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Omocha Bako Series: Tokkyuu Kantai",
+      "malid": 64231,
+      "type": "movie",
+      "releaseDate": "1934-04-22"
+   },
+   {
+      "title": "Omae, Tanuki ni Naranee ka?",
+      "malid": 64235,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Okashi na Tsuitachi",
+      "enTitle": "Once Upon a Time",
+      "malid": 64236,
+      "type": "movie",
+      "releaseDate": "1970-03-15"
+   },
+   {
+      "title": "Tarou no Tanjou",
+      "malid": 64238,
+      "type": "movie",
+      "releaseDate": "1981"
+   },
+   {
+      "title": "Nestlé CMs",
+      "malid": 64244,
+      "type": "cm",
+      "releaseDate": "2015-06-11"
+   },
+   {
+      "title": "Rakuraku Fukuyaku Jelly: Oshaberi na Ningen no Tame ni",
+      "malid": 64245,
+      "type": "cm",
+      "releaseDate": "2022-05-17"
+   },
+   {
+      "title": "Numb Numb feat. Hatsune Miku, Kasane Teto",
+      "malid": 64248,
+      "type": "music",
+      "releaseDate": "2026-05-20"
+   },
+   {
+      "title": "Hoero Bunbun (TV Special)",
+      "malid": 64249,
+      "type": "tv_special",
+      "releaseDate": "1980-04-02"
+   },
+   {
+      "title": "Deco x Deco The Animation",
+      "malid": 64250,
+      "type": "ova",
+      "releaseDate": "2026-07-31"
+   },
+   {
+      "title": "Mao Zhi Ming 2nd Season: Xiao Juchang",
+      "enTitle": "The Cat's Tea 2 Small Theater",
+      "malid": 64251,
+      "type": "ona",
+      "releaseDate": "2023-04-12"
+   },
+   {
+      "title": "Gekkakoku Kiiden",
+      "malid": 64253,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hyouken no Majutsushi ga Sekai wo Suberu II",
+      "enTitle": "The Iceblade Sorcerer Shall Rule the World II",
+      "malid": 64254,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Bite (2024)",
+      "malid": 64262,
+      "type": "music",
+      "releaseDate": "2024-03-15"
+   },
+   {
+      "title": "Expressions",
+      "malid": 64265,
+      "type": "music",
+      "releaseDate": "2023-05-20"
+   },
+   {
+      "title": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "malid": 64266,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tokyo Night Dreaming feat. No Rome",
+      "malid": 64269,
+      "type": "music",
+      "releaseDate": "2024-11-22"
    }
 ]
