@@ -27575,6 +27575,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 34300
+      title: Quanzhi Fashi
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 34332
       title: Hulaing Babies
       type: tv
@@ -29405,6 +29414,15 @@ AnimeMap:
       type: tv
       tvdbid: 353219
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36318
+      title: Quanzhi Fashi II
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -31878,6 +31896,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 38528
+      title: Quanzhi Fashi III
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 38529
       title: Rifle Is Beautiful
       type: tv
@@ -33179,6 +33206,15 @@ AnimeMap:
       type: tv
       tvdbid: 359095
       tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 40005
+      title: Quanzhi Fashi IV
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 4
       start: 0
       useMapping: false
       animeMapping: []
@@ -36823,6 +36859,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 48941
+      title: Quanzhi Fashi V
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 5
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 48981
       title: Mahou Shoujo Magical Destroyers
       type: tv
@@ -37278,6 +37323,15 @@ AnimeMap:
       type: tv
       tvdbid: 408348
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 49572
+      title: Quanzhi Fashi VI
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 6
       start: 0
       useMapping: false
       animeMapping: []
@@ -47163,6 +47217,15 @@ AnimeMap:
       type: tv
       tvdbid: 469143
       tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62719
+      title: Quanzhi Fashi VII
+      type: ona
+      tvdbid: 328670
+      tvdbseason: 7
       start: 0
       useMapping: false
       animeMapping: []
