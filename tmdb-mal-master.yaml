@@ -423,7 +423,7 @@ animeMovies:
       tmdbid: 0
       malid: 7496
 
-    - mainTitle: Maabou no Shounen Koukuu Tsuwamono
+    - mainTitle: Mabo no Shounen Koukuu Tsuwamono
       tmdbid: 0
       malid: 7500
 
@@ -719,7 +719,7 @@ animeMovies:
       tmdbid: 94684
       malid: 10417
 
-    - mainTitle: Hoero! Bun Bun (Movie)
+    - mainTitle: Hoero Bunbun (Movie)
       tmdbid: 522511
       malid: 10509
 
@@ -2179,10 +2179,6 @@ animeMovies:
       tmdbid: 0
       malid: 31511
 
-    - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
-      tmdbid: 0
-      malid: 31758
-
     - mainTitle: Fantasy
       tmdbid: 0
       malid: 31831
@@ -2586,10 +2582,6 @@ animeMovies:
     - mainTitle: Rhythm
       tmdbid: 0
       malid: 35407
-
-    - mainTitle: Futatsu no Sekai
-      tmdbid: 0
-      malid: 35408
 
     - mainTitle: Yuuki Yuuna wa Yuushabu Shozoku 2
       tmdbid: 0
@@ -7690,4 +7682,28 @@ animeMovies:
     - mainTitle: Kitsune to Hiyoko
       tmdbid: 0
       malid: 64193
+
+    - mainTitle: 'Osaru Sankichi: Tatakau Sensuikan'
+      tmdbid: 0
+      malid: 64200
+
+    - mainTitle: Mabo no Rakkasan Butai
+      tmdbid: 0
+      malid: 64201
+
+    - mainTitle: Gigant
+      tmdbid: 0
+      malid: 64213
+
+    - mainTitle: 'Omocha Bako Series: Tokkyuu Kantai'
+      tmdbid: 0
+      malid: 64231
+
+    - mainTitle: Tarou no Tanjou
+      tmdbid: 0
+      malid: 64238
+
+    - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
+      tmdbid: 0
+      malid: 64266
 
