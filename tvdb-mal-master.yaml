@@ -251995,9 +251995,9 @@ AnimeMap:
     - malid: 60636
       title: 'Bleach: Sennen Kessen-hen - Kashin-tan'
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 74796
+      tvdbseason: 17
+      start: 41
       useMapping: false
       animeMapping: []
 
@@ -266122,8 +266122,8 @@ AnimeMap:
     - malid: 63100
       title: Tetsunabe no Jan!
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 471657
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -269290,8 +269290,8 @@ AnimeMap:
     - malid: 63780
       title: Hanazakari no Kimitachi e 2nd Season
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 450072
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -269398,8 +269398,8 @@ AnimeMap:
     - malid: 63802
       title: Mebius Dust
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 475980
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -270559,9 +270559,9 @@ AnimeMap:
     - malid: 64107
       title: 'Boku no Hero Academia: I Am a Hero Too'
       type: ona
-      tvdbid: 0
+      tvdbid: 305074
       tvdbseason: 0
-      start: 0
+      start: 24
       useMapping: false
       animeMapping: []
 
