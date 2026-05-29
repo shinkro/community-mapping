@@ -45766,6 +45766,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60636
+      title: 'Bleach: Sennen Kessen-hen - Kashin-tan'
+      type: tv
+      tvdbid: 74796
+      tvdbseason: 17
+      start: 41
+      useMapping: false
+      animeMapping: []
+
     - malid: 60637
       title: 'Mahou Shoujo Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance'
       type: tv
@@ -47464,6 +47473,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63100
+      title: Tetsunabe no Jan!
+      type: tv
+      tvdbid: 471657
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63130
       title: 'Boku no Hero Academia: More'
       type: tv_special
@@ -47698,6 +47716,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63780
+      title: Hanazakari no Kimitachi e 2nd Season
+      type: tv
+      tvdbid: 450072
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63802
+      title: Mebius Dust
+      type: tv
+      tvdbid: 475980
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63817
       title: 'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season'
       type: tv
@@ -47731,5 +47767,14 @@ AnimeMap:
       tvdbid: 476227
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64107
+      title: 'Boku no Hero Academia: I Am a Hero Too'
+      type: ona
+      tvdbid: 305074
+      tvdbseason: 0
+      start: 24
       useMapping: false
       animeMapping: []
