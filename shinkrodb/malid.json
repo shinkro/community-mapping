@@ -77574,6 +77574,13 @@
       "releaseDate": "2015-12-31"
    },
    {
+      "title": "Tong Zhi Zhe",
+      "enTitle": "Tong Zhi Zhe",
+      "malid": 33702,
+      "type": "ona",
+      "releaseDate": "2015-12-31"
+   },
+   {
       "title": "Chao Shen Youxi",
       "malid": 33703,
       "type": "ona",
@@ -132647,12 +132654,6 @@
       "releaseDate": "2020-07-11"
    },
    {
-      "title": "Wo Shi Wangzhe",
-      "malid": 48055,
-      "type": "ona",
-      "releaseDate": "2020-07-11"
-   },
-   {
       "title": "Xiu Rong Zhen",
       "enTitle": "The Town",
       "malid": 48056,
@@ -153421,12 +153422,6 @@
       "malid": 54218,
       "type": "special",
       "releaseDate": "2022-12-23"
-   },
-   {
-      "title": "Wo Shi Xuexiao Weiyi de Renlei",
-      "malid": 54224,
-      "type": "ona",
-      "releaseDate": "2023-01-17"
    },
    {
       "title": "Wo Shi Xuexiao Weiyi de Renlei",
@@ -179545,7 +179540,7 @@
       "enTitle": "Magilumiere Magical Girls Inc. Season 2",
       "malid": 60552,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-05"
    },
    {
       "title": "Nonohara Yuzuka no Himitsu no Haishin",
@@ -182684,7 +182679,7 @@
       "enTitle": "Though I Am an Inept Villainess",
       "malid": 61240,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-12"
    },
    {
       "title": "Shaka Shaka ni Shite Ageru♪ feat. Hatsune Miku",
@@ -183452,7 +183447,7 @@
       "enTitle": "Jaadugar: A Witch in Mongolia",
       "malid": 61483,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Jigu-ui Juin-eun Goyangi-da",
@@ -184324,7 +184319,7 @@
       "enTitle": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!",
       "malid": 61686,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-01"
    },
    {
       "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
@@ -185837,7 +185832,7 @@
       "enTitle": "The Frontier Lord Begins with Zero Subjects",
       "malid": 62078,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-10"
    },
    {
       "title": "Cyborg 009: Nemesis",
@@ -186387,7 +186382,7 @@
       "title": "Zhan Shen: Fanchen Shenyu II",
       "malid": 62234,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-06-25"
    },
    {
       "title": "Shitsuke How To",
@@ -186413,7 +186408,7 @@
       "enTitle": "Blades of the Guardians 2nd Season",
       "malid": 62241,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-06-11"
    },
    {
       "title": "Gui Chuideng: Nanhai Gui Xu",
@@ -186615,6 +186610,7 @@
    },
    {
       "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+      "enTitle": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "malid": 62289,
       "type": "tv",
       "releaseDate": "2026-07"
@@ -187732,6 +187728,7 @@
    },
    {
       "title": "Yonghansonyeo",
+      "enTitle": "Dragon Girl Problem",
       "malid": 62540,
       "type": "ona",
       "releaseDate": "2025-10-03"
@@ -188090,7 +188087,7 @@
       "enTitle": "I Became a Legend After My 10 Year-Long Last Stand.",
       "malid": 62617,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Tian Xiang",
@@ -188517,7 +188514,7 @@
       "releaseDate": "2026-05-01"
    },
    {
-      "title": "Zhan Shen Movie: Cang Nan Zhi Shang",
+      "title": "Zhan Shen Movie: Cangnan Zhi Shang",
       "enTitle": "Slay the Gods Movie: The Dead of Cangnan",
       "malid": 62727,
       "type": "ona",
@@ -188669,7 +188666,7 @@
       "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "malid": 62753,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Spec!",
@@ -190320,7 +190317,7 @@
       "enTitle": "Fairy Princess Minky Momo (OVA)",
       "malid": 63167,
       "type": "ova",
-      "releaseDate": "2026"
+      "releaseDate": "2026-11-13"
    },
    {
       "title": "Fuka Boom",
@@ -190532,7 +190529,7 @@
       "title": "Historie",
       "malid": 63215,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Gelpiyo",
@@ -190896,7 +190893,7 @@
       "enTitle": "Tomb Raider King",
       "malid": 63316,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-09"
    },
    {
       "title": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
@@ -190930,7 +190927,7 @@
       "title": "Iwamoto-senpai no Suisen",
       "malid": 63324,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Zero Rise",
@@ -190963,7 +190960,7 @@
       "enTitle": "Does It Count If You Lose Your Innocence to an Android? Special",
       "malid": 63330,
       "type": "special",
-      "releaseDate": "2026-03-07"
+      "releaseDate": "2026-05-27"
    },
    {
       "title": "Uchuu Kishi Tekkaman Blade: Nagaki no Jyokoku",
@@ -192299,10 +192296,11 @@
       "releaseDate": "2021-12-08"
    },
    {
-      "title": "Maebashi Witches Movie",
+      "title": "Maebashi Witches: Majo Minarai no Emoemories",
+      "enTitle": "Maebashi Witches: Emoemories - Blooming Witches",
       "malid": 63772,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2026"
    },
    {
       "title": "PetitCure: Precure Fairies Season 3",
@@ -192527,9 +192525,10 @@
    },
    {
       "title": "Baki-dou Part 2",
+      "enTitle": "BAKI-DOU: The Invincible Samurai Part 2",
       "malid": 63833,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-06-18"
    },
    {
       "title": "Douwa Revenger: Petit",
@@ -192645,6 +192644,12 @@
       "malid": 63885,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Akane",
+      "malid": 63887,
+      "type": "music",
+      "releaseDate": "2026-04-02"
    },
    {
       "title": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
@@ -192972,7 +192977,7 @@
       "enTitle": "The Ribbon Hero",
       "malid": 64012,
       "type": "ona",
-      "releaseDate": "2026-08"
+      "releaseDate": "2026-08-08"
    },
    {
       "title": "Cha Cha Cha feat. G-Dragon",
@@ -193394,6 +193399,12 @@
       "releaseDate": "2026-05-20"
    },
    {
+      "title": "Ganbare Goshiki Sakura",
+      "malid": 64184,
+      "type": "movie",
+      "releaseDate": "1987"
+   },
+   {
       "title": "Kyouiku Eigamatsuri Jushou Anime Series",
       "malid": 64186,
       "type": "ova",
@@ -193447,6 +193458,13 @@
       "malid": 64216,
       "type": "tv",
       "releaseDate": "2010-11-09"
+   },
+   {
+      "title": "Nikenichi! Non Non Zenshou Kichi",
+      "enTitle": "Outpost: Off-Duty Tales",
+      "malid": 64217,
+      "type": "ona",
+      "releaseDate": "2026-05-22"
    },
    {
       "title": "Chao Shen Xueyuan 2nd Season: Ju Xia Hao",
@@ -193555,9 +193573,82 @@
       "releaseDate": ""
    },
    {
+      "title": "Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi",
+      "malid": 64267,
+      "type": "movie",
+      "releaseDate": "1991"
+   },
+   {
+      "title": "Chikyuu-gou SOS",
+      "malid": 64268,
+      "type": "movie",
+      "releaseDate": "1992"
+   },
+   {
       "title": "Tokyo Night Dreaming feat. No Rome",
       "malid": 64269,
       "type": "music",
       "releaseDate": "2024-11-22"
+   },
+   {
+      "title": "Airman ga Taosenai Team.Nekokan [Neko] Premium Version",
+      "malid": 64279,
+      "type": "cm",
+      "releaseDate": "2026-05-22"
+   },
+   {
+      "title": "Manual Complex",
+      "malid": 64280,
+      "type": "movie",
+      "releaseDate": "2024"
+   },
+   {
+      "title": "Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project",
+      "malid": 64281,
+      "type": "cm",
+      "releaseDate": "2026-03-02"
+   },
+   {
+      "title": "Dorohedoro Season 3",
+      "malid": 64290,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Sare Tsuma wa Ubawaretai",
+      "malid": 64291,
+      "type": "ova",
+      "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation",
+      "malid": 64292,
+      "type": "ova",
+      "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Muchuu no Tou",
+      "malid": 64297,
+      "type": "ova",
+      "releaseDate": "2026-05-29"
+   },
+   {
+      "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "malid": 64298,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hamehara: Sore Sekuhara desu!",
+      "malid": 64301,
+      "type": "ova",
+      "releaseDate": "2026-06-26"
+   },
+   {
+      "title": "Shinkirou",
+      "enTitle": "Mirage",
+      "malid": 64306,
+      "type": "music",
+      "releaseDate": "2026-05-30"
    }
 ]

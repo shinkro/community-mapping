@@ -47,10 +47,6 @@ animeMovies:
       tmdbid: 0
       malid: 2173
 
-    - mainTitle: Choujin Densetsu Urotsukidouji 2
-      tmdbid: 0
-      malid: 2360
-
     - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
       tmdbid: 0
       malid: 2393
@@ -247,10 +243,6 @@ animeMovies:
       tmdbid: 0
       malid: 5640
 
-    - mainTitle: 'Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!'
-      tmdbid: 0
-      malid: 5710
-
     - mainTitle: Oira no Yakyuu
       tmdbid: 0
       malid: 5826
@@ -262,14 +254,6 @@ animeMovies:
     - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 0
       malid: 6072
-
-    - mainTitle: 'Final Fantasy VII: Advent Children - Venice Film Festival Footage'
-      tmdbid: 0
-      malid: 6152
-
-    - mainTitle: 'Xi Yangyang Yu Hui Tailang: Niu Qi Chong Tian'
-      tmdbid: 0
-      malid: 6156
 
     - mainTitle: 'Kinnikuman II Sei: Second Generations'
       tmdbid: 0
@@ -326,10 +310,6 @@ animeMovies:
     - mainTitle: Da Nao Tiangong
       tmdbid: 0
       malid: 6855
-
-    - mainTitle: 'Enkinhou no Hako: Hakase no Sagashimono'
-      tmdbid: 0
-      malid: 6935
 
     - mainTitle: Aos
       tmdbid: 0
@@ -394,10 +374,6 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 0
       malid: 7330
-
-    - mainTitle: 'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito'
-      tmdbid: 0
-      malid: 7436
 
     - mainTitle: 'Karo to Piyobupt: Ouchi'
       tmdbid: 0
@@ -554,10 +530,6 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!'
       tmdbid: 0
       malid: 8366
-
-    - mainTitle: 'Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha'
-      tmdbid: 0
-      malid: 8367
 
     - mainTitle: 'Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku'
       tmdbid: 0
@@ -791,10 +763,6 @@ animeMovies:
       tmdbid: 0
       malid: 10820
 
-    - mainTitle: 'Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪'
-      tmdbid: 0
-      malid: 10821
-
     - mainTitle: Kowarekake no Orgel (Movie)
       tmdbid: 0
       malid: 10918
@@ -838,10 +806,6 @@ animeMovies:
     - mainTitle: Dwaeji-ui Wang
       tmdbid: 0
       malid: 12035
-
-    - mainTitle: 'Kinnikuman II Sei: Muscle Ninjin Soudatsu sen! Choujin Daisensou'
-      tmdbid: 0
-      malid: 12279
 
     - mainTitle: Tobacco to Hai
       tmdbid: 0
@@ -1403,10 +1367,6 @@ animeMovies:
       tmdbid: 0
       malid: 22791
 
-    - mainTitle: 'Kara no Kyoukai Movie: Mirai Fukuin - Manner Movie'
-      tmdbid: 0
-      malid: 22847
-
     - mainTitle: 'Obake no Q-Tarou: Susume! 1/100 Daisakusen'
       tmdbid: 0
       malid: 22991
@@ -1502,10 +1462,6 @@ animeMovies:
     - mainTitle: 'Kara no Kyoukai: Manner Movies'
       tmdbid: 0
       malid: 23697
-
-    - mainTitle: 'Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin'
-      tmdbid: 0
-      malid: 23831
 
     - mainTitle: 'Pokemon XY: Sora no Hahen'
       tmdbid: 0
@@ -1610,10 +1566,6 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Bokura wa Hero'
       tmdbid: 0
       malid: 27371
-
-    - mainTitle: Hitoribocchi
-      tmdbid: 0
-      malid: 27375
 
     - mainTitle: Tanuki-san Ooatari
       tmdbid: 0
@@ -2031,10 +1983,6 @@ animeMovies:
       tmdbid: 0
       malid: 30457
 
-    - mainTitle: Bara Bara Film
-      tmdbid: 0
-      malid: 30480
-
     - mainTitle: Ginga Tetsudou 999 for Planetarium
       tmdbid: 0
       malid: 30481
@@ -2114,10 +2062,6 @@ animeMovies:
     - mainTitle: Momotaros no Natsuyasumi
       tmdbid: 0
       malid: 31116
-
-    - mainTitle: 'Doraemon Movie 36: Shin Nobita no Nippon Tanjou'
-      tmdbid: 0
-      malid: 31201
 
     - mainTitle: 'Chibi Maruko-chan Movie: Italia kara Kita Shounen'
       tmdbid: 0
@@ -2230,10 +2174,6 @@ animeMovies:
     - mainTitle: Saga-ken wo Meguru Animation
       tmdbid: 0
       malid: 32397
-
-    - mainTitle: 'Love Live! The School Idol Movie: Gekijou Manner CMs'
-      tmdbid: 0
-      malid: 32476
 
     - mainTitle: 'Starry Tales: Seiza wa Toki wo Koete'
       tmdbid: 0
@@ -2390,10 +2330,6 @@ animeMovies:
     - mainTitle: Kiraware Mono no Rasu
       tmdbid: 0
       malid: 34114
-
-    - mainTitle: 'Kamisama Minarai: Himitsu no Cocotama Movie - Kiseki wo Okose♪ Tepple to Dokidoki Cocotama-kai'
-      tmdbid: 0
-      malid: 34198
 
     - mainTitle: Kuni-chan no Ikka Ranran
       tmdbid: 0
@@ -2659,17 +2595,9 @@ animeMovies:
       tmdbid: 0
       malid: 36234
 
-    - mainTitle: 'Ginga Eiyuu Densetsu: Die Neue These - Seiran 1'
-      tmdbid: 0
-      malid: 36369
-
     - mainTitle: Katsugeki/Touken Ranbu Movie
       tmdbid: 0
       malid: 36419
-
-    - mainTitle: 'Kidou Senshi Gundam: Twilight Axis - Akaki Zanei'
-      tmdbid: 0
-      malid: 36436
 
     - mainTitle: 'Overlord Movie: Ple Ple Pleiades'
       tmdbid: 0
@@ -2746,14 +2674,6 @@ animeMovies:
     - mainTitle: Sanuki Eiga-sai Opening Eizou
       tmdbid: 0
       malid: 37853
-
-    - mainTitle: 'Free! Movie 1: Timeless Medley - Kizuna - Character Butai Aisatsu'
-      tmdbid: 0
-      malid: 37858
-
-    - mainTitle: 'Free! Movie 2: Timeless Medley - Yakusoku: Character Butai Aisatsu'
-      tmdbid: 0
-      malid: 37859
 
     - mainTitle: 'Free! Take Your Marks: Character Butai Aisatsu'
       tmdbid: 0
@@ -2975,10 +2895,6 @@ animeMovies:
       tmdbid: 0
       malid: 39731
 
-    - mainTitle: Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow - Manner Movie
-      tmdbid: 0
-      malid: 39921
-
     - mainTitle: 'Doraemon Movie 40: Nobita no Shin Kyouryuu'
       tmdbid: 0
       malid: 40044
@@ -3103,10 +3019,6 @@ animeMovies:
       tmdbid: 0
       malid: 41489
 
-    - mainTitle: Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna - Manner Movie
-      tmdbid: 0
-      malid: 41590
-
     - mainTitle: 'Soukyuu no Fafner: Dead Aggressor - The Beyond Part 3'
       tmdbid: 0
       malid: 41714
@@ -3202,10 +3114,6 @@ animeMovies:
     - mainTitle: Honnouji no Hen
       tmdbid: 0
       malid: 42399
-
-    - mainTitle: 'Healin'' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Daihenshin!!'
-      tmdbid: 0
-      malid: 42422
 
     - mainTitle: Wu Sheng Guan Gong
       tmdbid: 0
@@ -4939,10 +4847,6 @@ animeMovies:
       tmdbid: 0
       malid: 46588
 
-    - mainTitle: Tropical-Rouge! Precure Petit Tobikome! Collaboration ♡ Dance Party!
-      tmdbid: 0
-      malid: 46650
-
     - mainTitle: 'Choegangjeonsa Miniteuggongdae: Yeong-ung-ui Tansaeng'
       tmdbid: 0
       malid: 46848
@@ -5114,10 +5018,6 @@ animeMovies:
     - mainTitle: Gang to Odoriko
       tmdbid: 0
       malid: 49257
-
-    - mainTitle: 'Tokyo 7th Sisters: Bokura wa Aozora ni Naru: Character Butai Aisatsu Eizou'
-      tmdbid: 0
-      malid: 49341
 
     - mainTitle: 'The Fullmoon Tradition: Indra Pilot Film'
       tmdbid: 0
@@ -5635,14 +5535,6 @@ animeMovies:
       tmdbid: 0
       malid: 53391
 
-    - mainTitle: Haru ni Nattara Koguma no Yugo Monogatari (Movie)
-      tmdbid: 0
-      malid: 53491
-
-    - mainTitle: 'Aikatsu! 10th Story: Mirai e no Starway (2023)'
-      tmdbid: 0
-      malid: 53499
-
     - mainTitle: Meitantei Conan Manner Movie
       tmdbid: 0
       malid: 53517
@@ -5726,10 +5618,6 @@ animeMovies:
     - mainTitle: One Piece The Planetarium
       tmdbid: 0
       malid: 53880
-
-    - mainTitle: 'Sumikko Gurashi Movie 3: Tsugihagi Koujou no Fushigi na Ko'
-      tmdbid: 0
-      malid: 53936
 
     - mainTitle: 'Space Dreamers: Uchuu Kyoudai Nanba Mutta ga Yattekita!'
       tmdbid: 0
@@ -6346,10 +6234,6 @@ animeMovies:
     - mainTitle: 'Sinbi Apartment Movie: Chawondokkaebiwa 7 Gaeui Segye'
       tmdbid: 0
       malid: 56291
-
-    - mainTitle: 'Hello Carbot: Susanghan Masuldanui Bimil'
-      tmdbid: 0
-      malid: 56312
 
     - mainTitle: Fei Xiang Yueqiu
       tmdbid: 0
@@ -7435,10 +7319,6 @@ animeMovies:
       tmdbid: 0
       malid: 62312
 
-    - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou'
-      tmdbid: 0
-      malid: 62329
-
     - mainTitle: Gogo 2-ji Onshitsu nite
       tmdbid: 0
       malid: 62350
@@ -7518,10 +7398,6 @@ animeMovies:
     - mainTitle: Tanglang
       tmdbid: 0
       malid: 62575
-
-    - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt: Chiisana Chousensha no Kiseki'
-      tmdbid: 0
-      malid: 62805
 
     - mainTitle: Rest (Movie)
       tmdbid: 0
@@ -7611,7 +7487,7 @@ animeMovies:
       tmdbid: 0
       malid: 63739
 
-    - mainTitle: Maebashi Witches Movie
+    - mainTitle: 'Maebashi Witches: Majo Minarai no Emoemories'
       tmdbid: 0
       malid: 63772
 
@@ -7675,6 +7551,10 @@ animeMovies:
       tmdbid: 0
       malid: 64179
 
+    - mainTitle: Ganbare Goshiki Sakura
+      tmdbid: 0
+      malid: 64184
+
     - mainTitle: Otoko to Christmas Tree
       tmdbid: 0
       malid: 64187
@@ -7706,4 +7586,16 @@ animeMovies:
     - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
       tmdbid: 0
       malid: 64266
+
+    - mainTitle: 'Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi'
+      tmdbid: 0
+      malid: 64267
+
+    - mainTitle: Chikyuu-gou SOS
+      tmdbid: 0
+      malid: 64268
+
+    - mainTitle: Manual Complex
+      tmdbid: 0
+      malid: 64280
 

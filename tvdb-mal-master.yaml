@@ -108079,6 +108079,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 33702
+      title: Tong Zhi Zhe
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 33703
       title: Chao Shen Youxi
       type: ona
@@ -185881,15 +185890,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 48055
-      title: Wo Shi Wangzhe
-      type: ona
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 48056
       title: Xiu Rong Zhen
       type: movie
@@ -214700,15 +214700,6 @@ AnimeMap:
     - malid: 54218
       title: 'Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime: Onsen'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 54224
-      title: Wo Shi Xuexiao Weiyi de Renlei
-      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -263960,7 +263951,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62727
-      title: 'Zhan Shen Movie: Cang Nan Zhi Shang'
+      title: 'Zhan Shen Movie: Cangnan Zhi Shang'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -269252,7 +269243,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63772
-      title: Maebashi Witches Movie
+      title: 'Maebashi Witches: Majo Minarai no Emoemories'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -269731,6 +269722,15 @@ AnimeMap:
     - malid: 63885
       title: The Fable 2nd Season
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63887
+      title: Akane
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270790,6 +270790,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64184
+      title: Ganbare Goshiki Sakura
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64186
       title: Kyouiku Eigamatsuri Jushou Anime Series
       type: ova
@@ -270865,6 +270874,15 @@ AnimeMap:
     - malid: 64216
       title: 'Yume Miru, Anime: On-chan Season 2'
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64217
+      title: Nikenichi! Non Non Zenshou Kichi
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271024,8 +271042,116 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64267
+      title: 'Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64268
+      title: Chikyuu-gou SOS
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64269
       title: Tokyo Night Dreaming feat. No Rome
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64279
+      title: Airman ga Taosenai Team.Nekokan [Neko] Premium Version
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64280
+      title: Manual Complex
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64281
+      title: 'Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project'
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64290
+      title: Dorohedoro Season 3
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64291
+      title: Sare Tsuma wa Ubawaretai
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64292
+      title: 'Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64297
+      title: Muchuu no Tou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64298
+      title: Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64301
+      title: 'Hamehara: Sore Sekuhara desu!'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64306
+      title: Shinkirou
       type: music
       tvdbid: 0
       tvdbseason: 0
