@@ -4394,7 +4394,7 @@
       "enTitle": "Descendants of Darkness",
       "malid": 553,
       "anidbid": 750,
-      "tvdbid": 78855,
+      "tvdbid": 82830,
       "type": "tv",
       "releaseDate": "2000-10-02"
    },
@@ -5729,7 +5729,7 @@
       "releaseDate": "2005-11-23"
    },
    {
-      "title": "Haru wo Daite Ita",
+      "title": "Haru wo Daiteita",
       "enTitle": "Embracing Love",
       "malid": 747,
       "anidbid": 2600,
@@ -20539,6 +20539,7 @@
    },
    {
       "title": "Igano Kabamaru",
+      "enTitle": "Kabamaru the Ninja",
       "malid": 2762,
       "anidbid": 2007,
       "tvdbid": 174721,
@@ -23351,7 +23352,7 @@
    },
    {
       "title": "Gunslinger Girl: Il Teatrino",
-      "enTitle": "Gunslinger Girl: II Teatrino",
+      "enTitle": "Gunslinger Girl: Il Teatrino",
       "malid": 3231,
       "anidbid": 5418,
       "tvdbid": 78812,
@@ -34829,7 +34830,7 @@
       "releaseDate": "1992-11-26"
    },
    {
-      "title": "Antique Heart",
+      "title": "Gakuen Benriya Antique Heart",
       "malid": 5926,
       "anidbid": 2648,
       "type": "ova",
@@ -35316,6 +35317,7 @@
    },
    {
       "title": "Duel Masters Movie 2: Lunatic God Saga",
+      "enTitle": "Duel Masters: Lunatic God Saga",
       "malid": 6062,
       "anidbid": 7167,
       "type": "movie",
@@ -44690,6 +44692,7 @@
    },
    {
       "title": "Duel Masters Movie 3: Honoo no Kizuna XX",
+      "enTitle": "Duel Masters: Blazing Bonds XX",
       "malid": 9282,
       "anidbid": 7667,
       "type": "movie",
@@ -48689,6 +48692,7 @@
    },
    {
       "title": "Phantom Yuusha Densetsu",
+      "enTitle": "Legend of the Phantom Heroes",
       "malid": 10466,
       "anidbid": 5823,
       "type": "ova",
@@ -69569,7 +69573,7 @@
    {
       "title": "Subarashii Sekai Ryokou: Alaska no Tabi \"Daigo Hyougaki\"",
       "malid": 23911,
-      "type": "special",
+      "type": "tv_special",
       "releaseDate": "1967-01-29"
    },
    {
@@ -82257,10 +82261,11 @@
    },
    {
       "title": "Korekarasaki, Nando Anata to.",
+      "enTitle": "How Much Longer Will I Have You With Me?",
       "malid": 31252,
       "anidbid": 11377,
       "type": "music",
-      "releaseDate": "2015-07-15"
+      "releaseDate": "2015-06-23"
    },
    {
       "title": "Hakusai Anime Bangai-hen",
@@ -86359,7 +86364,7 @@
    {
       "title": "Subarashii Sekai Ryokou: New York Tabi \"Computopia Seireki Nisennen no Monogatari\"",
       "malid": 32629,
-      "type": "special",
+      "type": "tv_special",
       "releaseDate": "1968-01-07"
    },
    {
@@ -113928,9 +113933,9 @@
       "releaseDate": "2015-03-25"
    },
    {
-      "title": "Orushipe Suopu",
+      "title": "Oruspe Suwop",
       "malid": 39091,
-      "type": "special",
+      "type": "movie",
       "releaseDate": "2012"
    },
    {
@@ -149491,12 +149496,6 @@
       "releaseDate": "2020-07-11"
    },
    {
-      "title": "Wo Shi Wangzhe",
-      "malid": 48055,
-      "type": "ona",
-      "releaseDate": "2020-07-11"
-   },
-   {
       "title": "Xiu Rong Zhen",
       "enTitle": "The Town",
       "malid": 48056,
@@ -153487,7 +153486,7 @@
       "anidbid": 16392,
       "tvdbid": 315500,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "86 Special Edition: Senya ni Akaku Hinageshi no Saku",
@@ -165975,7 +165974,7 @@
       "releaseDate": "2022-06-08"
    },
    {
-      "title": "Shi Wai",
+      "title": "Sai Ngoi",
       "enTitle": "Another World",
       "malid": 52841,
       "type": "movie",
@@ -170751,7 +170750,7 @@
       "malid": 54000,
       "anidbid": 17796,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "Love My Friends",
@@ -171755,12 +171754,6 @@
       "malid": 54218,
       "type": "special",
       "releaseDate": "2022-12-23"
-   },
-   {
-      "title": "Wo Shi Xuexiao Weiyi de Renlei",
-      "malid": 54224,
-      "type": "ona",
-      "releaseDate": "2023-01-17"
    },
    {
       "title": "Wo Shi Xuexiao Weiyi de Renlei",
@@ -174531,7 +174524,7 @@
    },
    {
       "title": "Arknights x Luo Xiaohei Zhanji: Haojiu Bujian",
-      "enTitle": "Arknights x The Legend of Luo Xiaohei: Long Time No See",
+      "enTitle": "Arknights x The Legend of Luo Xiaohei: It's Been A While",
       "malid": 54944,
       "type": "pv",
       "releaseDate": "2022-09-09"
@@ -174650,6 +174643,7 @@
    },
    {
       "title": "Akuyaku Mahou Shoujo Midoro",
+      "enTitle": "Magical Girl Villain Midoro",
       "malid": 54996,
       "type": "ona",
       "releaseDate": "2018-05-12"
@@ -181691,6 +181685,7 @@
    },
    {
       "title": "Beyblade X",
+      "enTitle": "Beyblade X",
       "malid": 56566,
       "anidbid": 18181,
       "tvdbid": 435020,
@@ -189021,7 +189016,7 @@
       "enTitle": "Eri, the Cow",
       "malid": 58205,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2026-05-21"
    },
    {
       "title": "Nekokaburi",
@@ -190590,7 +190585,7 @@
    },
    {
       "title": "Baki-dou",
-      "enTitle": "BAKI-DOU: The Invincible Samurai",
+      "enTitle": "Baki-dou: The Invincible Samurai",
       "malid": 58573,
       "anidbid": 18579,
       "type": "ona",
@@ -193236,7 +193231,7 @@
       "releaseDate": "2023-02-16"
    },
    {
-      "title": "Grotesque",
+      "title": "Grotesqqque",
       "malid": 59217,
       "anidbid": 18734,
       "type": "movie",
@@ -195477,6 +195472,7 @@
    },
    {
       "title": "Elf ni Inmon wo Tsukeru Hon The Animation",
+      "enTitle": "A Book on Marking Elves with Lewd Symbols",
       "malid": 59706,
       "anidbid": 18843,
       "type": "ova",
@@ -199104,7 +199100,7 @@
       "malid": 60522,
       "anidbid": 19053,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Tsuihousha Shokudou e Youkoso!",
@@ -199288,7 +199284,7 @@
       "malid": 60552,
       "anidbid": 19063,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-05"
    },
    {
       "title": "Nonohara Yuzuka no Himitsu no Haishin",
@@ -201725,7 +201721,7 @@
       "anidbid": 19172,
       "tvdbid": 460501,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Akuyaku Reijou Tensei Ojisan Mini",
@@ -202605,7 +202601,7 @@
       "anidbid": 19226,
       "tvdbid": 461544,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-12"
    },
    {
       "title": "Shaka Shaka ni Shite Ageru♪ feat. Hatsune Miku",
@@ -203428,7 +203424,7 @@
       "anidbid": 19290,
       "tvdbid": 462561,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Jigu-ui Juin-eun Goyangi-da",
@@ -204150,7 +204146,7 @@
       "enTitle": "Above Myriads",
       "malid": 61642,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-06-09"
    },
    {
       "title": "Tianzi Chuanqi: Ji Fa Pian",
@@ -204340,7 +204336,7 @@
       "anidbid": 19327,
       "tvdbid": 463578,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-01"
    },
    {
       "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
@@ -204745,6 +204741,7 @@
    },
    {
       "title": "Oni no Hanayome",
+      "enTitle": "The Ogre's Bride",
       "malid": 61814,
       "anidbid": 19378,
       "tvdbid": 464625,
@@ -205732,7 +205729,7 @@
       "anidbid": 19462,
       "tvdbid": 465707,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Ghost Avenue",
@@ -205957,7 +205954,7 @@
       "anidbid": 19479,
       "tvdbid": 465973,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-06-03"
    },
    {
       "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
@@ -205966,7 +205963,7 @@
       "anidbid": 19484,
       "tvdbid": 465987,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-10"
    },
    {
       "title": "Cyborg 009: Nemesis",
@@ -205981,7 +205978,7 @@
       "anidbid": 19485,
       "tvdbid": 465988,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-06-30"
    },
    {
       "title": "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai 2nd Season",
@@ -206386,7 +206383,7 @@
       "releaseDate": "2025-07-20"
    },
    {
-      "title": "Akuyaku Reijou no Tsuihougo!: Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi",
+      "title": "Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi",
       "malid": 62187,
       "anidbid": 19519,
       "type": "unknown",
@@ -206544,7 +206541,7 @@
       "title": "Zhan Shen: Fanchen Shenyu II",
       "malid": 62234,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-06-25"
    },
    {
       "title": "Shitsuke How To",
@@ -206571,7 +206568,7 @@
       "enTitle": "Blades of the Guardians 2nd Season",
       "malid": 62241,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-06-11"
    },
    {
       "title": "Gui Chuideng: Nanhai Gui Xu",
@@ -206779,11 +206776,12 @@
    },
    {
       "title": "Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu",
+      "enTitle": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
       "malid": 62289,
       "anidbid": 19530,
       "tvdbid": 467005,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-07"
    },
    {
       "title": "Tokyo Great Bears Opening Movie",
@@ -206941,7 +206939,7 @@
       "anidbid": 19534,
       "tvdbid": 467127,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Wakuwaku, Tanoshii Bouken!",
@@ -207679,11 +207677,12 @@
    },
    {
       "title": "Tefuda ga Oome no Victoria",
+      "enTitle": "Victoria of Many Faces",
       "malid": 62476,
       "anidbid": 19573,
       "tvdbid": 468049,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "Doraemon (1979) Specials",
@@ -207758,7 +207757,7 @@
       "releaseDate": "2025-10-07"
    },
    {
-      "title": "Shi Wai (2025)",
+      "title": "Sai Ngoi (2025)",
       "enTitle": "Another World (2025)",
       "malid": 62497,
       "type": "movie",
@@ -207967,6 +207966,7 @@
    },
    {
       "title": "Yonghansonyeo",
+      "enTitle": "Dragon Girl Problem",
       "malid": 62540,
       "type": "ona",
       "releaseDate": "2025-10-03"
@@ -208353,7 +208353,7 @@
       "anidbid": 19635,
       "tvdbid": 468809,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Tian Xiang",
@@ -208792,7 +208792,7 @@
       "releaseDate": "2026-05-01"
    },
    {
-      "title": "Zhan Shen Movie: Cang Nan Zhi Shang",
+      "title": "Zhan Shen Movie: Cangnan Zhi Shang",
       "enTitle": "Slay the Gods Movie: The Dead of Cangnan",
       "malid": 62727,
       "type": "ona",
@@ -208944,7 +208944,7 @@
       "title": "Yowaki Max Reijou nanoni, Ratsuwan Konyakusha-sama no Kake ni Notte Shimatta",
       "malid": 62753,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Spec!",
@@ -209130,7 +209130,7 @@
    },
    {
       "title": "Shang Cheng Zhixia",
-      "enTitle": "The Wild Dogs",
+      "enTitle": "Rebels",
       "malid": 62787,
       "type": "ona",
       "releaseDate": ""
@@ -209437,6 +209437,8 @@
    {
       "title": "Omae wa Mada Gunma wo Shiranai: Reiwa-ban",
       "malid": 62864,
+      "anidbid": 19821,
+      "tvdbid": 474202,
       "type": "tv",
       "releaseDate": "2026-01-10"
    },
@@ -210213,7 +210215,7 @@
       "enTitle": "Yoroi-Shinden Samurai Troopers Part 2",
       "malid": 63047,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-07"
    },
    {
       "title": "World Trigger (Unknown)",
@@ -210560,7 +210562,7 @@
       "enTitle": "Kaiju No. 8: Narumi's Week at Work",
       "malid": 63138,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2026"
    },
    {
       "title": "Sakamoto Days 2nd Season",
@@ -210698,7 +210700,7 @@
       "malid": 63167,
       "anidbid": 19786,
       "type": "ova",
-      "releaseDate": "2026"
+      "releaseDate": "2026-11-13"
    },
    {
       "title": "Fuka Boom",
@@ -210917,8 +210919,9 @@
    {
       "title": "Historie",
       "malid": 63215,
+      "anidbid": 19802,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Gelpiyo",
@@ -211184,6 +211187,7 @@
    },
    {
       "title": "Hotaru no Yomeiri",
+      "enTitle": "Firefly Wedding",
       "malid": 63293,
       "anidbid": 19823,
       "tvdbid": 472641,
@@ -211291,7 +211295,7 @@
       "malid": 63316,
       "anidbid": 19838,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-09"
    },
    {
       "title": "Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan",
@@ -211327,7 +211331,7 @@
       "anidbid": 19837,
       "tvdbid": 472831,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Zero Rise",
@@ -211360,7 +211364,7 @@
       "enTitle": "Does It Count If You Lose Your Innocence to an Android? Special",
       "malid": 63330,
       "type": "special",
-      "releaseDate": "2026-03-07"
+      "releaseDate": "2026-05-27"
    },
    {
       "title": "Uchuu Kishi Tekkaman Blade: Nagaki no Jyokoku",
@@ -211864,7 +211868,7 @@
       "anidbid": 19889,
       "tvdbid": 473913,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Hyakki Yakoushou",
@@ -211957,7 +211961,7 @@
       "title": "AI Shitteru",
       "malid": 63492,
       "type": "movie",
-      "releaseDate": "2020-10-15"
+      "releaseDate": "2024-12-18"
    },
    {
       "title": "Dou-Da? Doing!",
@@ -212028,7 +212032,7 @@
       "anidbid": 19896,
       "tvdbid": 474303,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Dark Summoner to Dekiteiru",
@@ -212128,7 +212132,7 @@
       "anidbid": 19909,
       "tvdbid": 474490,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-05"
    },
    {
       "title": "Zig-Zag",
@@ -212379,7 +212383,7 @@
       "enTitle": "My Classmate's a Sexy Actress, and Now We Live Together?!",
       "malid": 63619,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Fashion Beat",
@@ -212748,10 +212752,11 @@
       "releaseDate": "2021-12-08"
    },
    {
-      "title": "Maebashi Witches Movie",
+      "title": "Maebashi Witches: Majo Minarai no Emoemories",
+      "enTitle": "Maebashi Witches: Emoemories - Blooming Witches",
       "malid": 63772,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2026"
    },
    {
       "title": "PetitCure: Precure Fairies Season 3",
@@ -212857,7 +212862,7 @@
       "malid": 63802,
       "anidbid": 14730,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-09"
    },
    {
       "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3 Specials",
@@ -212912,7 +212917,7 @@
       "malid": 63817,
       "anidbid": 19978,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Battle Spirits [Re]: Zekkai no Kuu",
@@ -212958,8 +212963,9 @@
    },
    {
       "title": "AnimeJapan Awards 2026",
+      "enTitle": "AnimeJapan Awards 2026",
       "malid": 63827,
-      "type": "ona",
+      "type": "movie",
       "releaseDate": "2026-03-28"
    },
    {
@@ -212981,14 +212987,16 @@
       "enTitle": "You and I Are Polar Opposites Season 2",
       "malid": 63832,
       "anidbid": 19983,
+      "tvdbid": 457078,
       "type": "tv",
       "releaseDate": "2026-07-05"
    },
    {
       "title": "Baki-dou Part 2",
+      "enTitle": "Baki-dou: The Invincible Samurai Part 2",
       "malid": 63833,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-06-18"
    },
    {
       "title": "Douwa Revenger: Petit",
@@ -213106,6 +213114,13 @@
       "releaseDate": ""
    },
    {
+      "title": "Akane",
+      "enTitle": "Madder",
+      "malid": 63887,
+      "type": "music",
+      "releaseDate": "2026-04-02"
+   },
+   {
       "title": "Tokusou Gattai Robo Jobraver: Gyakushuu no Joker!",
       "malid": 63896,
       "type": "ona",
@@ -213221,6 +213236,7 @@
       "title": "Cheongchun Blossom: Uliui Bom",
       "enTitle": "Seasons of Blossom",
       "malid": 63964,
+      "anidbid": 20064,
       "type": "tv",
       "releaseDate": "2026-04-15"
    },
@@ -213435,7 +213451,7 @@
       "enTitle": "The Ribbon Hero",
       "malid": 64012,
       "type": "ona",
-      "releaseDate": "2026-08"
+      "releaseDate": "2026-08-08"
    },
    {
       "title": "Cha Cha Cha feat. G-Dragon",
@@ -213555,6 +213571,7 @@
       "enTitle": "Kagurabachi",
       "malid": 64058,
       "anidbid": 20027,
+      "tvdbid": 457476,
       "type": "tv",
       "releaseDate": "2027-04"
    },
@@ -213636,6 +213653,8 @@
    {
       "title": "Sekai Saikyou no Majo, Hajimemashita",
       "malid": 64084,
+      "anidbid": 20035,
+      "tvdbid": 477424,
       "type": "tv",
       "releaseDate": "2026-10"
    },
@@ -213858,6 +213877,12 @@
       "releaseDate": "2026-05-20"
    },
    {
+      "title": "Ganbare Goshiki Sakura",
+      "malid": 64184,
+      "type": "movie",
+      "releaseDate": "1987"
+   },
+   {
       "title": "Kyouiku Eigamatsuri Jushou Anime Series",
       "malid": 64186,
       "type": "ova",
@@ -213913,6 +213938,20 @@
       "releaseDate": "2010-11-09"
    },
    {
+      "title": "Nikenichi! Non Non Zenshou Kichi",
+      "enTitle": "Outpost: Off-Duty Tales",
+      "malid": 64217,
+      "type": "ona",
+      "releaseDate": "2026-05-22"
+   },
+   {
+      "title": "No Thank Cute!",
+      "enTitle": "No Thank Cute!",
+      "malid": 64223,
+      "type": "music",
+      "releaseDate": "2026-05-18"
+   },
+   {
       "title": "Chao Shen Xueyuan 2nd Season: Ju Xia Hao",
       "enTitle": "Transcend the Gods 2nd Season",
       "malid": 64229,
@@ -213964,6 +214003,7 @@
    },
    {
       "title": "Numb Numb feat. Hatsune Miku, Kasane Teto",
+      "enTitle": "Numb Numb",
       "malid": 64248,
       "type": "music",
       "releaseDate": "2026-05-20"
@@ -214020,9 +214060,237 @@
       "releaseDate": ""
    },
    {
+      "title": "Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi",
+      "malid": 64267,
+      "type": "movie",
+      "releaseDate": "1991"
+   },
+   {
+      "title": "Chikyuu-gou SOS",
+      "malid": 64268,
+      "type": "movie",
+      "releaseDate": "1992"
+   },
+   {
       "title": "Tokyo Night Dreaming feat. No Rome",
       "malid": 64269,
       "type": "music",
       "releaseDate": "2024-11-22"
+   },
+   {
+      "title": "Airman ga Taosenai Team.Nekokan [Neko] Premium Version",
+      "malid": 64279,
+      "type": "cm",
+      "releaseDate": "2026-05-22"
+   },
+   {
+      "title": "Manual Complex",
+      "malid": 64280,
+      "type": "movie",
+      "releaseDate": "2024"
+   },
+   {
+      "title": "Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project",
+      "malid": 64281,
+      "type": "cm",
+      "releaseDate": "2026-03-02"
+   },
+   {
+      "title": "Garou Densetsu: CotW - Mr. Karate",
+      "enTitle": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
+      "malid": 64289,
+      "type": "ona",
+      "releaseDate": "2026-05-27"
+   },
+   {
+      "title": "Dorohedoro Season 3",
+      "malid": 64290,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Sare Tsuma wa Ubawaretai",
+      "malid": 64291,
+      "type": "ova",
+      "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation",
+      "malid": 64292,
+      "type": "ova",
+      "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Muchuu no Tou",
+      "malid": 64297,
+      "type": "ova",
+      "releaseDate": "2026-05-29"
+   },
+   {
+      "title": "Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa",
+      "malid": 64298,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hamehara: Sore Sekuhara desu!",
+      "malid": 64301,
+      "type": "ova",
+      "releaseDate": "2026-06-26"
+   },
+   {
+      "title": "Shinkirou",
+      "enTitle": "Mirage",
+      "malid": 64306,
+      "type": "music",
+      "releaseDate": "2026-05-30"
+   },
+   {
+      "title": "Paradox Live the Animation Movie",
+      "malid": 64317,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Subarashii Sekai Ryokou: Mirai Series",
+      "malid": 64318,
+      "type": "tv",
+      "releaseDate": "1966-12-25"
+   },
+   {
+      "title": "Salaryman Mini Mini Sakusen",
+      "malid": 64319,
+      "type": "tv",
+      "releaseDate": "1970-04-01"
+   },
+   {
+      "title": "Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family",
+      "malid": 64320,
+      "type": "tv_special",
+      "releaseDate": "1977-06-26"
+   },
+   {
+      "title": "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!",
+      "malid": 64323,
+      "type": "tv_special",
+      "releaseDate": "1983-03-03"
+   },
+   {
+      "title": "Pie no Mi",
+      "malid": 64325,
+      "type": "ona",
+      "releaseDate": "2026-06-04"
+   },
+   {
+      "title": "Marronnier Oukoku no Shichinin no Kishi",
+      "enTitle": "The Seven Knights of the Marronnier Kingdom",
+      "malid": 64326,
+      "anidbid": 20074,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Choro-Q Deck System Q Fighters!",
+      "malid": 64331,
+      "type": "tv",
+      "releaseDate": "2008-07-07"
+   },
+   {
+      "title": "Dendou Sakusen Gattaiou",
+      "malid": 64332,
+      "type": "ova",
+      "releaseDate": "2002"
+   },
+   {
+      "title": "Tomica Mirai Kinkyuu Tai Earth Commander",
+      "malid": 64333,
+      "type": "ova",
+      "releaseDate": "1990"
+   },
+   {
+      "title": "Flying Ben",
+      "malid": 64335,
+      "type": "movie",
+      "releaseDate": "1967-09"
+   },
+   {
+      "title": "Gum Gum Punch",
+      "malid": 64336,
+      "type": "movie",
+      "releaseDate": "1968-04"
+   },
+   {
+      "title": "Gokuu no Chosakken Nyuumon",
+      "malid": 64337,
+      "type": "ova",
+      "releaseDate": "1990-11"
+   },
+   {
+      "title": "Hi no Tori: Earthkeepers-hen",
+      "malid": 64338,
+      "type": "ona",
+      "releaseDate": "2006-02-10"
+   },
+   {
+      "title": "Tempal: Item no Chikara",
+      "enTitle": "Overgeared",
+      "malid": 64340,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "E, Shanai System Subete One Operation shiteiru Watashi wo Kaiko desu ka?",
+      "malid": 64341,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Juuou Mujin Dandivine",
+      "malid": 64344,
+      "anidbid": 20081,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Cin Sai Syu",
+      "enTitle": "Chronicle",
+      "malid": 64345,
+      "type": "music",
+      "releaseDate": "2021-02-26"
+   },
+   {
+      "title": "Gifted",
+      "malid": 64348,
+      "anidbid": 20082,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Mahouka Koukou no Rettousei Part 2",
+      "malid": 64350,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Juuheisou-gata Joshikousei",
+      "enTitle": "Heavily Armed High School Girls",
+      "malid": 64354,
+      "anidbid": 20084,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Tomica to Tom (TV) Season 2",
+      "enTitle": "Tomica \u0026 Tom (TV) Season 2",
+      "malid": 64357,
+      "type": "tv",
+      "releaseDate": "2026-07-05"
+   },
+   {
+      "title": "Meitantei Conan: Hanamaru na Answer",
+      "enTitle": "Detective Conan: The Gold-Star Answer",
+      "malid": 64359,
+      "type": "tv_special",
+      "releaseDate": "2026-06-06"
    }
 ]
