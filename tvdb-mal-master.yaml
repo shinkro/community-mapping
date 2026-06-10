@@ -3588,7 +3588,7 @@ AnimeMap:
     - malid: 393
       title: Escaflowne
       type: movie
-      tvdbid: 0
+      tvdbid: 17390
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -4868,7 +4868,7 @@ AnimeMap:
     - malid: 543
       title: Vampire Hunter D (2000)
       type: movie
-      tvdbid: 0
+      tvdbid: 4861
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -6663,8 +6663,8 @@ AnimeMap:
     - malid: 777
       title: Hellsing Ultimate
       type: ova
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 263688
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -107020,7 +107020,7 @@ AnimeMap:
     - malid: 33443
       title: Luo Xiaohei Zhanji
       type: ona
-      tvdbid: 0
+      tvdbid: 131493
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -107938,7 +107938,7 @@ AnimeMap:
     - malid: 33674
       title: 'No Game No Life: Zero'
       type: movie
-      tvdbid: 0
+      tvdbid: 8149
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -140016,8 +140016,8 @@ AnimeMap:
     - malid: 39489
       title: Spriggan (ONA)
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 385812
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -247963,7 +247963,7 @@ AnimeMap:
     - malid: 59971
       title: 'Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen'
       type: movie
-      tvdbid: 0
+      tvdbid: 364150
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -250321,7 +250321,7 @@ AnimeMap:
     - malid: 60408
       title: 'Lupin the IIIrd the Movie: Fujimi no Ketsuzoku'
       type: movie
-      tvdbid: 0
+      tvdbid: 367657
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -251797,7 +251797,7 @@ AnimeMap:
     - malid: 60610
       title: Hateshinaki Scarlet
       type: movie
-      tvdbid: 0
+      tvdbid: 362847
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -255466,7 +255466,7 @@ AnimeMap:
     - malid: 61192
       title: All You Need Is Kill
       type: movie
-      tvdbid: 0
+      tvdbid: 365265
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -259453,7 +259453,7 @@ AnimeMap:
     - malid: 61952
       title: Luo Xiaohei Zhanji 2
       type: movie
-      tvdbid: 0
+      tvdbid: 369245
       tvdbseason: 0
       start: 0
       useMapping: false
