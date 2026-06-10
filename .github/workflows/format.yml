@@ -4,7 +4,7 @@ on:
   pull_request:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   formatMaps:
@@ -13,17 +13,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.sha }}
-          persist-credentials: false  
 
       - name: SetupShinkrodb
         uses: supplypike/setup-bin@v3
         with:
-          uri: "https://github.com/varoOP/shinkrodb/releases/download/v0.1.5/shinkrodb_v0.1.5_linux_amd64.tar.gz"
+          uri: "https://github.com/shinkro/shinkrodb/releases/download/v0.2.5/shinkrodb_v0.2.5_linux_amd64.tar.gz"
           name: "shinkrodb"
-          version: "0.1.5"
+          version: "0.2.5"
 
       - name: Check Format
         run: |

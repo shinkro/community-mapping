@@ -47,10 +47,6 @@ animeMovies:
       tmdbid: 0
       malid: 2173
 
-    - mainTitle: Jumping
-      tmdbid: 0
-      malid: 2211
-
     - mainTitle: Choujin Densetsu Urotsukidouji 2
       tmdbid: 0
       malid: 2360
@@ -263,10 +259,6 @@ animeMovies:
       tmdbid: 0
       malid: 5868
 
-    - mainTitle: Penguin no Mondai Movie
-      tmdbid: 0
-      malid: 6063
-
     - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 0
       malid: 6072
@@ -431,7 +423,7 @@ animeMovies:
       tmdbid: 0
       malid: 7496
 
-    - mainTitle: Maabou no Shounen Koukuu Tsuwamono
+    - mainTitle: Mabo no Shounen Koukuu Tsuwamono
       tmdbid: 0
       malid: 7500
 
@@ -575,10 +567,6 @@ animeMovies:
       tmdbid: 0
       malid: 8491
 
-    - mainTitle: 'Gegege no Kitarou: Kitarou no Yuurei Densha'
-      tmdbid: 0
-      malid: 8493
-
     - mainTitle: 'Kikansha Yaemon: D51 no Daibouken'
       tmdbid: 0
       malid: 8494
@@ -610,10 +598,6 @@ animeMovies:
     - mainTitle: 'Duel Masters Movie 3: Honoo no Kizuna XX'
       tmdbid: 0
       malid: 9282
-
-    - mainTitle: Hello Kitty no Cinderella
-      tmdbid: 0
-      malid: 9291
 
     - mainTitle: Samero
       tmdbid: 0
@@ -735,7 +719,7 @@ animeMovies:
       tmdbid: 0
       malid: 10417
 
-    - mainTitle: Hoero! Bun Bun (Movie)
+    - mainTitle: Hoero Bunbun (Movie)
       tmdbid: 0
       malid: 10509
 
@@ -971,10 +955,6 @@ animeMovies:
       tmdbid: 0
       malid: 16506
 
-    - mainTitle: Batsu & Terry
-      tmdbid: 0
-      malid: 16514
-
     - mainTitle: Dallyeola Majing-ga-X
       tmdbid: 0
       malid: 16554
@@ -1022,10 +1002,6 @@ animeMovies:
     - mainTitle: Mujeokcheorin Rambot
       tmdbid: 0
       malid: 16796
-
-    - mainTitle: Miraesonyeon Kunta Beomyuda 5000 Nyeon
-      tmdbid: 0
-      malid: 16800
 
     - mainTitle: Solar I.II.III
       tmdbid: 0
@@ -1263,10 +1239,6 @@ animeMovies:
       tmdbid: 0
       malid: 19909
 
-    - mainTitle: Kimu no Juujika
-      tmdbid: 0
-      malid: 19941
-
     - mainTitle: Huckleberry no Bouken (Movie)
       tmdbid: 0
       malid: 19957
@@ -1294,10 +1266,6 @@ animeMovies:
     - mainTitle: 'Shimajirou no Wow! Movie 2: Shimajirou to Kujira no Uta'
       tmdbid: 0
       malid: 20963
-
-    - mainTitle: Chang
-      tmdbid: 0
-      malid: 21025
 
     - mainTitle: Wake Up, Girls! Shichinin no Idol
       tmdbid: 0
@@ -1402,10 +1370,6 @@ animeMovies:
     - mainTitle: Tanaami Keiichi no Shouzou
       tmdbid: 0
       malid: 22171
-
-    - mainTitle: Yume 10 Yoru
-      tmdbid: 0
-      malid: 22173
 
     - mainTitle: Madonna (Movie)
       tmdbid: 0
@@ -1515,10 +1479,6 @@ animeMovies:
       tmdbid: 0
       malid: 23267
 
-    - mainTitle: Futari no Oujisama
-      tmdbid: 0
-      malid: 23343
-
     - mainTitle: 'Poppoya-san: Nonki Kikanshi'
       tmdbid: 0
       malid: 23635
@@ -1626,10 +1586,6 @@ animeMovies:
     - mainTitle: '"Aesop" no Ohanashi yori: Ushi to Kaeru, Yokubatta Inu'
       tmdbid: 0
       malid: 25627
-
-    - mainTitle: 'Futari wa Precure: Splash☆Star Maji★Doki♥ Theater'
-      tmdbid: 0
-      malid: 26053
 
     - mainTitle: Okori Jizou
       tmdbid: 0
@@ -1887,10 +1843,6 @@ animeMovies:
       tmdbid: 0
       malid: 29766
 
-    - mainTitle: Recorder
-      tmdbid: 0
-      malid: 29771
-
     - mainTitle: Calm
       tmdbid: 0
       malid: 29772
@@ -1898,10 +1850,6 @@ animeMovies:
     - mainTitle: Tokyo Fantasia
       tmdbid: 0
       malid: 29780
-
-    - mainTitle: Are wa Dare?
-      tmdbid: 0
-      malid: 29791
 
     - mainTitle: 'Panpaka Pants Movie: Bananan Oukoku no Hihou'
       tmdbid: 0
@@ -1926,10 +1874,6 @@ animeMovies:
     - mainTitle: Yellow
       tmdbid: 0
       malid: 29904
-
-    - mainTitle: Fue
-      tmdbid: 0
-      malid: 29907
 
     - mainTitle: Kobutori (1957)
       tmdbid: 0
@@ -2083,10 +2027,6 @@ animeMovies:
       tmdbid: 0
       malid: 30407
 
-    - mainTitle: Tokyo SOS
-      tmdbid: 0
-      malid: 30408
-
     - mainTitle: Kachikachi Yama no Shouboutai
       tmdbid: 0
       malid: 30457
@@ -2171,10 +2111,6 @@ animeMovies:
       tmdbid: 0
       malid: 31020
 
-    - mainTitle: 'Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix'
-      tmdbid: 0
-      malid: 31055
-
     - mainTitle: Momotaros no Natsuyasumi
       tmdbid: 0
       malid: 31116
@@ -2242,10 +2178,6 @@ animeMovies:
     - mainTitle: Holiday
       tmdbid: 0
       malid: 31511
-
-    - mainTitle: 'Kizumonogatari III: Reiketsu-hen'
-      tmdbid: 0
-      malid: 31758
 
     - mainTitle: Fantasy
       tmdbid: 0
@@ -2326,10 +2258,6 @@ animeMovies:
     - mainTitle: 'Aikatsu!: Nerawareta Mahou no Aikatsu! Card'
       tmdbid: 0
       malid: 32806
-
-    - mainTitle: Ganbare!! Tabuchi-kun!!
-      tmdbid: 0
-      malid: 32835
 
     - mainTitle: 'Duel Masters: Hamukatsu to Dogiragon no Curry-pan Daibouken'
       tmdbid: 0
@@ -2647,25 +2575,13 @@ animeMovies:
       tmdbid: 0
       malid: 35379
 
-    - mainTitle: Misemono Kenbutsu
-      tmdbid: 0
-      malid: 35395
-
     - mainTitle: Kamishibai Itazura Tanuki no Maki
       tmdbid: 0
       malid: 35399
 
-    - mainTitle: An Expression
-      tmdbid: 0
-      malid: 35402
-
     - mainTitle: Rhythm
       tmdbid: 0
       malid: 35407
-
-    - mainTitle: Futatsu no Sekai
-      tmdbid: 0
-      malid: 35408
 
     - mainTitle: Yuuki Yuuna wa Yuushabu Shozoku 2
       tmdbid: 0
@@ -2855,10 +2771,6 @@ animeMovies:
       tmdbid: 0
       malid: 37967
 
-    - mainTitle: 'Shika no Ou: Yuna to Yakusoku no Tabi'
-      tmdbid: 0
-      malid: 38015
-
     - mainTitle: Natsu wo Yarinaosu
       tmdbid: 0
       malid: 38057
@@ -2867,29 +2779,9 @@ animeMovies:
       tmdbid: 0
       malid: 38060
 
-    - mainTitle: 'Zhu Zhu Xia: Jiong Jiong Wei Ji'
-      tmdbid: 0
-      malid: 38132
-
-    - mainTitle: 'Zhu Zhu Xia: Yong Chuang Juren Dao'
-      tmdbid: 0
-      malid: 38133
-
     - mainTitle: Bai Niao
       tmdbid: 0
       malid: 38341
-
-    - mainTitle: Timing (Movie)
-      tmdbid: 0
-      malid: 38461
-
-    - mainTitle: 'Power Battle Watch Car: Minicar Battle League - Bulkkoch-ui Jilju'
-      tmdbid: 0
-      malid: 38613
-
-    - mainTitle: 'Power Battle Watch Car: Watch Gamyeon-ui Yeogseub'
-      tmdbid: 0
-      malid: 38614
 
     - mainTitle: Tug-Tug
       tmdbid: 0
@@ -2943,10 +2835,6 @@ animeMovies:
       tmdbid: 0
       malid: 38875
 
-    - mainTitle: U.F.O
-      tmdbid: 0
-      malid: 38876
-
     - mainTitle: Get Back on the Hill
       tmdbid: 0
       malid: 38877
@@ -2983,10 +2871,6 @@ animeMovies:
       tmdbid: 0
       malid: 39151
 
-    - mainTitle: 'Girls & Panzer: Saishuushou Part 5'
-      tmdbid: 0
-      malid: 39168
-
     - mainTitle: 'Girls & Panzer: Saishuushou Part 6'
       tmdbid: 0
       malid: 39169
@@ -3006,10 +2890,6 @@ animeMovies:
     - mainTitle: 'Tezuka Osamu no Uchuu Wonder 3: Ginga Renmei no Shisha'
       tmdbid: 0
       malid: 39359
-
-    - mainTitle: Shinsengumi
-      tmdbid: 0
-      malid: 39360
 
     - mainTitle: Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan
       tmdbid: 0
@@ -3091,10 +2971,6 @@ animeMovies:
       tmdbid: 0
       malid: 39703
 
-    - mainTitle: Shiroi Unabara
-      tmdbid: 0
-      malid: 39704
-
     - mainTitle: Na Bbeun Sang Sa
       tmdbid: 0
       malid: 39731
@@ -3155,10 +3031,6 @@ animeMovies:
       tmdbid: 0
       malid: 40673
 
-    - mainTitle: G9+1 no Nantoka Tengoku
-      tmdbid: 0
-      malid: 40674
-
     - mainTitle: Bijutsu Kyouiku
       tmdbid: 0
       malid: 40728
@@ -3170,10 +3042,6 @@ animeMovies:
     - mainTitle: Kuroi Neko
       tmdbid: 0
       malid: 40811
-
-    - mainTitle: Furidashi
-      tmdbid: 0
-      malid: 40812
 
     - mainTitle: Zenbu Wakatteru
       tmdbid: 0
@@ -3283,10 +3151,6 @@ animeMovies:
       tmdbid: 0
       malid: 42233
 
-    - mainTitle: Ringo to Shoujo
-      tmdbid: 0
-      malid: 42234
-
     - mainTitle: Oumagatoki
       tmdbid: 0
       malid: 42247
@@ -3306,10 +3170,6 @@ animeMovies:
     - mainTitle: Line
       tmdbid: 0
       malid: 42271
-
-    - mainTitle: Karasu
-      tmdbid: 0
-      malid: 42272
 
     - mainTitle: Kidou
       tmdbid: 0
@@ -4579,10 +4439,6 @@ animeMovies:
       tmdbid: 0
       malid: 44680
 
-    - mainTitle: Xun
-      tmdbid: 0
-      malid: 44685
-
     - mainTitle: Xiaohu Banban
       tmdbid: 0
       malid: 44686
@@ -5019,10 +4875,6 @@ animeMovies:
       tmdbid: 0
       malid: 45073
 
-    - mainTitle: Wukong Qiyu Ji
-      tmdbid: 0
-      malid: 45081
-
     - mainTitle: Fengkuang Menghuan Cheng
       tmdbid: 0
       malid: 45090
@@ -5306,10 +5158,6 @@ animeMovies:
     - mainTitle: Kata no Ato
       tmdbid: 0
       malid: 50110
-
-    - mainTitle: Sigh of Sighs
-      tmdbid: 0
-      malid: 50241
 
     - mainTitle: Beolineun Seom
       tmdbid: 0
@@ -5611,10 +5459,6 @@ animeMovies:
       tmdbid: 0
       malid: 52713
 
-    - mainTitle: Shuizhong de Nuhai
-      tmdbid: 0
-      malid: 52714
-
     - mainTitle: Shi Tu
       tmdbid: 0
       malid: 52772
@@ -5670,10 +5514,6 @@ animeMovies:
     - mainTitle: Yuwang Jungle
       tmdbid: 0
       malid: 53027
-
-    - mainTitle: Ni Yao Relie de Qin Qin Die
-      tmdbid: 0
-      malid: 53028
 
     - mainTitle: Yu Sheng
       tmdbid: 0
@@ -5754,10 +5594,6 @@ animeMovies:
     - mainTitle: Kudamono
       tmdbid: 0
       malid: 53158
-
-    - mainTitle: MaMa (Movie)
-      tmdbid: 0
-      malid: 53171
 
     - mainTitle: White Fireworks
       tmdbid: 0
@@ -5882,10 +5718,6 @@ animeMovies:
     - mainTitle: SSSS.Dynazenon Movie
       tmdbid: 0
       malid: 53851
-
-    - mainTitle: Kaerimichi
-      tmdbid: 0
-      malid: 53867
 
     - mainTitle: 'One Piece: Uchuu tte Omoshiree! Hoshizora Jima-hen'
       tmdbid: 0
@@ -6142,10 +5974,6 @@ animeMovies:
     - mainTitle: Wakamono, Gendai, Kougai
       tmdbid: 0
       malid: 54217
-
-    - mainTitle: 'Made in Abyss: Mezameru Shinpi'
-      tmdbid: 0
-      malid: 54250
 
     - mainTitle: Time Machine
       tmdbid: 0
@@ -6507,6 +6335,10 @@ animeMovies:
       tmdbid: 0
       malid: 56144
 
+    - mainTitle: Microcosm
+      tmdbid: 0
+      malid: 56205
+
     - mainTitle: Niger Monogatari
       tmdbid: 0
       malid: 56236
@@ -6566,10 +6398,6 @@ animeMovies:
     - mainTitle: Mugen ∞ 15-byou Animation
       tmdbid: 0
       malid: 56380
-
-    - mainTitle: Specter From the Abyssal Zone
-      tmdbid: 0
-      malid: 56382
 
     - mainTitle: Big Fish
       tmdbid: 0
@@ -6711,10 +6539,6 @@ animeMovies:
       tmdbid: 0
       malid: 57018
 
-    - mainTitle: The Button
-      tmdbid: 0
-      malid: 57040
-
     - mainTitle: Nanzoya
       tmdbid: 0
       malid: 57062
@@ -6730,10 +6554,6 @@ animeMovies:
     - mainTitle: Voyant
       tmdbid: 0
       malid: 57088
-
-    - mainTitle: Play House
-      tmdbid: 0
-      malid: 57089
 
     - mainTitle: 'Princess Principal: Crown Handler 5'
       tmdbid: 0
@@ -6818,10 +6638,6 @@ animeMovies:
     - mainTitle: Fiction Shigi Yama
       tmdbid: 0
       malid: 57364
-
-    - mainTitle: 'Kaixin Chaoren: Yingxiong de Xin'
-      tmdbid: 0
-      malid: 57384
 
     - mainTitle: Zhu Luo Ji da Leyuan
       tmdbid: 0
@@ -7023,14 +6839,6 @@ animeMovies:
       tmdbid: 0
       malid: 58993
 
-    - mainTitle: Chan
-      tmdbid: 0
-      malid: 59024
-
-    - mainTitle: 'Qian Ting Zong Dong Yuan: Xun Long'
-      tmdbid: 0
-      malid: 59041
-
     - mainTitle: Huanying Lai Dao Duo Li Zhi Jia
       tmdbid: 0
       malid: 59043
@@ -7054,10 +6862,6 @@ animeMovies:
     - mainTitle: First Line
       tmdbid: 0
       malid: 59231
-
-    - mainTitle: Luo Fanchen (Movie)
-      tmdbid: 0
-      malid: 59237
 
     - mainTitle: 'Mayi Chuanqi: Shenmu Qi Yuan'
       tmdbid: 0
@@ -7259,6 +7063,10 @@ animeMovies:
       tmdbid: 0
       malid: 60190
 
+    - mainTitle: Kidou Senshi Gundam SEED Freedom Zero
+      tmdbid: 0
+      malid: 60230
+
     - mainTitle: Yiqing Qijian de Feitian Gou
       tmdbid: 0
       malid: 60236
@@ -7346,10 +7154,6 @@ animeMovies:
     - mainTitle: Seikatsu wa Psychopath no Shi no You ni
       tmdbid: 0
       malid: 60770
-
-    - mainTitle: Kingyo no Ohirune
-      tmdbid: 0
-      malid: 60780
 
     - mainTitle: Luffy, Law
       tmdbid: 0
@@ -7451,10 +7255,6 @@ animeMovies:
       tmdbid: 0
       malid: 61031
 
-    - mainTitle: Trust (Movie)
-      tmdbid: 0
-      malid: 61040
-
     - mainTitle: Dive In!
       tmdbid: 0
       malid: 61041
@@ -7507,14 +7307,6 @@ animeMovies:
       tmdbid: 0
       malid: 61225
 
-    - mainTitle: 'Sumikko Gurashi Movie 4: Sora no Oukoku to Futari no Ko'
-      tmdbid: 0
-      malid: 61278
-
-    - mainTitle: 'Oshiri Tantei: Yume no Jumbo Sweet Potato Matsuri'
-      tmdbid: 0
-      malid: 61313
-
     - mainTitle: 'Oshiri Tantei: Nandemo Kaiketsu Club vs. Kaitou U'
       tmdbid: 0
       malid: 61314
@@ -7555,10 +7347,6 @@ animeMovies:
       tmdbid: 0
       malid: 61688
 
-    - mainTitle: 'Liaozhai: Lanre Si'
-      tmdbid: 0
-      malid: 61751
-
     - mainTitle: 'Foxing: Kitsuné-tsuki'
       tmdbid: 0
       malid: 61783
@@ -7566,10 +7354,6 @@ animeMovies:
     - mainTitle: 'Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party'
       tmdbid: 0
       malid: 61806
-
-    - mainTitle: 'Bousei no Volicia: Dai-2 Shou - Gunjou'
-      tmdbid: 0
-      malid: 61865
 
     - mainTitle: 'Zhu Zhu Xia: Yi Zhi Lao Zhu De Ni Xi'
       tmdbid: 0
@@ -7647,6 +7431,10 @@ animeMovies:
       tmdbid: 0
       malid: 62270
 
+    - mainTitle: 'Sekiro: No Defeat'
+      tmdbid: 0
+      malid: 62312
+
     - mainTitle: 'Odekake Kozame Movie: Tokai no Otomodachi x Yoru wa Neko to Issho Manner Eizou'
       tmdbid: 0
       malid: 62329
@@ -7686,10 +7474,6 @@ animeMovies:
     - mainTitle: Dekadeka
       tmdbid: 0
       malid: 62427
-
-    - mainTitle: Shoujo Kou
-      tmdbid: 0
-      malid: 62429
 
     - mainTitle: Jingzi
       tmdbid: 0
@@ -7735,14 +7519,6 @@ animeMovies:
       tmdbid: 0
       malid: 62575
 
-    - mainTitle: Seishun Buta Yarou wa Dear Friend no Yume wo Minai
-      tmdbid: 0
-      malid: 62582
-
-    - mainTitle: 'Oshirimae Man: Fukkatsu no Oshirimae Teikoku'
-      tmdbid: 0
-      malid: 62690
-
     - mainTitle: 'Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt: Chiisana Chousensha no Kiseki'
       tmdbid: 0
       malid: 62805
@@ -7770,14 +7546,6 @@ animeMovies:
     - mainTitle: Loca!
       tmdbid: 0
       malid: 62942
-
-    - mainTitle: Wareware wa Uchuujin
-      tmdbid: 0
-      malid: 62973
-
-    - mainTitle: 'Chiikawa Movie: Ningyo no Shima no Himitsu'
-      tmdbid: 0
-      malid: 63011
 
     - mainTitle: Wani no Shokuji
       tmdbid: 0
@@ -7811,10 +7579,6 @@ animeMovies:
       tmdbid: 0
       malid: 63312
 
-    - mainTitle: 'Sinbi Apartment 10-junyeon Geugjangpan: Han Beon Deo, Sohwan'
-      tmdbid: 0
-      malid: 63317
-
     - mainTitle: Medalist Movie
       tmdbid: 0
       malid: 63326
@@ -7839,7 +7603,107 @@ animeMovies:
       tmdbid: 0
       malid: 63512
 
-    - mainTitle: Uri Ban Jandibat
+    - mainTitle: Football Animals
       tmdbid: 0
-      malid: 63647
+      malid: 63646
+
+    - mainTitle: Moshi, Korekara Umareru no Nara
+      tmdbid: 0
+      malid: 63739
+
+    - mainTitle: Maebashi Witches Movie
+      tmdbid: 0
+      malid: 63772
+
+    - mainTitle: Friend Ship
+      tmdbid: 0
+      malid: 63836
+
+    - mainTitle: 'King of Prism: Dramatic Prism.1'
+      tmdbid: 0
+      malid: 63877
+
+    - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
+      tmdbid: 0
+      malid: 63897
+
+    - mainTitle: 'Ginga Tetsudou 999: Glass no Clair 3D'
+      tmdbid: 0
+      malid: 63999
+
+    - mainTitle: Beni Bara, Shiro Bara
+      tmdbid: 0
+      malid: 64065
+
+    - mainTitle: 'Sumikko Gurashi: Hiroi Uchuu to Aurora no Hikari'
+      tmdbid: 0
+      malid: 64100
+
+    - mainTitle: Kujira wo Yumemu
+      tmdbid: 0
+      malid: 64102
+
+    - mainTitle: I
+      tmdbid: 0
+      malid: 64110
+
+    - mainTitle: Mahiru no Obake
+      tmdbid: 0
+      malid: 64111
+
+    - mainTitle: Dango no Yukue
+      tmdbid: 0
+      malid: 64138
+
+    - mainTitle: 'Chuuou Kishodai Shidou: Otenki Gakkou'
+      tmdbid: 0
+      malid: 64140
+
+    - mainTitle: Umi ga Hashiru End Roll
+      tmdbid: 0
+      malid: 64154
+
+    - mainTitle: Kitsune to Kotori
+      tmdbid: 0
+      malid: 64173
+
+    - mainTitle: Baghdad Hime
+      tmdbid: 0
+      malid: 64175
+
+    - mainTitle: Haru no Umi
+      tmdbid: 0
+      malid: 64179
+
+    - mainTitle: Otoko to Christmas Tree
+      tmdbid: 0
+      malid: 64187
+
+    - mainTitle: Kitsune to Hiyoko
+      tmdbid: 0
+      malid: 64193
+
+    - mainTitle: 'Osaru Sankichi: Tatakau Sensuikan'
+      tmdbid: 0
+      malid: 64200
+
+    - mainTitle: Mabo no Rakkasan Butai
+      tmdbid: 0
+      malid: 64201
+
+    - mainTitle: Gigant
+      tmdbid: 0
+      malid: 64213
+
+    - mainTitle: 'Omocha Bako Series: Tokkyuu Kantai'
+      tmdbid: 0
+      malid: 64231
+
+    - mainTitle: Tarou no Tanjou
+      tmdbid: 0
+      malid: 64238
+
+    - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
+      tmdbid: 0
+      malid: 64266
 
