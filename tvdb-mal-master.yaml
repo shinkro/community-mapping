@@ -107020,7 +107020,7 @@ AnimeMap:
     - malid: 33443
       title: Luo Xiaohei Zhanji
       type: ona
-      tvdbid: 131493
+      tvdbid: 368265
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -143566,7 +143566,7 @@ AnimeMap:
     - malid: 40211
       title: Luo Xiaohei Zhanji (Movie)
       type: movie
-      tvdbid: 0
+      tvdbid: 131493
       tvdbseason: 0
       start: 0
       useMapping: false
