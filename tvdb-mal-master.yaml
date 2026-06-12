@@ -6427,7 +6427,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 747
-      title: Haru wo Daite Ita
+      title: Haru wo Daiteita
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -39715,7 +39715,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5926
-      title: Antique Heart
+      title: Gakuen Benriya Antique Heart
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -81666,7 +81666,7 @@ AnimeMap:
 
     - malid: 23911
       title: 'Subarashii Sekai Ryokou: Alaska no Tabi "Daigo Hyougaki"'
-      type: special
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -103005,7 +103005,7 @@ AnimeMap:
 
     - malid: 32629
       title: 'Subarashii Sekai Ryokou: New York Tabi "Computopia Seireki Nisennen no Monogatari"'
-      type: special
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -137350,8 +137350,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39091
-      title: Orushipe Suopu
-      type: special
+      title: Oruspe Suwop
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -185881,15 +185881,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 48055
-      title: Wo Shi Wangzhe
-      type: ona
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 48056
       title: Xiu Rong Zhen
       type: movie
@@ -207057,7 +207048,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52841
-      title: Shi Wai
+      title: Sai Ngoi
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -214700,15 +214691,6 @@ AnimeMap:
     - malid: 54218
       title: 'Shinmai Renkinjutsushi no Tenpo Keiei Mini Anime: Onsen'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 54224
-      title: Wo Shi Xuexiao Weiyi de Renlei
-      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -243390,7 +243372,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59217
-      title: Grotesque
+      title: Grotesqqque
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -260783,7 +260765,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62187
-      title: 'Akuyaku Reijou no Tsuihougo!: Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi'
+      title: Akuyaku Reijou no Tsuihougo! Kyoukai Kaikaku Gohan de Yuuyuu Sister-gurashi
       type: unknown
       tvdbid: 0
       tvdbseason: 0
@@ -262610,7 +262592,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62497
-      title: Shi Wai (2025)
+      title: Sai Ngoi (2025)
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -263960,7 +263942,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62727
-      title: 'Zhan Shen Movie: Cang Nan Zhi Shang'
+      title: 'Zhan Shen Movie: Cangnan Zhi Shang'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -269252,7 +269234,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63772
-      title: Maebashi Witches Movie
+      title: 'Maebashi Witches: Majo Minarai no Emoemories'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -269532,7 +269514,7 @@ AnimeMap:
 
     - malid: 63827
       title: AnimeJapan Awards 2026
-      type: ona
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -269731,6 +269713,15 @@ AnimeMap:
     - malid: 63885
       title: The Fable 2nd Season
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63887
+      title: Akane
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270790,6 +270781,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64184
+      title: Ganbare Goshiki Sakura
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64186
       title: Kyouiku Eigamatsuri Jushou Anime Series
       type: ova
@@ -270865,6 +270865,24 @@ AnimeMap:
     - malid: 64216
       title: 'Yume Miru, Anime: On-chan Season 2'
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64217
+      title: Nikenichi! Non Non Zenshou Kichi
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64223
+      title: No Thank Cute!
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271024,9 +271042,333 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64267
+      title: 'Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64268
+      title: Chikyuu-gou SOS
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64269
       title: Tokyo Night Dreaming feat. No Rome
       type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64279
+      title: Airman ga Taosenai Team.Nekokan [Neko] Premium Version
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64280
+      title: Manual Complex
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64281
+      title: 'Torimodosou, Ichiban Taisetsu na Mono wo: GIST Project'
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64289
+      title: 'Garou Densetsu: CotW - Mr. Karate'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64290
+      title: Dorohedoro Season 3
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64291
+      title: Sare Tsuma wa Ubawaretai
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64292
+      title: 'Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64297
+      title: Muchuu no Tou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64298
+      title: Hitozukiai ga Nigate na Miboujin no Yukionna-san to Noroi no Yubiwa
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64301
+      title: 'Hamehara: Sore Sekuhara desu!'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64306
+      title: Shinkirou
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64317
+      title: Paradox Live the Animation Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64318
+      title: 'Subarashii Sekai Ryokou: Mirai Series'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64319
+      title: Salaryman Mini Mini Sakusen
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64320
+      title: 'Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family'
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64323
+      title: Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64325
+      title: Pie no Mi
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64326
+      title: Marronnier Oukoku no Shichinin no Kishi
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64331
+      title: Choro-Q Deck System Q Fighters!
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64332
+      title: Dendou Sakusen Gattaiou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64333
+      title: Tomica Mirai Kinkyuu Tai Earth Commander
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64335
+      title: Flying Ben
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64336
+      title: Gum Gum Punch
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64337
+      title: Gokuu no Chosakken Nyuumon
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64338
+      title: 'Hi no Tori: Earthkeepers-hen'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64340
+      title: 'Tempal: Item no Chikara'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64341
+      title: E, Shanai System Subete One Operation shiteiru Watashi wo Kaiko desu ka?
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64344
+      title: Juuou Mujin Dandivine
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64345
+      title: Cin Sai Syu
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64348
+      title: Gifted
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64350
+      title: Mahouka Koukou no Rettousei Part 2
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64354
+      title: Juuheisou-gata Joshikousei
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64357
+      title: Tomica to Tom (TV) Season 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64359
+      title: 'Meitantei Conan: Hanamaru na Answer'
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
