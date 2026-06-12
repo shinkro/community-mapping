@@ -39,10 +39,6 @@ animeMovies:
       tmdbid: 727882
       malid: 2173
 
-    - mainTitle: Choujin Densetsu Urotsukidouji 2
-      tmdbid: 48626
-      malid: 2360
-
     - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
       tmdbid: 98613
       malid: 2393
@@ -211,10 +207,6 @@ animeMovies:
       tmdbid: 743131
       malid: 5640
 
-    - mainTitle: 'Keroro Gunsou Movie 4: Gekishin Dragon Warriors de Arimasu!'
-      tmdbid: 112545
-      malid: 5710
-
     - mainTitle: Oira no Yakyuu
       tmdbid: 234006
       malid: 5826
@@ -274,10 +266,6 @@ animeMovies:
     - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
       tmdbid: 355135
       malid: 7330
-
-    - mainTitle: 'Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito'
-      tmdbid: 582094
-      malid: 7436
 
     - mainTitle: Umi no Triton (1979)
       tmdbid: 280725
@@ -366,10 +354,6 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!'
       tmdbid: 128883
       malid: 8366
-
-    - mainTitle: 'Crayon Shin-chan Movie 16: Chou Arashi wo Yobu Kinpoko no Yuusha'
-      tmdbid: 128867
-      malid: 8367
 
     - mainTitle: 'Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku'
       tmdbid: 128887
@@ -511,10 +495,6 @@ animeMovies:
       tmdbid: 563776
       malid: 10820
 
-    - mainTitle: 'Suite Precure♪ Movie: Torimodose! Kokoro ga Tsunagu Kiseki no Melody♪'
-      tmdbid: 112082
-      malid: 10821
-
     - mainTitle: Kowarekake no Orgel (Movie)
       tmdbid: 387508
       malid: 10918
@@ -538,10 +518,6 @@ animeMovies:
     - mainTitle: Micro Teukgongdae Diatron 5
       tmdbid: 159395
       malid: 11357
-
-    - mainTitle: 'Kinnikuman II Sei: Muscle Ninjin Soudatsu sen! Choujin Daisensou'
-      tmdbid: 665530
-      malid: 12279
 
     - mainTitle: Himitsu no Akko-chan (Movie)
       tmdbid: 846277
