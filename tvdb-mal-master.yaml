@@ -175919,7 +175919,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 46488
-      title: 'Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai'
+      title: Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai
       type: tv
       tvdbid: 402642
       tvdbseason: 1
@@ -207543,7 +207543,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52926
-      title: Nian Shou da Zuozhan
+      title: Nian Shou Da Zuozhan
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -251894,7 +251894,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60627
-      title: Bokura no Motte Iru Mono
+      title: Hatachi no Kenketsu CMs
       type: cm
       tvdbid: 0
       tvdbseason: 0
@@ -258101,7 +258101,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61730
-      title: Shixiong A Shixiong 3rd Season
+      title: 'Shixiong A Shixiong: Nian Fan'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -263150,7 +263150,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62589
-      title: Blue Lock (Shin Series)
+      title: 'Blue Lock: Neo Egoist League'
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -270889,6 +270889,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64225
+      title: Mou Hitori no Alice
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64229
       title: 'Chao Shen Xueyuan 2nd Season: Ju Xia Hao'
       type: ona
@@ -271214,7 +271223,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64325
-      title: Pie no Mi
+      title: 'Pie no Mi: Oshi no Mori e Youkoso!'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -271369,6 +271378,177 @@ AnimeMap:
     - malid: 64359
       title: 'Meitantei Conan: Hanamaru na Answer'
       type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64372
+      title: 'Nokosareta Meishi: Aru Zainichi Issei no Kiseki'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64373
+      title: Inaka ni wa Kore Kurai Shika Goraku ga Nai
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64374
+      title: Dengeki Daisy
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64375
+      title: Cheng Huang Lu
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64376
+      title: 'Bunch 25-shuunen Kinen Special PV: Gokushufudou'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64378
+      title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64379
+      title: Saikyou Mahoushi no Inton Keikaku
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64380
+      title: Koiseyo Mayakashi Tenshi-domo
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64381
+      title: 'Osomatsu-san 4th Season: The Matsuno Ten'
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64382
+      title: Baxian!
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64383
+      title: Da Tang Yao Tan
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64384
+      title: Zhangmen Didiao Dian
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64386
+      title: Wakareru Tame ni Irojikake shitemita
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64387
+      title: Jian Lai 3rd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64388
+      title: Jueshi Zhan Hun 2nd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64389
+      title: Vision Megane CMs
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64390
+      title: Mebae feat. Phoka
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64394
+      title: 'Shixiong A Shixiong: Zuizhong Ji'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64395
+      title: Soul Kitchen
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
