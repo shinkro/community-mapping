@@ -4199,10 +4199,6 @@ animeMovies:
       tmdbid: 0
       malid: 43918
 
-    - mainTitle: Maomi Xiao Bei
-      tmdbid: 0
-      malid: 43968
-
     - mainTitle: Xiao Bing Zhang Ga
       tmdbid: 0
       malid: 43970
@@ -7571,6 +7567,10 @@ animeMovies:
       tmdbid: 0
       malid: 64213
 
+    - mainTitle: Mou Hitori no Alice
+      tmdbid: 0
+      malid: 64225
+
     - mainTitle: 'Omocha Bako Series: Tokkyuu Kantai'
       tmdbid: 0
       malid: 64231
@@ -7606,4 +7606,8 @@ animeMovies:
     - mainTitle: Gum Gum Punch
       tmdbid: 0
       malid: 64336
+
+    - mainTitle: Soul Kitchen
+      tmdbid: 0
+      malid: 64395
 

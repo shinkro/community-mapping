@@ -12348,7 +12348,7 @@
       "enTitle": "Star Blazers: The Quest for Iscandar",
       "malid": 1650,
       "anidbid": 648,
-      "tvdbid": 85230,
+      "tvdbid": 77773,
       "type": "tv",
       "releaseDate": "1974-10-06"
    },
@@ -51576,6 +51576,7 @@
    },
    {
       "title": "Oshioki: Gakuen Reijou Kousei Keikaku",
+      "enTitle": "Discipline Curriculum",
       "malid": 11749,
       "anidbid": 8711,
       "type": "ova",
@@ -80451,6 +80452,7 @@
    },
    {
       "title": "Pokemon XY: Hoopa no Odemashi Daisakusen!!",
+      "enTitle": "Hoopa's Surprise Ring Adventures",
       "malid": 30686,
       "anidbid": 11275,
       "type": "tv_special",
@@ -94572,7 +94574,7 @@
    },
    {
       "title": "Mahoujin Guruguru (2017)",
-      "enTitle": "Magical Circle",
+      "enTitle": "Magical Circle Guru-Guru",
       "malid": 34745,
       "anidbid": 12723,
       "tvdbid": 328847,
@@ -107572,6 +107574,7 @@
    },
    {
       "title": "Daisuki na Mama",
+      "enTitle": "Beloved Mother",
       "malid": 37699,
       "anidbid": 14014,
       "type": "ova",
@@ -113873,6 +113876,7 @@
    },
    {
       "title": "Ling Jian Zun",
+      "enTitle": "Spirit Sword Sovereign",
       "malid": 39080,
       "anidbid": 14639,
       "type": "ona",
@@ -118223,6 +118227,7 @@
    },
    {
       "title": "Ling Jian Zun 2nd Season",
+      "enTitle": "Spirit Sword Sovereign 2nd Season",
       "malid": 40062,
       "anidbid": 14639,
       "type": "ona",
@@ -121926,6 +121931,7 @@
    },
    {
       "title": "Ling Jian Zun 3rd Season",
+      "enTitle": "Spirit Sword Sovereign 3rd Season",
       "malid": 40966,
       "anidbid": 14639,
       "type": "ona",
@@ -124835,6 +124841,7 @@
    },
    {
       "title": "Ling Jian Zun 4th Season",
+      "enTitle": "Spirit Sword Sovereign 4th Season",
       "malid": 41884,
       "anidbid": 14639,
       "type": "ona",
@@ -142614,7 +142621,7 @@
       "releaseDate": "2012"
    },
    {
-      "title": "Tai-Ari deshita.: Ojousama wa Kakutou Game nante Shinai",
+      "title": "Tai-Ari deshita. Ojousama wa Kakutou Game nante Shinai",
       "enTitle": "Young Ladies Don't Play Fighting Games",
       "malid": 46488,
       "anidbid": 16000,
@@ -166345,7 +166352,7 @@
       "releaseDate": "1994"
    },
    {
-      "title": "Nian Shou da Zuozhan",
+      "title": "Nian Shou Da Zuozhan",
       "enTitle": "Mr. Nian",
       "malid": 52926,
       "type": "movie",
@@ -171383,7 +171390,7 @@
    },
    {
       "title": "Shixiong A Shixiong",
-      "enTitle": "My Senior Brother Is Too Steady",
+      "enTitle": "Big Brother",
       "malid": 54123,
       "anidbid": 17856,
       "type": "ona",
@@ -174304,7 +174311,7 @@
    },
    {
       "title": "Mawangnim-eun Juggo Sip-eo",
-      "enTitle": "Demon Queen Just Wants to Make Peace",
+      "enTitle": "The Demon Queen Has a Death Wish",
       "malid": 54880,
       "type": "ona",
       "releaseDate": "2023-03-27"
@@ -185824,7 +185831,7 @@
    },
    {
       "title": "Shixiong A Shixiong 2nd Season",
-      "enTitle": "My Senior Brother Is Too Steady 2nd Season",
+      "enTitle": "Big Brother 2nd Season",
       "malid": 57442,
       "anidbid": 18330,
       "type": "ona",
@@ -186561,7 +186568,7 @@
       "malid": 57612,
       "anidbid": 18345,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10"
    },
    {
       "title": "Wangu Kuang Di",
@@ -189013,7 +189020,7 @@
    },
    {
       "title": "Eri",
-      "enTitle": "Eri, the Cow",
+      "enTitle": "Eri",
       "malid": 58205,
       "type": "movie",
       "releaseDate": "2026-05-21"
@@ -189060,9 +189067,10 @@
    },
    {
       "title": "Atarashii wo Uchi ni Chu",
+      "enTitle": "Mwah to My New House!",
       "malid": 58217,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2025-12-16"
    },
    {
       "title": "Mind Replacer",
@@ -190985,7 +190993,7 @@
    },
    {
       "title": "Jueshi Zhan Hun",
-      "enTitle": "Super Heroic",
+      "enTitle": "Super Heroic Spirit",
       "malid": 58711,
       "anidbid": 18604,
       "type": "ona",
@@ -199737,7 +199745,7 @@
       "releaseDate": "2024-12-20"
    },
    {
-      "title": "Bokura no Motte Iru Mono",
+      "title": "Hatachi no Kenketsu CMs",
       "malid": 60627,
       "type": "cm",
       "releaseDate": "2024-12-26"
@@ -201984,6 +201992,7 @@
    },
    {
       "title": "Mumei no Jinsei",
+      "enTitle": "Jinsei",
       "malid": 61108,
       "anidbid": 19183,
       "type": "movie",
@@ -202057,7 +202066,7 @@
       "anidbid": 19189,
       "tvdbid": 460899,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-07"
    },
    {
       "title": "Shoukan Showcase: Isekai Teni shita Saki de Fennec ga Akuma no Shouchou!? Bouken kara Tsuihou sareta node, Uta to Dance de Sekai wo Kaemasu!",
@@ -204383,8 +204392,8 @@
       "releaseDate": "2025-05-19"
    },
    {
-      "title": "Shixiong A Shixiong 3rd Season",
-      "enTitle": "My Senior Brother Is Too Steady 3rd Season",
+      "title": "Shixiong A Shixiong: Nian Fan",
+      "enTitle": "Big Brother 3rd Season",
       "malid": 61730,
       "anidbid": 18691,
       "type": "ona",
@@ -204465,7 +204474,7 @@
    },
    {
       "title": "Shixiong A Shixiong: Nian Fan 2",
-      "enTitle": "My Senior Brother Is Too Steady 4th Season",
+      "enTitle": "Big Brother 4th Season",
       "malid": 61753,
       "type": "ona",
       "releaseDate": "2025-06-05"
@@ -205824,7 +205833,7 @@
       "anidbid": 19473,
       "tvdbid": 465802,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-05"
    },
    {
       "title": "Muri Muri Shinkaron",
@@ -206042,7 +206051,7 @@
       "anidbid": 19492,
       "tvdbid": 466092,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "Wanted",
@@ -206565,7 +206574,7 @@
    },
    {
       "title": "Biao Ren Er",
-      "enTitle": "Blades of the Guardians 2nd Season",
+      "enTitle": "Blades of the Guardians 2",
       "malid": 62241,
       "type": "ona",
       "releaseDate": "2026-06-11"
@@ -206781,7 +206790,7 @@
       "anidbid": 19530,
       "tvdbid": 467005,
       "type": "tv",
-      "releaseDate": "2026-07-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Tokyo Great Bears Opening Movie",
@@ -206862,7 +206871,7 @@
       "anidbid": 19531,
       "tvdbid": 467053,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Sekiro: No Defeat",
@@ -207833,7 +207842,7 @@
       "malid": 62513,
       "anidbid": 19581,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-08"
    },
    {
       "title": "Aqura Home CM",
@@ -207949,7 +207958,7 @@
       "anidbid": 19594,
       "tvdbid": 468399,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-12"
    },
    {
       "title": "Mesu wo Karu Mura",
@@ -207984,7 +207993,7 @@
       "malid": 62542,
       "anidbid": 19600,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-07"
    },
    {
       "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (TV Special)",
@@ -208193,7 +208202,7 @@
       "releaseDate": "2025-09-28"
    },
    {
-      "title": "Blue Lock (Shin Series)",
+      "title": "Blue Lock: Neo Egoist League",
       "malid": 62589,
       "anidbid": 19620,
       "type": "tv",
@@ -209504,7 +209513,7 @@
       "malid": 62883,
       "anidbid": 19698,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Iolite",
@@ -209969,6 +209978,7 @@
    },
    {
       "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka",
+      "enTitle": "Elegy for the Henchmen: Fist of the North Star",
       "malid": 62987,
       "anidbid": 19188,
       "tvdbid": 468079,
@@ -210336,7 +210346,7 @@
       "anidbid": 19764,
       "tvdbid": 471497,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Kome Rice Onigiri",
@@ -210615,7 +210625,7 @@
       "enTitle": "Eclipse of Illusion SP: The Miasma War",
       "malid": 63149,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-06-17"
    },
    {
       "title": "Otome Kaijuu Caraméliser",
@@ -210623,7 +210633,7 @@
       "anidbid": 19782,
       "tvdbid": 471878,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-03"
    },
    {
       "title": "Mofusand",
@@ -211327,6 +211337,7 @@
    },
    {
       "title": "Iwamoto-senpai no Suisen",
+      "enTitle": "Recommendation from Mr. Iwamoto",
       "malid": 63324,
       "anidbid": 19837,
       "tvdbid": 472831,
@@ -211432,7 +211443,7 @@
       "anidbid": 19849,
       "tvdbid": 473018,
       "type": "tv",
-      "releaseDate": "2026-07-02"
+      "releaseDate": "2026-06-29"
    },
    {
       "title": "Serenade (2026)",
@@ -211658,7 +211669,7 @@
       "anidbid": 19877,
       "tvdbid": 473563,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-09"
    },
    {
       "title": "Mairimashita! Iruma-kun: If Episode of Mafia",
@@ -211689,9 +211700,10 @@
    },
    {
       "title": "Doko yori mo Tooi Basho ni Iru Kimi e",
+      "enTitle": "To You in the Beyond",
       "malid": 63423,
       "type": "movie",
-      "releaseDate": "2026-10-09"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Yuukyuu no Gusha Asley no, Kenja no Susume",
@@ -211740,8 +211752,10 @@
    {
       "title": "Tsuihou sareta Cheat Fuyo Majutsushi wa Kimama na Second Life wo Ouka suru. Ore wa Buki dake ja Naku, Arayuru Mono ni \"Kyouka Point\" wo Fuyo Dekiru shi, Ore no Ishi de Itsudemo Kouka wo Kaijo Dekiru kedo, Nokotta Hitotachi Daijoubu?",
       "malid": 63431,
+      "anidbid": 19881,
+      "tvdbid": 473642,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Daikenja Riddle no Jikan Gyakkou",
@@ -212009,6 +212023,7 @@
    },
    {
       "title": "Isekai no Sata wa Shachiku Shidai: Omoi wo Hasemashita",
+      "enTitle": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter - I Let My Thoughts Wander",
       "malid": 63503,
       "type": "special",
       "releaseDate": "2026-05-27"
@@ -212040,7 +212055,7 @@
       "anidbid": 19908,
       "tvdbid": 474294,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10"
    },
    {
       "title": "Yeobonali",
@@ -212550,7 +212565,7 @@
       "anidbid": 19932,
       "tvdbid": 476071,
       "type": "tv",
-      "releaseDate": "2026-04-03"
+      "releaseDate": "2026-04-08"
    },
    {
       "title": "Kai",
@@ -212678,7 +212693,7 @@
       "anidbid": 19954,
       "tvdbid": 475631,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Kanata kara",
@@ -213771,7 +213786,7 @@
       "enTitle": "My Girlfriend's Friend",
       "malid": 64131,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10"
    },
    {
       "title": "Koi no Tamashii",
@@ -213950,6 +213965,12 @@
       "malid": 64223,
       "type": "music",
       "releaseDate": "2026-05-18"
+   },
+   {
+      "title": "Mou Hitori no Alice",
+      "malid": 64225,
+      "type": "movie",
+      "releaseDate": "2026-06-24"
    },
    {
       "title": "Chao Shen Xueyuan 2nd Season: Ju Xia Hao",
@@ -214176,7 +214197,7 @@
       "releaseDate": "1983-03-03"
    },
    {
-      "title": "Pie no Mi",
+      "title": "Pie no Mi: Oshi no Mori e Youkoso!",
       "malid": 64325,
       "type": "ona",
       "releaseDate": "2026-06-04"
@@ -214186,6 +214207,7 @@
       "enTitle": "The Seven Knights of the Marronnier Kingdom",
       "malid": 64326,
       "anidbid": 20074,
+      "tvdbid": 478668,
       "type": "tv",
       "releaseDate": "2026-10"
    },
@@ -214276,6 +214298,7 @@
       "enTitle": "Heavily Armed High School Girls",
       "malid": 64354,
       "anidbid": 20084,
+      "tvdbid": 478865,
       "type": "tv",
       "releaseDate": "2027"
    },
@@ -214292,5 +214315,132 @@
       "malid": 64359,
       "type": "tv_special",
       "releaseDate": "2026-06-06"
+   },
+   {
+      "title": "Nokosareta Meishi: Aru Zainichi Issei no Kiseki",
+      "malid": 64372,
+      "type": "ova",
+      "releaseDate": "1996"
+   },
+   {
+      "title": "Inaka ni wa Kore Kurai Shika Goraku ga Nai",
+      "malid": 64373,
+      "type": "ova",
+      "releaseDate": "2026-07-31"
+   },
+   {
+      "title": "Dengeki Daisy",
+      "malid": 64374,
+      "anidbid": 20086,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Cheng Huang Lu",
+      "enTitle": "Chenghuang",
+      "malid": 64375,
+      "type": "ona",
+      "releaseDate": "2026-06-09"
+   },
+   {
+      "title": "Bunch 25-shuunen Kinen Special PV: Gokushufudou",
+      "enTitle": "Bunch 25th Anniversary Commemorative Special PV: The Way of the Househusband",
+      "malid": 64376,
+      "type": "pv",
+      "releaseDate": "2026-06-09"
+   },
+   {
+      "title": "Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2",
+      "enTitle": "Elegy for the Henchmen: Fist of the North Star Part 2",
+      "malid": 64378,
+      "type": "tv",
+      "releaseDate": "2026-07-06"
+   },
+   {
+      "title": "Saikyou Mahoushi no Inton Keikaku",
+      "enTitle": "The Greatest Magicmaster's Retirement Plan",
+      "malid": 64379,
+      "anidbid": 20089,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Koiseyo Mayakashi Tenshi-domo",
+      "enTitle": "Fall in Love, You False Angels",
+      "malid": 64380,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Osomatsu-san 4th Season: The Matsuno Ten",
+      "enTitle": "Mr. Osomatsu 4th Season: The Matsuno Ten",
+      "malid": 64381,
+      "type": "tv_special",
+      "releaseDate": "2026-06-13"
+   },
+   {
+      "title": "Baxian!",
+      "enTitle": "All Wishes Come True",
+      "malid": 64382,
+      "type": "movie",
+      "releaseDate": "2026-07-24"
+   },
+   {
+      "title": "Da Tang Yao Tan",
+      "enTitle": "Demon Agent",
+      "malid": 64383,
+      "type": "movie",
+      "releaseDate": "2026-08-08"
+   },
+   {
+      "title": "Zhangmen Didiao Dian",
+      "enTitle": "Stay Low Profile, Sect Chief",
+      "malid": 64384,
+      "type": "ona",
+      "releaseDate": "2026-06-02"
+   },
+   {
+      "title": "Wakareru Tame ni Irojikake shitemita",
+      "malid": 64386,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Jian Lai 3rd Season",
+      "enTitle": "The Swords 3",
+      "malid": 64387,
+      "type": "ona",
+      "releaseDate": ""
+   },
+   {
+      "title": "Jueshi Zhan Hun 2nd Season",
+      "malid": 64388,
+      "type": "ona",
+      "releaseDate": "2026-06-09"
+   },
+   {
+      "title": "Vision Megane CMs",
+      "malid": 64389,
+      "type": "cm",
+      "releaseDate": "1986"
+   },
+   {
+      "title": "Mebae feat. Phoka",
+      "malid": 64390,
+      "type": "music",
+      "releaseDate": "2018-06-28"
+   },
+   {
+      "title": "Shixiong A Shixiong: Zuizhong Ji",
+      "enTitle": "Big Brother Final Season",
+      "malid": 64394,
+      "type": "ona",
+      "releaseDate": "2026-06-04"
+   },
+   {
+      "title": "Soul Kitchen",
+      "malid": 64395,
+      "type": "movie",
+      "releaseDate": "2025"
    }
 ]
