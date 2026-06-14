@@ -53223,8 +53223,8 @@ AnimeMap:
     - malid: 9737
       title: Appleseed XIII
       type: ova
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 245451
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -57191,7 +57191,7 @@ AnimeMap:
     - malid: 10689
       title: 'Appleseed XIII Remix Movie 1: Yuigon'
       type: movie
-      tvdbid: 0
+      tvdbid: 106231
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57218,7 +57218,7 @@ AnimeMap:
     - malid: 10693
       title: 'Appleseed XIII Remix Movie 2: Yogen'
       type: movie
-      tvdbid: 0
+      tvdbid: 63900
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -79039,7 +79039,7 @@ AnimeMap:
     - malid: 22677
       title: Appleseed Alpha
       type: movie
-      tvdbid: 0
+      tvdbid: 7367
       tvdbseason: 0
       start: 0
       useMapping: false
