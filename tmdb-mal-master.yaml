@@ -7395,10 +7395,6 @@ animeMovies:
       tmdbid: 0
       malid: 62835
 
-    - mainTitle: Kusuriya no Hitorigoto Movie
-      tmdbid: 0
-      malid: 62844
-
     - mainTitle: 'Aikatsu! Memorial Stage: Kagayaki no Unit Cup'
       tmdbid: 0
       malid: 62873
@@ -7610,4 +7606,12 @@ animeMovies:
     - mainTitle: Soul Kitchen
       tmdbid: 0
       malid: 64395
+
+    - mainTitle: Mirai e no Kouro
+      tmdbid: 0
+      malid: 64424
+
+    - mainTitle: Majo no Tani no Yoru
+      tmdbid: 0
+      malid: 64431
 
