@@ -309,15 +309,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 54
-      title: Appleseed (Movie)
-      type: movie
-      tvdbid: 3992
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 55
       title: Arc the Lad
       type: tv
@@ -3066,9 +3057,9 @@ AnimeMap:
     - malid: 393
       title: Escaflowne
       type: movie
-      tvdbid: 17390
+      tvdbid: 77248
       tvdbseason: 0
-      start: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -3862,15 +3853,6 @@ AnimeMap:
       type: ova
       tvdbid: 80009
       tvdbseason: 2
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 543
-      title: Vampire Hunter D (2000)
-      type: movie
-      tvdbid: 4861
-      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -11096,15 +11078,6 @@ AnimeMap:
           skipMalEpisodes:
             - 7
 
-    - malid: 2969
-      title: Appleseed Saga Ex Machina
-      type: movie
-      tvdbid: 5880
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 2970
       title: Night Wizard
       type: tv
@@ -17390,24 +17363,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 10689
-      title: 'Appleseed XIII Remix Movie 1: Yuigon'
-      type: movie
-      tvdbid: 106231
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 10693
-      title: 'Appleseed XIII Remix Movie 2: Yogen'
-      type: movie
-      tvdbid: 63900
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 10719
       title: Boku wa Tomodachi ga Sukunai
       type: tv
@@ -21747,15 +21702,6 @@ AnimeMap:
       type: tv
       tvdbid: 286855
       tvdbseason: 1
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 22677
-      title: Appleseed Alpha
-      type: movie
-      tvdbid: 7367
-      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -26962,15 +26908,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 33513
-      title: 'Ansatsu Kyoushitsu: 365-nichi no Jikan'
-      type: movie
-      tvdbid: 283947
-      tvdbseason: 0
-      start: 14
-      useMapping: false
-      animeMapping: []
-
     - malid: 33522
       title: 'Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen'
       type: cm
@@ -27073,9 +27010,9 @@ AnimeMap:
     - malid: 33674
       title: 'No Game No Life: Zero'
       type: movie
-      tvdbid: 8149
+      tvdbid: 278155
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -33421,15 +33358,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 40082
-      title: 'Lupin III: The First'
-      type: movie
-      tvdbid: 133489
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 40085
       title: Maesetsu!
       type: tv
@@ -33541,9 +33469,9 @@ AnimeMap:
     - malid: 40211
       title: Luo Xiaohei Zhanji (Movie)
       type: movie
-      tvdbid: 131493
+      tvdbid: 368265
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -43178,9 +43106,9 @@ AnimeMap:
     - malid: 57647
       title: 'Uma Musume: Pretty Derby - Shin Jidai no Tobira'
       type: movie
-      tvdbid: 353579
-      tvdbseason: 1
-      start: 0
+      tvdbid: 344220
+      tvdbseason: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -45136,15 +45064,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 59971
-      title: 'Tensei shitara Slime Datta Ken Movie 2: Soukai no Namida-hen'
-      type: movie
-      tvdbid: 364150
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 59978
       title: Sousou no Frieren 2nd Season
       type: tv
@@ -45616,9 +45535,9 @@ AnimeMap:
     - malid: 60408
       title: 'Lupin the IIIrd the Movie: Fujimi no Ketsuzoku'
       type: movie
-      tvdbid: 367657
+      tvdbid: 257875
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -45879,15 +45798,6 @@ AnimeMap:
       type: tv
       tvdbid: 443345
       tvdbseason: 2
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 60610
-      title: Hateshinaki Scarlet
-      type: movie
-      tvdbid: 362847
-      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -46281,15 +46191,6 @@ AnimeMap:
       type: tv
       tvdbid: 461374
       tvdbseason: 1
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 61192
-      title: All You Need Is Kill
-      type: movie
-      tvdbid: 365265
-      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
@@ -46873,9 +46774,9 @@ AnimeMap:
     - malid: 61952
       title: Luo Xiaohei Zhanji 2
       type: movie
-      tvdbid: 369245
+      tvdbid: 368265
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
