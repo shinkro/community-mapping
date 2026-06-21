@@ -16,15 +16,15 @@
 
 3. **`type`**: The type of the media, which can be 'tv', 'ova', etc.
 
-4. **`tvdbid`**: The unique identifier for an anime or TV show on TheTVDB. A value of `0` indicates that the series is currently unmapped to any TVDB entry.
+4. **`tvdbid`**: The unique identifier for an anime or TV show on TheTVDB. **Important: This must refer to a series entry on TheTVDB, NOT a movie.** Movies are mapped separately in `tmdb-mal-master.yaml`. A value of `0` indicates that the series is currently unmapped to any TVDB entry.
 
-5. **`tvdbseason`**: Represents the season of the series on TVDB. A value of `0` usually indicates a specials season.
+6. **`tvdbseason`**: Represents the season of the series on TVDB. A value of `0` usually indicates a specials season.
 
-6. **`start`**: The starting episode number from where the mapping begins. A value of `0` is common and indicates that the mapping begins from the very first episode.
+7. **`start`**: The starting episode number from where the mapping begins. A value of `0` is common and indicates that the mapping begins from the very first episode.
 
-7. **`useMapping`**: Enables or disables the use of animeMapping. Boolean value `true` or `false`.
+8. **`useMapping`**: Enables or disables the use of animeMapping. Boolean value `true` or `false`.
 
-8. **`animeMapping`**: A list of mappings between TVDB seasons and MAL episodes. Each mapping contains:
+9. **`animeMapping`**: A list of mappings between TVDB seasons and MAL episodes. Each mapping contains:
    - **`tvdbseason`**: The season number on TVDB.
    - **`start`**: The starting episode number on MAL for the mapped TVDB season.
    - **`mappingType`** (optional): Specifies the type of mapping. Can be `"explicit"` or `"range"` (default is `"range"`). See below for details.
