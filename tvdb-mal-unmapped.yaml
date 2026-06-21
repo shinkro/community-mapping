@@ -248768,6 +248768,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 60241
+      title: Tarepanda (ONA)
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 60244
+      title: Chocopa
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 60246
       title: He Zhong Zhi Hai
       type: ona
@@ -258930,8 +258948,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61966
-      title: Project M
-      type: unknown
+      title: Seibetsu "Mona Lisa" no Kimi e.
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -260442,7 +260460,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62248
-      title: Yi Nian Yong Heng 4th Season
+      title: 'Yi Nian Yong Heng: Wanjie Ji'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -266354,6 +266372,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63257
+      title: Lakenaria no Yume
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63260
       title: Mamagirl (Marrakech Remix)
       type: music
@@ -267803,6 +267830,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63553
+      title: Muu
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63555
       title: Chou Charisma Bon-Odori
       type: music
@@ -268892,6 +268928,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63824
+      title: 'Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63826
       title: Kanseitou Yori
       type: music
@@ -269145,7 +269190,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63903
-      title: Meitantei Precure! Movie
+      title: 'Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -269201,6 +269246,24 @@ AnimeMap:
     - malid: 63939
       title: The Bloody Mary
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63945
+      title: Rocket Science
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63946
+      title: Petals
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270242,6 +270305,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64210
+      title: Pan no Akachan (TV)
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64213
       title: Gigant
       type: movie
@@ -270460,6 +270532,15 @@ AnimeMap:
 
     - malid: 64269
       title: Tokyo Night Dreaming feat. No Rome
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64277
+      title: Free To Go
       type: music
       tvdbid: 0
       tvdbseason: 0
@@ -270938,6 +271019,168 @@ AnimeMap:
     - malid: 64395
       title: Soul Kitchen
       type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64398
+      title: Guangyin Zhi Wai 2
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64404
+      title: Muramata-san no Aijou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64405
+      title: Netorareta Bakunyuu Tsuma-tachi 2
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64412
+      title: Play
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64419
+      title: Nisemono no Renkinjutsushi
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64422
+      title: Himitsu Doushi
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64424
+      title: Mirai e no Kouro
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64425
+      title: Kamisama Hajimemashita (Music)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64427
+      title: Beat & Motion
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64428
+      title: Jimoto Saikou!
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64429
+      title: 'MAPPA 15th Anniversary Movie: Seikatsu'
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64430
+      title: Yuruyuru Zukan
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64431
+      title: Majo no Tani no Yoru
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64433
+      title: Itoshi no Zako Haishinsha-chan
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64435
+      title: Yami Shibai 17
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64439
+      title: Akane-banashi 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64440
+      title: The Whole Blue World
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64441
+      title: Kanan-sama wa Akumade Choroi 2nd Season
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
