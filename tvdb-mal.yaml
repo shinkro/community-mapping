@@ -42509,6 +42509,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 56752
+      title: 'Shiguang Dailiren: Yingdu Pian'
+      type: ona
+      tvdbid: 402033
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 56768
       title: Tadaima, Okaeri
       type: tv
@@ -46528,6 +46537,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61607
+      title: Shiguang Dailiren III
+      type: ona
+      tvdbid: 402033
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61608
       title: Jigoku Sensei Nube (2025) Part 2
       type: tv
@@ -46901,6 +46919,15 @@ AnimeMap:
       title: Ryoumin 0-nin Start no Henkyou Ryoushu-sama
       type: tv
       tvdbid: 465987
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 62079
+      title: 'Cyborg 009: Nemesis'
+      type: ona
+      tvdbid: 473269
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -47848,5 +47875,32 @@ AnimeMap:
       tvdbid: 305074
       tvdbseason: 0
       start: 24
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64210
+      title: Pan no Akachan (TV)
+      type: tv
+      tvdbid: 479365
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64378
+      title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2'
+      type: tv
+      tvdbid: 468079
+      tvdbseason: 1
+      start: 13
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64435
+      title: Yami Shibai 17
+      type: tv
+      tvdbid: 271591
+      tvdbseason: 17
+      start: 0
       useMapping: false
       animeMapping: []
