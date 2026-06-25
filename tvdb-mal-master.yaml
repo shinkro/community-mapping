@@ -260983,8 +260983,8 @@ AnimeMap:
     - malid: 62233
       title: 'One Piece: Heroines'
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 466748
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
