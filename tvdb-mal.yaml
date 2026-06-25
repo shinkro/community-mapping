@@ -50659,6 +50659,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62233
+      title: 'One Piece: Heroines'
+      type: tv_special
+      tvdbid: 466748
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 62246
       title: Yi Ren Zhi Xia 6
       type: ona
