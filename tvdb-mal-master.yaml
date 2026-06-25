@@ -3427,7 +3427,7 @@ AnimeMap:
     - malid: 376
       title: 'Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer'
       type: special
-      tvdbid: 0
+      tvdbid: 75941
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -5700,7 +5700,7 @@ AnimeMap:
     - malid: 642
       title: 'Ichigo 100%: Koi ga Hajimaru?! Satsuei Gasshuku - Yureru Kokoro ga Higashi e Nishi e'
       type: special
-      tvdbid: 0
+      tvdbid: 80759
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -5709,7 +5709,7 @@ AnimeMap:
     - malid: 644
       title: Hachimitsu to Clover Specials
       type: special
-      tvdbid: 0
+      tvdbid: 79044
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -5718,9 +5718,9 @@ AnimeMap:
     - malid: 645
       title: 'Hikaru no Go: Hokuto Hai e no Michi'
       type: special
-      tvdbid: 0
+      tvdbid: 72905
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -5862,7 +5862,7 @@ AnimeMap:
     - malid: 664
       title: 'Fullmetal Alchemist: Reflections'
       type: special
-      tvdbid: 0
+      tvdbid: 75579
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -5934,7 +5934,7 @@ AnimeMap:
     - malid: 673
       title: Mai-HiME Specials
       type: special
-      tvdbid: 0
+      tvdbid: 83020
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -6132,7 +6132,7 @@ AnimeMap:
     - malid: 704
       title: Kanon Kazahana
       type: special
-      tvdbid: 0
+      tvdbid: 79107
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -6555,7 +6555,7 @@ AnimeMap:
     - malid: 761
       title: 'Naruto: Akaki Yotsuba no Clover wo Sagase'
       type: special
-      tvdbid: 0
+      tvdbid: 78857
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -7840,7 +7840,7 @@ AnimeMap:
     - malid: 920
       title: Nurse Witch Komugi-chan Magikarte Special
       type: special
-      tvdbid: 0
+      tvdbid: 79109
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -8411,9 +8411,9 @@ AnimeMap:
     - malid: 993
       title: Dual! Parallel Runrun Monogatari Special
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 79996
+      tvdbseason: 1
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -9699,7 +9699,7 @@ AnimeMap:
     - malid: 1143
       title: .hack//Intermezzo
       type: special
-      tvdbid: 0
+      tvdbid: 79099
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -10482,8 +10482,8 @@ AnimeMap:
     - malid: 1235
       title: Ichitaka no Mousou Nikki
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 84049
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -10860,9 +10860,9 @@ AnimeMap:
     - malid: 1278
       title: 'Bishoujo Senshi Sailor Moon SuperS Gaiden: Ami-chan no Hatsukoi'
       type: special
-      tvdbid: 0
+      tvdbid: 78500
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -11201,8 +11201,8 @@ AnimeMap:
     - malid: 1335
       title: 'Koukaku Kidoutai: Stand Alone Complex - Tachikoma na Hibi'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 79148
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -12509,9 +12509,9 @@ AnimeMap:
     - malid: 1487
       title: .hack//Unison
       type: special
-      tvdbid: 0
+      tvdbid: 79099
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -12527,7 +12527,7 @@ AnimeMap:
     - malid: 1489
       title: Renkin San-kyuu Magical? Pokaan Specials
       type: special
-      tvdbid: 0
+      tvdbid: 82721
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -13949,7 +13949,7 @@ AnimeMap:
     - malid: 1659
       title: Mai-Otome Specials
       type: special
-      tvdbid: 0
+      tvdbid: 78986
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -14722,7 +14722,7 @@ AnimeMap:
     - malid: 1749
       title: 'Amaenaide yo!!: Yasumanaide yo!!'
       type: special
-      tvdbid: 0
+      tvdbid: 80075
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -14731,9 +14731,9 @@ AnimeMap:
     - malid: 1750
       title: 'Amaenaide yo!! Katsu!!: Damasarenaide yo!!'
       type: special
-      tvdbid: 0
+      tvdbid: 80075
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -15307,9 +15307,9 @@ AnimeMap:
     - malid: 1817
       title: 'DearS: Kin no Tama desu no?'
       type: special
-      tvdbid: 0
+      tvdbid: 79236
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -16789,7 +16789,7 @@ AnimeMap:
     - malid: 1994
       title: '.hack//Tasogare no Udewa Densetsu: Offline de Aimashou'
       type: special
-      tvdbid: 0
+      tvdbid: 457327
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -16807,7 +16807,7 @@ AnimeMap:
     - malid: 1996
       title: 'Full Moon wo Sagashite: Kawaii Kawaii Daibouken'
       type: special
-      tvdbid: 0
+      tvdbid: 82677
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -18551,9 +18551,9 @@ AnimeMap:
     - malid: 2198
       title: Aa! Megami-sama! Sorezore no Tsubasa Specials
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 78920
+      tvdbseason: 2
+      start: 23
       useMapping: false
       animeMapping: []
 
@@ -18902,9 +18902,9 @@ AnimeMap:
     - malid: 2237
       title: 'Rozen Maiden: Meitantei Kunkun - Duell Walzer'
       type: special
-      tvdbid: 0
+      tvdbid: 75411
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -19361,7 +19361,7 @@ AnimeMap:
     - malid: 2298
       title: 'Kidou Senshi Gundam SEED: Hoshi no Hazama de'
       type: special
-      tvdbid: 0
+      tvdbid: 254931
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -21755,7 +21755,7 @@ AnimeMap:
     - malid: 2580
       title: 'Tsukuyomi: Moon Phase Special'
       type: special
-      tvdbid: 0
+      tvdbid: 78971
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -21827,7 +21827,7 @@ AnimeMap:
     - malid: 2589
       title: 'Black Cat: Toozakaru Neko'
       type: special
-      tvdbid: 0
+      tvdbid: 78987
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -22079,8 +22079,8 @@ AnimeMap:
     - malid: 2617
       title: Ghiblies
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 253748
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -22214,9 +22214,9 @@ AnimeMap:
     - malid: 2634
       title: 'Doraemon: Kaette Kita Doraemon'
       type: special
-      tvdbid: 0
+      tvdbid: 252696
       tvdbseason: 0
-      start: 0
+      start: 64
       useMapping: false
       animeMapping: []
 
@@ -23420,9 +23420,9 @@ AnimeMap:
     - malid: 2784
       title: 'Gift: Eternal Rainbow - Ki no Saka Ryokan Kiki Ippatsu!!'
       type: special
-      tvdbid: 0
+      tvdbid: 82720
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -24239,7 +24239,7 @@ AnimeMap:
     - malid: 2899
       title: 'Higurashi no Naku Koro ni Special: Nekogoroshi-hen'
       type: special
-      tvdbid: 0
+      tvdbid: 79682
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -24275,7 +24275,7 @@ AnimeMap:
     - malid: 2905
       title: 'Ikkitousen: Dragon Destiny Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 80158
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -24311,7 +24311,7 @@ AnimeMap:
     - malid: 2911
       title: Kyoushirou to Towa no Sora Specials
       type: special
-      tvdbid: 0
+      tvdbid: 112781
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -24500,7 +24500,7 @@ AnimeMap:
     - malid: 2937
       title: 'Bishoujo Senshi Sailor Moon R: Make Up! Sailor Senshi'
       type: special
-      tvdbid: 0
+      tvdbid: 78500
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -24599,7 +24599,7 @@ AnimeMap:
     - malid: 2951
       title: 'Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi'
       type: special
-      tvdbid: 0
+      tvdbid: 79895
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -24626,9 +24626,9 @@ AnimeMap:
     - malid: 2954
       title: Maria-sama ga Miteru 3rd Specials
       type: special
-      tvdbid: 0
+      tvdbid: 84025
       tvdbseason: 0
-      start: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -25130,9 +25130,9 @@ AnimeMap:
     - malid: 3019
       title: 'Lupin III: Kiri no Elusive'
       type: special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 29
       useMapping: false
       animeMapping: []
 
@@ -25391,9 +25391,9 @@ AnimeMap:
     - malid: 3057
       title: Loveless Specials
       type: special
-      tvdbid: 0
+      tvdbid: 79031
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -25553,9 +25553,9 @@ AnimeMap:
     - malid: 3076
       title: Bishoujo Senshi Sailor Moon SuperS Specials
       type: special
-      tvdbid: 0
+      tvdbid: 78500
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -26129,7 +26129,7 @@ AnimeMap:
     - malid: 3174
       title: Sola Specials
       type: special
-      tvdbid: 0
+      tvdbid: 80452
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -26354,7 +26354,7 @@ AnimeMap:
     - malid: 3219
       title: 'Gakuen Utopia Manabi Straight!: Natsu da! Manabi da! Kyouka Gasshuku da!'
       type: special
-      tvdbid: 0
+      tvdbid: 81837
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -26471,7 +26471,7 @@ AnimeMap:
     - malid: 3234
       title: '009-1: R&B'
       type: special
-      tvdbid: 0
+      tvdbid: 80814
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -26804,7 +26804,7 @@ AnimeMap:
     - malid: 3292
       title: Potemayo Specials
       type: special
-      tvdbid: 0
+      tvdbid: 80812
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27146,7 +27146,7 @@ AnimeMap:
     - malid: 3354
       title: Zombie-Loan Specials
       type: special
-      tvdbid: 0
+      tvdbid: 80330
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27317,7 +27317,7 @@ AnimeMap:
     - malid: 3381
       title: Fushigi no Umi no Nadia Omake Gekijou
       type: special
-      tvdbid: 0
+      tvdbid: 81789
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27398,9 +27398,9 @@ AnimeMap:
     - malid: 3392
       title: 'Kiniro no Corda: Primo Passo - Hitonatsu no Encore'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 159551
+      tvdbseason: 1
+      start: 26
       useMapping: false
       animeMapping: []
 
@@ -27731,9 +27731,9 @@ AnimeMap:
     - malid: 3447
       title: 'Koukaku Kidoutai: Stand Alone Complex - Solid State Society - Uchikoma na Hibi'
       type: special
-      tvdbid: 0
+      tvdbid: 73749
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -27749,7 +27749,7 @@ AnimeMap:
     - malid: 3449
       title: Kamichu! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 79881
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27875,7 +27875,7 @@ AnimeMap:
     - malid: 3466
       title: 'Kino no Tabi: The Beautiful World - Tou no Kuni - Free Lance'
       type: special
-      tvdbid: 0
+      tvdbid: 79179
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27893,7 +27893,7 @@ AnimeMap:
     - malid: 3468
       title: Maria-sama ga Miteru Specials
       type: special
-      tvdbid: 0
+      tvdbid: 84025
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -27902,9 +27902,9 @@ AnimeMap:
     - malid: 3469
       title: 'Maria-sama ga Miteru: Haru Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 84025
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -28919,7 +28919,7 @@ AnimeMap:
     - malid: 3618
       title: 'Moyashimon: Kin Gekijou Deluxe'
       type: special
-      tvdbid: 0
+      tvdbid: 80808
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -29378,7 +29378,7 @@ AnimeMap:
     - malid: 3686
       title: 'Tokimeki Memorial: Only Love Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 81367
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -29909,7 +29909,7 @@ AnimeMap:
     - malid: 3791
       title: Air Gear Special
       type: special
-      tvdbid: 0
+      tvdbid: 79796
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -30566,7 +30566,7 @@ AnimeMap:
     - malid: 3887
       title: 'Ookiku Furikabutte: Kihon no Kihon'
       type: special
-      tvdbid: 0
+      tvdbid: 81108
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -31086,9 +31086,9 @@ AnimeMap:
     - malid: 3965
       title: 'Nodame Cantabile: Nodame to Chiaki no Umi Monogatari'
       type: special
-      tvdbid: 0
+      tvdbid: 80005
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -31707,9 +31707,9 @@ AnimeMap:
     - malid: 4078
       title: 'Kyou no 5 no 2 Kagai Jugyou: Mizukake'
       type: special
-      tvdbid: 0
+      tvdbid: 82311
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -31734,9 +31734,9 @@ AnimeMap:
     - malid: 4082
       title: 'Kaibutsu Oujo: Konsui Oujo'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 81877
+      tvdbseason: 1
+      start: 26
       useMapping: false
       animeMapping: []
 
@@ -32004,9 +32004,9 @@ AnimeMap:
     - malid: 4134
       title: 'Naruto: Shippuuden - Shippuu! "Konoha Gakuen" Den'
       type: special
-      tvdbid: 0
+      tvdbid: 79824
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -32085,7 +32085,7 @@ AnimeMap:
     - malid: 4156
       title: Ichigo Mashimaro Episode 0
       type: special
-      tvdbid: 0
+      tvdbid: 81007
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -32202,7 +32202,7 @@ AnimeMap:
     - malid: 4182
       title: 'Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita'
       type: special
-      tvdbid: 0
+      tvdbid: 80042
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -32355,7 +32355,7 @@ AnimeMap:
     - malid: 4205
       title: 'KimiKiss Pure Rouge: Love Fighter'
       type: special
-      tvdbid: 0
+      tvdbid: 81624
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -32778,7 +32778,7 @@ AnimeMap:
     - malid: 4361
       title: 'Grenadier: Hohoemi no Senshi Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 79132
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -33093,9 +33093,9 @@ AnimeMap:
     - malid: 4421
       title: Moetan Specials
       type: special
-      tvdbid: 0
+      tvdbid: 82841
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -33192,7 +33192,7 @@ AnimeMap:
     - malid: 4454
       title: 'Macross F: Close Encounter - Deculture Edition'
       type: special
-      tvdbid: 0
+      tvdbid: 81086
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -34155,7 +34155,7 @@ AnimeMap:
     - malid: 4650
       title: Seihou Bukyou Outlaw Star Pilot
       type: special
-      tvdbid: 0
+      tvdbid: 75911
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -34227,9 +34227,9 @@ AnimeMap:
     - malid: 4664
       title: 'Rurouni Kenshin: Special Techniques'
       type: special
-      tvdbid: 0
+      tvdbid: 70863
       tvdbseason: 0
-      start: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -34425,9 +34425,9 @@ AnimeMap:
     - malid: 4712
       title: 'Digimon Savers: Agumon! Gaomon! Lalamon! Bakuretsu! Jougai Last Battle!'
       type: special
-      tvdbid: 0
+      tvdbid: 339733
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -34623,7 +34623,7 @@ AnimeMap:
     - malid: 4760
       title: Kanokon Specials
       type: special
-      tvdbid: 0
+      tvdbid: 81830
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -34767,7 +34767,7 @@ AnimeMap:
     - malid: 4798
       title: 'Druaga no Tou: The Aegis of Uruk - Jil no Bouken'
       type: special
-      tvdbid: 0
+      tvdbid: 81744
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -35064,9 +35064,9 @@ AnimeMap:
     - malid: 4851
       title: 'Lupin III: Seven Days Rhapsody'
       type: special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 28
       useMapping: false
       animeMapping: []
 
@@ -35874,7 +35874,7 @@ AnimeMap:
     - malid: 5065
       title: 'Detroit Metal City: Birth of the Metal Devil'
       type: special
-      tvdbid: 0
+      tvdbid: 82855
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -36234,9 +36234,9 @@ AnimeMap:
     - malid: 5152
       title: 'Dragon Ball: Ossu! Kaettekita Son Gokuu to Nakama-tachi!!'
       type: special
-      tvdbid: 0
+      tvdbid: 81472
       tvdbseason: 0
-      start: 0
+      start: 23
       useMapping: false
       animeMapping: []
 
@@ -36477,7 +36477,7 @@ AnimeMap:
     - malid: 5199
       title: Seto no Hanayome Fan Disc
       type: special
-      tvdbid: 0
+      tvdbid: 80236
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -36801,8 +36801,8 @@ AnimeMap:
     - malid: 5256
       title: 'Pokemon Fushigi no Dungeon: Toki no Tankentai, Yami no Tankentai'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 383905
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -36936,7 +36936,7 @@ AnimeMap:
     - malid: 5279
       title: 'Sekirei: Hajimete no Otsukai'
       type: special
-      tvdbid: 0
+      tvdbid: 82807
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -37197,7 +37197,7 @@ AnimeMap:
     - malid: 5332
       title: 'Toshokan Sensou: Koi no Shougai'
       type: special
-      tvdbid: 0
+      tvdbid: 81999
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -37206,9 +37206,9 @@ AnimeMap:
     - malid: 5333
       title: 'Ikkitousen: Great Guardians Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 80158
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -37278,9 +37278,9 @@ AnimeMap:
     - malid: 5351
       title: 'Kidou Senshi Gundam 00: Tenshi-tachi no Kiseki'
       type: special
-      tvdbid: 0
+      tvdbid: 80675
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -37503,7 +37503,7 @@ AnimeMap:
     - malid: 5419
       title: 'Paniponi Dash!: Danjite Okonaeba Kishin mo Kore wo Saku'
       type: special
-      tvdbid: 0
+      tvdbid: 80818
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -37611,9 +37611,9 @@ AnimeMap:
     - malid: 5458
       title: 'Yu☆Gi☆Oh! Duel Monsters: Battle City Special'
       type: special
-      tvdbid: 0
+      tvdbid: 76894
       tvdbseason: 0
-      start: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -37629,7 +37629,7 @@ AnimeMap:
     - malid: 5462
       title: Top wo Nerae! Kagaku Kouza
       type: special
-      tvdbid: 0
+      tvdbid: 81073
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -37926,7 +37926,7 @@ AnimeMap:
     - malid: 5538
       title: 'Tegamibachi: Hikari to Ao no Gensou Yawa'
       type: special
-      tvdbid: 0
+      tvdbid: 112521
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -38259,8 +38259,8 @@ AnimeMap:
     - malid: 5578
       title: Aoyama Goushou Tanpenshuu
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 393182
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -38898,7 +38898,7 @@ AnimeMap:
     - malid: 5691
       title: 'Rekka no Honoo: Final Burning'
       type: special
-      tvdbid: 0
+      tvdbid: 81011
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -39078,7 +39078,7 @@ AnimeMap:
     - malid: 5764
       title: 'Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama'
       type: special
-      tvdbid: 0
+      tvdbid: 79719
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -39087,7 +39087,7 @@ AnimeMap:
     - malid: 5772
       title: 'Akaneiro ni Somaru Saka: Hardcore'
       type: special
-      tvdbid: 0
+      tvdbid: 83315
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -39348,9 +39348,9 @@ AnimeMap:
     - malid: 5845
       title: 'Pokemon: Pikachu no Natsumatsuri'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 34
       useMapping: false
       animeMapping: []
 
@@ -39870,7 +39870,7 @@ AnimeMap:
     - malid: 5955
       title: Toaru Majutsu no Index-tan
       type: special
-      tvdbid: 0
+      tvdbid: 83322
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -39951,7 +39951,7 @@ AnimeMap:
     - malid: 5978
       title: 'Kannagi: Moshimo Kannagi ga Attara...'
       type: special
-      tvdbid: 0
+      tvdbid: 83318
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -40032,7 +40032,7 @@ AnimeMap:
     - malid: 5996
       title: 'Tennis no Oujisama: Oshougatsu Special'
       type: special
-      tvdbid: 0
+      tvdbid: 73532
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -40293,9 +40293,9 @@ AnimeMap:
     - malid: 6064
       title: Higurashi no Naku Koro ni Kai Specials
       type: special
-      tvdbid: 0
+      tvdbid: 79682
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -40581,7 +40581,7 @@ AnimeMap:
     - malid: 6127
       title: 'Toradora!: SOS! Kuishinbou Banbanzai'
       type: special
-      tvdbid: 0
+      tvdbid: 83277
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -40914,7 +40914,7 @@ AnimeMap:
     - malid: 6209
       title: Macross 7 Plus
       type: special
-      tvdbid: 0
+      tvdbid: 72347
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -41022,7 +41022,7 @@ AnimeMap:
     - malid: 6234
       title: 'True Tears: Mini Chara 4-koma Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 81144
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -41247,9 +41247,9 @@ AnimeMap:
     - malid: 6299
       title: Maria-sama ga Miteru 4th Specials
       type: special
-      tvdbid: 0
+      tvdbid: 84025
       tvdbseason: 0
-      start: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -41292,9 +41292,9 @@ AnimeMap:
     - malid: 6312
       title: 'Taiho Shichau zo: Full Throttle - Watashitachi no Iru Basho'
       type: special
-      tvdbid: 0
+      tvdbid: 80054
       tvdbseason: 0
-      start: 0
+      start: 24
       useMapping: false
       animeMapping: []
 
@@ -41427,7 +41427,7 @@ AnimeMap:
     - malid: 6361
       title: 'ef: A Tale of Memories. - Prologue'
       type: special
-      tvdbid: 0
+      tvdbid: 80904
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -41445,7 +41445,7 @@ AnimeMap:
     - malid: 6368
       title: Legend of Regios
       type: special
-      tvdbid: 0
+      tvdbid: 84677
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -41580,9 +41580,9 @@ AnimeMap:
     - malid: 6401
       title: 'ef: A Tale of Melodies. - Prologue'
       type: special
-      tvdbid: 0
+      tvdbid: 80904
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -41625,9 +41625,9 @@ AnimeMap:
     - malid: 6418
       title: 'Eyeshield 21: Jump Festa 2005 Special'
       type: special
-      tvdbid: 0
+      tvdbid: 79183
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -41643,7 +41643,7 @@ AnimeMap:
     - malid: 6421
       title: 'Fullmetal Alchemist: Brotherhood Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 85249
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -41850,9 +41850,9 @@ AnimeMap:
     - malid: 6489
       title: 'Zero no Tsukaima: Princesses no Rondo Picture Drama'
       type: special
-      tvdbid: 0
+      tvdbid: 79719
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -42084,9 +42084,9 @@ AnimeMap:
     - malid: 6555
       title: 'Pokemon: Pikachu no Kirakira Daisousaku!'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 35
       useMapping: false
       animeMapping: []
 
@@ -42209,7 +42209,7 @@ AnimeMap:
     - malid: 6581
       title: 'Sengoku Basara: Setonai no Gekitotsu! Hi wo Fuku Umi no Daiyousai - Fugaku!!'
       type: special
-      tvdbid: 0
+      tvdbid: 87881
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42461,7 +42461,7 @@ AnimeMap:
     - malid: 6657
       title: 'Joshikousei: Girl''s High Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 81426
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42703,7 +42703,7 @@ AnimeMap:
     - malid: 6704
       title: 'Queen''s Blade: Rurou no Senshi Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 87491
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42712,7 +42712,7 @@ AnimeMap:
     - malid: 6705
       title: 'Tayutayu: Pure My Heart'
       type: special
-      tvdbid: 0
+      tvdbid: 88891
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42730,7 +42730,7 @@ AnimeMap:
     - malid: 6709
       title: 'Ai Yori Aoshi: Yumegatari'
       type: special
-      tvdbid: 0
+      tvdbid: 79267
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42856,7 +42856,7 @@ AnimeMap:
     - malid: 6736
       title: 'Mouryou no Hako: Chuuzenji Atsuko no Jikenbo - Hako no Yurei no Koto'
       type: special
-      tvdbid: 0
+      tvdbid: 83474
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42865,7 +42865,7 @@ AnimeMap:
     - malid: 6741
       title: 'Makai Senki Disgaea: Welcome to Netherworld'
       type: special
-      tvdbid: 0
+      tvdbid: 80206
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -42874,9 +42874,9 @@ AnimeMap:
     - malid: 6743
       title: Utawarerumono OVA Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 79880
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -42901,7 +42901,7 @@ AnimeMap:
     - malid: 6748
       title: 'Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha'
       type: special
-      tvdbid: 0
+      tvdbid: 102481
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -43036,9 +43036,9 @@ AnimeMap:
     - malid: 6783
       title: 'ef: A Tale of Memories. - Recollections'
       type: special
-      tvdbid: 0
+      tvdbid: 80904
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -43081,9 +43081,9 @@ AnimeMap:
     - malid: 6794
       title: 'Kurokami: Tora to Tsubasa'
       type: special
-      tvdbid: 0
+      tvdbid: 84561
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -43432,9 +43432,9 @@ AnimeMap:
     - malid: 6862
       title: 'K-On!: Live House!'
       type: special
-      tvdbid: 0
+      tvdbid: 87501
       tvdbseason: 0
-      start: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -43486,9 +43486,9 @@ AnimeMap:
     - malid: 6877
       title: 'Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 16
       useMapping: false
       animeMapping: []
 
@@ -43513,7 +43513,7 @@ AnimeMap:
     - malid: 6882
       title: 'Hatsukoi Limited.: Gentei Shoujo'
       type: special
-      tvdbid: 0
+      tvdbid: 89311
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -43522,7 +43522,7 @@ AnimeMap:
     - malid: 6883
       title: 'Umi Monogatari: Anata ga Ite Kureta Koto - Shinjiau Kokoro'
       type: special
-      tvdbid: 0
+      tvdbid: 102041
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -43531,9 +43531,9 @@ AnimeMap:
     - malid: 6884
       title: 'Ookami to Koushinryou II: Holo no Short Anime'
       type: special
-      tvdbid: 0
+      tvdbid: 81178
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -43603,7 +43603,7 @@ AnimeMap:
     - malid: 6896
       title: Pandora Hearts Omake
       type: special
-      tvdbid: 0
+      tvdbid: 87861
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -43783,7 +43783,7 @@ AnimeMap:
     - malid: 6941
       title: 'Toriko: Jump Super Anime Tour 2009 Special'
       type: special
-      tvdbid: 0
+      tvdbid: 247231
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -43801,9 +43801,9 @@ AnimeMap:
     - malid: 6945
       title: 'Gintama: Shiroyasha Koutan'
       type: special
-      tvdbid: 0
+      tvdbid: 79895
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -43999,9 +43999,9 @@ AnimeMap:
     - malid: 6984
       title: Hidamari Sketch x 365 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 82154
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -44080,9 +44080,9 @@ AnimeMap:
     - malid: 6999
       title: 'Tennis no Oujisama: Another Story - Kako to Mirai no Message Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 73532
       tvdbseason: 0
-      start: 0
+      start: 40
       useMapping: false
       animeMapping: []
 
@@ -44107,7 +44107,7 @@ AnimeMap:
     - malid: 7016
       title: 'Senjou no Valkyria: SenVal Theater'
       type: special
-      tvdbid: 0
+      tvdbid: 87851
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -44116,7 +44116,7 @@ AnimeMap:
     - malid: 7017
       title: 'K-On!: Ura-On!'
       type: special
-      tvdbid: 0
+      tvdbid: 87501
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -44233,7 +44233,7 @@ AnimeMap:
     - malid: 7041
       title: Seto no Hanayome OVA Specials
       type: special
-      tvdbid: 0
+      tvdbid: 80236
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -44377,7 +44377,7 @@ AnimeMap:
     - malid: 7083
       title: Hakushaku to Yousei Specials
       type: special
-      tvdbid: 0
+      tvdbid: 83586
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -44809,9 +44809,9 @@ AnimeMap:
     - malid: 7248
       title: Top wo Nerae! Gunbuster Specials
       type: special
-      tvdbid: 0
+      tvdbid: 81073
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -45070,7 +45070,7 @@ AnimeMap:
     - malid: 7322
       title: 'Needless+: Saint Lily Gakuen no Himitsu'
       type: special
-      tvdbid: 0
+      tvdbid: 102471
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -45133,8 +45133,8 @@ AnimeMap:
     - malid: 7338
       title: 'Darker than Black: Kuro no Keiyakusha Gaiden'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 433039
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -45160,9 +45160,9 @@ AnimeMap:
     - malid: 7363
       title: 'Hokuto no Ken: Legend of Heroes'
       type: special
-      tvdbid: 0
+      tvdbid: 79156
       tvdbseason: 0
-      start: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -45187,9 +45187,9 @@ AnimeMap:
     - malid: 7367
       title: 'Naruto: The Cross Roads'
       type: special
-      tvdbid: 0
+      tvdbid: 78857
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -45429,7 +45429,7 @@ AnimeMap:
     - malid: 7453
       title: AIKa Zero Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 430817
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -45510,7 +45510,7 @@ AnimeMap:
     - malid: 7468
       title: Princess Lover! Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 105131
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -45546,9 +45546,9 @@ AnimeMap:
     - malid: 7474
       title: 'Onegai☆Teacher: Marie, Ai no Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 79062
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -45843,7 +45843,7 @@ AnimeMap:
     - malid: 7540
       title: Kurogane no Linebarrels Specials
       type: special
-      tvdbid: 0
+      tvdbid: 84261
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -45870,9 +45870,9 @@ AnimeMap:
     - malid: 7550
       title: 'Pokemon: Pikachu Tanken Club'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 32
       useMapping: false
       animeMapping: []
 
@@ -45906,7 +45906,7 @@ AnimeMap:
     - malid: 7568
       title: Umineko no Naku Koro ni Specials
       type: special
-      tvdbid: 0
+      tvdbid: 101981
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46257,7 +46257,7 @@ AnimeMap:
     - malid: 7654
       title: Tokyo Magnitude 8.0 Recap
       type: special
-      tvdbid: 0
+      tvdbid: 103321
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46554,7 +46554,7 @@ AnimeMap:
     - malid: 7739
       title: '11eyes: Momoiro Genmutan'
       type: special
-      tvdbid: 0
+      tvdbid: 117851
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46563,16 +46563,16 @@ AnimeMap:
     - malid: 7740
       title: 'Queen''s Blade: Gyokuza wo Tsugu Mono Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 87491
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
     - malid: 7744
       title: Fight Ippatsu! Juuden-chan!! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 103291
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46626,7 +46626,7 @@ AnimeMap:
     - malid: 7759
       title: Saki Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 87841
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46725,7 +46725,7 @@ AnimeMap:
     - malid: 7782
       title: Kämpfer Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 115991
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -46959,18 +46959,18 @@ AnimeMap:
     - malid: 7870
       title: Baka to Test to Shoukanjuu Specials
       type: special
-      tvdbid: 0
+      tvdbid: 132961
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
     - malid: 7875
       title: 'Kanokon: Manatsu no Dai Shanikusai Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 81830
       tvdbseason: 0
-      start: 0
+      start: 16
       useMapping: false
       animeMapping: []
 
@@ -46995,9 +46995,9 @@ AnimeMap:
     - malid: 7882
       title: Ramen Tenshi Pretty Menma
       type: special
-      tvdbid: 0
+      tvdbid: 78919
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -47022,9 +47022,9 @@ AnimeMap:
     - malid: 7902
       title: 'Fullmetal Alchemist: Brotherhood - 4-koma Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 85249
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -47193,9 +47193,9 @@ AnimeMap:
     - malid: 8022
       title: Tegamibachi Gakuen
       type: special
-      tvdbid: 0
+      tvdbid: 112521
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -47229,9 +47229,9 @@ AnimeMap:
     - malid: 8038
       title: 'Nodame Cantabile: Finale - Mine to Kiyora no Saikai'
       type: special
-      tvdbid: 0
+      tvdbid: 80005
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -47274,9 +47274,9 @@ AnimeMap:
     - malid: 8062
       title: 'Mai-HiME: Kuro no Mai/Saigo no Bansan'
       type: special
-      tvdbid: 0
+      tvdbid: 83020
       tvdbseason: 0
-      start: 0
+      start: 27
       useMapping: false
       animeMapping: []
 
@@ -47814,7 +47814,7 @@ AnimeMap:
     - malid: 8197
       title: So Ra No Wo To Specials
       type: special
-      tvdbid: 0
+      tvdbid: 132771
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -47967,9 +47967,9 @@ AnimeMap:
     - malid: 8231
       title: 'Princess Lover!: Magical Knight Maria-chan'
       type: special
-      tvdbid: 0
+      tvdbid: 105131
       tvdbseason: 0
-      start: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -48219,7 +48219,7 @@ AnimeMap:
     - malid: 8302
       title: Ladies versus Butlers! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 131471
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -48282,9 +48282,9 @@ AnimeMap:
     - malid: 8317
       title: 'Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu'
       type: special
-      tvdbid: 0
+      tvdbid: 80327
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -48579,7 +48579,7 @@ AnimeMap:
     - malid: 8408
       title: Durarara!! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 133341
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -48633,7 +48633,7 @@ AnimeMap:
     - malid: 8422
       title: 'Vampire Knight: Gekiai no Portrait'
       type: special
-      tvdbid: 0
+      tvdbid: 81816
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -48705,7 +48705,7 @@ AnimeMap:
     - malid: 8440
       title: Black Lagoon Omake
       type: special
-      tvdbid: 0
+      tvdbid: 79604
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -48804,7 +48804,7 @@ AnimeMap:
     - malid: 8465
       title: Ichiban Ushiro no Daimaou Specials
       type: special
-      tvdbid: 0
+      tvdbid: 140071
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -48975,9 +48975,9 @@ AnimeMap:
     - malid: 8507
       title: 'Ikkitousen: Xtreme Xecutor Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 80158
       tvdbseason: 0
-      start: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -49281,7 +49281,7 @@ AnimeMap:
     - malid: 8599
       title: Mayoi Neko Overrun! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 145231
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -49317,9 +49317,9 @@ AnimeMap:
     - malid: 8619
       title: Ladies versus Butlers! Tokuten Disc Music Clip
       type: special
-      tvdbid: 0
+      tvdbid: 131471
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -49443,9 +49443,9 @@ AnimeMap:
     - malid: 8648
       title: Break Blade Movie Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 179791
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -49722,7 +49722,7 @@ AnimeMap:
     - malid: 8705
       title: 'Phantom: Requiem for the Phantom Picture Drama'
       type: special
-      tvdbid: 0
+      tvdbid: 87931
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -49749,9 +49749,9 @@ AnimeMap:
     - malid: 8709
       title: 'Pokemon: Pikachu Koori no Daibouken'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 31
       useMapping: false
       animeMapping: []
 
@@ -49848,9 +49848,9 @@ AnimeMap:
     - malid: 8728
       title: 'Code Geass: Hangyaku no Lelouch - Kiseki no Birthday'
       type: special
-      tvdbid: 0
+      tvdbid: 79525
       tvdbseason: 0
-      start: 0
+      start: 46
       useMapping: false
       animeMapping: []
 
@@ -50010,7 +50010,7 @@ AnimeMap:
     - malid: 8767
       title: Shin Tenchi Muyou! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 80583
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -50343,7 +50343,7 @@ AnimeMap:
     - malid: 8894
       title: 'Yume-iro Pâtissière: Mune Kyun Tropical Island!'
       type: special
-      tvdbid: 0
+      tvdbid: 119141
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -50694,7 +50694,7 @@ AnimeMap:
     - malid: 8985
       title: Yojouhan Shinwa Taikei Specials
       type: special
-      tvdbid: 0
+      tvdbid: 140751
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -50766,9 +50766,9 @@ AnimeMap:
     - malid: 9002
       title: 'True Tears: Raigomaru to Jibeta no Monogatari'
       type: special
-      tvdbid: 0
+      tvdbid: 81144
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -50883,8 +50883,8 @@ AnimeMap:
     - malid: 9040
       title: Mokei Senshi Gunpla Builders Beginning G
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 246991
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -51126,9 +51126,9 @@ AnimeMap:
     - malid: 9124
       title: 'Ookiku Furikabutte: Natsu no Taikai-hen – Mokuhyou'
       type: special
-      tvdbid: 0
+      tvdbid: 81108
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -51234,9 +51234,9 @@ AnimeMap:
     - malid: 9170
       title: Kimi ga Nozomu Eien Special
       type: special
-      tvdbid: 0
+      tvdbid: 79108
       tvdbseason: 0
-      start: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -51306,9 +51306,9 @@ AnimeMap:
     - malid: 9203
       title: 'K-On!!: Ura-On!!'
       type: special
-      tvdbid: 0
+      tvdbid: 87501
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -51360,9 +51360,9 @@ AnimeMap:
     - malid: 9220
       title: Seikimatsu Occult Gakuin Specials
       type: special
-      tvdbid: 0
+      tvdbid: 171701
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -51936,9 +51936,9 @@ AnimeMap:
     - malid: 9355
       title: 'Sekirei: Pure Engagement Episode 0'
       type: special
-      tvdbid: 0
+      tvdbid: 82807
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -51963,7 +51963,7 @@ AnimeMap:
     - malid: 9362
       title: 'Hyakka Ryouran: Samurai Girls Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 186911
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -51981,9 +51981,9 @@ AnimeMap:
     - malid: 9366
       title: 'Kaichou wa Maid-sama!: Omake da yo!'
       type: special
-      tvdbid: 0
+      tvdbid: 148151
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -52116,7 +52116,7 @@ AnimeMap:
     - malid: 9396
       title: 'Mitsudomoe: Oppai Ippai Mama Genki'
       type: special
-      tvdbid: 0
+      tvdbid: 173211
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -52836,9 +52836,9 @@ AnimeMap:
     - malid: 9591
       title: 'Code Geass: Hangyaku no Lelouch R2 Omake Flash'
       type: special
-      tvdbid: 0
+      tvdbid: 79525
       tvdbseason: 0
-      start: 0
+      start: 37
       useMapping: false
       animeMapping: []
 
@@ -53043,9 +53043,9 @@ AnimeMap:
     - malid: 9673
       title: 'Tegamibachi: Omakebachi'
       type: special
-      tvdbid: 0
+      tvdbid: 112521
       tvdbseason: 0
-      start: 0
+      start: 28
       useMapping: false
       animeMapping: []
 
@@ -53196,9 +53196,9 @@ AnimeMap:
     - malid: 9734
       title: 'K-On!!: Keikaku!'
       type: special
-      tvdbid: 0
+      tvdbid: 87501
       tvdbseason: 0
-      start: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
@@ -53295,9 +53295,9 @@ AnimeMap:
     - malid: 9754
       title: 'Kuragehime: Eiyuu Retsuden☆'
       type: special
-      tvdbid: 0
+      tvdbid: 197731
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -53934,7 +53934,7 @@ AnimeMap:
     - malid: 9888
       title: Shinryaku! Ika Musume Specials
       type: special
-      tvdbid: 0
+      tvdbid: 195721
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -54770,9 +54770,9 @@ AnimeMap:
     - malid: 10067
       title: Angel Beats! Another Epilogue
       type: special
-      tvdbid: 0
+      tvdbid: 150471
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -54842,7 +54842,7 @@ AnimeMap:
     - malid: 10083
       title: Shiki Specials
       type: special
-      tvdbid: 0
+      tvdbid: 172941
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -54878,7 +54878,7 @@ AnimeMap:
     - malid: 10098
       title: 'Kobato.: Hajimete no Kobato.'
       type: special
-      tvdbid: 0
+      tvdbid: 117671
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -54923,9 +54923,9 @@ AnimeMap:
     - malid: 10108
       title: 'Ore no Imouto ga Konnani Kawaii Wake ga Nai: SD Chara ni Yoru Character Commentary'
       type: special
-      tvdbid: 0
+      tvdbid: 194961
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -55157,7 +55157,7 @@ AnimeMap:
     - malid: 10172
       title: Freezing Specials
       type: special
-      tvdbid: 0
+      tvdbid: 219701
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -55355,7 +55355,7 @@ AnimeMap:
     - malid: 10219
       title: Oniichan no Koto nanka Zenzen Suki ja Nai n da kara ne!! Special
       type: special
-      tvdbid: 0
+      tvdbid: 216611
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -55472,9 +55472,9 @@ AnimeMap:
     - malid: 10249
       title: Toaru Majutsu no Index-tan II
       type: special
-      tvdbid: 0
+      tvdbid: 83322
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -55553,7 +55553,7 @@ AnimeMap:
     - malid: 10263
       title: Sonic X Pilot
       type: special
-      tvdbid: 0
+      tvdbid: 72459
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -55652,7 +55652,7 @@ AnimeMap:
     - malid: 10298
       title: 'Kaichou wa Maid-sama!: Goshujinsama to Asonjao♥'
       type: special
-      tvdbid: 0
+      tvdbid: 148151
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -55670,9 +55670,9 @@ AnimeMap:
     - malid: 10302
       title: Pokemon Diamond & Pearl Specials
       type: tv_special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 51
       useMapping: false
       animeMapping: []
 
@@ -55868,9 +55868,9 @@ AnimeMap:
     - malid: 10351
       title: Tenchi Muyou! Ryououki 2nd Season Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 80009
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -56048,7 +56048,7 @@ AnimeMap:
     - malid: 10391
       title: 'Kuragehime: Soreike! Amars Tankentai'
       type: special
-      tvdbid: 0
+      tvdbid: 197731
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -56336,16 +56336,16 @@ AnimeMap:
     - malid: 10469
       title: Sayonara Zetsubou Sensei Special
       type: special
-      tvdbid: 0
+      tvdbid: 80327
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
     - malid: 10470
       title: God Eater Prologue
       type: special
-      tvdbid: 0
+      tvdbid: 295224
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -56363,9 +56363,9 @@ AnimeMap:
     - malid: 10477
       title: 'Haiyoru! Nyaruani: Remember My Love(craft-sensei) Special'
       type: special
-      tvdbid: 0
+      tvdbid: 214891
       tvdbseason: 0
-      start: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -56390,9 +56390,9 @@ AnimeMap:
     - malid: 10483
       title: 'Sengoku Basara Ni: Ryuko, Itadaki no Chikai! Atsuki Mirai e Kakeru Tamashii!!'
       type: special
-      tvdbid: 0
+      tvdbid: 87881
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -56633,9 +56633,9 @@ AnimeMap:
     - malid: 10536
       title: 'Kimi ni Todoke 2nd Season: Minitodo Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 117801
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -56696,9 +56696,9 @@ AnimeMap:
     - malid: 10549
       title: Precure All Stars GoGo Dream Live!
       type: special
-      tvdbid: 0
+      tvdbid: 250317
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -56921,7 +56921,7 @@ AnimeMap:
     - malid: 10604
       title: 'Hidan no Aria: Butei ga Kitarite Onsen Kenshuu'
       type: special
-      tvdbid: 0
+      tvdbid: 247949
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57020,7 +57020,7 @@ AnimeMap:
     - malid: 10638
       title: 'Denpa Onna to Seishun Otoko: Mayonaka no Taiyou'
       type: special
-      tvdbid: 0
+      tvdbid: 247934
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57038,9 +57038,9 @@ AnimeMap:
     - malid: 10643
       title: 'Gintama: Dai Hanseikai'
       type: special
-      tvdbid: 0
+      tvdbid: 79895
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -57461,7 +57461,7 @@ AnimeMap:
     - malid: 10737
       title: 'A-Channel: +A-Channel'
       type: special
-      tvdbid: 0
+      tvdbid: 247691
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57470,7 +57470,7 @@ AnimeMap:
     - malid: 10739
       title: Panty & Stocking in Sanitarybox
       type: special
-      tvdbid: 0
+      tvdbid: 188551
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57695,7 +57695,7 @@ AnimeMap:
     - malid: 10796
       title: Softenni Specials
       type: special
-      tvdbid: 0
+      tvdbid: 248018
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57758,7 +57758,7 @@ AnimeMap:
     - malid: 10804
       title: 'Ikoku Meiro no Croisée The Animation: Ongakkai "Récital"'
       type: special
-      tvdbid: 0
+      tvdbid: 249870
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -57830,9 +57830,9 @@ AnimeMap:
     - malid: 10819
       title: 'Ranma ½: Tendou-ke no Oyobidenai Yatsura!'
       type: special
-      tvdbid: 0
+      tvdbid: 76932
       tvdbseason: 0
-      start: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -57911,9 +57911,9 @@ AnimeMap:
     - malid: 10834
       title: 'Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou'
       type: special
-      tvdbid: 0
+      tvdbid: 132961
       tvdbseason: 0
-      start: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -57938,7 +57938,7 @@ AnimeMap:
     - malid: 10845
       title: Manyuu Hikenchou Specials
       type: special
-      tvdbid: 0
+      tvdbid: 250363
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -58073,9 +58073,9 @@ AnimeMap:
     - malid: 10886
       title: 'Nurarihyon no Mago: Gekitou Dai Futsal Taikai! Nuragumi W Cup!!'
       type: special
-      tvdbid: 0
+      tvdbid: 171731
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -58208,7 +58208,7 @@ AnimeMap:
     - malid: 10923
       title: 'Tantei Opera Milky Holmes: Summer Special'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 197261
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -58253,7 +58253,7 @@ AnimeMap:
     - malid: 10935
       title: Hourou Musuko Specials
       type: special
-      tvdbid: 0
+      tvdbid: 221281
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -58307,18 +58307,18 @@ AnimeMap:
     - malid: 10947
       title: 'Koukaku Kidoutai: Stand Alone Complex - The Laughing Man - Tachikoma na Hibi'
       type: special
-      tvdbid: 0
+      tvdbid: 73749
       tvdbseason: 0
-      start: 0
+      start: 60
       useMapping: false
       animeMapping: []
 
     - malid: 10948
       title: 'Koukaku Kidoutai: Stand Alone Complex 2nd GIG - Individual Eleven - Tachikoma na Hibi'
       type: special
-      tvdbid: 0
+      tvdbid: 73749
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -58586,9 +58586,9 @@ AnimeMap:
     - malid: 11069
       title: 'Pokemon: Pikachu no Fushigi na Fushigi na Daibouken'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 39
       useMapping: false
       animeMapping: []
 
@@ -58604,8 +58604,8 @@ AnimeMap:
     - malid: 11077
       title: 'Hellsing: The Dawn'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 333548
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -58667,7 +58667,7 @@ AnimeMap:
     - malid: 11099
       title: Tiger & Bunny Pilot
       type: special
-      tvdbid: 0
+      tvdbid: 246381
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -58703,7 +58703,7 @@ AnimeMap:
     - malid: 11113
       title: Usagi Drop Specials
       type: special
-      tvdbid: 0
+      tvdbid: 249872
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -58739,7 +58739,7 @@ AnimeMap:
     - malid: 11161
       title: 'Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi'
       type: special
-      tvdbid: 0
+      tvdbid: 248012
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -59036,9 +59036,9 @@ AnimeMap:
     - malid: 11359
       title: 'Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni'
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 88031
+      tvdbseason: 1
+      start: 98
       useMapping: false
       animeMapping: []
 
@@ -59351,9 +59351,9 @@ AnimeMap:
     - malid: 11553
       title: 'Toradora!: Bentou no Gokui'
       type: special
-      tvdbid: 0
+      tvdbid: 83277
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -59684,7 +59684,7 @@ AnimeMap:
     - malid: 11715
       title: Kamisama Dolls Specials
       type: special
-      tvdbid: 0
+      tvdbid: 249873
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -59891,9 +59891,9 @@ AnimeMap:
     - malid: 11777
       title: 'Lupin III: Chi no Kokuin - Eien no Mermaid'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 34
       useMapping: false
       animeMapping: []
 
@@ -59918,9 +59918,9 @@ AnimeMap:
     - malid: 11787
       title: 'Toriko: Barbarian Ivy wo Hokaku Seyo!'
       type: special
-      tvdbid: 0
+      tvdbid: 247231
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -59945,9 +59945,9 @@ AnimeMap:
     - malid: 11793
       title: 'Tamayura: Hitotose - Attakai Kaze no Omoide, nanode'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 195571
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -60071,9 +60071,9 @@ AnimeMap:
     - malid: 11853
       title: 'Pokemon: Pikachu no Summer Bridge Story'
       type: special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 43
       useMapping: false
       animeMapping: []
 
@@ -60161,9 +60161,9 @@ AnimeMap:
     - malid: 11889
       title: 'The iDOLM@STER: 765 Pro to Iu Monogatari'
       type: special
-      tvdbid: 0
+      tvdbid: 249865
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -60179,7 +60179,7 @@ AnimeMap:
     - malid: 11911
       title: 'Pretty Rhythm: Aurora Dream - Prism Shougekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 255925
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -60458,7 +60458,7 @@ AnimeMap:
     - malid: 12069
       title: 'Hajime no Ippo: Boxer no Kobushi'
       type: special
-      tvdbid: 0
+      tvdbid: 79685
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -60539,7 +60539,7 @@ AnimeMap:
     - malid: 12131
       title: 30-sai no Hoken Taiiku Specials
       type: special
-      tvdbid: 0
+      tvdbid: 247854
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61097,7 +61097,7 @@ AnimeMap:
     - malid: 12447
       title: Ben-To Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 251906
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61106,7 +61106,7 @@ AnimeMap:
     - malid: 12449
       title: Maken-Ki! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 252474
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61241,7 +61241,7 @@ AnimeMap:
     - malid: 12505
       title: 'C³: Rinkan Gakkou Confusion!'
       type: special
-      tvdbid: 0
+      tvdbid: 251984
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61331,9 +61331,9 @@ AnimeMap:
     - malid: 12579
       title: Itsuka Tenma no Kuro Usagi Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 249874
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -61484,7 +61484,7 @@ AnimeMap:
     - malid: 12665
       title: 'Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal'
       type: special
-      tvdbid: 0
+      tvdbid: 250022
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61511,7 +61511,7 @@ AnimeMap:
     - malid: 12673
       title: 'Papa no Iukoto wo Kikinasai!: Pokkapoka'
       type: special
-      tvdbid: 0
+      tvdbid: 254654
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -61610,9 +61610,9 @@ AnimeMap:
     - malid: 12725
       title: 'Initial D: Project D to the Next Stage - Project D e Mukete'
       type: special
-      tvdbid: 0
+      tvdbid: 70900
       tvdbseason: 0
-      start: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -62663,7 +62663,7 @@ AnimeMap:
     - malid: 13245
       title: Shin Tennis no Oujisama Specials
       type: special
-      tvdbid: 0
+      tvdbid: 254899
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -62681,9 +62681,9 @@ AnimeMap:
     - malid: 13249
       title: Lupin VIII
       type: special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 37
       useMapping: false
       animeMapping: []
 
@@ -62780,9 +62780,9 @@ AnimeMap:
     - malid: 13287
       title: Galaxy Angel Specials
       type: special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 79289
+      tvdbseason: 1
+      start: 25
       useMapping: false
       animeMapping: []
 
@@ -62879,9 +62879,9 @@ AnimeMap:
     - malid: 13357
       title: High School DxD Specials
       type: special
-      tvdbid: 0
+      tvdbid: 254653
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -62969,7 +62969,7 @@ AnimeMap:
     - malid: 13403
       title: 'Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto'
       type: special
-      tvdbid: 0
+      tvdbid: 255133
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -63041,8 +63041,8 @@ AnimeMap:
     - malid: 13429
       title: 'Sakasama no Patema: Beginning of the Day'
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 264235
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -63338,9 +63338,9 @@ AnimeMap:
     - malid: 13561
       title: 'Guilty Crown: 4-koma Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 252471
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -63365,7 +63365,7 @@ AnimeMap:
     - malid: 13587
       title: 'Persona 4 the Animation: No One is Alone'
       type: special
-      tvdbid: 0
+      tvdbid: 252232
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -63491,9 +63491,9 @@ AnimeMap:
     - malid: 13677
       title: Ao no Exorcist Movie Special
       type: special
-      tvdbid: 0
+      tvdbid: 248035
       tvdbseason: 0
-      start: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -63563,9 +63563,9 @@ AnimeMap:
     - malid: 13731
       title: 'Koukyoushihen Eureka Seven: New Order'
       type: special
-      tvdbid: 0
+      tvdbid: 79360
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -63581,9 +63581,9 @@ AnimeMap:
     - malid: 13757
       title: 'Mashiro-iro Symphony: The Color of Lovers Picture Drama'
       type: special
-      tvdbid: 0
+      tvdbid: 252477
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -63797,9 +63797,9 @@ AnimeMap:
     - malid: 13855
       title: 'Queen''s Blade: Rebellion Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 438850
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -63815,9 +63815,9 @@ AnimeMap:
     - malid: 13859
       title: 'Accel World: Acchel World.'
       type: special
-      tvdbid: 0
+      tvdbid: 257516
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -64202,7 +64202,7 @@ AnimeMap:
     - malid: 14189
       title: 'Tasogare Otome x Amnesia: Taima Otome'
       type: special
-      tvdbid: 0
+      tvdbid: 257852
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -64616,7 +64616,7 @@ AnimeMap:
     - malid: 14583
       title: Rinne no Lagrange Specials
       type: special
-      tvdbid: 0
+      tvdbid: 254662
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -65453,7 +65453,7 @@ AnimeMap:
     - malid: 15291
       title: 'Hyakujitsu no Bara: Jinginaki Nikukyuu-hen'
       type: special
-      tvdbid: 0
+      tvdbid: 102161
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -65905,9 +65905,9 @@ AnimeMap:
     - malid: 15617
       title: Jinrui wa Suitai Shimashita Specials
       type: special
-      tvdbid: 0
+      tvdbid: 259653
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -66031,9 +66031,9 @@ AnimeMap:
     - malid: 15729
       title: 'Hagure Yuusha no Aesthetica: Hajirai Ippai'
       type: special
-      tvdbid: 0
+      tvdbid: 259649
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -66121,9 +66121,9 @@ AnimeMap:
     - malid: 15783
       title: 'Lupin III: Touhou Kenbunroku - Another Page'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 38
       useMapping: false
       animeMapping: []
 
@@ -66328,7 +66328,7 @@ AnimeMap:
     - malid: 15881
       title: Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 262092
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -66346,8 +66346,8 @@ AnimeMap:
     - malid: 15891
       title: Zekkyou Gakkyuu
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 280410
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -66364,7 +66364,7 @@ AnimeMap:
     - malid: 15895
       title: Hiyokoi (2012)
       type: special
-      tvdbid: 0
+      tvdbid: 354363
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -66427,9 +66427,9 @@ AnimeMap:
     - malid: 15927
       title: 'Carnival Phantasm: HibiChika Special'
       type: special
-      tvdbid: 0
+      tvdbid: 251047
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -66544,7 +66544,7 @@ AnimeMap:
     - malid: 16001
       title: 'Kokoro Connect: Michi Random'
       type: special
-      tvdbid: 0
+      tvdbid: 259647
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -66688,7 +66688,7 @@ AnimeMap:
     - malid: 16099
       title: 'Sword Art Online: Sword Art Offline'
       type: special
-      tvdbid: 0
+      tvdbid: 259640
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -67327,7 +67327,7 @@ AnimeMap:
     - malid: 16508
       title: 'Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 259656
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -67651,7 +67651,7 @@ AnimeMap:
     - malid: 16646
       title: 'Hanamaru Youchien: Panda Neko Taisou'
       type: special
-      tvdbid: 0
+      tvdbid: 134581
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -67660,9 +67660,9 @@ AnimeMap:
     - malid: 16648
       title: 'Youchien Senshi: Hanamaru Girls'
       type: special
-      tvdbid: 0
+      tvdbid: 134581
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -67750,9 +67750,9 @@ AnimeMap:
     - malid: 16694
       title: 'Sankarea: Wagahai mo... Zombie de Aru...'
       type: special
-      tvdbid: 0
+      tvdbid: 257518
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -67840,7 +67840,7 @@ AnimeMap:
     - malid: 16738
       title: 'Wooser no Sono Higurashi: Ken to Pants to Wooser to'
       type: special
-      tvdbid: 0
+      tvdbid: 263851
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -68290,9 +68290,9 @@ AnimeMap:
     - malid: 16916
       title: 'Kuroko no Basket: Tip Off'
       type: special
-      tvdbid: 0
+      tvdbid: 257765
       tvdbseason: 0
-      start: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -68317,7 +68317,7 @@ AnimeMap:
     - malid: 16934
       title: Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel
       type: special
-      tvdbid: 0
+      tvdbid: 261862
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -68434,7 +68434,7 @@ AnimeMap:
     - malid: 17020
       title: 'D.C.III: Da Capo III Special'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 264524
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -68879,9 +68879,9 @@ AnimeMap:
     - malid: 17259
       title: 'Kuroko no Basket: Oshaberi Shiyokka'
       type: special
-      tvdbid: 0
+      tvdbid: 257765
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -69032,7 +69032,7 @@ AnimeMap:
     - malid: 17341
       title: 'Yama no Susume: Kabe tte Kowakunai no?'
       type: special
-      tvdbid: 0
+      tvdbid: 264523
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -69041,7 +69041,7 @@ AnimeMap:
     - malid: 17345
       title: Senran Kagura Specials
       type: special
-      tvdbid: 0
+      tvdbid: 264053
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -69050,7 +69050,7 @@ AnimeMap:
     - malid: 17351
       title: 'Mangirl!: Asobu Henshuu Girl'
       type: special
-      tvdbid: 0
+      tvdbid: 264054
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -69122,7 +69122,7 @@ AnimeMap:
     - malid: 17391
       title: Senyuu. Specials
       type: special
-      tvdbid: 0
+      tvdbid: 264050
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -69167,9 +69167,9 @@ AnimeMap:
     - malid: 17409
       title: 'Suki tte Ii na yo.: Mei and Marshmallow'
       type: special
-      tvdbid: 0
+      tvdbid: 262112
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -69581,8 +69581,8 @@ AnimeMap:
     - malid: 17635
       title: 'Koitabi: True Tours Nanto'
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 273218
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -69815,9 +69815,9 @@ AnimeMap:
     - malid: 17717
       title: 'Kidou Senshi Gundam: Dai 08 MS Shoutai - Sanjigen to no Tatakai'
       type: special
-      tvdbid: 0
+      tvdbid: 80784
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -70517,9 +70517,9 @@ AnimeMap:
     - malid: 18045
       title: 'Koi to Senkyo to Chocolate: Koi Imouto!'
       type: special
-      tvdbid: 0
+      tvdbid: 259641
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -70535,7 +70535,7 @@ AnimeMap:
     - malid: 18053
       title: 'Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei'
       type: special
-      tvdbid: 0
+      tvdbid: 259641
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -70706,7 +70706,7 @@ AnimeMap:
     - malid: 18149
       title: Ishida to Asakura Special
       type: special
-      tvdbid: 0
+      tvdbid: 265530
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -70823,9 +70823,9 @@ AnimeMap:
     - malid: 18231
       title: Vanquished Queens Specials
       type: special
-      tvdbid: 0
+      tvdbid: 87491
       tvdbseason: 0
-      start: 0
+      start: 33
       useMapping: false
       animeMapping: []
 
@@ -71208,9 +71208,9 @@ AnimeMap:
     - malid: 18419
       title: 'Boku no Imouto wa "Osaka Okan": Uchi no Oniichan wa Tokyo Rule'
       type: special
-      tvdbid: 0
+      tvdbid: 264972
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -71649,9 +71649,9 @@ AnimeMap:
     - malid: 18639
       title: Rinne no Lagrange Season 2 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 254662
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -71901,9 +71901,9 @@ AnimeMap:
     - malid: 18781
       title: 'Puchimas!: Petit iDOLM@STER - Takatsuki Gold Densetsu Special!! Haruka-san Matsuri'
       type: special
-      tvdbid: 0
+      tvdbid: 265386
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -72063,9 +72063,9 @@ AnimeMap:
     - malid: 18881
       title: 'Code Geass: Hangyaku no Lelouch - Kiseki no Birthday Omake Flash'
       type: special
-      tvdbid: 0
+      tvdbid: 79525
       tvdbseason: 0
-      start: 0
+      start: 46
       useMapping: false
       animeMapping: []
 
@@ -72180,9 +72180,9 @@ AnimeMap:
     - malid: 18989
       title: 'Koukaku Kidoutai Arise: Another Mission'
       type: special
-      tvdbid: 0
+      tvdbid: 293491
       tvdbseason: 0
-      start: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -72216,7 +72216,7 @@ AnimeMap:
     - malid: 19029
       title: 'Yuyushiki: Nyanyashiki'
       type: special
-      tvdbid: 0
+      tvdbid: 267437
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -72324,9 +72324,9 @@ AnimeMap:
     - malid: 19099
       title: 'Pokemon: Mewtwo - Kakusei e no Prologue'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 46
       useMapping: false
       animeMapping: []
 
@@ -72585,9 +72585,9 @@ AnimeMap:
     - malid: 19211
       title: Suisei no Gargantia Specials
       type: special
-      tvdbid: 0
+      tvdbid: 267432
       tvdbseason: 0
-      start: 0
+      start: 15
       useMapping: false
       animeMapping: []
 
@@ -72675,7 +72675,7 @@ AnimeMap:
     - malid: 19251
       title: 'Uta no☆Prince-sama♪ Maji Love 2000%: Shining Star Xmas'
       type: special
-      tvdbid: 0
+      tvdbid: 250070
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -72684,9 +72684,9 @@ AnimeMap:
     - malid: 19255
       title: 'Hyakka Ryouran: Samurai Bride Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 186911
       tvdbseason: 0
-      start: 0
+      start: 14
       useMapping: false
       animeMapping: []
 
@@ -72765,7 +72765,7 @@ AnimeMap:
     - malid: 19297
       title: Ketsuekigata-kun! Featuring Yuri & Nasuno
       type: special
-      tvdbid: 0
+      tvdbid: 268588
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -72931,7 +72931,7 @@ AnimeMap:
     - malid: 19431
       title: 'Gokujo.: Souda Onsen ni Ikou!!'
       type: special
-      tvdbid: 0
+      tvdbid: 257788
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -73075,9 +73075,9 @@ AnimeMap:
     - malid: 19511
       title: 'Naruto: Shippuuden - Sunny Side Battle'
       type: special
-      tvdbid: 0
+      tvdbid: 79824
       tvdbseason: 0
-      start: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -73363,7 +73363,7 @@ AnimeMap:
     - malid: 19671
       title: 'Free!: FrFr - Short Movie'
       type: special
-      tvdbid: 0
+      tvdbid: 270065
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -73525,7 +73525,7 @@ AnimeMap:
     - malid: 19759
       title: 'Ansatsu Kyoushitsu: Jump Festa 2013 Special'
       type: special
-      tvdbid: 0
+      tvdbid: 283947
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -73759,9 +73759,9 @@ AnimeMap:
     - malid: 19889
       title: Genshiken Nidaime Specials
       type: special
-      tvdbid: 0
+      tvdbid: 78919
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -73966,9 +73966,9 @@ AnimeMap:
     - malid: 19973
       title: Ashita no Joe Pilots
       type: special
-      tvdbid: 0
+      tvdbid: 81232
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -74119,9 +74119,9 @@ AnimeMap:
     - malid: 20021
       title: 'Sword Art Online: Extra Edition'
       type: special
-      tvdbid: 0
+      tvdbid: 259640
       tvdbseason: 0
-      start: 0
+      start: 10
       useMapping: false
       animeMapping: []
 
@@ -74380,9 +74380,9 @@ AnimeMap:
     - malid: 20141
       title: 'Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 71863
       tvdbseason: 0
-      start: 0
+      start: 39
       useMapping: false
       animeMapping: []
 
@@ -74434,8 +74434,8 @@ AnimeMap:
     - malid: 20159
       title: 'Pokemon: The Origin'
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 273616
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -74488,9 +74488,9 @@ AnimeMap:
     - malid: 20187
       title: 'Genei wo Kakeru Taiyou: Fumikomenai Kokoro'
       type: special
-      tvdbid: 0
+      tvdbid: 269681
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -74767,16 +74767,16 @@ AnimeMap:
     - malid: 20391
       title: 'Hidamari Sketch: Chou Hidamatsuri Special'
       type: special
-      tvdbid: 0
+      tvdbid: 82154
       tvdbseason: 0
-      start: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
     - malid: 20423
       title: 'Kamisama no Inai Nichiyoubi: Kioku'
       type: special
-      tvdbid: 0
+      tvdbid: 270068
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -74902,9 +74902,9 @@ AnimeMap:
     - malid: 20517
       title: Little Busters! EX
       type: special
-      tvdbid: 0
+      tvdbid: 259638
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -75172,9 +75172,9 @@ AnimeMap:
     - malid: 20743
       title: 'Pokemon Best Wishes! Season 2: Decolora Adventure - Dent to Takeshi! Gyarados no Gekirin!!'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 47
       useMapping: false
       animeMapping: []
 
@@ -75289,7 +75289,7 @@ AnimeMap:
     - malid: 20843
       title: 'Senki Zesshou Symphogear G: Senki Zesshou Shinai Symphogear'
       type: special
-      tvdbid: 0
+      tvdbid: 254667
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -75415,9 +75415,9 @@ AnimeMap:
     - malid: 20909
       title: 'Kyoukai no Kanata: Mini Gekijou'
       type: special
-      tvdbid: 0
+      tvdbid: 272697
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -75577,9 +75577,9 @@ AnimeMap:
     - malid: 20987
       title: Yoza-Quar!
       type: special
-      tvdbid: 0
+      tvdbid: 273009
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -75613,7 +75613,7 @@ AnimeMap:
     - malid: 21009
       title: Sekai de Ichiban Tsuyoku Naritai! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 272137
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -75964,7 +75964,7 @@ AnimeMap:
     - malid: 21201
       title: Teekyuu 2 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 262856
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -76171,9 +76171,9 @@ AnimeMap:
     - malid: 21373
       title: Freezing Vibration Specials
       type: special
-      tvdbid: 0
+      tvdbid: 219701
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -76531,7 +76531,7 @@ AnimeMap:
     - malid: 21541
       title: 'Hentai Ouji to Warawanai Neko.: Henneko BBS'
       type: special
-      tvdbid: 0
+      tvdbid: 264047
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -76702,9 +76702,9 @@ AnimeMap:
     - malid: 21635
       title: GJ-bu@
       type: tv_special
-      tvdbid: 0
+      tvdbid: 264055
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -76900,9 +76900,9 @@ AnimeMap:
     - malid: 21737
       title: 'Tamayura: More Aggressive - Ichinichi dake no Shuugakuryokou, nanode'
       type: special
-      tvdbid: 0
+      tvdbid: 195571
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -76972,8 +76972,8 @@ AnimeMap:
     - malid: 21771
       title: Romantica Clock
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 280462
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -76981,8 +76981,8 @@ AnimeMap:
     - malid: 21773
       title: Sugar*Soldier
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 278373
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -77134,9 +77134,9 @@ AnimeMap:
     - malid: 21867
       title: 'Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 72454
       tvdbseason: 0
-      start: 0
+      start: 63
       useMapping: false
       animeMapping: []
 
@@ -77170,9 +77170,9 @@ AnimeMap:
     - malid: 21879
       title: 'Sword Art Online: Sword Art Offline - Extra Edition'
       type: special
-      tvdbid: 0
+      tvdbid: 259640
       tvdbseason: 0
-      start: 0
+      start: 11
       useMapping: false
       animeMapping: []
 
@@ -77563,7 +77563,7 @@ AnimeMap:
     - malid: 22071
       title: 'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.'
       type: special
-      tvdbid: 0
+      tvdbid: 275633
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -77662,9 +77662,9 @@ AnimeMap:
     - malid: 22125
       title: 'Kuroko no Basket: Mou Ikkai Yarimasen ka'
       type: special
-      tvdbid: 0
+      tvdbid: 257765
       tvdbseason: 0
-      start: 0
+      start: 19
       useMapping: false
       animeMapping: []
 
@@ -78076,9 +78076,9 @@ AnimeMap:
     - malid: 22335
       title: Teekyuu 3 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 262856
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -79147,7 +79147,7 @@ AnimeMap:
     - malid: 22745
       title: 'Brothers Conflict: Setsubou'
       type: special
-      tvdbid: 0
+      tvdbid: 270059
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -79345,9 +79345,9 @@ AnimeMap:
     - malid: 22859
       title: 'Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite'
       type: special
-      tvdbid: 0
+      tvdbid: 261862
       tvdbseason: 0
-      start: 0
+      start: 17
       useMapping: false
       animeMapping: []
 
@@ -80083,9 +80083,9 @@ AnimeMap:
     - malid: 23237
       title: Chuunibyou demo Koi ga Shitai! Ren Specials
       type: special
-      tvdbid: 0
+      tvdbid: 261862
       tvdbseason: 0
-      start: 0
+      start: 28
       useMapping: false
       animeMapping: []
 
@@ -80497,9 +80497,9 @@ AnimeMap:
     - malid: 23385
       title: 'Kyoukai no Kanata: Shinonome'
       type: special
-      tvdbid: 0
+      tvdbid: 272697
       tvdbseason: 0
-      start: 0
+      start: 6
       useMapping: false
       animeMapping: []
 
@@ -80587,7 +80587,7 @@ AnimeMap:
     - malid: 23427
       title: 'Oneechan ga Kita: Hajimete no… Kitaa!'
       type: special
-      tvdbid: 0
+      tvdbid: 275625
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -80623,7 +80623,7 @@ AnimeMap:
     - malid: 23447
       title: 'Ano Natsu de Matteru: Bokutachi wa Koukou Saigo no Natsu wo Sugoshinagara, Ano Natsu de Matteiru.'
       type: special
-      tvdbid: 0
+      tvdbid: 255056
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -80632,7 +80632,7 @@ AnimeMap:
     - malid: 23459
       title: 'Sekai Seifuku: Bouryaku no Zvezda - Shin Zvezda Daisakusen'
       type: special
-      tvdbid: 0
+      tvdbid: 275628
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -81136,7 +81136,7 @@ AnimeMap:
     - malid: 23703
       title: 'Gatchaman Crowds: Embrace'
       type: special
-      tvdbid: 0
+      tvdbid: 269873
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -81253,7 +81253,7 @@ AnimeMap:
     - malid: 23735
       title: Kenzen Robo Daimidaler Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278262
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -81388,7 +81388,7 @@ AnimeMap:
     - malid: 23781
       title: Blade & Soul Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278817
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -81820,9 +81820,9 @@ AnimeMap:
     - malid: 23989
       title: Maken-Ki! Two Specials
       type: special
-      tvdbid: 0
+      tvdbid: 252474
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -82027,9 +82027,9 @@ AnimeMap:
     - malid: 24123
       title: Kaette Kita Top wo Nerae! Kagaku Kouza
       type: special
-      tvdbid: 0
+      tvdbid: 81073
       tvdbseason: 0
-      start: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -82540,7 +82540,7 @@ AnimeMap:
     - malid: 24475
       title: Mangaka-san to Assistant-san to The Animation Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278976
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -82810,7 +82810,7 @@ AnimeMap:
     - malid: 24695
       title: 'Gokukoku no Brynhildr: Kara Sawagi'
       type: special
-      tvdbid: 0
+      tvdbid: 279396
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -82873,9 +82873,9 @@ AnimeMap:
     - malid: 24727
       title: 'Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi'
       type: special
-      tvdbid: 0
+      tvdbid: 132961
       tvdbseason: 0
-      start: 0
+      start: 23
       useMapping: false
       animeMapping: []
 
@@ -82900,7 +82900,7 @@ AnimeMap:
     - malid: 24751
       title: 'Akuma no Riddle: Shousha wa Dare? Nukiuchi Test'
       type: special
-      tvdbid: 0
+      tvdbid: 278126
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -82909,9 +82909,9 @@ AnimeMap:
     - malid: 24763
       title: Robot Girls Z Specials
       type: special
-      tvdbid: 0
+      tvdbid: 275573
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -83071,7 +83071,7 @@ AnimeMap:
     - malid: 24821
       title: Isshuukan Friends. Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278819
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -83314,7 +83314,7 @@ AnimeMap:
     - malid: 24913
       title: 'Bokura wa Minna Kawai-sou: Hajimete no'
       type: special
-      tvdbid: 0
+      tvdbid: 278196
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -83359,9 +83359,9 @@ AnimeMap:
     - malid: 24935
       title: Recorder to Randoseru Mi☆ Special
       type: special
-      tvdbid: 0
+      tvdbid: 254652
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -83386,9 +83386,9 @@ AnimeMap:
     - malid: 24973
       title: Bokura wa Minna Kawai-sou Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278196
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -83449,7 +83449,7 @@ AnimeMap:
     - malid: 24991
       title: No Game No Life Specials
       type: special
-      tvdbid: 0
+      tvdbid: 278155
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -83980,7 +83980,7 @@ AnimeMap:
     - malid: 25285
       title: Seireitsukai no Blade Dance Specials
       type: special
-      tvdbid: 0
+      tvdbid: 279984
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84043,9 +84043,9 @@ AnimeMap:
     - malid: 25313
       title: 'Gintama'': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru'
       type: special
-      tvdbid: 0
+      tvdbid: 79895
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -84088,9 +84088,9 @@ AnimeMap:
     - malid: 25365
       title: 'Pokemon XY: Koukoku no Princess Diancie'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 76703
       tvdbseason: 0
-      start: 0
+      start: 53
       useMapping: false
       animeMapping: []
 
@@ -84178,7 +84178,7 @@ AnimeMap:
     - malid: 25439
       title: 'Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe - Shojo Kuriya'
       type: special
-      tvdbid: 0
+      tvdbid: 264522
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84331,7 +84331,7 @@ AnimeMap:
     - malid: 25567
       title: 'DRAMAtical Murder: Data_xx_Transitory'
       type: special
-      tvdbid: 0
+      tvdbid: 279983
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84484,7 +84484,7 @@ AnimeMap:
     - malid: 25635
       title: Space☆Dandy Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 272849
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84511,7 +84511,7 @@ AnimeMap:
     - malid: 25647
       title: Sabage-bu! Specials
       type: special
-      tvdbid: 0
+      tvdbid: 280328
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84592,7 +84592,7 @@ AnimeMap:
     - malid: 25719
       title: 'Futsuu no Joshikousei ga "Locodol" Yattemita.: Nagarekawa, Annai Shitemita.'
       type: special
-      tvdbid: 0
+      tvdbid: 279040
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84742,7 +84742,7 @@ AnimeMap:
     - malid: 25861
       title: 'Inugami-san to Nekoyama-san: Nekoyama-san to Onsen Ryokou'
       type: special
-      tvdbid: 0
+      tvdbid: 278158
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -84823,9 +84823,9 @@ AnimeMap:
     - malid: 25897
       title: 'Love Live! School Idol Project: μ''s →NEXT LoveLive! 2014 - Endless Parade Makuai Drama'
       type: special
-      tvdbid: 0
+      tvdbid: 264533
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -85561,9 +85561,9 @@ AnimeMap:
     - malid: 26213
       title: 'Free! Eternal Summer: Kindan no All Hard!'
       type: special
-      tvdbid: 0
+      tvdbid: 270065
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -86173,7 +86173,7 @@ AnimeMap:
     - malid: 26359
       title: 'Persona 4 the Golden Animation: Thank you Mr. Accomplice'
       type: special
-      tvdbid: 0
+      tvdbid: 282040
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -86371,7 +86371,7 @@ AnimeMap:
     - malid: 27419
       title: 'Tari Tari: Kumottari, Kagayaitari, Mata Itsuka Utattari'
       type: special
-      tvdbid: 0
+      tvdbid: 259634
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -86686,9 +86686,9 @@ AnimeMap:
     - malid: 27601
       title: 'Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars'
       type: special
-      tvdbid: 0
+      tvdbid: 261862
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -86704,7 +86704,7 @@ AnimeMap:
     - malid: 27613
       title: 'Selector Infected WIXOSS: Midoriko-san to Piruruku-tan'
       type: special
-      tvdbid: 0
+      tvdbid: 278327
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -87145,9 +87145,9 @@ AnimeMap:
     - malid: 27887
       title: Yama no Susume Second Season Specials
       type: special
-      tvdbid: 0
+      tvdbid: 264523
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -87244,7 +87244,7 @@ AnimeMap:
     - malid: 27945
       title: Gugure! Kokkuri-san Specials
       type: special
-      tvdbid: 0
+      tvdbid: 283933
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -87505,9 +87505,9 @@ AnimeMap:
     - malid: 28063
       title: 'Sword Art Online II: Sword Art Offline II'
       type: special
-      tvdbid: 0
+      tvdbid: 259640
       tvdbseason: 0
-      start: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -87550,7 +87550,7 @@ AnimeMap:
     - malid: 28077
       title: 'Go! Go! 575: Meippai ni, Hajiketeru?'
       type: special
-      tvdbid: 0
+      tvdbid: 275669
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -87631,7 +87631,7 @@ AnimeMap:
     - malid: 28105
       title: Shirobako Specials
       type: special
-      tvdbid: 0
+      tvdbid: 284564
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -89568,9 +89568,9 @@ AnimeMap:
     - malid: 29093
       title: 'Grisaia no Meikyuu: Caprice no Mayu 0'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 281949
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
@@ -89595,7 +89595,7 @@ AnimeMap:
     - malid: 29101
       title: Grisaia no Kajitsu Specials
       type: special
-      tvdbid: 0
+      tvdbid: 281949
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -89703,7 +89703,7 @@ AnimeMap:
     - malid: 29165
       title: Daitoshokan no Hitsujikai Picture Drama
       type: special
-      tvdbid: 0
+      tvdbid: 283931
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -90918,8 +90918,8 @@ AnimeMap:
     - malid: 29643
       title: 6HP (Six Hearts Princess)
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 372834
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -92952,7 +92952,7 @@ AnimeMap:
     - malid: 30056
       title: 'Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage'
       type: special
-      tvdbid: 0
+      tvdbid: 280330
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -93771,9 +93771,9 @@ AnimeMap:
     - malid: 30191
       title: 'Durarara!!x2 Shou: Watashi no Kokoro wa Nabe Moyou'
       type: special
-      tvdbid: 0
+      tvdbid: 133341
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -93852,9 +93852,9 @@ AnimeMap:
     - malid: 30206
       title: 'Amagi Brilliant Park: Nonbirishiteiru Hima ga Nai!'
       type: special
-      tvdbid: 0
+      tvdbid: 280330
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -93996,9 +93996,9 @@ AnimeMap:
     - malid: 30237
       title: 'Hyakka Ryouran: Samurai After Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 186911
       tvdbseason: 0
-      start: 0
+      start: 22
       useMapping: false
       animeMapping: []
 
@@ -94590,8 +94590,8 @@ AnimeMap:
     - malid: 30381
       title: Sousei no Aquarion Evol
       type: special
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 79886
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -95112,9 +95112,9 @@ AnimeMap:
     - malid: 30464
       title: Shinmai Maou no Testament Specials
       type: special
-      tvdbid: 0
+      tvdbid: 284719
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -95481,9 +95481,9 @@ AnimeMap:
     - malid: 30641
       title: Yankee-kun na Yamada-kun to Megane-chan to Majo
       type: special
-      tvdbid: 0
+      tvdbid: 289744
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -95734,7 +95734,7 @@ AnimeMap:
     - malid: 30714
       title: Owaranai Seraph
       type: special
-      tvdbid: 0
+      tvdbid: 289906
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -96382,9 +96382,9 @@ AnimeMap:
     - malid: 30902
       title: Yuru Yuri Nachuyachumi!+
       type: tv_special
-      tvdbid: 0
+      tvdbid: 250022
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -96490,7 +96490,7 @@ AnimeMap:
     - malid: 30919
       title: 'Sora no Method: Aru Shoujo no Kyuujitsu★'
       type: special
-      tvdbid: 0
+      tvdbid: 279981
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -97237,9 +97237,9 @@ AnimeMap:
     - malid: 31051
       title: 'Kuroko no Basket: Saikou no Present desu'
       type: special
-      tvdbid: 0
+      tvdbid: 257765
       tvdbseason: 0
-      start: 0
+      start: 40
       useMapping: false
       animeMapping: []
 
@@ -97318,7 +97318,7 @@ AnimeMap:
     - malid: 31070
       title: Etotama Specials
       type: special
-      tvdbid: 0
+      tvdbid: 291286
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -97561,7 +97561,7 @@ AnimeMap:
     - malid: 31138
       title: 'Overlord: Ple Ple Pleiades'
       type: special
-      tvdbid: 0
+      tvdbid: 294002
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -97867,7 +97867,7 @@ AnimeMap:
     - malid: 31234
       title: Himouto! Umaru-chanS
       type: special
-      tvdbid: 0
+      tvdbid: 293121
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -98101,9 +98101,9 @@ AnimeMap:
     - malid: 31283
       title: Bikini Warriors Special
       type: special
-      tvdbid: 0
+      tvdbid: 295897
       tvdbseason: 0
-      start: 0
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -98218,9 +98218,9 @@ AnimeMap:
     - malid: 31324
       title: 'Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!'
       type: special
-      tvdbid: 0
+      tvdbid: 281949
       tvdbseason: 0
-      start: 0
+      start: 8
       useMapping: false
       animeMapping: []
 
@@ -98308,9 +98308,9 @@ AnimeMap:
     - malid: 31368
       title: Grisaia no Rakuen Specials
       type: special
-      tvdbid: 0
+      tvdbid: 281949
       tvdbseason: 0
-      start: 0
+      start: 9
       useMapping: false
       animeMapping: []
 
@@ -98524,7 +98524,7 @@ AnimeMap:
     - malid: 31426
       title: 'Urawa no Usagi-chan: Natsu no Hi to, Bushitsu to, Tomodachi to'
       type: special
-      tvdbid: 0
+      tvdbid: 291724
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -98920,7 +98920,7 @@ AnimeMap:
     - malid: 31530
       title: 'Classroom☆Crisis: Tabi no Haji wa Uwanuri'
       type: special
-      tvdbid: 0
+      tvdbid: 295220
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -98992,9 +98992,9 @@ AnimeMap:
     - malid: 31552
       title: 'Durarara!!x2 Ten: Onoroke Chakapoko'
       type: special
-      tvdbid: 0
+      tvdbid: 133341
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -99253,9 +99253,9 @@ AnimeMap:
     - malid: 31608
       title: Teekyuu 4 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 262856
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -99496,16 +99496,16 @@ AnimeMap:
     - malid: 31668
       title: Teekyuu 5 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 262856
       tvdbseason: 0
-      start: 0
+      start: 7
       useMapping: false
       animeMapping: []
 
     - malid: 31669
       title: Takamiya Nasuno desu! Teekyuu Spin-off Special
       type: special
-      tvdbid: 0
+      tvdbid: 292829
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -99586,7 +99586,7 @@ AnimeMap:
     - malid: 31683
       title: 'Danchigai: Juusan Goutou Sentou Ikitai!!'
       type: special
-      tvdbid: 0
+      tvdbid: 297317
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -99829,7 +99829,7 @@ AnimeMap:
     - malid: 31736
       title: 'Valkyrie Drive: Mermaid Specials'
       type: special
-      tvdbid: 0
+      tvdbid: 299326
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -99919,7 +99919,7 @@ AnimeMap:
     - malid: 31754
       title: 'Aoharu x Kikanjuu: Kemono-tachi no Senjou da na!'
       type: special
-      tvdbid: 0
+      tvdbid: 295204
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -100117,7 +100117,7 @@ AnimeMap:
     - malid: 31797
       title: Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken Specials
       type: special
-      tvdbid: 0
+      tvdbid: 284073
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -100522,7 +100522,7 @@ AnimeMap:
     - malid: 31909
       title: 'Wakaba*Girl: Onsen Tsukaritai'
       type: special
-      tvdbid: 0
+      tvdbid: 293775
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -100900,9 +100900,9 @@ AnimeMap:
     - malid: 32026
       title: Osomatsu-san Special
       type: special
-      tvdbid: 0
+      tvdbid: 300989
       tvdbseason: 0
-      start: 0
+      start: 1
       useMapping: false
       animeMapping: []
 
@@ -101143,9 +101143,9 @@ AnimeMap:
     - malid: 32122
       title: 'Gintama°: Umai-mono wa Atomawashi ni Suru to Yokodorisareru kara Yappari Saki ni Kue'
       type: special
-      tvdbid: 0
+      tvdbid: 79895
       tvdbseason: 0
-      start: 0
+      start: 12
       useMapping: false
       animeMapping: []
 
@@ -101260,9 +101260,9 @@ AnimeMap:
     - malid: 32151
       title: 'Senki Zesshou Symphogear GX: Senki Zesshou Shinai Symphogear'
       type: special
-      tvdbid: 0
+      tvdbid: 254667
       tvdbseason: 0
-      start: 0
+      start: 3
       useMapping: false
       animeMapping: []
 
@@ -266374,9 +266374,9 @@ AnimeMap:
     - malid: 63153
       title: Hyakushou Kizoku 3rd Season Specials
       type: special
-      tvdbid: 0
+      tvdbid: 426432
       tvdbseason: 0
-      start: 0
+      start: 5
       useMapping: false
       animeMapping: []
 
@@ -268768,8 +268768,8 @@ AnimeMap:
     - malid: 63619
       title: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 474990
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -269002,8 +269002,8 @@ AnimeMap:
     - malid: 63709
       title: Komekami! Girls
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 476071
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -269686,9 +269686,9 @@ AnimeMap:
     - malid: 63857
       title: Tsue to Tsurugi no Wistoria Recap
       type: tv_special
-      tvdbid: 0
+      tvdbid: 445829
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -269947,8 +269947,8 @@ AnimeMap:
     - malid: 63964
       title: 'Cheongchun Blossom: Uliui Bom'
       type: tv
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 476840
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
