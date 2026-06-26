@@ -51586,6 +51586,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64359
+      title: 'Meitantei Conan: Hanamaru na Answer'
+      type: tv_special
+      tvdbid: 72454
+      tvdbseason: 0
+      start: 84
+      useMapping: false
+      animeMapping: []
+
     - malid: 64378
       title: 'Hokuto no Ken: Kenougun Zako-tachi no Banka Part 2'
       type: tv
