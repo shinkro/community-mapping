@@ -50677,6 +50677,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 62276
+      title: 'Guimi Zhi Zhu Tebie Pian: Liewu'
+      type: ona
+      tvdbid: 464419
+      tvdbseason: 0
+      start: 18
+      useMapping: false
+      animeMapping: []
+
     - malid: 62289
       title: Buchigire Reijou wa Houfuku wo Chikaimashita. Madousho no Chikara de Sokoku wo Tatakitsubushimasu
       type: tv
