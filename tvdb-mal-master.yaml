@@ -271459,9 +271459,9 @@ AnimeMap:
     - malid: 64359
       title: 'Meitantei Conan: Hanamaru na Answer'
       type: tv_special
-      tvdbid: 0
+      tvdbid: 72454
       tvdbseason: 0
-      start: 0
+      start: 84
       useMapping: false
       animeMapping: []
 
