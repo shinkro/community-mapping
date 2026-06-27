@@ -251509,8 +251509,8 @@ AnimeMap:
     - malid: 60571
       title: Jiang Ye
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 477644
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -251644,8 +251644,8 @@ AnimeMap:
     - malid: 60588
       title: Kai Pai La! Guaishou Da Dianying
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 477366
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -251680,8 +251680,8 @@ AnimeMap:
     - malid: 60592
       title: 'Dadao Duxing: Die Long Bian'
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 476533
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -257221,8 +257221,8 @@ AnimeMap:
     - malid: 61557
       title: 'Nitian Xie Shen: Nian Fan'
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 434200
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -257797,8 +257797,8 @@ AnimeMap:
     - malid: 61642
       title: Wan Ren Zhi Shang
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 479068
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -260992,8 +260992,8 @@ AnimeMap:
     - malid: 62234
       title: 'Zhan Shen: Fanchen Shenyu II'
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 451380
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -263530,8 +263530,8 @@ AnimeMap:
     - malid: 62651
       title: Cang Yuan Tu 3
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 436384
+      tvdbseason: 3
       start: 0
       useMapping: false
       animeMapping: []
@@ -263899,8 +263899,8 @@ AnimeMap:
     - malid: 62718
       title: 'Xingchen Bian: Zuizhong Ji'
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 355346
+      tvdbseason: 7
       start: 0
       useMapping: false
       animeMapping: []
@@ -263953,9 +263953,9 @@ AnimeMap:
     - malid: 62726
       title: 'Tunshi Xingkong Movie: Juezhan Yuanshi Xing'
       type: ona
-      tvdbid: 0
+      tvdbid: 392226
       tvdbseason: 0
-      start: 0
+      start: 2
       useMapping: false
       animeMapping: []
 
@@ -266221,8 +266221,8 @@ AnimeMap:
     - malid: 63125
       title: Odekake Kozame 2nd Season
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 435306
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -268741,7 +268741,7 @@ AnimeMap:
     - malid: 63606
       title: 'Zhe Tian Movie: Bei Guan Zhan Wang Teng'
       type: ona
-      tvdbid: 0
+      tvdbid: 434304
       tvdbseason: 0
       start: 0
       useMapping: false
@@ -269911,8 +269911,8 @@ AnimeMap:
     - malid: 63957
       title: Shiguang Xiao Juchang
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 435397
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -269956,8 +269956,8 @@ AnimeMap:
     - malid: 63967
       title: Panlong
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 453413
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -270838,8 +270838,8 @@ AnimeMap:
     - malid: 64181
       title: 'Transformers: Wild King W'
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 463805
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
@@ -271495,8 +271495,8 @@ AnimeMap:
     - malid: 64375
       title: Cheng Huang Lu
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 479072
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -271540,9 +271540,9 @@ AnimeMap:
     - malid: 64381
       title: 'Osomatsu-san 4th Season: The Matsuno Ten'
       type: tv_special
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
+      tvdbid: 300989
+      tvdbseason: 4
+      start: 13
       useMapping: false
       animeMapping: []
 
@@ -271639,8 +271639,8 @@ AnimeMap:
     - malid: 64398
       title: Guangyin Zhi Wai 2
       type: ona
-      tvdbid: 0
-      tvdbseason: 0
+      tvdbid: 472119
+      tvdbseason: 2
       start: 0
       useMapping: false
       animeMapping: []
