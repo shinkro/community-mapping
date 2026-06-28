@@ -258246,7 +258246,7 @@ AnimeMap:
 
     - malid: 61756
       title: 'Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero'
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -261305,7 +261305,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62286
-      title: 'Guimi Zhi Zhu: Caidan'
+      title: 'Guimi Zhi Zhu: Q Ban Xiao Juchang'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -264077,7 +264077,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62743
-      title: Qing Shan
+      title: Qingshan
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -264149,7 +264149,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62751
-      title: Nian Fan Chen
+      title: Nian Fanchen
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -267380,7 +267380,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63331
-      title: 'Uchuu Kishi Tekkaman Blade: Nagaki no Jyokoku'
+      title: 'Uchuu Kishi Tekkaman Blade: Nagaki Tatakai no Jokyoku'
       type: tv_special
       tvdbid: 0
       tvdbseason: 0
@@ -268767,7 +268767,7 @@ AnimeMap:
 
     - malid: 63619
       title: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
-      type: tv
+      type: ona
       tvdbid: 474990
       tvdbseason: 1
       start: 0
@@ -268793,7 +268793,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63632
-      title: 'Guimi Zhi Zhu: Wu Mian Ren'
+      title: 'Guimi Zhi Zhu: Wu Mian Ren Pian'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -271791,6 +271791,303 @@ AnimeMap:
 
     - malid: 64441
       title: Kanan-sama wa Akumade Choroi 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64444
+      title: Qiu Mo
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64445
+      title: 'Xian Ni Movie: Shi Xian Zhi Zhan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64446
+      title: Shi Ri Zhong Yan
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64447
+      title: Wo You Yi Zuo Maoxian Wu
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64448
+      title: 'Doupo Cangqiong Movie: Shuang Di Zhi Zhan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64449
+      title: Higurashi no Naku Koro ni (Shinsaku TV Animation)
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64450
+      title: 'Zhu Xian Movie: Shi Nian Shu Tu'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64451
+      title: 'Lian Qi Shi Wan Nian Special: Yangji Tianxia'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64452
+      title: Koisuru (Otome) no Tsukurikata
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64454
+      title: 'Sheng Xu Movie: Lu Jin Liaoyuan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64455
+      title: Yao Shen Ji 10th Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64456
+      title: Gu Wei Nan Ting 2nd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64457
+      title: 'Jian Lai Movie: Wen Sheng Yi Mai'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64458
+      title: 'Tunshi Xingkong Movie: Jie Shou Weiji'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64459
+      title: Fool Night
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64460
+      title: 'Shen Yin Wangzuo: Sheng Babie Zhi Zhan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64461
+      title: You Shou Yan 6th Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64462
+      title: Re:bel Robotica
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64463
+      title: Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64466
+      title: Nabe ni Tama wo Ukenagara
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64467
+      title: Sudachi no Maoujou
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64468
+      title: Gokigen You, Ikkyoku Ikaga?
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64469
+      title: Roman Jet Charisma
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64477
+      title: Abyss in the World
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64481
+      title: Shuumatsu no Walküre IV
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64482
+      title: Snowball Earth 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64483
+      title: Zombie Stage
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64484
+      title: Kanojo, Okarishimasu 6th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64487
+      title: 'Hokuto no Ken: Fist of the North Star Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64488
+      title: Poltergeist
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64490
+      title: Sakujitsu
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64491
+      title: Kishi Kaisen
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64495
+      title: Kill Ao 2nd Season
       type: tv
       tvdbid: 0
       tvdbseason: 0
