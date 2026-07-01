@@ -170910,7 +170910,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45781
-      title: Cike Nieyinniang Qianchuan
+      title: 'Cike Nie Yinniang: Qianzhuan'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -260649,7 +260649,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62276
-      title: 'Guimi Zhi Zhu Tebie Pian: Liewu'
+      title: Guimi Zhi Zhu Specials
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -271478,6 +271478,150 @@ AnimeMap:
     - malid: 64495
       title: Kill Ao 2nd Season
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64500
+      title: Tsue to Tsurugi no Wistoria Season 3
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64501
+      title: LONA
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64502
+      title: Chibi Godzilla no Gyakushuu 4th Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64503
+      title: Yozakura-san Chi no Daisakusen 2nd Season Part 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64505
+      title: 'Diamond no Ace: Act II Second Season Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64506
+      title: Homie's Tie!!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64509
+      title: Shi Wangzhe A? 6th Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64510
+      title: 'Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64511
+      title: Turn Around For Me
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64512
+      title: Imamura Shoken CMs
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64513
+      title: Gentle Teaching
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64516
+      title: Tongari Boushi no Atelier 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64519
+      title: 'Bananya: At-Home Party'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64520
+      title: Sensou Kyoushitsu
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64524
+      title: Marriagetoxin 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64525
+      title: Rimu Zhi Xi
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
