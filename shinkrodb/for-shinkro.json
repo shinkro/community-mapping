@@ -141688,7 +141688,8 @@
       "releaseDate": "2014-11-29"
    },
    {
-      "title": "Cike Nieyinniang Qianchuan",
+      "title": "Cike Nie Yinniang: Qianzhuan",
+      "enTitle": "The Assassin: The Pre-Sequel",
       "malid": 45781,
       "type": "movie",
       "releaseDate": "2015-08-20"
@@ -173133,6 +173134,7 @@
       "enTitle": "Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs 2",
       "malid": 54000,
       "anidbid": 17796,
+      "tvdbid": 412826,
       "type": "tv",
       "releaseDate": "2026-07-08"
    },
@@ -194468,6 +194470,7 @@
       "enTitle": "Mashle: Magic and Muscles Season 3",
       "malid": 58934,
       "anidbid": 18653,
+      "tvdbid": 421737,
       "type": "tv",
       "releaseDate": "2027"
    },
@@ -195702,6 +195705,7 @@
       "enTitle": "Mushoku Tensei: Jobless Reincarnation Season 3",
       "malid": 59193,
       "anidbid": 18727,
+      "tvdbid": 371310,
       "type": "tv",
       "releaseDate": "2026-07-06"
    },
@@ -200022,7 +200026,7 @@
       "malid": 60152,
       "anidbid": 18937,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Rilakkuma",
@@ -201729,6 +201733,7 @@
       "enTitle": "Skeleton Knight in Another World II",
       "malid": 60522,
       "anidbid": 19053,
+      "tvdbid": 401279,
       "type": "tv",
       "releaseDate": "2026-07-06"
    },
@@ -202434,6 +202439,7 @@
       "enTitle": "Bleach: Thousand-Year Blood War - The Calamity",
       "malid": 60636,
       "anidbid": 19079,
+      "tvdbid": 74796,
       "type": "tv",
       "releaseDate": "2026-07-25"
    },
@@ -204184,12 +204190,12 @@
    },
    {
       "title": "Himekishi-sama no Himo",
-      "enTitle": "He Is a Kept Man for Princess Knight.",
+      "enTitle": "The Kept Man of the Princess Knight",
       "malid": 61015,
       "anidbid": 19160,
       "tvdbid": 460310,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Alps no Roujin Heidi no Ojii-san",
@@ -206620,6 +206626,7 @@
    },
    {
       "title": "Shiguang Dailiren III",
+      "enTitle": "Link Click Season 3",
       "malid": 61607,
       "type": "ona",
       "releaseDate": "2026-08-14"
@@ -207189,13 +207196,6 @@
       "anidbid": 19374,
       "type": "ona",
       "releaseDate": "2025-05-30"
-   },
-   {
-      "title": "Chibi Godzilla no Gyakushuu 3rd Season",
-      "malid": 61765,
-      "anidbid": 19427,
-      "type": "tv",
-      "releaseDate": "2025-07-02"
    },
    {
       "title": "Shinkalion: Change the World - E4 Max Toki Tokubetsu PV",
@@ -207780,6 +207780,7 @@
       "enTitle": "From Old Country Bumpkin to Master Swordsman Season 2",
       "malid": 61897,
       "anidbid": 19400,
+      "tvdbid": 452710,
       "type": "tv",
       "releaseDate": "2026-07-08"
    },
@@ -208247,7 +208248,7 @@
       "malid": 61990,
       "anidbid": 19445,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026"
    },
    {
       "title": "Azarashi no Eru Aru",
@@ -208659,7 +208660,7 @@
       "anidbid": 19484,
       "tvdbid": 465987,
       "type": "tv",
-      "releaseDate": "2026-07-10"
+      "releaseDate": "2026-07-03"
    },
    {
       "title": "Cyborg 009: Nemesis",
@@ -208733,7 +208734,7 @@
    },
    {
       "title": "Ibitte Konai Gibo to Gishi",
-      "enTitle": "My Mother-in-Law and Sister-in-Law Who Don't Bully Me.",
+      "enTitle": "My Stepmother and Stepsisters Aren't Wicked",
       "malid": 62102,
       "anidbid": 19492,
       "tvdbid": 466092,
@@ -209231,6 +209232,7 @@
    },
    {
       "title": "One Piece: Heroines",
+      "enTitle": "One Piece: Heroines",
       "malid": 62233,
       "anidbid": 19524,
       "type": "tv_special",
@@ -209435,7 +209437,7 @@
       "releaseDate": ""
    },
    {
-      "title": "Guimi Zhi Zhu Tebie Pian: Liewu",
+      "title": "Guimi Zhi Zhu Specials",
       "enTitle": "Lord of Mysteries Specials",
       "malid": 62276,
       "type": "ona",
@@ -210160,6 +210162,7 @@
    },
    {
       "title": "BanG Dream! Yume∞Mita",
+      "enTitle": "BanG Dream! YUME∞MITA",
       "malid": 62430,
       "anidbid": 19566,
       "tvdbid": 467841,
@@ -211325,6 +211328,7 @@
    },
    {
       "title": "Let's Go Kaiki-gumi",
+      "enTitle": "Let's Go Kaikigumi",
       "malid": 62683,
       "anidbid": 19646,
       "tvdbid": 469143,
@@ -211990,6 +211994,7 @@
       "enTitle": "The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3",
       "malid": 62811,
       "anidbid": 19663,
+      "tvdbid": 432050,
       "type": "tv",
       "releaseDate": "2026-07-05"
    },
@@ -213170,7 +213175,7 @@
    },
    {
       "title": "Tetsunabe no Jan!",
-      "enTitle": "Iron Wok Jan",
+      "enTitle": "Iron Wok Jan!",
       "malid": 63100,
       "anidbid": 19768,
       "tvdbid": 471657,
@@ -214067,7 +214072,7 @@
    },
    {
       "title": "Iwamoto-senpai no Suisen",
-      "enTitle": "Recommendation from Mr. Iwamoto",
+      "enTitle": "Recommendations from Iwamoto-Senpai",
       "malid": 63324,
       "anidbid": 19837,
       "tvdbid": 472831,
@@ -214340,6 +214345,7 @@
    },
    {
       "title": "Yani Neko",
+      "enTitle": "Chainsmoker Cat",
       "malid": 63403,
       "anidbid": 19873,
       "tvdbid": 473423,
@@ -214611,6 +214617,7 @@
    },
    {
       "title": "Ushiro no Shoumen Kamui-san",
+      "enTitle": "KAMUI: He's Behind You",
       "malid": 63468,
       "anidbid": 19889,
       "tvdbid": 473913,
@@ -214686,6 +214693,7 @@
    },
    {
       "title": "Sora wa Akai Kawa no Hotori",
+      "enTitle": "Red River",
       "malid": 63489,
       "anidbid": 19894,
       "tvdbid": 474027,
@@ -214813,6 +214821,7 @@
    },
    {
       "title": "Perfect Addiction",
+      "enTitle": "Perfect Addiction",
       "malid": 63514,
       "type": "tv",
       "releaseDate": "2026-07-08"
@@ -215493,6 +215502,7 @@
       "title": "Vertex Force",
       "malid": 63764,
       "anidbid": 19957,
+      "tvdbid": 475739,
       "type": "tv",
       "releaseDate": "2026-10"
    },
@@ -215675,6 +215685,7 @@
       "enTitle": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2",
       "malid": 63817,
       "anidbid": 19978,
+      "tvdbid": 457532,
       "type": "tv",
       "releaseDate": "2026-07-04"
    },
@@ -217115,6 +217126,7 @@
       "title": "Dengeki Daisy",
       "malid": 64374,
       "anidbid": 20086,
+      "tvdbid": 479020,
       "type": "tv",
       "releaseDate": "2027"
    },
@@ -217152,6 +217164,7 @@
       "enTitle": "Fall in Love, You False Angels",
       "malid": 64380,
       "anidbid": 20091,
+      "tvdbid": 479132,
       "type": "tv",
       "releaseDate": "2027"
    },
@@ -217327,6 +217340,7 @@
       "title": "Akane-banashi 2nd Season",
       "malid": 64439,
       "anidbid": 20117,
+      "tvdbid": 466488,
       "type": "tv",
       "releaseDate": "2027-01"
    },
@@ -217556,5 +217570,105 @@
       "malid": 64495,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "Tsue to Tsurugi no Wistoria Season 3",
+      "enTitle": "Wistoria: Wand and Sword Season 3",
+      "malid": 64500,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "LONA",
+      "enTitle": "Laboratory of Optics and Neural Analysis",
+      "malid": 64501,
+      "anidbid": 20140,
+      "type": "tv",
+      "releaseDate": "2027-04"
+   },
+   {
+      "title": "Yozakura-san Chi no Daisakusen 2nd Season Part 2",
+      "enTitle": "Mission: Yozakura Family Season 2 Part 2",
+      "malid": 64503,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Diamond no Ace: Act II Second Season Part 2",
+      "enTitle": "Ace of Diamond Act II Season 2 Part 2",
+      "malid": 64505,
+      "type": "tv",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Homie's Tie!!",
+      "malid": 64506,
+      "type": "music",
+      "releaseDate": "2026-06-28"
+   },
+   {
+      "title": "Shi Wangzhe A? 6th Season",
+      "malid": 64509,
+      "type": "ona",
+      "releaseDate": "2026-07-23"
+   },
+   {
+      "title": "Ruguo Lishi Shi Yiqun Miao: Daming Huangchao Pian",
+      "malid": 64510,
+      "type": "ona",
+      "releaseDate": "2026-07-11"
+   },
+   {
+      "title": "Turn Around For Me",
+      "malid": 64511,
+      "type": "music",
+      "releaseDate": "2024-05-10"
+   },
+   {
+      "title": "Imamura Shoken CMs",
+      "enTitle": "Imamura Securities CMs",
+      "malid": 64512,
+      "type": "cm",
+      "releaseDate": "2026-03-31"
+   },
+   {
+      "title": "Gentle Teaching",
+      "malid": 64513,
+      "type": "music",
+      "releaseDate": "2025-09-03"
+   },
+   {
+      "title": "Tongari Boushi no Atelier 2nd Season",
+      "enTitle": "Witch Hat Atelier Season 2",
+      "malid": 64516,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Bananya: At-Home Party",
+      "malid": 64519,
+      "type": "ona",
+      "releaseDate": "2026-07-04"
+   },
+   {
+      "title": "Sensou Kyoushitsu",
+      "enTitle": "The Bugle Call",
+      "malid": 64520,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Marriagetoxin 2nd Season",
+      "enTitle": "Marriagetoxin Season 2",
+      "malid": 64524,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Rimu Zhi Xi",
+      "enTitle": "The Quintet of the Sunset",
+      "malid": 64525,
+      "type": "ona",
+      "releaseDate": "2018-08"
    }
 ]
