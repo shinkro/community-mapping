@@ -231,6 +231,21 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 28
+      title: Yakitate!! Japan
+      type: tv
+      tvdbid: 76014
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 27
+        - tvdbseason: 3
+          start: 52
+
     - malid: 29
       title: Zipang
       type: tv
@@ -585,6 +600,15 @@ AnimeMap:
       title: Shin Kidou Senki Gundam Wing
       type: tv
       tvdbid: 79327
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 91
+      title: 'Shin Kidou Senki Gundam Wing: Endless Waltz'
+      type: ova
+      tvdbid: 445110
       tvdbseason: 1
       start: 0
       useMapping: false
@@ -20234,6 +20258,19 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 12431
+      title: Uchuu Kyoudai
+      type: tv
+      tvdbid: 256705
+      tvdbseason: 0
+      start: 0
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 1
+          start: 0
+        - tvdbseason: 2
+          start: 52
+
     - malid: 12445
       title: Tasogare Otome x Amnesia
       type: tv
@@ -28451,6 +28488,15 @@ AnimeMap:
       title: Ooya-san wa Shishunki!
       type: tv
       tvdbid: 304491
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 31629
+      title: Granblue Fantasy The Animation
+      type: tv
+      tvdbid: 319981
       tvdbseason: 1
       start: 0
       useMapping: false
