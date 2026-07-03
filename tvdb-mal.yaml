@@ -51672,7 +51672,7 @@ AnimeMap:
       type: tv
       tvdbid: 457532
       tvdbseason: 2
-      start: 1
+      start: 0
       useMapping: false
       animeMapping: []
 
