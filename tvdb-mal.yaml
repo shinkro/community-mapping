@@ -244,7 +244,7 @@ AnimeMap:
         - tvdbseason: 2
           start: 27
         - tvdbseason: 3
-          start: 52
+          start: 53
 
     - malid: 29
       title: Zipang
@@ -28497,10 +28497,17 @@ AnimeMap:
       title: Granblue Fantasy The Animation
       type: tv
       tvdbid: 319981
-      tvdbseason: 1
+      tvdbseason: 0
       start: 0
-      useMapping: false
-      animeMapping: []
+      useMapping: true
+      animeMapping:
+        - tvdbseason: 0
+          start: 0
+          mappingType: explicit
+          explicitEpisodes:
+            1: 13
+        - tvdbseason: 1
+          start: 1
 
     - malid: 31630
       title: 'Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!'
