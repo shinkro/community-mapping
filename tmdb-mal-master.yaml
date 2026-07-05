@@ -707,10 +707,6 @@ animeMovies:
       tmdbid: 0
       malid: 10603
 
-    - mainTitle: Deva Zan
-      tmdbid: 866576
-      malid: 10639
-
     - mainTitle: 'Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!'
       tmdbid: 609197
       malid: 10659
@@ -1090,10 +1086,6 @@ animeMovies:
     - mainTitle: Sonyeon 007 Jihajeguk
       tmdbid: 0
       malid: 18303
-
-    - mainTitle: Meoteoldosa
-      tmdbid: 0
-      malid: 18311
 
     - mainTitle: Dokkaebi Gamtu
       tmdbid: 0
@@ -6727,10 +6719,6 @@ animeMovies:
       tmdbid: 0
       malid: 59167
 
-    - mainTitle: Grotesqqque
-      tmdbid: 0
-      malid: 59217
-
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
       malid: 59224
@@ -7614,4 +7602,8 @@ animeMovies:
     - mainTitle: Majo no Tani no Yoru
       tmdbid: 0
       malid: 64431
+
+    - mainTitle: 'Ore dake Level Up na Ken: Beyond the System'
+      tmdbid: 0
+      malid: 64546
 
