@@ -707,10 +707,6 @@ animeMovies:
       tmdbid: 0
       malid: 10603
 
-    - mainTitle: Deva Zan
-      tmdbid: 0
-      malid: 10639
-
     - mainTitle: 'Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!'
       tmdbid: 0
       malid: 10659
@@ -1090,10 +1086,6 @@ animeMovies:
     - mainTitle: Sonyeon 007 Jihajeguk
       tmdbid: 0
       malid: 18303
-
-    - mainTitle: Meoteoldosa
-      tmdbid: 0
-      malid: 18311
 
     - mainTitle: Dokkaebi Gamtu
       tmdbid: 0
@@ -5091,10 +5083,6 @@ animeMovies:
       tmdbid: 0
       malid: 50577
 
-    - mainTitle: Mahoutsukai no Yoru
-      tmdbid: 0
-      malid: 50668
-
     - mainTitle: Pochi Hana
       tmdbid: 0
       malid: 50687
@@ -5539,7 +5527,7 @@ animeMovies:
       tmdbid: 0
       malid: 53517
 
-    - mainTitle: Sword Art Online (Original Movie)
+    - mainTitle: 'Sword Art Online Movie: Integral Domain'
       tmdbid: 0
       malid: 53529
 
@@ -6727,10 +6715,6 @@ animeMovies:
       tmdbid: 0
       malid: 59167
 
-    - mainTitle: Grotesqqque
-      tmdbid: 0
-      malid: 59217
-
     - mainTitle: 'SINoALICE: Ichiban Saigo no Monogatari'
       tmdbid: 0
       malid: 59224
@@ -7219,10 +7203,6 @@ animeMovies:
       tmdbid: 0
       malid: 61688
 
-    - mainTitle: 'Foxing: Kitsuné-tsuki'
-      tmdbid: 0
-      malid: 61783
-
     - mainTitle: 'Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party'
       tmdbid: 0
       malid: 61806
@@ -7563,10 +7543,6 @@ animeMovies:
       tmdbid: 0
       malid: 64213
 
-    - mainTitle: Mou Hitori no Alice
-      tmdbid: 0
-      malid: 64225
-
     - mainTitle: 'Omocha Bako Series: Tokkyuu Kantai'
       tmdbid: 0
       malid: 64231
@@ -7614,4 +7590,20 @@ animeMovies:
     - mainTitle: Majo no Tani no Yoru
       tmdbid: 0
       malid: 64431
+
+    - mainTitle: 'Ore dake Level Up na Ken: Beyond the System'
+      tmdbid: 0
+      malid: 64546
+
+    - mainTitle: Bimo Xinglu
+      tmdbid: 0
+      malid: 64571
+
+    - mainTitle: Rusuban (2026)
+      tmdbid: 0
+      malid: 64580
+
+    - mainTitle: Wu Liuqi Movie
+      tmdbid: 0
+      malid: 64583
 

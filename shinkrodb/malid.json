@@ -41393,8 +41393,8 @@
    {
       "title": "Deva Zan",
       "malid": 10639,
-      "type": "movie",
-      "releaseDate": "2010-12-21"
+      "type": "unknown",
+      "releaseDate": ""
    },
    {
       "title": "Gintama: Dai Hanseikai",
@@ -89432,6 +89432,13 @@
       "malid": 36816,
       "type": "movie",
       "releaseDate": "2018-05-18"
+   },
+   {
+      "title": "Sunohara-sou no Kanrinin-san",
+      "enTitle": "Miss Caretaker of Sunohara-sou",
+      "malid": 36817,
+      "type": "tv",
+      "releaseDate": "2018-07-05"
    },
    {
       "title": "Sunohara-sou no Kanrinin-san",
@@ -140843,7 +140850,7 @@
       "enTitle": "Witch on the Holy Night",
       "malid": 50668,
       "type": "movie",
-      "releaseDate": "2026"
+      "releaseDate": "2026-11-20"
    },
    {
       "title": "Bye Bye Rainy",
@@ -150541,10 +150548,11 @@
       "releaseDate": "2023-10-05"
    },
    {
-      "title": "Sword Art Online (Original Movie)",
+      "title": "Sword Art Online Movie: Integral Domain",
+      "enTitle": "Sword Art Online Movie: Integral Domain",
       "malid": 53529,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2028"
    },
    {
       "title": "Halloween Pajama",
@@ -172638,10 +172646,10 @@
    },
    {
       "title": "Mashle: Sanma Taisou Shinkakusha Saishuu Shiken-hen",
-      "enTitle": "Mashle: Magic and Muscles Season 3",
+      "enTitle": "Mashle: Magic and Muscles - The Tri-Magicathlon Divine Visionary Final Exam Arc",
       "malid": 58934,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-01"
    },
    {
       "title": "Nyaaaanvy",
@@ -173224,11 +173232,11 @@
       "releaseDate": "1989-06-02"
    },
    {
-      "title": "Dungeon Meshi 2nd Season",
+      "title": "Dungeon Meshi Season 2",
       "enTitle": "Delicious in Dungeon Season 2",
       "malid": 59068,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-10"
    },
    {
       "title": "Guilty Gear Strive: Dual Rulers",
@@ -173816,7 +173824,7 @@
       "title": "Magic Knight Rayearth (2026)",
       "malid": 59204,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-07"
    },
    {
       "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
@@ -173884,7 +173892,7 @@
       "title": "Grotesqqque",
       "malid": 59217,
       "type": "movie",
-      "releaseDate": "2026"
+      "releaseDate": "2026-11-06"
    },
    {
       "title": "Soccer Boy",
@@ -177501,7 +177509,7 @@
       "enTitle": "The Elusive Samurai Season 2",
       "malid": 60059,
       "type": "tv",
-      "releaseDate": "2026-07"
+      "releaseDate": "2026-07-17"
    },
    {
       "title": "Liella no Uta 3",
@@ -180377,7 +180385,7 @@
       "releaseDate": "2021-11-26"
    },
    {
-      "title": "Ghost of Tsushima: Legends",
+      "title": "Ghost of Tsushima: Kuroudo Kitan",
       "malid": 60714,
       "type": "unknown",
       "releaseDate": "2027"
@@ -181716,7 +181724,7 @@
       "title": "Toaru Anbu no Item",
       "malid": 61014,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-10"
    },
    {
       "title": "Himekishi-sama no Himo",
@@ -181824,9 +181832,10 @@
    },
    {
       "title": "Kininatteru Hito ga Otoko ja Nakatta",
+      "enTitle": "The Guy She Was Interested in Wasn't a Guy at All",
       "malid": 61035,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2027-01"
    },
    {
       "title": "Asayake wa Ame no Kizashi",
@@ -181903,7 +181912,7 @@
       "enTitle": "The Cat and the Dragon",
       "malid": 61048,
       "type": "tv",
-      "releaseDate": "2026-06-27"
+      "releaseDate": "2026-07-04"
    },
    {
       "title": "Akuyaku Reijou Tensei Ojisan Mini",
@@ -182943,7 +182952,7 @@
       "enTitle": "Demons Plan Something Good!",
       "malid": 61301,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "E Shou",
@@ -182960,11 +182969,11 @@
       "releaseDate": "2025-04-04"
    },
    {
-      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season",
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai Season 2",
       "enTitle": "Medaka Kuroiwa is Impervious to My Charms Season 2",
       "malid": 61304,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Go! Go! Vehicle Zoo (2024)",
@@ -183692,8 +183701,8 @@
       "title": "Star Wars: Visions Presents - The Ninth Jedi",
       "enTitle": "Star Wars: Visions Presents - The Ninth Jedi",
       "malid": 61546,
-      "type": "unknown",
-      "releaseDate": "2026"
+      "type": "ona",
+      "releaseDate": "2026-08-05"
    },
    {
       "title": "Umi no Triton (2000)",
@@ -183850,9 +183859,10 @@
    },
    {
       "title": "Seitokai ni mo Ana wa Aru!",
+      "enTitle": "There Is Also a Hole in the Student Organization!",
       "malid": 61578,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Umayuru: Pretty Gray",
@@ -184055,7 +184065,7 @@
       "title": "Zeri Feisheng",
       "malid": 61619,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-07-18"
    },
    {
       "title": "Yamakawa Junichi Anime Gekijou",
@@ -184354,7 +184364,7 @@
       "enTitle": "Heroine? Saint? No, I'm an All-Works Maid (And Proud of It)!",
       "malid": 61686,
       "type": "tv",
-      "releaseDate": "2026-06-24"
+      "releaseDate": "2026-07-01"
    },
    {
       "title": "Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku.",
@@ -184489,6 +184499,7 @@
    },
    {
       "title": "Gacha wo Mawashite Nakama wo Fuyasu: Saikyou no Bishoujo Gundan wo Tsukuriagero",
+      "enTitle": "Gacha Girls Corps",
       "malid": 61756,
       "type": "tv",
       "releaseDate": "2027-01"
@@ -184727,10 +184738,10 @@
       "releaseDate": "2025-06-01"
    },
    {
-      "title": "Ghost",
+      "title": "Ghost: Yoru no Hate",
       "malid": 61813,
       "type": "movie",
-      "releaseDate": "2027"
+      "releaseDate": "2027-02-11"
    },
    {
       "title": "Oni no Hanayome",
@@ -185421,10 +185432,10 @@
       "releaseDate": "2026-10"
    },
    {
-      "title": "Monogatari Series: Off \u0026 Monster Season (Shin Episode)",
+      "title": "Monogatari Series: Off \u0026 Monster Season - Wazamonogatari: Karen Ogre",
       "malid": 61968,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv_special",
+      "releaseDate": "2026"
    },
    {
       "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
@@ -185609,7 +185620,7 @@
       "enTitle": "Fate Rewinder",
       "malid": 62024,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "Idobata Kaigi de New Saga",
@@ -185864,14 +185875,14 @@
       "enTitle": "Smoking Behind the Supermarket with You",
       "malid": 62076,
       "type": "tv",
-      "releaseDate": "2026-06-03"
+      "releaseDate": "2026-07-09"
    },
    {
       "title": "Ryoumin 0-nin Start no Henkyou Ryoushu-sama",
       "enTitle": "The Frontier Lord Begins with Zero Subjects",
       "malid": 62078,
       "type": "tv",
-      "releaseDate": "2026-07-03"
+      "releaseDate": "2026-07-10"
    },
    {
       "title": "Cyborg 009: Nemesis",
@@ -186421,6 +186432,7 @@
    },
    {
       "title": "Zhan Shen: Fanchen Shenyu II",
+      "enTitle": "Slay The Gods 2",
       "malid": 62234,
       "type": "ona",
       "releaseDate": "2026-06-25"
@@ -187544,7 +187556,7 @@
       "enTitle": "Chitose Is in the Ramune Bottle Part 2",
       "malid": 62484,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10"
    },
    {
       "title": "Kanojo, Okarishimasu 5th Season",
@@ -187892,7 +187904,7 @@
       "enTitle": "The Rising of the Shield Hero Season 5",
       "malid": 62564,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Tokoshinae",
@@ -188133,7 +188145,7 @@
       "enTitle": "I Became a Legend After My 10 Year-Long Last Stand.",
       "malid": 62617,
       "type": "tv",
-      "releaseDate": "2026-07-03"
+      "releaseDate": "2026-07-06"
    },
    {
       "title": "Tian Xiang",
@@ -188472,7 +188484,7 @@
       "enTitle": "Oriental Martial Academy",
       "malid": 62707,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-07-16"
    },
    {
       "title": "Shanhai Jing Mima",
@@ -188911,7 +188923,7 @@
       "enTitle": "GuAn",
       "malid": 62789,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-07-28"
    },
    {
       "title": "Kai (ONA)",
@@ -189126,11 +189138,11 @@
       "releaseDate": "2025-10-19"
    },
    {
-      "title": "Kusuriya no Hitorigoto Movie",
+      "title": "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
       "enTitle": "The Apothecary Diaries Movie",
       "malid": 62844,
       "type": "movie",
-      "releaseDate": "2026-12"
+      "releaseDate": "2026-12-11"
    },
    {
       "title": "Doomer",
@@ -189706,6 +189718,7 @@
    },
    {
       "title": "Kakunaru Ue wa",
+      "enTitle": "Now That We Draw",
       "malid": 62989,
       "type": "tv",
       "releaseDate": ""
@@ -189877,7 +189890,7 @@
       "title": "Everyday Host (Zoku-hen)",
       "malid": 63035,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Charisma",
@@ -189907,8 +189920,8 @@
    {
       "title": "Demons' Crest",
       "malid": 63045,
-      "type": "tv",
-      "releaseDate": "2026"
+      "type": "ona",
+      "releaseDate": "2026-11-06"
    },
    {
       "title": "Nukitashi the Animation Specials",
@@ -189959,7 +189972,7 @@
    },
    {
       "title": "Uchi no Otouto-domo ga Sumimasen",
-      "enTitle": "Sorry About My Little Brothers",
+      "enTitle": "Please Excuse My Younger Brothers",
       "malid": 63061,
       "type": "tv",
       "releaseDate": "2026-07-04"
@@ -190847,9 +190860,10 @@
    },
    {
       "title": "Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku",
+      "enTitle": "Full Clearing Another World under a Goddess with Zero Believers",
       "malid": 63292,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Hotaru no Yomeiri",
@@ -191086,7 +191100,7 @@
       "enTitle": "The World Is Dancing",
       "malid": 63347,
       "type": "tv",
-      "releaseDate": "2026-06-29"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Serenade (2026)",
@@ -191664,7 +191678,7 @@
       "enTitle": "From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage",
       "malid": 63508,
       "type": "tv",
-      "releaseDate": "2026-06-26"
+      "releaseDate": "2026-07-02"
    },
    {
       "title": "Dark Summoner to Dekiteiru",
@@ -191760,7 +191774,7 @@
    },
    {
       "title": "\"Kimi wo Aisuru Ki wa Nai\" to Itta Jiki Koushaku-sama ga Nazeka Dekiai shitekimasu",
-      "enTitle": "The Duke’s Son Claims He Won’t Love Me Yet Showers Me with Adoration",
+      "enTitle": "The Duke's Son Claims He Won't Love Me Yet Showers Me with Adoration",
       "malid": 63537,
       "type": "tv",
       "releaseDate": "2026-07-05"
@@ -192376,7 +192390,7 @@
       "enTitle": "Maebashi Witches: Emoemories - Blooming Witches",
       "malid": 63772,
       "type": "movie",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10-23"
    },
    {
       "title": "PetitCure: Precure Fairies Season 3",
@@ -194024,6 +194038,7 @@
    },
    {
       "title": "Jueshi Zhan Hun 2nd Season",
+      "enTitle": "Super Heroic Spirit Season 2",
       "malid": 64388,
       "type": "ona",
       "releaseDate": "2026-06-09"
@@ -194145,7 +194160,7 @@
       "enTitle": "Theatre of Darkness: Yamishibai 17",
       "malid": 64435,
       "type": "tv",
-      "releaseDate": "2026-07-12"
+      "releaseDate": "2026-07-13"
    },
    {
       "title": "Akane-banashi 2nd Season",
@@ -194213,7 +194228,7 @@
       "title": "Lian Qi Shi Wan Nian Special: Yangji Tianxia",
       "malid": 64451,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-07-18"
    },
    {
       "title": "Koisuru (Otome) no Tsukurikata",
@@ -194278,7 +194293,7 @@
       "title": "Re:bel Robotica",
       "malid": 64462,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 5th Season",
@@ -194461,7 +194476,7 @@
       "title": "Bananya: At-Home Party",
       "malid": 64519,
       "type": "ona",
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-07-10"
    },
    {
       "title": "Sensou Kyoushitsu",
@@ -194469,6 +194484,18 @@
       "malid": 64520,
       "type": "tv",
       "releaseDate": "2027"
+   },
+   {
+      "title": "Supertrons 2",
+      "malid": 64521,
+      "type": "tv",
+      "releaseDate": "2025-03-27"
+   },
+   {
+      "title": "FBKingdom Story",
+      "malid": 64522,
+      "type": "pv",
+      "releaseDate": "2026-06-30"
    },
    {
       "title": "Marriagetoxin 2nd Season",
@@ -194483,5 +194510,230 @@
       "malid": 64525,
       "type": "ona",
       "releaseDate": "2018-08"
+   },
+   {
+      "title": "Soara to Mamono no Ie",
+      "enTitle": "Soara and Monster's House",
+      "malid": 64527,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Majo to Ryouken",
+      "enTitle": "Witch and Hound",
+      "malid": 64528,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "NTR Kishi",
+      "malid": 64529,
+      "type": "ova",
+      "releaseDate": "2026-09-25"
+   },
+   {
+      "title": "Mujikaku na Osananajimi to Kyoumi Honi de Yattemitara The Animation",
+      "malid": 64530,
+      "type": "ova",
+      "releaseDate": "2026-09-25"
+   },
+   {
+      "title": "Kanojo Saimin",
+      "malid": 64531,
+      "type": "ova",
+      "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Kua Fu Zhui Ri",
+      "enTitle": "Kuafu Chasing After the Sun",
+      "malid": 64533,
+      "type": "ona",
+      "releaseDate": "2019-10-06"
+   },
+   {
+      "title": "Koori no Jouheki 2nd Season",
+      "enTitle": "The Ramparts of Ice Season 2",
+      "malid": 64534,
+      "type": "tv",
+      "releaseDate": "2026-10-01"
+   },
+   {
+      "title": "Li Shiya",
+      "enTitle": "Shia",
+      "malid": 64535,
+      "type": "ona",
+      "releaseDate": "2028"
+   },
+   {
+      "title": "Qu Ni de Dao",
+      "enTitle": "To Your Island",
+      "malid": 64536,
+      "type": "movie",
+      "releaseDate": "2026-08-19"
+   },
+   {
+      "title": "Let's Roll, Cinnamoroll! 2nd Season",
+      "enTitle": "Let's Roll, Cinnamoroll! 2nd Season",
+      "malid": 64537,
+      "type": "ona",
+      "releaseDate": "2026-06-02"
+   },
+   {
+      "title": "Welcome to Sucre Town",
+      "enTitle": "Welcome to Sucre Town: The Cinnamoroll Friends' Happy Discovery",
+      "malid": 64538,
+      "type": "ona",
+      "releaseDate": "2026-03-06"
+   },
+   {
+      "title": "Alien Stage The Animation",
+      "malid": 64539,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Mamonotsukai no Musume",
+      "enTitle": "Monster Master Girl",
+      "malid": 64540,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Here U Are",
+      "malid": 64544,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Ore dake Level Up na Ken: Beyond the System",
+      "enTitle": "Solo Leveling: Beyond the System",
+      "malid": 64546,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hitoribocchi no Isekai Kouryaku 2nd Season",
+      "enTitle": "Loner Life in Another World Season 2",
+      "malid": 64551,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita",
+      "malid": 64552,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
+      "enTitle": "Chillin' in Another World with Level 2 Super Cheat Powers Season 2",
+      "malid": 64553,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
+      "enTitle": "Milky☆Byway Spring Special: Terror on Chelovin's Day",
+      "malid": 64554,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Murciélago",
+      "malid": 64555,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Ryuugeshou no Shinobi",
+      "enTitle": "Jurassic Shadows",
+      "malid": 64556,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Orion",
+      "malid": 64558,
+      "type": "music",
+      "releaseDate": "2026-07-04"
+   },
+   {
+      "title": "Mononoke (Shin Project)",
+      "malid": 64562,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Ichijiku Kemuri",
+      "enTitle": "Fig Smoke",
+      "malid": 64564,
+      "type": "music",
+      "releaseDate": "2026-07-06"
+   },
+   {
+      "title": "7-nin no Nemurihime",
+      "enTitle": "Seven Sleeping Beauties",
+      "malid": 64569,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Bimo Xinglu",
+      "enTitle": "Travelling Through Brush and Ink",
+      "malid": 64571,
+      "type": "movie",
+      "releaseDate": "2016"
+   },
+   {
+      "title": "Watashi wo Center ni Suru to Chikaimasu ka?",
+      "malid": 64573,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Rui Rui he Ta de Pengyoumen: Xinchun Teji",
+      "enTitle": "Real and His Friends: Spring Festival Special",
+      "malid": 64574,
+      "type": "ona",
+      "releaseDate": "2017-01-25"
+   },
+   {
+      "title": "Rui Rui Huoshan Da Taowang",
+      "enTitle": "Real and His Friends: The Prologue",
+      "malid": 64575,
+      "type": "ona",
+      "releaseDate": "2018-12-31"
+   },
+   {
+      "title": "Chikyuu Daisuki! Kikkun",
+      "malid": 64578,
+      "type": "tv",
+      "releaseDate": "2026-07-01"
+   },
+   {
+      "title": "Sealook 2",
+      "malid": 64579,
+      "type": "ona",
+      "releaseDate": "2025-08-01"
+   },
+   {
+      "title": "Rusuban (2026)",
+      "malid": 64580,
+      "type": "movie",
+      "releaseDate": "2026-08-01"
+   },
+   {
+      "title": "Wu Liuqi Movie",
+      "enTitle": "Scissor Seven: The Movie",
+      "malid": 64583,
+      "type": "movie",
+      "releaseDate": "2028"
+   },
+   {
+      "title": "Heibai Shuanglong",
+      "enTitle": "Hei Bai",
+      "malid": 64584,
+      "type": "ona",
+      "releaseDate": "2027"
    }
 ]
