@@ -56530,7 +56530,7 @@ AnimeMap:
 
     - malid: 10639
       title: Deva Zan
-      type: movie
+      type: unknown
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -124049,6 +124049,15 @@ AnimeMap:
     - malid: 36816
       title: 'Godzilla 2: Kessen Kidou Zoushoku Toshi'
       type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 36817
+      title: Sunohara-sou no Kanrinin-san
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -210006,7 +210015,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53529
-      title: Sword Art Online (Original Movie)
+      title: 'Sword Art Online Movie: Integral Domain'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -241875,7 +241884,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59068
-      title: Dungeon Meshi 2nd Season
+      title: Dungeon Meshi Season 2
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -251838,7 +251847,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60714
-      title: 'Ghost of Tsushima: Legends'
+      title: 'Ghost of Tsushima: Kuroudo Kitan'
       type: unknown
       tvdbid: 0
       tvdbseason: 0
@@ -253909,7 +253918,7 @@ AnimeMap:
 
     - malid: 61035
       title: Kininatteru Hito ga Otoko ja Nakatta
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -255510,7 +255519,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61304
-      title: Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai 2nd Season
+      title: Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai Season 2
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -256537,7 +256546,7 @@ AnimeMap:
 
     - malid: 61546
       title: 'Star Wars: Visions Presents - The Ninth Jedi'
-      type: unknown
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -257976,7 +257985,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61813
-      title: Ghost
+      title: 'Ghost: Yoru no Hate'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -258966,8 +258975,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61968
-      title: 'Monogatari Series: Off & Monster Season (Shin Episode)'
-      type: unknown
+      title: 'Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre'
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -264132,7 +264141,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62844
-      title: Kusuriya no Hitorigoto Movie
+      title: 'Kusuriya no Hitorigoto Movie: Bouhi no Hihou'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -265213,7 +265222,7 @@ AnimeMap:
 
     - malid: 63045
       title: Demons' Crest
-      type: tv
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271610,6 +271619,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64521
+      title: Supertrons 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64522
+      title: FBKingdom Story
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64524
       title: Marriagetoxin 2nd Season
       type: tv
@@ -271621,6 +271648,312 @@ AnimeMap:
 
     - malid: 64525
       title: Rimu Zhi Xi
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64527
+      title: Soara to Mamono no Ie
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64528
+      title: Majo to Ryouken
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64529
+      title: NTR Kishi
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64530
+      title: Mujikaku na Osananajimi to Kyoumi Honi de Yattemitara The Animation
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64531
+      title: Kanojo Saimin
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64533
+      title: Kua Fu Zhui Ri
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64534
+      title: Koori no Jouheki 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64535
+      title: Li Shiya
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64536
+      title: Qu Ni de Dao
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64537
+      title: Let's Roll, Cinnamoroll! 2nd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64538
+      title: Welcome to Sucre Town
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64539
+      title: Alien Stage The Animation
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64540
+      title: Mamonotsukai no Musume
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64544
+      title: Here U Are
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64546
+      title: 'Ore dake Level Up na Ken: Beyond the System'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64551
+      title: Hitoribocchi no Isekai Kouryaku 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64552
+      title: S-Rank Boukensha de Aru Ore no Musume-tachi wa Juudo no Fathercon deshita
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64553
+      title: Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64554
+      title: 'Milky☆Byway Spring Special: Kyoufu no Chelovin Party'
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64555
+      title: Murciélago
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64556
+      title: Ryuugeshou no Shinobi
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64558
+      title: Orion
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64562
+      title: Mononoke (Shin Project)
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64564
+      title: Ichijiku Kemuri
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64569
+      title: 7-nin no Nemurihime
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64571
+      title: Bimo Xinglu
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64573
+      title: Watashi wo Center ni Suru to Chikaimasu ka?
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64574
+      title: 'Rui Rui he Ta de Pengyoumen: Xinchun Teji'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64575
+      title: Rui Rui Huoshan Da Taowang
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64578
+      title: Chikyuu Daisuki! Kikkun
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64579
+      title: Sealook 2
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64580
+      title: Rusuban (2026)
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64583
+      title: Wu Liuqi Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64584
+      title: Heibai Shuanglong
       type: ona
       tvdbid: 0
       tvdbseason: 0
