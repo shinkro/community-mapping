@@ -33557,6 +33557,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 36817
+      title: Sunohara-sou no Kanrinin-san
+      type: tv
+      tvdbid: 347468
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 36828
       title: Caligula
       type: tv
@@ -47846,7 +47855,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59068
-      title: Dungeon Meshi 2nd Season
+      title: Dungeon Meshi Season 2
       type: tv
       tvdbid: 423257
       tvdbseason: 2
@@ -50255,7 +50264,7 @@ AnimeMap:
 
     - malid: 61546
       title: 'Star Wars: Visions Presents - The Ninth Jedi'
-      type: unknown
+      type: ona
       tvdbid: 462774
       tvdbseason: 1
       start: 0
