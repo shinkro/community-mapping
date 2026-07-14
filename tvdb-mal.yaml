@@ -50334,6 +50334,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61640
+      title: 'Zi Jin: Yu Miao Fang'
+      type: ona
+      tvdbid: 476673
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61642
       title: Wan Ren Zhi Shang
       type: ona
