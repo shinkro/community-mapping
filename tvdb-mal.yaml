@@ -48519,6 +48519,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59666
+      title: 'Bananya: Around the World'
+      type: ona
+      tvdbid: 313676
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59675
       title: Apocalypse Hotel
       type: tv
@@ -51913,7 +51922,7 @@ AnimeMap:
       title: 'Bananya: At-Home Party'
       type: ona
       tvdbid: 313676
-      tvdbseason: 4
+      tvdbseason: 0
       start: 0
       useMapping: false
       animeMapping: []
