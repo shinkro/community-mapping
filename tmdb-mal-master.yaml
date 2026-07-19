@@ -183,10 +183,6 @@ animeMovies:
       tmdbid: 117084
       malid: 3744
 
-    - mainTitle: 'Crayon Shin-chan Movie 02: Buriburi Oukoku no Hihou'
-      tmdbid: 109526
-      malid: 3745
-
     - mainTitle: 'Sekai Meisaku Douwa: Mori wa Ikiteiru'
       tmdbid: 80536
       malid: 3751
@@ -506,10 +502,6 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 04: Henderland no Daibouken'
       tmdbid: 128871
       malid: 8359
-
-    - mainTitle: 'Crayon Shin-chan Movie 06: Dengeki! Buta no Hizume Daisakusen'
-      tmdbid: 128875
-      malid: 8360
 
     - mainTitle: 'Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen'
       tmdbid: 128878
@@ -4915,10 +4907,6 @@ animeMovies:
       tmdbid: 0
       malid: 48784
 
-    - mainTitle: Cherry and Virgin
-      tmdbid: 0
-      malid: 48832
-
     - mainTitle: Pooky's
       tmdbid: 0
       malid: 48884
@@ -7383,10 +7371,6 @@ animeMovies:
       tmdbid: 0
       malid: 62914
 
-    - mainTitle: Loca!
-      tmdbid: 0
-      malid: 62942
-
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -7606,4 +7590,12 @@ animeMovies:
     - mainTitle: Wu Liuqi Movie
       tmdbid: 0
       malid: 64583
+
+    - mainTitle: Chiikawa Eiga Manner Kouza
+      tmdbid: 0
+      malid: 64595
+
+    - mainTitle: 'PetitCure: Gekijou Manner Movie'
+      tmdbid: 0
+      malid: 64611
 
