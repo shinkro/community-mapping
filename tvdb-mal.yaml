@@ -33557,15 +33557,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 36817
-      title: Sunohara-sou no Kanrinin-san
-      type: tv
-      tvdbid: 347468
-      tvdbseason: 1
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 36828
       title: Caligula
       type: tv
