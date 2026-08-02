@@ -7267,14 +7267,6 @@ animeMovies:
       tmdbid: 0
       malid: 62260
 
-    - mainTitle: 'BanG Dream! Ave Mujica: Prima Aurora'
-      tmdbid: 0
-      malid: 62270
-
-    - mainTitle: 'Sekiro: No Defeat'
-      tmdbid: 0
-      malid: 62312
-
     - mainTitle: Gogo 2-ji Onshitsu nite
       tmdbid: 0
       malid: 62350
@@ -7606,4 +7598,8 @@ animeMovies:
     - mainTitle: Wukong Da Sheng
       tmdbid: 0
       malid: 64674
+
+    - mainTitle: Ginga Tetsudou 999 (New Movie)
+      tmdbid: 0
+      malid: 64693
 

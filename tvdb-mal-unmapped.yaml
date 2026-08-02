@@ -7785,7 +7785,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 960
-      title: 'Shin Chou Kyou Ryo: Condor Hero II'
+      title: 'Shen Diao Xia Lu II: Xiang Yang Feng Yun'
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -38907,7 +38907,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 5854
-      title: 'Shin Chou Kyou Ryo: Condor Hero III'
+      title: 'Shen Diao Xia Lu III: Shi liu nian zhi yue'
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -183817,7 +183817,7 @@ AnimeMap:
 
     - malid: 47858
       title: Long Tu Zhandui
-      type: ona
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -240553,7 +240553,7 @@ AnimeMap:
 
     - malid: 58849
       title: Free Fire Daybreak
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -265123,7 +265123,7 @@ AnimeMap:
 
     - malid: 63021
       title: Akutou Ikka no Manamusume, Tensei-saki mo Otome Game no Gokudou Reijou deshita. Saijoukyuu Rank no Akuyaku-sama, Sono Dekiai wa Fuyou desu!
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -272474,9 +272474,252 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64678
+      title: Sunlyejadeuleun Wae Dolaoji Anhneunga
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64679
+      title: Gangcheolsobangdae Fire Robo Z
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64680
+      title: Gigabuilder
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64681
+      title: Dear My Hero
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64682
+      title: 'Salangui Hachyuping: Golaeboseogui Jeonseol'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64683
+      title: One Room Jogyo-nim
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64684
+      title: Isekai Gukbap Master
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64685
       title: Mii-chan to Yamada-san
       type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64686
+      title: 'Chou Denji Robo Combattler V: 50-shuunen Kinen Animation'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64688
+      title: I-Bull
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64693
+      title: Ginga Tetsudou 999 (New Movie)
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64694
+      title: Senren＊Banka
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64695
+      title: Odoru Sennen Kazoku
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64696
+      title: Soko ga Hen da yo! Inuneko Saiban
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64698
+      title: 'Yahoo! Japan 23rd Anniversary: Arigatou no Kiseki'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64705
+      title: Mada Tabi no Tochuu
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64706
+      title: The Dappies
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64707
+      title: Aisarete Payapaya
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64708
+      title: Engawa de Dancehall
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64710
+      title: Taigu Shen Zun
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64711
+      title: BooooM!!!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64712
+      title: Tsuihou sareta Shounin wa Kane no Chikara de Sekai wo Sukuu
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64713
+      title: Guyu Jie Hou Xiang
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64716
+      title: Kuraiai
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64717
+      title: Yuusanchi! from Yuu-hachi
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64720
+      title: 'Jintian Shao Zhu Bu Zaijia: Tebie Pian'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64721
+      title: Rasen
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64725
+      title: 'Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4'
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
