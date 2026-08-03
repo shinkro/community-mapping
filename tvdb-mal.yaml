@@ -51917,3 +51917,12 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 64694
+      title: Senren＊Banka
+      type: tv
+      tvdbid: 480865
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
