@@ -47512,6 +47512,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58717
+      title: 'Garouden: The Way of the Lone Wolf'
+      type: ona
+      tvdbid: 449267
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58725
       title: Ninja to Koroshiya no Futarigurashi
       type: tv
