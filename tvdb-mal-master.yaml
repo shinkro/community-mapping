@@ -240223,9 +240223,9 @@ AnimeMap:
     - malid: 58623
       title: Nijiyon Animation 2 Specials
       type: special
-      tvdbid: 0
+      tvdbid: 425478
       tvdbseason: 0
-      start: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
