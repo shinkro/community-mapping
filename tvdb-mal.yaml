@@ -47494,6 +47494,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58623
+      title: Nijiyon Animation 2 Specials
+      type: special
+      tvdbid: 425478
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 58663
       title: 'One Piece: Innen no Log! Mugiwara no Ichimi to Cipher Pol'
       type: tv_special
