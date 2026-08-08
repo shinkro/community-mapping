@@ -45163,6 +45163,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 55072
+      title: Xiaoke de Huatu Xie Hua
+      type: ona
+      tvdbid: 442374
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 55102
       title: Girls Band Cry
       type: tv
