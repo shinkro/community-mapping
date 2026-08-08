@@ -48376,6 +48376,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 59497
+      title: Rising Impact Season 2
+      type: ona
+      tvdbid: 443124
+      tvdbseason: 2
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 59499
       title: 'Asatir 2: Mirai no Mukashi Banashi'
       type: tv
