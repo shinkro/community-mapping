@@ -2059,7 +2059,7 @@ animeMovies:
       tmdbid: 0
       malid: 31258
 
-    - mainTitle: Ghost (1984)
+    - mainTitle: Ghost
       tmdbid: 0
       malid: 31262
 
@@ -4582,10 +4582,6 @@ animeMovies:
     - mainTitle: Morengen
       tmdbid: 0
       malid: 44895
-
-    - mainTitle: Jidi Da Fangong
-      tmdbid: 0
-      malid: 44898
 
     - mainTitle: Chao Neng Long Qi Xia
       tmdbid: 0
@@ -7602,4 +7598,8 @@ animeMovies:
     - mainTitle: Ginga Tetsudou 999 (New Movie)
       tmdbid: 0
       malid: 64693
+
+    - mainTitle: 'Zukei no Hakken: Suugaku wo Kizuita Hitobito'
+      tmdbid: 0
+      malid: 64765
 
