@@ -8203,6 +8203,7 @@
    },
    {
       "title": "Chou Denji Robo Combattler V",
+      "enTitle": "Combattler V",
       "malid": 1068,
       "anidbid": 1814,
       "tvdbid": 146511,
@@ -11294,7 +11295,7 @@
    },
    {
       "title": "Akachan to Boku",
-      "enTitle": "Baby \u0026 I",
+      "enTitle": "Baby and Me",
       "malid": 1485,
       "anidbid": 1419,
       "tvdbid": 253430,
@@ -32369,7 +32370,7 @@
    },
    {
       "title": "Groizer X",
-      "enTitle": "Gloizer X",
+      "enTitle": "Groizer X",
       "malid": 5131,
       "anidbid": 2237,
       "tvdbid": 138421,
@@ -35298,6 +35299,7 @@
    },
    {
       "title": "Kousoku Denjin Albegus",
+      "enTitle": "Lightspeed Electroid Albegas",
       "malid": 5891,
       "anidbid": 1929,
       "tvdbid": 265645,
@@ -50234,7 +50236,7 @@
       "releaseDate": "2012-02-08"
    },
    {
-      "title": "Deva Zan",
+      "title": "Zan",
       "malid": 10639,
       "anidbid": 8170,
       "type": "unknown",
@@ -70918,6 +70920,7 @@
    },
    {
       "title": "Uchuu Senkan Yamato 2199: Tsuioku no Koukai",
+      "enTitle": "Space Battleship Yamato 2199: A Voyage to Remember",
       "malid": 23931,
       "anidbid": 10607,
       "type": "special",
@@ -83912,7 +83915,7 @@
       "releaseDate": "1983"
    },
    {
-      "title": "Ghost (1984)",
+      "title": "Ghost",
       "malid": 31262,
       "type": "movie",
       "releaseDate": "1984-09-24"
@@ -90620,7 +90623,7 @@
    },
    {
       "title": "Padak Padak",
-      "enTitle": "PADAK",
+      "enTitle": "Swimming to Sea",
       "malid": 33238,
       "anidbid": 13682,
       "tmdbid": 133248,
@@ -98563,7 +98566,7 @@
       "releaseDate": "1934-03-20"
    },
    {
-      "title": "Man Tou Riji",
+      "title": "Mantou Riji",
       "malid": 35215,
       "anidbid": 13013,
       "type": "ona",
@@ -123977,7 +123980,7 @@
    },
    {
       "title": "Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set",
-      "enTitle": "ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game",
+      "enTitle": "Oresuki: Are You the Only One Who Loves Me? - Our Playball / Our End Run / Our Game",
       "malid": 40936,
       "anidbid": 15329,
       "type": "ova",
@@ -138181,7 +138184,9 @@
    },
    {
       "title": "Jidi Da Fangong",
+      "enTitle": "Polar Adventure",
       "malid": 44898,
+      "tmdbid": 448665,
       "type": "movie",
       "releaseDate": "2015-10-01"
    },
@@ -140658,16 +140663,16 @@
       "releaseDate": "2018"
    },
    {
-      "title": "Baba Qu Na Er",
+      "title": "Baba Qu Nar",
       "malid": 45464,
       "type": "tv",
       "releaseDate": "2014-05-10"
    },
    {
-      "title": "Baba Qu Na Er 2",
+      "title": "Baba Qu Nar 2",
       "malid": 45465,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2016"
    },
    {
       "title": "Balabang",
@@ -193126,7 +193131,7 @@
       "enTitle": "Flying to the Moon and Banquet",
       "malid": 58483,
       "type": "ona",
-      "releaseDate": "2023-03-21"
+      "releaseDate": "2023-01-21"
    },
    {
       "title": "Ishura 2nd Season",
@@ -195405,6 +195410,7 @@
    },
    {
       "title": "Maarui Kanojo to Zannen na Kareshi",
+      "enTitle": "Chubby Girlfriend and Pity Boyfriend",
       "malid": 59049,
       "anidbid": 18637,
       "type": "tv",
@@ -198832,7 +198838,7 @@
       "anidbid": 18858,
       "tvdbid": 470269,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10"
    },
    {
       "title": "Feeling Gradation",
@@ -205218,11 +205224,12 @@
    },
    {
       "title": "Giant Ojousama",
+      "enTitle": "Giant Ojousama",
       "malid": 61135,
       "anidbid": 19192,
       "tvdbid": 460935,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Cash",
@@ -206784,7 +206791,7 @@
       "releaseDate": "2025-04-17"
    },
    {
-      "title": "Star Wars: Visions Presents - The Ninth Jedi",
+      "title": "Star Wars: Visions - Kyuuninme no Jedi",
       "enTitle": "Star Wars: Visions Presents - The Ninth Jedi",
       "malid": 61546,
       "type": "ona",
@@ -207336,9 +207343,10 @@
    },
    {
       "title": "Caishen Dou Zhanlong",
+      "enTitle": "Golden Curse",
       "malid": 61649,
       "type": "ona",
-      "releaseDate": "2026-08"
+      "releaseDate": "2026-08-16"
    },
    {
       "title": "Yongbing Tianxia",
@@ -208951,7 +208959,7 @@
       "title": "Pan Dorobou",
       "malid": 62039,
       "anidbid": 19789,
-      "type": "unknown",
+      "type": "tv",
       "releaseDate": "2026-10"
    },
    {
@@ -211883,7 +211891,7 @@
       "anidbid": 19649,
       "tvdbid": 469167,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-06"
    },
    {
       "title": "Rock de Kiss",
@@ -212019,6 +212027,7 @@
    },
    {
       "title": "Wanmei Shijie Movie: Jiu Jie Fen Tian",
+      "enTitle": "Perfect World Movie: Ninefold The Burning Sky",
       "malid": 62723,
       "type": "ona",
       "releaseDate": "2026-08-08"
@@ -213246,7 +213255,7 @@
       "enTitle": "Jade Dynasty Final Season",
       "malid": 62990,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-08-21"
    },
    {
       "title": "Hua Jianghu: Bu Liang Ren Ba",
@@ -213818,8 +213827,8 @@
       "title": "Kaijuu 8-gou: Narumi no Heijitsu",
       "enTitle": "Kaiju No. 8: Narumi's Week at Work",
       "malid": 63138,
-      "type": "unknown",
-      "releaseDate": "2026"
+      "type": "ona",
+      "releaseDate": "2026-09-05"
    },
    {
       "title": "Sakamoto Days 2nd Season",
@@ -213835,7 +213844,7 @@
       "malid": 63140,
       "anidbid": 19777,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10"
    },
    {
       "title": "Metal Cardbot W",
@@ -214460,7 +214469,7 @@
       "anidbid": 19823,
       "tvdbid": 472641,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-09"
    },
    {
       "title": "Starlight Project (Shinsaku Animation Zoku-hen)",
@@ -215954,8 +215963,9 @@
    {
       "title": "Isekai Tensei Soudouki",
       "malid": 63730,
+      "anidbid": 19948,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Counting Dog",
@@ -216292,7 +216302,7 @@
       "title": "Punirunes: Puni 4",
       "malid": 63823,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10-04"
    },
    {
       "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Kouhen",
@@ -218901,6 +218911,12 @@
       "releaseDate": "2026-07-25"
    },
    {
+      "title": "Nya Nya Nya Chu Nya (NNNCN)",
+      "malid": 64690,
+      "type": "music",
+      "releaseDate": "2026-07-26"
+   },
+   {
       "title": "Ginga Tetsudou 999 (New Movie)",
       "malid": 64693,
       "type": "movie",
@@ -218993,6 +219009,12 @@
       "releaseDate": "2026-10"
    },
    {
+      "title": "Ghost Meets Gal!",
+      "malid": 64718,
+      "type": "tv",
+      "releaseDate": "2026-09-05"
+   },
+   {
       "title": "Jintian Shao Zhu Bu Zaijia: Tebie Pian",
       "malid": 64720,
       "type": "ona",
@@ -219005,10 +219027,174 @@
       "releaseDate": "2026-08-01"
    },
    {
+      "title": "1999! Shenmi Xue Duice Bu",
+      "enTitle": "1999! Arcane Incident Department",
+      "malid": 64724,
+      "type": "ona",
+      "releaseDate": "2026-08-02"
+   },
+   {
       "title": "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4",
       "enTitle": "Fate/Grand Order: You've Lost Ritsuka Fujimaru Season 4",
       "malid": 64725,
       "type": "ona",
       "releaseDate": "2026-08-07"
+   },
+   {
+      "title": "Mato Seihei no Slave 3",
+      "enTitle": "Chained Soldier Season 3",
+      "malid": 64726,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Ling Long: 17 Fenzhong Zhengshi PV",
+      "enTitle": "Ling Cage: Incarnation-17 Minutes Official PV",
+      "malid": 64727,
+      "type": "pv",
+      "releaseDate": "2018-02-08"
+   },
+   {
+      "title": "Hitori Tsuma",
+      "malid": 64729,
+      "type": "ova",
+      "releaseDate": "2026-10-30"
+   },
+   {
+      "title": "Digimon (Shinsaku Anime)",
+      "malid": 64731,
+      "type": "unknown",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Daisan Wakusei",
+      "enTitle": "The Third Planet",
+      "malid": 64732,
+      "type": "music",
+      "releaseDate": "2026-08-03"
+   },
+   {
+      "title": "Linglong Tou",
+      "malid": 64734,
+      "type": "ona",
+      "releaseDate": "2025-08-08"
+   },
+   {
+      "title": "Quanzhi Gaoshou: Rongyao Xiao Juchang 2nd Season",
+      "malid": 64735,
+      "type": "ona",
+      "releaseDate": "2025-06-27"
+   },
+   {
+      "title": "Dokagui Daisuki! Mochizuki-san",
+      "enTitle": "I Love Dokagui! Mochizuki-san",
+      "malid": 64737,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Zhenzhen Nanwei",
+      "malid": 64738,
+      "type": "ona",
+      "releaseDate": "2024-10-29"
+   },
+   {
+      "title": "Sheng Er Wei Mao",
+      "malid": 64739,
+      "type": "ona",
+      "releaseDate": "2023-04-25"
+   },
+   {
+      "title": "Quanzhi Gaoshou 2: Q Ban Xiao Juchang",
+      "malid": 64740,
+      "type": "ona",
+      "releaseDate": "2020-09-25"
+   },
+   {
+      "title": "Sonyeonjangsu (2015)",
+      "enTitle": "The Boy General",
+      "malid": 64743,
+      "type": "tv",
+      "releaseDate": "2015-08"
+   },
+   {
+      "title": "Josemaru",
+      "malid": 64744,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Yi Ren Zhi Xia Shou You: Pao Mian Fan",
+      "malid": 64745,
+      "type": "ona",
+      "releaseDate": "2020-05-29"
+   },
+   {
+      "title": "Komadori Mofmof Parade",
+      "malid": 64746,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Guonian Zhe Lianmeng",
+      "malid": 64747,
+      "type": "ona",
+      "releaseDate": "2020-01-22"
+   },
+   {
+      "title": "Destiny Unchain Online",
+      "malid": 64751,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Jaken GALDVAZAAG",
+      "enTitle": "The Evil Sword GALDVAZAAG",
+      "malid": 64753,
+      "type": "music",
+      "releaseDate": "2026-08-07"
+   },
+   {
+      "title": "Di Ling Ai: Shui Xin Chan",
+      "enTitle": "Divine Love 2nd Season",
+      "malid": 64754,
+      "type": "ona",
+      "releaseDate": "2026-08-07"
+   },
+   {
+      "title": "2002",
+      "malid": 64757,
+      "type": "music",
+      "releaseDate": "2026-08-05"
+   },
+   {
+      "title": "Lovin'♡Rabbit",
+      "malid": 64761,
+      "type": "music",
+      "releaseDate": "2026-08-06"
+   },
+   {
+      "title": "Re,bloom*",
+      "malid": 64762,
+      "type": "music",
+      "releaseDate": "2026-08-08"
+   },
+   {
+      "title": "Zukei no Hakken: Suugaku wo Kizuita Hitobito",
+      "malid": 64765,
+      "type": "movie",
+      "releaseDate": "1983"
+   },
+   {
+      "title": "Astral Lamp",
+      "malid": 64766,
+      "type": "music",
+      "releaseDate": "2026-08-08"
+   },
+   {
+      "title": "Akuyaku no Ending wa Shi Nomi",
+      "malid": 64768,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]

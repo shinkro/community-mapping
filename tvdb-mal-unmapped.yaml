@@ -56529,7 +56529,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10639
-      title: Deva Zan
+      title: Zan
       type: unknown
       tvdbid: 0
       tvdbseason: 0
@@ -97461,7 +97461,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 31262
-      title: Ghost (1984)
+      title: Ghost
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -115425,7 +115425,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 35215
-      title: Man Tou Riji
+      title: Mantou Riji
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -168984,7 +168984,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45464
-      title: Baba Qu Na Er
+      title: Baba Qu Nar
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -168993,7 +168993,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45465
-      title: Baba Qu Na Er 2
+      title: Baba Qu Nar 2
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -256536,7 +256536,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61546
-      title: 'Star Wars: Visions Presents - The Ninth Jedi'
+      title: 'Star Wars: Visions - Kyuuninme no Jedi'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -259354,7 +259354,7 @@ AnimeMap:
 
     - malid: 62039
       title: Pan Dorobou
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -265708,7 +265708,7 @@ AnimeMap:
 
     - malid: 63138
       title: 'Kaijuu 8-gou: Narumi no Heijitsu'
-      type: unknown
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -272564,6 +272564,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64690
+      title: Nya Nya Nya Chu Nya (NNNCN)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64693
       title: Ginga Tetsudou 999 (New Movie)
       type: movie
@@ -272699,6 +272708,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64718
+      title: Ghost Meets Gal!
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64720
       title: 'Jintian Shao Zhu Bu Zaijia: Tebie Pian'
       type: ona
@@ -272717,9 +272735,243 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64724
+      title: 1999! Shenmi Xue Duice Bu
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64725
       title: 'Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 4'
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64726
+      title: Mato Seihei no Slave 3
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64727
+      title: 'Ling Long: 17 Fenzhong Zhengshi PV'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64729
+      title: Hitori Tsuma
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64731
+      title: Digimon (Shinsaku Anime)
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64732
+      title: Daisan Wakusei
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64734
+      title: Linglong Tou
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64735
+      title: 'Quanzhi Gaoshou: Rongyao Xiao Juchang 2nd Season'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64737
+      title: Dokagui Daisuki! Mochizuki-san
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64738
+      title: Zhenzhen Nanwei
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64739
+      title: Sheng Er Wei Mao
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64740
+      title: 'Quanzhi Gaoshou 2: Q Ban Xiao Juchang'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64743
+      title: Sonyeonjangsu (2015)
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64744
+      title: Josemaru
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64745
+      title: 'Yi Ren Zhi Xia Shou You: Pao Mian Fan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64746
+      title: Komadori Mofmof Parade
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64747
+      title: Guonian Zhe Lianmeng
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64751
+      title: Destiny Unchain Online
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64753
+      title: Jaken GALDVAZAAG
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64754
+      title: 'Di Ling Ai: Shui Xin Chan'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64757
+      title: "2002"
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64761
+      title: Lovin'♡Rabbit
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64762
+      title: Re,bloom*
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64765
+      title: 'Zukei no Hakken: Suugaku wo Kizuita Hitobito'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64766
+      title: Astral Lamp
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64768
+      title: Akuyaku no Ending wa Shi Nomi
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
