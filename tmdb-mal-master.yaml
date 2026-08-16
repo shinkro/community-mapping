@@ -6871,10 +6871,6 @@ animeMovies:
       tmdbid: 0
       malid: 59876
 
-    - mainTitle: Agami
-      tmdbid: 0
-      malid: 59878
-
     - mainTitle: 'Geugjangpan Beuledeu Movie: Ppangseutaui Tansaeng'
       tmdbid: 0
       malid: 59882
@@ -7475,9 +7471,25 @@ animeMovies:
       tmdbid: 0
       malid: 64140
 
+    - mainTitle: Tanoshii Ohanashi Series
+      tmdbid: 0
+      malid: 64145
+
     - mainTitle: Umi ga Hashiru End Roll
       tmdbid: 0
       malid: 64154
+
+    - mainTitle: Zurui Kitsune
+      tmdbid: 0
+      malid: 64164
+
+    - mainTitle: Sanbiki no Kobuta
+      tmdbid: 0
+      malid: 64165
+
+    - mainTitle: Kobito no Denwa
+      tmdbid: 0
+      malid: 64166
 
     - mainTitle: Kitsune to Kotori
       tmdbid: 0
@@ -7523,6 +7535,14 @@ animeMovies:
       tmdbid: 0
       malid: 64238
 
+    - mainTitle: Rina no Yume
+      tmdbid: 0
+      malid: 64240
+
+    - mainTitle: Kumano Kodo Minwashu
+      tmdbid: 0
+      malid: 64243
+
     - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
       tmdbid: 0
       malid: 64266
@@ -7550,6 +7570,10 @@ animeMovies:
     - mainTitle: Gum Gum Punch
       tmdbid: 0
       malid: 64336
+
+    - mainTitle: Sankaku no Sekai
+      tmdbid: 0
+      malid: 64366
 
     - mainTitle: Soul Kitchen
       tmdbid: 0
@@ -7587,6 +7611,10 @@ animeMovies:
       tmdbid: 0
       malid: 64611
 
+    - mainTitle: Makeusagi
+      tmdbid: 0
+      malid: 64671
+
     - mainTitle: 'Rexue Zuqiu Shaonian: Yingxiong Chusheng'
       tmdbid: 0
       malid: 64673
@@ -7599,7 +7627,19 @@ animeMovies:
       tmdbid: 0
       malid: 64693
 
+    - mainTitle: Senritsu
+      tmdbid: 0
+      malid: 64741
+
     - mainTitle: 'Zukei no Hakken: Suugaku wo Kizuita Hitobito'
       tmdbid: 0
       malid: 64765
+
+    - mainTitle: Shounen to Kodanuki
+      tmdbid: 0
+      malid: 64780
+
+    - mainTitle: Stop
+      tmdbid: 0
+      malid: 64796
 

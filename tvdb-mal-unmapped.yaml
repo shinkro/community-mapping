@@ -203509,7 +203509,7 @@ AnimeMap:
 
     - malid: 52227
       title: iichiko Story
-      type: special
+      type: cm
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -210592,7 +210592,7 @@ AnimeMap:
 
     - malid: 53672
       title: 'Violet Evergarden: Recollections'
-      type: special
+      type: tv_special
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -212112,7 +212112,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 53913
-      title: Tensei shitara Ken deshita 2
+      title: Tensei shitara Ken deshita II
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -256158,7 +256158,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61461
-      title: Tenkaichi
+      title: 'Tenkaichi: Nihon Saikyou Bugeisha Ketteisen'
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -270224,6 +270224,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64145
+      title: Tanoshii Ohanashi Series
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64146
       title: Kare no Shiranai Himitsu wo Irete. The Animation
       type: ova
@@ -270262,6 +270271,33 @@ AnimeMap:
 
     - malid: 64154
       title: Umi ga Hashiru End Roll
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64164
+      title: Zurui Kitsune
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64165
+      title: Sanbiki no Kobuta
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64166
+      title: Kobito no Denwa
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -270503,6 +270539,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64240
+      title: Rina no Yume
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64243
+      title: Kumano Kodo Minwashu
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64244
       title: Nestlé CMs
       type: cm
@@ -270665,6 +270719,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64284
+      title: Tsuzuku Tousou
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64289
       title: 'Garou Densetsu: CotW - Mr. Karate'
       type: ona
@@ -270695,6 +270758,15 @@ AnimeMap:
     - malid: 64292
       title: 'Pure x Holic: Junketsu Otome to Konin Kankei!? The Animation'
       type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64295
+      title: Contemporary Dance
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270766,6 +270838,15 @@ AnimeMap:
 
     - malid: 64320
       title: 'Alps no Ongaku Shoujo Netty no Fushigi na Monogatari: Tyrol no Ongaku Ikka Angel Family'
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64322
+      title: Obake
       type: tv_special
       tvdbid: 0
       tvdbseason: 0
@@ -270938,6 +271019,15 @@ AnimeMap:
     - malid: 64359
       title: 'Meitantei Conan: Hanamaru na Answer'
       type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64366
+      title: Sankaku no Sekai
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271145,6 +271235,15 @@ AnimeMap:
     - malid: 64405
       title: Netorareta Bakunyuu Tsuma-tachi 2
       type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64409
+      title: Umya Unya Happy Life
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271899,7 +271998,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64543
-      title: Ushiro no Shoumen Kamui-san Mini Anime
+      title: Ushiro no Shoumen Kamui-san Mini Anime Gekijou
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -272294,9 +272393,27 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64623
+      title: Houkiboshi (2026)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64624
       title: Deng Xia Jiu Fa
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64625
+      title: Saihate ni Hana
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -272342,6 +272459,15 @@ AnimeMap:
     - malid: 64643
       title: Yurayura Q
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64645
+      title: My Love
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -272423,6 +272549,15 @@ AnimeMap:
     - malid: 64668
       title: Tengu Tousen
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64671
+      title: Makeusagi
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -272852,6 +272987,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64741
+      title: Senritsu
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64743
       title: Sonyeonjangsu (2015)
       type: tv
@@ -272970,8 +273114,152 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64768
-      title: Akuyaku no Ending wa Shi Nomi
+      title: Akuyaku no Ending wa Shi nomi
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64769
+      title: We Will Rise Again
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64770
+      title: Oneul-man-eun
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64771
+      title: One Glowing Heart
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64772
+      title: Nano List
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64774
+      title: Psychomagic In An Adobe Home
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64775
+      title: Pluggin' Away
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64779
+      title: Seeing Double
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64780
+      title: Shounen to Kodanuki
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64782
+      title: Akazukin, Tabi no Tochuu de Shitai to Deau.
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64786
+      title: Kyapi
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64789
+      title: Nezumi-kun no Chokki (TV) 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64793
+      title: Tekken! Yurutto Cartoon
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64796
+      title: Stop
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64798
+      title: Kerokero News Show
+      type: tv_special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64799
+      title: Zi Chuan 3rd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64802
+      title: 'Fate/Grand Order: Hoshimi no Kairou'
+      type: special
       tvdbid: 0
       tvdbseason: 0
       start: 0

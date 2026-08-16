@@ -75395,7 +75395,7 @@
    },
    {
       "title": "Kiniro Mosaic: Pretty Days",
-      "enTitle": "Kinmoza! Pretty Days",
+      "enTitle": "KINMOZA! Pretty Days",
       "malid": 33034,
       "type": "movie",
       "releaseDate": "2016-11-12"
@@ -87868,6 +87868,7 @@
    },
    {
       "title": "Ku Pao Yingxiong",
+      "enTitle": "The Running Heroes",
       "malid": 36440,
       "type": "ona",
       "releaseDate": "2017-09-02"
@@ -89159,7 +89160,7 @@
    },
    {
       "title": "Kakuriyo no Yadomeshi",
-      "enTitle": "Kakuriyo -Bed \u0026 Breakfast for Spirits-",
+      "enTitle": "Kakuriyo: Bed \u0026 Breakfast for Spirits",
       "malid": 36754,
       "type": "tv",
       "releaseDate": "2018-04-02"
@@ -142924,6 +142925,7 @@
    },
    {
       "title": "Shi Wangzhe A?",
+      "enTitle": "Is This Honor of Kings?",
       "malid": 51405,
       "type": "ona",
       "releaseDate": "2022-03-18"
@@ -145891,7 +145893,7 @@
       "title": "iichiko Story",
       "enTitle": "iichiko Story",
       "malid": 52227,
-      "type": "special",
+      "type": "cm",
       "releaseDate": "2021-06-24"
    },
    {
@@ -150991,7 +150993,7 @@
       "title": "Violet Evergarden: Recollections",
       "enTitle": "Violet Evergarden: Recollections",
       "malid": 53672,
-      "type": "special",
+      "type": "tv_special",
       "releaseDate": "2021-10-29"
    },
    {
@@ -152072,11 +152074,11 @@
       "releaseDate": "2024-04-10"
    },
    {
-      "title": "Tensei shitara Ken deshita 2",
+      "title": "Tensei shitara Ken deshita II",
       "enTitle": "Reincarnated as a Sword Season 2",
       "malid": 53913,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-01"
    },
    {
       "title": "1000-mankai Hug Nanda",
@@ -160688,6 +160690,7 @@
    },
    {
       "title": "Shi Wangzhe A? 2nd Season",
+      "enTitle": "Is This Honor of Kings? Season 2",
       "malid": 56040,
       "type": "ona",
       "releaseDate": "2023-07-27"
@@ -173936,6 +173939,7 @@
    },
    {
       "title": "Shi Wangzhe A? 3rd Season",
+      "enTitle": "Is This Honor of Kings? Season 3",
       "malid": 59225,
       "type": "ona",
       "releaseDate": "2024-06-13"
@@ -176748,7 +176752,7 @@
       "enTitle": "Gill",
       "malid": 59878,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2026-09-09"
    },
    {
       "title": "32 Beon Daewangingeo",
@@ -179577,7 +179581,7 @@
       "enTitle": "Skip and Loafer Season 2",
       "malid": 60548,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "Arcanadea",
@@ -181263,6 +181267,7 @@
    },
    {
       "title": "Shi Wangzhe A? 4th Season",
+      "enTitle": "Is This Honor of Kings? Season 4",
       "malid": 60902,
       "type": "ona",
       "releaseDate": "2024-12-27"
@@ -183454,10 +183459,10 @@
       "releaseDate": "2024-09-20"
    },
    {
-      "title": "Tenkaichi",
+      "title": "Tenkaichi: Nihon Saikyou Bugeisha Ketteisen",
       "malid": 61461,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "Pan no Akachan",
@@ -185537,7 +185542,7 @@
       "enTitle": "The Apothecary Diaries Season 3",
       "malid": 61987,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-02"
    },
    {
       "title": "Cyberpunk: Edgerunners 2",
@@ -186069,7 +186074,7 @@
    },
    {
       "title": "Zi Chuan 2nd Season",
-      "enTitle": "Purple River 2nd Season",
+      "enTitle": "Purple River 2",
       "malid": 62117,
       "type": "ona",
       "releaseDate": "2025-07-30"
@@ -187806,7 +187811,7 @@
       "title": "Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen",
       "malid": 62534,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-01"
    },
    {
       "title": "Hanaori-san wa Tensei shitemo Kenka ga Shitai",
@@ -188186,6 +188191,7 @@
    },
    {
       "title": "Tetsuryou! Meet with Tetsudou Musume",
+      "enTitle": "Tetsuryou! Meet with Tetsudou Musume",
       "malid": 62615,
       "type": "tv",
       "releaseDate": "2026-10"
@@ -188670,7 +188676,7 @@
       "enTitle": "Spirit Realm Walker",
       "malid": 62734,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-09-03"
    },
    {
       "title": "Xing Lu",
@@ -190470,6 +190476,7 @@
    },
    {
       "title": "Shi Wangzhe A? 5th Season",
+      "enTitle": "Is This Honor of Kings? Season 5",
       "malid": 63173,
       "type": "ona",
       "releaseDate": "2025-07-24"
@@ -191274,6 +191281,7 @@
    },
    {
       "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+      "enTitle": "Nia Liston: The Merciless Maiden",
       "malid": 63382,
       "type": "tv",
       "releaseDate": "2026-10-06"
@@ -192289,7 +192297,7 @@
       "title": "Game Sekai Tensei \"Dankatsu\": Gamer wa \"Dungeon Shuukatsu no Susume\" wo \"Hajime kara\" Play suru",
       "malid": 63706,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Komekami! Girls",
@@ -192407,7 +192415,7 @@
       "title": "Tank Chair",
       "malid": 63751,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-04"
    },
    {
       "title": "Suterare Seijo no Isekai Gohan Tabi: Kakure Skill de Camping Car wo Shoukan shimashita",
@@ -193165,7 +193173,7 @@
       "title": "Megane, Tokidoki, Yankee-kun",
       "malid": 64006,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Yani Neko Mini Anime",
@@ -193549,6 +193557,12 @@
       "releaseDate": "2026-05-08"
    },
    {
+      "title": "Tanoshii Ohanashi Series",
+      "malid": 64145,
+      "type": "movie",
+      "releaseDate": "1989"
+   },
+   {
       "title": "Kare no Shiranai Himitsu wo Irete. The Animation",
       "malid": 64146,
       "type": "ova",
@@ -193578,6 +193592,25 @@
       "malid": 64154,
       "type": "movie",
       "releaseDate": "2027"
+   },
+   {
+      "title": "Zurui Kitsune",
+      "malid": 64164,
+      "type": "movie",
+      "releaseDate": "1967"
+   },
+   {
+      "title": "Sanbiki no Kobuta",
+      "enTitle": "The Three Little Pigs",
+      "malid": 64165,
+      "type": "movie",
+      "releaseDate": "1964-12"
+   },
+   {
+      "title": "Kobito no Denwa",
+      "malid": 64166,
+      "type": "movie",
+      "releaseDate": "1953"
    },
    {
       "title": "Kitsune to Kotori",
@@ -193745,6 +193778,20 @@
       "releaseDate": "1981"
    },
    {
+      "title": "Rina no Yume",
+      "enTitle": "Rina's Dream",
+      "malid": 64240,
+      "type": "movie",
+      "releaseDate": "1988"
+   },
+   {
+      "title": "Kumano Kodo Minwashu",
+      "enTitle": "Kumano Kodo Folk Tale Collection",
+      "malid": 64243,
+      "type": "movie",
+      "releaseDate": "2006"
+   },
+   {
       "title": "Nestlé CMs",
       "malid": 64244,
       "type": "cm",
@@ -193856,6 +193903,13 @@
       "releaseDate": "2026-03-02"
    },
    {
+      "title": "Tsuzuku Tousou",
+      "enTitle": "Our Struggle",
+      "malid": 64284,
+      "type": "music",
+      "releaseDate": "2026-05-26"
+   },
+   {
       "title": "Garou Densetsu: CotW - Mr. Karate",
       "enTitle": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
       "malid": 64289,
@@ -193879,6 +193933,13 @@
       "malid": 64292,
       "type": "ova",
       "releaseDate": "2026-08-28"
+   },
+   {
+      "title": "Contemporary Dance",
+      "enTitle": "Contemporary Dance",
+      "malid": 64295,
+      "type": "music",
+      "releaseDate": "2026-05-28"
    },
    {
       "title": "Muchuu no Tou",
@@ -193931,6 +193992,12 @@
       "releaseDate": "1977-06-26"
    },
    {
+      "title": "Obake",
+      "malid": 64322,
+      "type": "tv_special",
+      "releaseDate": "1982-08-15"
+   },
+   {
       "title": "Hinamatsuri Anime Fantasy! Uchuu no Hate made Bouken Ryokoi Romantic Ginga Tour e no wo Shoutai!!",
       "malid": 64323,
       "type": "tv_special",
@@ -193947,7 +194014,7 @@
       "enTitle": "The Seven Knights of the Marronnier Kingdom",
       "malid": 64326,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-03"
    },
    {
       "title": "Choro-Q Deck System Q Fighters!",
@@ -194049,6 +194116,13 @@
       "malid": 64359,
       "type": "tv_special",
       "releaseDate": "2026-06-06"
+   },
+   {
+      "title": "Sankaku no Sekai",
+      "enTitle": "The Triangular World",
+      "malid": 64366,
+      "type": "movie",
+      "releaseDate": "1931"
    },
    {
       "title": "Nokosareta Meishi: Aru Zainichi Issei no Kiseki",
@@ -194201,6 +194275,12 @@
       "malid": 64405,
       "type": "ova",
       "releaseDate": "2026-09-18"
+   },
+   {
+      "title": "Umya Unya Happy Life",
+      "malid": 64409,
+      "type": "music",
+      "releaseDate": "2026-06-16"
    },
    {
       "title": "Play",
@@ -194571,6 +194651,7 @@
    },
    {
       "title": "Shi Wangzhe A? 6th Season",
+      "enTitle": "Is This Honor of Kings? Season 6",
       "malid": 64509,
       "type": "ona",
       "releaseDate": "2026-07-23"
@@ -194740,13 +194821,14 @@
       "releaseDate": "2026-07-03"
    },
    {
-      "title": "Ushiro no Shoumen Kamui-san Mini Anime",
+      "title": "Ushiro no Shoumen Kamui-san Mini Anime Gekijou",
       "malid": 64543,
       "type": "tv",
       "releaseDate": "2026-07-12"
    },
    {
       "title": "Here U Are",
+      "enTitle": "Here U Are",
       "malid": 64544,
       "type": "tv",
       "releaseDate": ""
@@ -195027,11 +195109,24 @@
       "releaseDate": "2024-08-31"
    },
    {
+      "title": "Houkiboshi (2026)",
+      "enTitle": "Shooting Star",
+      "malid": 64623,
+      "type": "music",
+      "releaseDate": "2026-07-15"
+   },
+   {
       "title": "Deng Xia Jiu Fa",
       "enTitle": "Apotheosis in Nine Acts: How I End Up Saving the World",
       "malid": 64624,
       "type": "ona",
       "releaseDate": ""
+   },
+   {
+      "title": "Saihate ni Hana",
+      "malid": 64625,
+      "type": "music",
+      "releaseDate": "2026-07-17"
    },
    {
       "title": "Feng Xueshan Shenmiao",
@@ -195065,6 +195160,13 @@
       "malid": 64643,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "My Love",
+      "enTitle": "My Love",
+      "malid": 64645,
+      "type": "music",
+      "releaseDate": "2026-07-20"
    },
    {
       "title": "Tsunaide",
@@ -195121,6 +195223,12 @@
       "malid": 64668,
       "type": "ona",
       "releaseDate": "2026-07-24"
+   },
+   {
+      "title": "Makeusagi",
+      "malid": 64671,
+      "type": "movie",
+      "releaseDate": "1974"
    },
    {
       "title": "Koutetsujou no Kabaneri: Mumei Ranman",
@@ -195194,7 +195302,7 @@
       "title": "One Room Jogyo-nim",
       "malid": 64683,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-08-28"
    },
    {
       "title": "Isekai Gukbap Master",
@@ -195423,6 +195531,12 @@
       "releaseDate": "2020-09-25"
    },
    {
+      "title": "Senritsu",
+      "malid": 64741,
+      "type": "movie",
+      "releaseDate": "1933"
+   },
+   {
       "title": "Sonyeonjangsu (2015)",
       "enTitle": "The Boy General",
       "malid": 64743,
@@ -195504,9 +195618,113 @@
       "releaseDate": "2026-08-08"
    },
    {
-      "title": "Akuyaku no Ending wa Shi Nomi",
+      "title": "Akuyaku no Ending wa Shi nomi",
       "malid": 64768,
       "type": "tv",
       "releaseDate": ""
+   },
+   {
+      "title": "We Will Rise Again",
+      "enTitle": "We Will Rise Again",
+      "malid": 64769,
+      "type": "music",
+      "releaseDate": "2026-08-09"
+   },
+   {
+      "title": "Oneul-man-eun",
+      "enTitle": "Just for Today, You’re Mine to Keep",
+      "malid": 64770,
+      "type": "music",
+      "releaseDate": "2026-05-16"
+   },
+   {
+      "title": "One Glowing Heart",
+      "enTitle": "One Glowing Heart",
+      "malid": 64771,
+      "type": "music",
+      "releaseDate": "2026-08-05"
+   },
+   {
+      "title": "Nano List",
+      "malid": 64772,
+      "type": "ona",
+      "releaseDate": "2026-08-17"
+   },
+   {
+      "title": "Psychomagic In An Adobe Home",
+      "malid": 64774,
+      "type": "music",
+      "releaseDate": "2017-03-17"
+   },
+   {
+      "title": "Pluggin' Away",
+      "malid": 64775,
+      "type": "music",
+      "releaseDate": "2016-07-05"
+   },
+   {
+      "title": "Seeing Double",
+      "enTitle": "Seeing Double",
+      "malid": 64779,
+      "type": "ona",
+      "releaseDate": "2026-05-15"
+   },
+   {
+      "title": "Shounen to Kodanuki",
+      "malid": 64780,
+      "type": "movie",
+      "releaseDate": "1992"
+   },
+   {
+      "title": "Akazukin, Tabi no Tochuu de Shitai to Deau.",
+      "enTitle": "Red Riding Hood: A Detective Story",
+      "malid": 64782,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Kyapi",
+      "malid": 64786,
+      "type": "music",
+      "releaseDate": "2026-08-11"
+   },
+   {
+      "title": "Nezumi-kun no Chokki (TV) 2nd Season",
+      "enTitle": "Little Mouse's Red Vest Season 2",
+      "malid": 64789,
+      "type": "tv",
+      "releaseDate": "2026-10-03"
+   },
+   {
+      "title": "Tekken! Yurutto Cartoon",
+      "enTitle": "Tekken! Cartoon",
+      "malid": 64793,
+      "type": "ona",
+      "releaseDate": "2026-07-10"
+   },
+   {
+      "title": "Stop",
+      "malid": 64796,
+      "type": "movie",
+      "releaseDate": "1970"
+   },
+   {
+      "title": "Kerokero News Show",
+      "malid": 64798,
+      "type": "tv_special",
+      "releaseDate": "2001-04-23"
+   },
+   {
+      "title": "Zi Chuan 3rd Season",
+      "enTitle": "Purple River 3",
+      "malid": 64799,
+      "type": "ona",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Fate/Grand Order: Hoshimi no Kairou",
+      "malid": 64802,
+      "type": "special",
+      "releaseDate": "2026-08-14"
    }
 ]
