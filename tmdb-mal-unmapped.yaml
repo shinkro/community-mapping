@@ -143,10 +143,6 @@ animeMovies:
       tmdbid: 0
       malid: 3067
 
-    - mainTitle: Kagaku Ninja-tai Gatchaman (Movie)
-      tmdbid: 0
-      malid: 3153
-
     - mainTitle: Kinnikuman (Movie)
       tmdbid: 0
       malid: 3273
@@ -7535,10 +7531,6 @@ animeMovies:
       tmdbid: 0
       malid: 64243
 
-    - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
-      tmdbid: 0
-      malid: 64266
-
     - mainTitle: 'Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi'
       tmdbid: 0
       malid: 64267
@@ -7642,4 +7634,24 @@ animeMovies:
     - mainTitle: Dungji
       tmdbid: 0
       malid: 64836
+
+    - mainTitle: Nalsum
+      tmdbid: 0
+      malid: 64854
+
+    - mainTitle: 'One Piece Film: God Valley'
+      tmdbid: 0
+      malid: 64858
+
+    - mainTitle: 'One Piece Film: Baad'
+      tmdbid: 0
+      malid: 64859
+
+    - mainTitle: 'Tudou Xia: Wo Yao Dang Da Xia'
+      tmdbid: 0
+      malid: 64863
+
+    - mainTitle: Jeonjaolagsuhodae
+      tmdbid: 0
+      malid: 64865
 

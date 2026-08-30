@@ -182588,7 +182588,7 @@ AnimeMap:
 
     - malid: 47582
       title: Bai Hua Yuan Li De Gushi
-      type: tv
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -244486,15 +244486,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 59389
-      title: Jian Lai
-      type: ona
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 59390
       title: Terminator 0
       type: ona
@@ -267676,7 +267667,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63381
-      title: Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shima~su
+      title: Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -268405,7 +268396,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63523
-      title: Zakkijou
+      title: Zakkichou
       type: music
       tvdbid: 0
       tvdbseason: 0
@@ -269061,6 +269052,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63692
+      title: Game no Eiyuu
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63693
       title: One Last Wish
       type: music
@@ -269169,6 +269169,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63723
+      title: Madame
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63724
       title: Ojisan Densetsu
       type: music
@@ -269208,6 +269217,15 @@ AnimeMap:
     - malid: 63730
       title: Isekai Tensei Soudouki
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63733
+      title: Urei no Bakemono
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -269361,6 +269379,15 @@ AnimeMap:
     - malid: 63765
       title: Nuki Nuki Zupposism
       type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 63770
+      title: Ai Ai A
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -273885,6 +273912,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64778
+      title: Super ni Tojikomerareta Bokura
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64779
       title: Seeing Double
       type: ova
@@ -274194,6 +274230,177 @@ AnimeMap:
     - malid: 64848
       title: 'Duel Masters LOST: Danzai no Shounen'
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64850
+      title: Continue
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64852
+      title: Oshiri Puri Ondo
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64854
+      title: Nalsum
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64856
+      title: Changga-ui Jageun Teotbat
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64858
+      title: 'One Piece Film: God Valley'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64859
+      title: 'One Piece Film: Baad'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64861
+      title: Hetalia World★Stars (2026)
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64862
+      title: I Found Me
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64863
+      title: 'Tudou Xia: Wo Yao Dang Da Xia'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64865
+      title: Jeonjaolagsuhodae
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64866
+      title: Chinhage Jinaeja
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64867
+      title: 'Umayuru: Full Gate!'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64873
+      title: 'Matsuken Anime: Kore Seibaishite mo Ii desu ka?'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64875
+      title: Niu Lai
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64876
+      title: 'Garou Densetsu: CotW - Rick Strowd & Duck King'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64877
+      title: Boku no Suki na Hito ga Suki na Hito
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64878
+      title: Ah!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64879
+      title: Uoo! Me! Amigo!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64880
+      title: Tree
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0

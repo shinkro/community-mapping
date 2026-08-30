@@ -23370,6 +23370,7 @@
       "title": "Kagaku Ninja-tai Gatchaman (Movie)",
       "malid": 3153,
       "anidbid": 5434,
+      "tmdbid": 331399,
       "type": "movie",
       "releaseDate": "1978-07-15"
    },
@@ -137085,7 +137086,7 @@
       "title": "Ali Huiben Xilie",
       "malid": 44732,
       "type": "ona",
-      "releaseDate": "2014"
+      "releaseDate": "2014-03-14"
    },
    {
       "title": "Ali Bu Ta Gushi Ji",
@@ -149340,8 +149341,8 @@
    {
       "title": "Bai Hua Yuan Li De Gushi",
       "malid": 47582,
-      "type": "tv",
-      "releaseDate": "2017"
+      "type": "ona",
+      "releaseDate": "2017-12-27"
    },
    {
       "title": "Gan Bu Da Maoxian",
@@ -185071,7 +185072,7 @@
       "malid": 56733,
       "anidbid": 18208,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-04"
    },
    {
       "title": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
@@ -196689,13 +196690,6 @@
       "releaseDate": "2024-08-15"
    },
    {
-      "title": "Jian Lai",
-      "enTitle": "The Swords",
-      "malid": 59389,
-      "type": "ona",
-      "releaseDate": "2024-08-15"
-   },
-   {
       "title": "Terminator 0",
       "enTitle": "Terminator Zero",
       "malid": 59390,
@@ -201956,7 +201950,7 @@
       "anidbid": 19064,
       "tvdbid": 458008,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Vortex",
@@ -206521,6 +206515,7 @@
    },
    {
       "title": "Bei Xue",
+      "enTitle": "Cup of Snow",
       "malid": 61569,
       "type": "ona",
       "releaseDate": "2026-08-25"
@@ -211168,7 +211163,7 @@
       "anidbid": 19632,
       "tvdbid": 468785,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-09"
    },
    {
       "title": "Sheng Dan Chuanqi: Zhu Gong de Shaizi",
@@ -212501,7 +212496,7 @@
       "malid": 62922,
       "anidbid": 19714,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-04"
    },
    {
       "title": "Aisuru Toki",
@@ -214206,7 +214201,7 @@
       "title": "Medalist Movie",
       "malid": 63326,
       "type": "movie",
-      "releaseDate": "2027"
+      "releaseDate": "2027-02-19"
    },
    {
       "title": "Genkai",
@@ -214409,10 +214404,13 @@
       "releaseDate": "2025-12-10"
    },
    {
-      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shima~su",
+      "title": "Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu",
+      "enTitle": "Now That I Can Control Reality with a Mouse Cursor, I'm Gonna Click Away on the Girls!",
       "malid": 63381,
+      "anidbid": 19858,
+      "tvdbid": 473125,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2026-10-05"
    },
    {
       "title": "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
@@ -214962,7 +214960,7 @@
       "releaseDate": "2025-03-21"
    },
    {
-      "title": "Zakkijou",
+      "title": "Zakkichou",
       "enTitle": "Nervousness",
       "malid": 63523,
       "type": "music",
@@ -215437,6 +215435,13 @@
       "releaseDate": "2026-10"
    },
    {
+      "title": "Game no Eiyuu",
+      "enTitle": "Heroes of the Game",
+      "malid": 63692,
+      "type": "ona",
+      "releaseDate": "2025-03-25"
+   },
+   {
       "title": "One Last Wish",
       "enTitle": "One Last Wish",
       "malid": 63693,
@@ -215505,7 +215510,7 @@
       "anidbid": 19944,
       "tvdbid": 475350,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-06"
    },
    {
       "title": "Violence in the Hospital",
@@ -215519,6 +215524,12 @@
       "malid": 63720,
       "type": "tv",
       "releaseDate": "2004-10-20"
+   },
+   {
+      "title": "Madame",
+      "malid": 63723,
+      "type": "music",
+      "releaseDate": "2022-07-22"
    },
    {
       "title": "Ojisan Densetsu",
@@ -215550,6 +215561,13 @@
       "anidbid": 19948,
       "type": "tv",
       "releaseDate": "2027-01"
+   },
+   {
+      "title": "Urei no Bakemono",
+      "enTitle": "Melancholy Monster",
+      "malid": 63733,
+      "type": "music",
+      "releaseDate": "2026-02-19"
    },
    {
       "title": "Counting Dog",
@@ -215672,6 +215690,12 @@
       "malid": 63765,
       "type": "ova",
       "releaseDate": "2026-06-12"
+   },
+   {
+      "title": "Ai Ai A",
+      "malid": 63770,
+      "type": "music",
+      "releaseDate": "2026-03-20"
    },
    {
       "title": "Zhanshi Jihe",
@@ -215860,7 +215884,7 @@
       "anidbid": 19951,
       "tvdbid": 475488,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-06"
    },
    {
       "title": "Shibou Yuugi de Meshi wo Kuu. 44: Cloudy Beach",
@@ -216574,8 +216598,9 @@
       "title": "Boushoku no Berserk 2nd Season",
       "enTitle": "Berserk of Gluttony Season 2",
       "malid": 64059,
+      "anidbid": 20026,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Re:Prism",
@@ -217127,6 +217152,7 @@
    {
       "title": "Takopii no Genzai: Arigatou, Mata Ashita",
       "malid": 64266,
+      "tmdbid": 1700953,
       "type": "movie",
       "releaseDate": "2026-11-27"
    },
@@ -217363,7 +217389,7 @@
       "malid": 64344,
       "anidbid": 20081,
       "type": "tv",
-      "releaseDate": "2026-10"
+      "releaseDate": "2026-10-08"
    },
    {
       "title": "Cin Sai Syu",
@@ -218070,6 +218096,7 @@
       "enTitle": "The Ramparts of Ice Season 2",
       "malid": 64534,
       "anidbid": 20168,
+      "tvdbid": 459627,
       "type": "tv",
       "releaseDate": "2026-10-01"
    },
@@ -218972,6 +218999,13 @@
       "releaseDate": "2016-07-05"
    },
    {
+      "title": "Super ni Tojikomerareta Bokura",
+      "enTitle": "Level3999",
+      "malid": 64778,
+      "type": "music",
+      "releaseDate": "2025-11-12"
+   },
+   {
       "title": "Seeing Double",
       "enTitle": "Seeing Double",
       "malid": 64779,
@@ -219205,5 +219239,130 @@
       "malid": 64848,
       "type": "ona",
       "releaseDate": "2026-10-09"
+   },
+   {
+      "title": "Continue",
+      "enTitle": "Continue",
+      "malid": 64850,
+      "type": "music",
+      "releaseDate": "2026-08-22"
+   },
+   {
+      "title": "Oshiri Puri Ondo",
+      "malid": 64852,
+      "type": "music",
+      "releaseDate": "2026-08-22"
+   },
+   {
+      "title": "Nalsum",
+      "malid": 64854,
+      "type": "movie",
+      "releaseDate": "2025-06-04"
+   },
+   {
+      "title": "Changga-ui Jageun Teotbat",
+      "enTitle": "A Small Garden By The Window",
+      "malid": 64856,
+      "tmdbid": 1293027,
+      "type": "movie",
+      "releaseDate": "2024-04-02"
+   },
+   {
+      "title": "One Piece Film: God Valley",
+      "enTitle": "One Piece Film: God Valley",
+      "malid": 64858,
+      "type": "movie",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "One Piece Film: Baad",
+      "enTitle": "One Piece Film: Baad",
+      "malid": 64859,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Hetalia World★Stars (2026)",
+      "malid": 64861,
+      "type": "ona",
+      "releaseDate": "2026-09-05"
+   },
+   {
+      "title": "I Found Me",
+      "enTitle": "I found me",
+      "malid": 64862,
+      "type": "music",
+      "releaseDate": "2026-08-23"
+   },
+   {
+      "title": "Tudou Xia: Wo Yao Dang Da Xia",
+      "enTitle": "Potato Man",
+      "malid": 64863,
+      "type": "movie",
+      "releaseDate": "2026-08-21"
+   },
+   {
+      "title": "Jeonjaolagsuhodae",
+      "enTitle": "Guardians of the Video Game",
+      "malid": 64865,
+      "type": "movie",
+      "releaseDate": "2026-10"
+   },
+   {
+      "title": "Chinhage Jinaeja",
+      "malid": 64866,
+      "type": "ona",
+      "releaseDate": "2026-05-01"
+   },
+   {
+      "title": "Umayuru: Full Gate!",
+      "malid": 64867,
+      "type": "ona",
+      "releaseDate": "2026-09"
+   },
+   {
+      "title": "Matsuken Anime: Kore Seibaishite mo Ii desu ka?",
+      "enTitle": "Matsuken Anime: Can I Pass Judgment on This?",
+      "malid": 64873,
+      "type": "ona",
+      "releaseDate": "2026-08-29"
+   },
+   {
+      "title": "Niu Lai",
+      "malid": 64875,
+      "tmdbid": 1748007,
+      "type": "movie",
+      "releaseDate": "2026-08-05"
+   },
+   {
+      "title": "Garou Densetsu: CotW - Rick Strowd \u0026 Duck King",
+      "enTitle": "Fatal Fury: City of the Wolves - Rick Strowd \u0026 Duck King Trailer",
+      "malid": 64876,
+      "type": "ona",
+      "releaseDate": "2026-08-27"
+   },
+   {
+      "title": "Boku no Suki na Hito ga Suki na Hito",
+      "malid": 64877,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Ah!",
+      "malid": 64878,
+      "type": "music",
+      "releaseDate": "2026-08-01"
+   },
+   {
+      "title": "Uoo! Me! Amigo!",
+      "malid": 64879,
+      "type": "music",
+      "releaseDate": "2026-06-01"
+   },
+   {
+      "title": "Tree",
+      "malid": 64880,
+      "type": "music",
+      "releaseDate": "2013-09-28"
    }
 ]
