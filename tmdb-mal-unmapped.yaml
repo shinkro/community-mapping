@@ -143,10 +143,6 @@ animeMovies:
       tmdbid: 0
       malid: 3067
 
-    - mainTitle: Kagaku Ninja-tai Gatchaman (Movie)
-      tmdbid: 0
-      malid: 3153
-
     - mainTitle: Kinnikuman (Movie)
       tmdbid: 0
       malid: 3273
@@ -674,10 +670,6 @@ animeMovies:
     - mainTitle: Manga Nippon Mukashibanashi (Movie)
       tmdbid: 0
       malid: 10285
-
-    - mainTitle: Gyo
-      tmdbid: 0
-      malid: 10417
 
     - mainTitle: Hoero Bunbun (Movie)
       tmdbid: 0
@@ -3078,10 +3070,6 @@ animeMovies:
     - mainTitle: Wind
       tmdbid: 0
       malid: 42279
-
-    - mainTitle: Lotus
-      tmdbid: 0
-      malid: 42280
 
     - mainTitle: Son Ogong
       tmdbid: 0
@@ -6595,10 +6583,6 @@ animeMovies:
       tmdbid: 0
       malid: 58213
 
-    - mainTitle: Atarashii wo Uchi ni Chu
-      tmdbid: 0
-      malid: 58217
-
     - mainTitle: Yonde Yobarete
       tmdbid: 0
       malid: 58219
@@ -7379,10 +7363,6 @@ animeMovies:
       tmdbid: 0
       malid: 63312
 
-    - mainTitle: Medalist Movie
-      tmdbid: 0
-      malid: 63326
-
     - mainTitle: 'Sore Ike! Anpanman: Pantan to Yakusoku no Hoshi'
       tmdbid: 0
       malid: 63356
@@ -7402,6 +7382,10 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan Movie 34: Kikikaikai! Ora no Youkai Bake-shon'
       tmdbid: 0
       malid: 63512
+
+    - mainTitle: MacGuffin
+      tmdbid: 0
+      malid: 63580
 
     - mainTitle: Football Animals
       tmdbid: 0
@@ -7430,6 +7414,10 @@ animeMovies:
     - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
       tmdbid: 0
       malid: 63897
+
+    - mainTitle: 'Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou'
+      tmdbid: 0
+      malid: 63950
 
     - mainTitle: 'Ginga Tetsudou 999: Glass no Clair 3D'
       tmdbid: 0
@@ -7535,10 +7523,6 @@ animeMovies:
       tmdbid: 0
       malid: 64243
 
-    - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
-      tmdbid: 0
-      malid: 64266
-
     - mainTitle: 'Nasu Sosui Monogatari: Heita Jiichan no Mizu no Hanashi'
       tmdbid: 0
       malid: 64267
@@ -7578,6 +7562,10 @@ animeMovies:
     - mainTitle: Majo no Tani no Yoru
       tmdbid: 0
       malid: 64431
+
+    - mainTitle: 'Aikatsu Stars!: Hoshiboshi no Progress'
+      tmdbid: 0
+      malid: 64541
 
     - mainTitle: 'Ore dake Level Up na Ken: Beyond the System'
       tmdbid: 0
@@ -7642,4 +7630,28 @@ animeMovies:
     - mainTitle: Dungji
       tmdbid: 0
       malid: 64836
+
+    - mainTitle: Nalsum
+      tmdbid: 0
+      malid: 64854
+
+    - mainTitle: 'One Piece Film: God Valley'
+      tmdbid: 0
+      malid: 64858
+
+    - mainTitle: 'One Piece Film: Baad'
+      tmdbid: 0
+      malid: 64859
+
+    - mainTitle: 'Tudou Xia: Wo Yao Dang Da Xia'
+      tmdbid: 0
+      malid: 64863
+
+    - mainTitle: Jeonjaolagsuhodae
+      tmdbid: 0
+      malid: 64865
+
+    - mainTitle: 'Pokemon: Wild Card'
+      tmdbid: 0
+      malid: 64895
 
