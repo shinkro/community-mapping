@@ -127,10 +127,6 @@ animeMovies:
       tmdbid: 65665
       malid: 3067
 
-    - mainTitle: Kagaku Ninja-tai Gatchaman (Movie)
-      tmdbid: 331399
-      malid: 3153
-
     - mainTitle: Kinnikuman (Movie)
       tmdbid: 311127
       malid: 3273
@@ -438,10 +434,6 @@ animeMovies:
     - mainTitle: 'Bikkuriman: Daiichiji Seima Taisen'
       tmdbid: 743146
       malid: 10203
-
-    - mainTitle: Gyo
-      tmdbid: 94684
-      malid: 10417
 
     - mainTitle: Hoero Bunbun (Movie)
       tmdbid: 522511
