@@ -51774,6 +51774,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63138
+      title: 'Kaijuu 8-gou: Narumi no Heijitsu'
+      type: ona
+      tvdbid: 423075
+      tvdbseason: 0
+      start: 4
+      useMapping: false
+      animeMapping: []
+
     - malid: 63140
       title: Yasei no Last Boss ga Arawareta! 2nd Season
       type: tv
