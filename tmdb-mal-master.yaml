@@ -31,10 +31,6 @@ animeMovies:
       tmdbid: 68368
       malid: 1796
 
-    - mainTitle: Paprika
-      tmdbid: 4977
-      malid: 1943
-
     - mainTitle: 'Rockman.EXE Movie: Hikari to Yami no Program'
       tmdbid: 87073
       malid: 2111
@@ -550,10 +546,6 @@ animeMovies:
     - mainTitle: Forestry
       tmdbid: 0
       malid: 8749
-
-    - mainTitle: 'Duel Masters Movie 3: Honoo no Kizuna XX'
-      tmdbid: 0
-      malid: 9282
 
     - mainTitle: Samero
       tmdbid: 0
@@ -1970,10 +1962,6 @@ animeMovies:
     - mainTitle: Why
       tmdbid: 0
       malid: 30559
-
-    - mainTitle: 'That''s Hanakappa Musical: Pan to Gohan, Docchi nano!?'
-      tmdbid: 0
-      malid: 30582
 
     - mainTitle: Animegatari
       tmdbid: 0
@@ -5687,10 +5675,6 @@ animeMovies:
       tmdbid: 0
       malid: 53977
 
-    - mainTitle: 'Planetarium Hanakappa: Hanasake! Pakkaan Uchuu Ryokou'
-      tmdbid: 0
-      malid: 53979
-
     - mainTitle: Shimajirou no Hoshi no Himitsu Yuki no Himitsu
       tmdbid: 0
       malid: 53980
@@ -7583,6 +7567,10 @@ animeMovies:
       tmdbid: 0
       malid: 64583
 
+    - mainTitle: The Fox Elevator Boy Renard
+      tmdbid: 0
+      malid: 64591
+
     - mainTitle: Chiikawa Eiga Manner Kouza
       tmdbid: 0
       malid: 64595
@@ -7647,11 +7635,19 @@ animeMovies:
       tmdbid: 0
       malid: 64863
 
-    - mainTitle: Jeonjaolagsuhodae
-      tmdbid: 0
-      malid: 64865
-
     - mainTitle: 'Pokemon: Wild Card'
       tmdbid: 0
       malid: 64895
+
+    - mainTitle: Mabeobi Dolaoneun Nalui Bada
+      tmdbid: 0
+      malid: 64916
+
+    - mainTitle: 'Doraemon Movie 46: Nobita no Jouki Jikansha'
+      tmdbid: 0
+      malid: 64920
+
+    - mainTitle: Namjadaun
+      tmdbid: 0
+      malid: 64927
 
