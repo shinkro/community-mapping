@@ -43669,6 +43669,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 53050
+      title: Kanojo, Okarishimasu 3rd Season
+      type: tv
+      tvdbid: 380654
+      tvdbseason: 3
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 53065
       title: Sono Bisque Doll wa Koi wo Suru Season 2
       type: tv
@@ -51650,7 +51659,7 @@ AnimeMap:
 
     - malid: 63468
       title: Ushiro no Shoumen Kamui-san
-      type: tv
+      type: ona
       tvdbid: 473913
       tvdbseason: 1
       start: 0
