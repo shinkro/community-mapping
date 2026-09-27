@@ -8036,6 +8036,7 @@
       "title": "Nekojiru Gekijou Jirujiru Original",
       "malid": 1062,
       "anidbid": 3287,
+      "tvdbid": 129611,
       "type": "tv",
       "releaseDate": "1999-07-09"
    },
@@ -16676,6 +16677,7 @@
       "title": "Funny Pets",
       "malid": 2232,
       "anidbid": 4069,
+      "tvdbid": 333143,
       "type": "tv",
       "releaseDate": "2006-01-11"
    },
@@ -22721,6 +22723,7 @@
       "enTitle": "Wild Knights Gulkeeva",
       "malid": 3099,
       "anidbid": 3456,
+      "tvdbid": 263266,
       "type": "tv",
       "releaseDate": "1995-04-04"
    },
@@ -136865,10 +136868,10 @@
       "releaseDate": "2020-04-16"
    },
    {
-      "title": "Jingling Meng Ye Luoli",
-      "enTitle": "The Guardians of Carcosa",
+      "title": "Jingling Meng Yeluoli",
+      "enTitle": "The Fairy Dream of Yeloli",
       "malid": 45133,
-      "type": "tv",
+      "type": "ona",
       "releaseDate": "2013-06-06"
    },
    {
@@ -165854,8 +165857,8 @@
       "releaseDate": "2019-09-27"
    },
    {
-      "title": "Benghuai 3rd: Dong Zhi Jiyi",
-      "enTitle": "Winter Memories: Honkai Impact 3rd Concept Animation",
+      "title": "Benghuai 3rd: Gainian Donghua Duanpian - Dong Zhi Jiyi",
+      "enTitle": "Honkai Impact 3rd: Concept Animation - Winter Memories",
       "malid": 52771,
       "type": "ona",
       "releaseDate": "2022-02-15"
@@ -167021,13 +167024,6 @@
       "malid": 53050,
       "anidbid": 17629,
       "tvdbid": 380654,
-      "type": "tv",
-      "releaseDate": "2023-07-08"
-   },
-   {
-      "title": "Kanojo, Okarishimasu 3rd Season",
-      "enTitle": "Rent-a-Girlfriend Season 3",
-      "malid": 53050,
       "type": "tv",
       "releaseDate": "2023-07-08"
    },
@@ -178704,7 +178700,7 @@
       "releaseDate": "2024-04-08"
    },
    {
-      "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+      "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi",
       "enTitle": "My Happy Marriage: The Shape of My Happiness",
       "malid": 55889,
       "anidbid": 18545,
@@ -188901,7 +188897,7 @@
    },
    {
       "title": "Benghuai 3rd: Chunzhen Meng Ge PV",
-      "enTitle": "Dreamy Euphony Online Concert Animated Trailer - Honkai Impact 3rd",
+      "enTitle": "Honkai Impact 3rd: Dreamy Euphony Online Concert Animated Trailer",
       "malid": 58145,
       "type": "pv",
       "releaseDate": "2022-08-20"
@@ -188928,6 +188924,13 @@
       "malid": 58155,
       "type": "movie",
       "releaseDate": "2020"
+   },
+   {
+      "title": "Benghuai 3rd: Linhai Qi Lu PV",
+      "enTitle": "Honkai Impact 3rd: Forest Capriccio Online Concert Animated Trailer",
+      "malid": 58156,
+      "type": "pv",
+      "releaseDate": "2023-07-02"
    },
    {
       "title": "Spy x Family Movie: Code: White Manner Movie",
@@ -193915,6 +193918,13 @@
       "releaseDate": "2008-12-17"
    },
    {
+      "title": "Benghuai 3rd: Gainian Donghua Duanpian - Xialing Huixiang",
+      "enTitle": "Honkai Impact 3rd: Concept Animation - Summertime Reminiscences",
+      "malid": 59347,
+      "type": "ona",
+      "releaseDate": "2024-07-21"
+   },
+   {
       "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
       "enTitle": "Headhunted to Another World: From Salaryman to Big Four!",
       "malid": 59349,
@@ -196645,7 +196655,7 @@
       "malid": 59940,
       "anidbid": 18880,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2027"
    },
    {
       "title": "Poketoon (2024)",
@@ -199748,7 +199758,7 @@
       "enTitle": "White Cat Legend Season 3",
       "malid": 60598,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10-15"
    },
    {
       "title": "Tenkai Dokyuu Oshigoto Road",
@@ -204101,6 +204111,13 @@
       "releaseDate": "2025-04-29"
    },
    {
+      "title": "Benghuai: Xing Qiong Tiedao - Yanchanghui Donghua CM: Paishe Jinxing Zhong",
+      "enTitle": "Honkai: Star Rail - Concert Animated Commercial: Filming in Progress",
+      "malid": 61602,
+      "type": "cm",
+      "releaseDate": "2025-04-29"
+   },
+   {
       "title": "Ao Ashi Season 2",
       "enTitle": "Aoashi Season 2",
       "malid": 61603,
@@ -206716,7 +206733,7 @@
       "title": "Da Xia Shou Mu Ren",
       "malid": 62218,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-09-30"
    },
    {
       "title": "Guanglin Diqiu",
@@ -210103,7 +210120,7 @@
       "enTitle": "Rakshasa Street 5",
       "malid": 62958,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-12-11"
    },
    {
       "title": "Riron Busou Shite",
@@ -210173,7 +210190,7 @@
       "malid": 62973,
       "anidbid": 19724,
       "type": "movie",
-      "releaseDate": "2026-05-14"
+      "releaseDate": "2026-09-25"
    },
    {
       "title": "Fatal Trouble",
@@ -210254,7 +210271,7 @@
       "anidbid": 19731,
       "tvdbid": 470719,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Zhu Xian: Zuizhong Ji",
@@ -210545,10 +210562,11 @@
    },
    {
       "title": "Code Geass: Hoshi Oi no Aspal",
+      "enTitle": "Code Geass: Star Chaser Aspal",
       "malid": 63066,
       "anidbid": 19757,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Dondonshi Television Vol. 0: Saito-san wo Shinryaku shita yo.",
@@ -210797,7 +210815,7 @@
       "anidbid": 18884,
       "tvdbid": 352408,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-07"
    },
    {
       "title": "Boku no Hero Academia: More",
@@ -210915,6 +210933,7 @@
    {
       "title": "Keroro Gunsou☆",
       "malid": 63157,
+      "anidbid": 20085,
       "type": "tv",
       "releaseDate": "2026-10-03"
    },
@@ -212384,8 +212403,7 @@
       "enTitle": "I'm Dating a Dark Summoner",
       "malid": 63509,
       "anidbid": 19908,
-      "tvdbid": 474294,
-      "type": "tv",
+      "type": "ona",
       "releaseDate": "2026-10-05"
    },
    {
@@ -212564,7 +212582,7 @@
       "title": "Garou Densetsu: CotW - Nightmare Geese",
       "enTitle": "Fatal Fury: City of the Wolves - Nightmare Geese Trailer",
       "malid": 63567,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-02-26"
    },
    {
@@ -214203,7 +214221,7 @@
       "title": "Garou Densetsu: CotW - Wolfgang Krauser",
       "enTitle": "Fatal Fury: City of the Wolves - Wolfgang Krauser Trailer",
       "malid": 64011,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-04-24"
    },
    {
@@ -215094,7 +215112,7 @@
       "title": "Garou Densetsu: CotW - Mr. Karate",
       "enTitle": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
       "malid": 64289,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-05-27"
    },
    {
@@ -216241,6 +216259,7 @@
    },
    {
       "title": "Watashi wo Center ni Suru to Chikaimasu ka?",
+      "enTitle": "Promise Me the Spotlight",
       "malid": 64573,
       "type": "tv",
       "releaseDate": ""
@@ -216703,6 +216722,13 @@
       "malid": 64686,
       "type": "pv",
       "releaseDate": "2026-07-24"
+   },
+   {
+      "title": "Tiny Giant (Remix)",
+      "enTitle": "Tiny Giant (Remix)",
+      "malid": 64687,
+      "type": "music",
+      "releaseDate": "2026-07-25"
    },
    {
       "title": "I-Bull",
@@ -217209,10 +217235,10 @@
       "releaseDate": "2025-04-06"
    },
    {
-      "title": "Kajitsu",
+      "title": "Kajitsu The Animation",
       "malid": 64823,
       "type": "ova",
-      "releaseDate": "2026"
+      "releaseDate": "2026-12-25"
    },
    {
       "title": "Bolts-wa Blip: Dalnala League Jeontu",
@@ -217396,7 +217422,7 @@
       "title": "Garou Densetsu: CotW - Rick Strowd \u0026 Duck King",
       "enTitle": "Fatal Fury: City of the Wolves - Rick Strowd \u0026 Duck King Trailer",
       "malid": 64876,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-08-27"
    },
    {
@@ -217794,6 +217820,55 @@
       "releaseDate": "2026-09-15"
    },
    {
+      "title": "Yeluoli: Shijian Yu",
+      "enTitle": "The Fairy Dream of Yeloli: Rain of Time",
+      "malid": 64996,
+      "type": "ona",
+      "releaseDate": "2024-07-19"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Jin Huaguan",
+      "enTitle": "The Fairy Dream of Yeloli: Gold Wreath",
+      "malid": 64997,
+      "type": "ona",
+      "releaseDate": "2023-12-29"
+   },
+   {
+      "title": "Yeluoli: Mo Shui Yu",
+      "enTitle": "The Fairy Dream of Yeloli: Whisper of Silent Waters",
+      "malid": 64998,
+      "type": "ona",
+      "releaseDate": "2023-08-18"
+   },
+   {
+      "title": "Yeluoli: Yue Ling Shi",
+      "enTitle": "The Fairy Dream of Yeloli: Moon Spirit Stone",
+      "malid": 65000,
+      "type": "ona",
+      "releaseDate": "2025-01-15"
+   },
+   {
+      "title": "Yeluoli: Jin Liu Xin",
+      "enTitle": "The Fairy Dream of Yeloli: Golden Heart",
+      "malid": 65001,
+      "type": "ona",
+      "releaseDate": "2026-05-01"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Guang Fuchen",
+      "enTitle": "The Fairy Dream of Yeloli: Light Dust",
+      "malid": 65002,
+      "type": "ona",
+      "releaseDate": "2022-12-22"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Bing Lianhua",
+      "enTitle": "The Fairy Dream of Yeloli: Ice Lotus",
+      "malid": 65003,
+      "type": "ona",
+      "releaseDate": "2021-08-11"
+   },
+   {
       "title": "Yuanshen: Donghua Duanpian",
       "enTitle": "Genshin Impact: Animated Shorts",
       "malid": 65004,
@@ -217888,8 +217963,21 @@
       "title": "Neko to Ryuu 2nd Season",
       "enTitle": "The Cat and the Dragon Season 2",
       "malid": 65025,
+      "anidbid": 20404,
       "type": "tv",
       "releaseDate": "2027"
+   },
+   {
+      "title": "Pro, Pro, Pro!!",
+      "malid": 65026,
+      "type": "ona",
+      "releaseDate": "2026-03-13"
+   },
+   {
+      "title": "Norari Kurarism",
+      "malid": 65027,
+      "type": "music",
+      "releaseDate": "2026-09-19"
    },
    {
       "title": "Yi Huan: Juese PVs",
@@ -217904,5 +217992,170 @@
       "malid": 65029,
       "type": "ona",
       "releaseDate": "2026-04-21"
+   },
+   {
+      "title": "Me",
+      "enTitle": "Me",
+      "malid": 65030,
+      "type": "music",
+      "releaseDate": "2026-09-20"
+   },
+   {
+      "title": "Jue Qu Ling: Juese MVs",
+      "enTitle": "Zenless Zone Zero: Character MVs",
+      "malid": 65031,
+      "type": "music",
+      "releaseDate": "2024-07-05"
+   },
+   {
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+      "enTitle": "Though I Am an Inept Villainess Part 2",
+      "malid": 65032,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Moon Fighters! CM",
+      "malid": 65033,
+      "type": "cm",
+      "releaseDate": "2026-09-09"
+   },
+   {
+      "title": "Kome Rice Onigiri feat. Karubi Akami \u0026 Kyouitirou",
+      "malid": 65034,
+      "type": "music",
+      "releaseDate": "2026-08-18"
+   },
+   {
+      "title": "Gals' Fiction The Animation",
+      "malid": 65035,
+      "type": "ova",
+      "releaseDate": "2026-12-18"
+   },
+   {
+      "title": "Grand Blue Season 4",
+      "enTitle": "Grand Blue Dreaming Season 4",
+      "malid": 65037,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Otonari no Nie",
+      "malid": 65038,
+      "type": "ova",
+      "releaseDate": "2026-11-27"
+   },
+   {
+      "title": "Limbus Company 3rd Anniversary Animation",
+      "enTitle": "Limbus Company 3rd Anniversary Animation",
+      "malid": 65043,
+      "type": "pv",
+      "releaseDate": "2026-02-27"
+   },
+   {
+      "title": "Doron",
+      "malid": 65044,
+      "type": "music",
+      "releaseDate": "2026-09-12"
+   },
+   {
+      "title": "Kyokaisen",
+      "malid": 65045,
+      "type": "music",
+      "releaseDate": "2026-09-23"
+   },
+   {
+      "title": "Katainaka no Ossan, Kensei ni Naru 3rd Season",
+      "enTitle": "From Old Country Bumpkin to Master Swordsman Season 3",
+      "malid": 65047,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tokyo (Music, 2026)",
+      "malid": 65048,
+      "type": "music",
+      "releaseDate": "2026-03-13"
+   },
+   {
+      "title": "Furutte.",
+      "malid": 65049,
+      "type": "music",
+      "releaseDate": "2025-09-20"
+   },
+   {
+      "title": "Odekake Hololive",
+      "enTitle": "Hololive: Let's Head Out!",
+      "malid": 65050,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Phantom Busters",
+      "enTitle": "Phantom Busters",
+      "malid": 65052,
+      "anidbid": 20413,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Shin Oishinbo",
+      "malid": 65053,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Garou Densetsu: CotW - Kim Kaphwan",
+      "enTitle": "Fatal Fury: City of the Wolves - Kim Kaphwan Trailer",
+      "malid": 65054,
+      "type": "pv",
+      "releaseDate": "2026-09-24"
+   },
+   {
+      "title": "Natsu ni Saku (Piano ver.)",
+      "malid": 65056,
+      "type": "music",
+      "releaseDate": "2026-09-01"
+   },
+   {
+      "title": "Kakujuu Anime: Chou Mukashibanashi",
+      "enTitle": "Kakujuu Anime: Super Ancient Tales",
+      "malid": 65067,
+      "type": "ona",
+      "releaseDate": "2026-07-25"
+   },
+   {
+      "title": "Elf-sensei no Toilet wa Doko desu ka?",
+      "enTitle": "Where Is the Elf Teacher's Toilet?",
+      "malid": 65069,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tensei shitara Slime Datta Ken: Clayman Revenge",
+      "enTitle": "That Time I Got Reincarnated as a Slime: Clayman's Revenge",
+      "malid": 65070,
+      "type": "tv",
+      "releaseDate": "2027-04"
+   },
+   {
+      "title": "Kore Kaite Shine 2nd Season",
+      "enTitle": "Draw This, Then Die! Season 2",
+      "malid": 65071,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Luo Xiaohei Zhanji: Xueqian Pian",
+      "malid": 65072,
+      "type": "ona",
+      "releaseDate": "2026-10-30"
+   },
+   {
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru - S-kyuu Dungeon Kouryaku-hen",
+      "enTitle": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 3",
+      "malid": 65073,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]

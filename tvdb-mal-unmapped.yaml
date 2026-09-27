@@ -166950,8 +166950,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 45133
-      title: Jingling Meng Ye Luoli
-      type: tv
+      title: Jingling Meng Yeluoli
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -206226,7 +206226,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 52771
-      title: 'Benghuai 3rd: Dong Zhi Jiyi'
+      title: 'Benghuai 3rd: Gainian Donghua Duanpian - Dong Zhi Jiyi'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -207749,15 +207749,6 @@ AnimeMap:
     - malid: 53048
       title: Liu
       type: movie
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 53050
-      title: Kanojo, Okarishimasu 3rd Season
-      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -223164,7 +223155,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55889
-      title: 'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi'
+      title: 'Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi'
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -237086,6 +237077,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 58156
+      title: 'Benghuai 3rd: Linhai Qi Lu PV'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 58159
       title: 'Spy x Family Movie: Code: White Manner Movie'
       type: movie
@@ -243596,6 +243596,15 @@ AnimeMap:
     - malid: 59345
       title: Akarui Sekai
       type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 59347
+      title: 'Benghuai 3rd: Gainian Donghua Duanpian - Xialing Huixiang'
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -257003,6 +257012,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 61602
+      title: 'Benghuai: Xing Qiong Tiedao - Yanchanghui Donghua CM: Paishe Jinxing Zhong'
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 61603
       title: Ao Ashi Season 2
       type: tv
@@ -267904,7 +267922,7 @@ AnimeMap:
 
     - malid: 63509
       title: Dark Summoner to Dekiteiru
-      type: tv
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -268147,7 +268165,7 @@ AnimeMap:
 
     - malid: 63567
       title: 'Garou Densetsu: CotW - Nightmare Geese'
-      type: ona
+      type: pv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270343,7 +270361,7 @@ AnimeMap:
 
     - malid: 64011
       title: 'Garou Densetsu: CotW - Wolfgang Krauser'
-      type: ona
+      type: pv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -271585,7 +271603,7 @@ AnimeMap:
 
     - malid: 64289
       title: 'Garou Densetsu: CotW - Mr. Karate'
-      type: ona
+      type: pv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -273779,6 +273797,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64687
+      title: Tiny Giant (Remix)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64688
       title: I-Bull
       type: music
@@ -274491,7 +274518,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64823
-      title: Kajitsu
+      title: Kajitsu The Animation
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -274744,7 +274771,7 @@ AnimeMap:
 
     - malid: 64876
       title: 'Garou Densetsu: CotW - Rick Strowd & Duck King'
-      type: ona
+      type: pv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -275309,6 +275336,69 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64996
+      title: 'Yeluoli: Shijian Yu'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64997
+      title: Jingling Meng Yeluoli x Jin Huaguan
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64998
+      title: 'Yeluoli: Mo Shui Yu'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65000
+      title: 'Yeluoli: Yue Ling Shi'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65001
+      title: 'Yeluoli: Jin Liu Xin'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65002
+      title: Jingling Meng Yeluoli x Guang Fuchen
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65003
+      title: Jingling Meng Yeluoli x Bing Lianhua
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65004
       title: 'Yuanshen: Donghua Duanpian'
       type: ona
@@ -275444,6 +275534,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 65026
+      title: Pro, Pro, Pro!!
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65027
+      title: Norari Kurarism
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65028
       title: 'Yi Huan: Juese PVs'
       type: pv
@@ -275456,6 +275564,231 @@ AnimeMap:
     - malid: 65029
       title: 'Yi Huan: Juese Duanpian'
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65030
+      title: Me
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65031
+      title: 'Jue Qu Ling: Juese MVs'
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65032
+      title: 'Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65033
+      title: Moon Fighters! CM
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65034
+      title: Kome Rice Onigiri feat. Karubi Akami & Kyouitirou
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65035
+      title: Gals' Fiction The Animation
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65037
+      title: Grand Blue Season 4
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65038
+      title: Otonari no Nie
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65043
+      title: Limbus Company 3rd Anniversary Animation
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65044
+      title: Doron
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65045
+      title: Kyokaisen
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65047
+      title: Katainaka no Ossan, Kensei ni Naru 3rd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65048
+      title: Tokyo (Music, 2026)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65049
+      title: Furutte.
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65050
+      title: Odekake Hololive
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65052
+      title: Phantom Busters
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65053
+      title: Shin Oishinbo
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65054
+      title: 'Garou Densetsu: CotW - Kim Kaphwan'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65056
+      title: Natsu ni Saku (Piano ver.)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65067
+      title: 'Kakujuu Anime: Chou Mukashibanashi'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65069
+      title: Elf-sensei no Toilet wa Doko desu ka?
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65070
+      title: 'Tensei shitara Slime Datta Ken: Clayman Revenge'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65071
+      title: Kore Kaite Shine 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65072
+      title: 'Luo Xiaohei Zhanji: Xueqian Pian'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65073
+      title: 'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru - S-kyuu Dungeon Kouryaku-hen'
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0

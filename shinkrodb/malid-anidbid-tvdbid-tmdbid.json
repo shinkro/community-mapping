@@ -250,6 +250,7 @@
       "enTitle": "Akira",
       "malid": 47,
       "anidbid": 28,
+      "tmdbid": 149,
       "type": "movie",
       "releaseDate": "1988-07-16"
    },
@@ -4813,6 +4814,7 @@
       "enTitle": "The Cat Returns",
       "malid": 597,
       "anidbid": 679,
+      "tmdbid": 15370,
       "type": "movie",
       "releaseDate": "2002-07-20"
    },
@@ -8166,6 +8168,7 @@
       "title": "Nekojiru Gekijou Jirujiru Original",
       "malid": 1062,
       "anidbid": 3287,
+      "tvdbid": 129611,
       "type": "tv",
       "releaseDate": "1999-07-09"
    },
@@ -16961,6 +16964,7 @@
       "title": "Funny Pets",
       "malid": 2232,
       "anidbid": 4069,
+      "tvdbid": 333143,
       "type": "tv",
       "releaseDate": "2006-01-11"
    },
@@ -21423,6 +21427,7 @@
       "title": "Chibikko Remi to Meiken Kapi",
       "malid": 2830,
       "anidbid": 2212,
+      "tmdbid": 355345,
       "type": "movie",
       "releaseDate": "1970-03-17"
    },
@@ -23135,6 +23140,7 @@
       "enTitle": "Wild Knights Gulkeeva",
       "malid": 3099,
       "anidbid": 3456,
+      "tvdbid": 263266,
       "type": "tv",
       "releaseDate": "1995-04-04"
    },
@@ -24910,6 +24916,7 @@
       "enTitle": "Resident Evil: Degeneration",
       "malid": 3446,
       "anidbid": 6108,
+      "tmdbid": 13648,
       "type": "movie",
       "releaseDate": "2008-10-18"
    },
@@ -26660,6 +26667,7 @@
       "title": "Sekai Meisaku Douwa: Mori wa Ikiteiru",
       "malid": 3751,
       "anidbid": 2234,
+      "tmdbid": 80536,
       "type": "movie",
       "releaseDate": "1980-03-15"
    },
@@ -26702,6 +26710,7 @@
       "title": "Panda no Daibouken",
       "malid": 3758,
       "anidbid": 2218,
+      "tmdbid": 105224,
       "type": "movie",
       "releaseDate": "1973-03-17"
    },
@@ -28546,6 +28555,7 @@
       "title": "Chuumon no Ooi Ryouriten (1991)",
       "malid": 4095,
       "anidbid": 4060,
+      "tmdbid": 136601,
       "type": "movie",
       "releaseDate": "1991"
    },
@@ -30224,6 +30234,7 @@
       "title": "Wanghu Sim Cheong",
       "malid": 4544,
       "anidbid": 8047,
+      "tmdbid": 413330,
       "type": "movie",
       "releaseDate": "2005-08-12"
    },
@@ -30362,6 +30373,7 @@
       "enTitle": "Armageddon",
       "malid": 4567,
       "anidbid": 2592,
+      "tmdbid": 207278,
       "type": "movie",
       "releaseDate": "1996-01-19"
    },
@@ -35024,6 +35036,7 @@
       "enTitle": "Our Baseball Match",
       "malid": 5826,
       "anidbid": 6715,
+      "tmdbid": 234006,
       "type": "movie",
       "releaseDate": "1930-03"
    },
@@ -35174,6 +35187,7 @@
       "enTitle": "Spring Song",
       "malid": 5868,
       "anidbid": 6743,
+      "tmdbid": 214495,
       "type": "movie",
       "releaseDate": "1931"
    },
@@ -37488,6 +37502,7 @@
       "enTitle": "Love",
       "malid": 6535,
       "anidbid": 2870,
+      "tmdbid": 147566,
       "type": "movie",
       "releaseDate": "1963"
    },
@@ -37714,6 +37729,7 @@
       "enTitle": "King of Thorn",
       "malid": 6610,
       "anidbid": 7031,
+      "tmdbid": 50388,
       "type": "movie",
       "releaseDate": "2009-10-09"
    },
@@ -37879,6 +37895,7 @@
       "title": "Byeolnala Samchongsa",
       "malid": 6671,
       "anidbid": 5321,
+      "tmdbid": 421234,
       "type": "movie",
       "releaseDate": "1979-07-21"
    },
@@ -38395,6 +38412,7 @@
       "enTitle": "Your Choice!",
       "malid": 6797,
       "anidbid": 5155,
+      "tmdbid": 226263,
       "type": "movie",
       "releaseDate": "1999"
    },
@@ -38675,6 +38693,7 @@
       "enTitle": "Uproar in Heaven",
       "malid": 6855,
       "anidbid": 4087,
+      "tmdbid": 47759,
       "type": "movie",
       "releaseDate": "1964"
    },
@@ -39066,6 +39085,7 @@
       "title": "Aos",
       "malid": 6950,
       "anidbid": 7938,
+      "tmdbid": 106201,
       "type": "movie",
       "releaseDate": "1964"
    },
@@ -39502,6 +39522,7 @@
       "enTitle": "Belly Drum Dance at Shojoji Temple",
       "malid": 7071,
       "anidbid": 6744,
+      "tmdbid": 319187,
       "type": "movie",
       "releaseDate": "1933"
    },
@@ -39617,6 +39638,7 @@
       "title": "Pika Don",
       "malid": 7117,
       "anidbid": 6039,
+      "tmdbid": 238273,
       "type": "movie",
       "releaseDate": "1978"
    },
@@ -39761,6 +39783,7 @@
       "title": "Oni",
       "malid": 7171,
       "anidbid": 4398,
+      "tmdbid": 106569,
       "type": "movie",
       "releaseDate": "1972"
    },
@@ -39947,6 +39970,7 @@
       "title": "Tabi",
       "malid": 7258,
       "anidbid": 6990,
+      "tmdbid": 238143,
       "type": "movie",
       "releaseDate": "1973"
    },
@@ -40574,6 +40598,7 @@
       "title": "Urashima Tarou (supposed title)",
       "malid": 7485,
       "anidbid": 5863,
+      "tmdbid": 624601,
       "type": "movie",
       "releaseDate": "1918-02-01"
    },
@@ -40612,6 +40637,7 @@
       "title": "Saiyuuki: Son Gokuu Monogatari",
       "malid": 7496,
       "anidbid": 6846,
+      "tmdbid": 452186,
       "type": "movie",
       "releaseDate": "1926"
    },
@@ -40740,6 +40766,7 @@
       "title": "Kujira (1952)",
       "malid": 7528,
       "anidbid": 6874,
+      "tmdbid": 346882,
       "type": "movie",
       "releaseDate": "1952-12"
    },
@@ -41263,6 +41290,7 @@
       "title": "Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake",
       "malid": 7696,
       "anidbid": 5407,
+      "tmdbid": 473197,
       "type": "movie",
       "releaseDate": "1992-01-25"
    },
@@ -43725,6 +43753,7 @@
       "enTitle": "Future War Year 198X",
       "malid": 8584,
       "anidbid": 2274,
+      "tmdbid": 71494,
       "type": "movie",
       "releaseDate": "1982-10-30"
    },
@@ -46200,6 +46229,7 @@
       "title": "Byulbyul Iyagi 2",
       "malid": 9447,
       "anidbid": 9264,
+      "tmdbid": 73785,
       "type": "movie",
       "releaseDate": "2008-04-17"
    },
@@ -47970,6 +48000,7 @@
       "enTitle": "Pleasant Goat and Big Big Wolf: The Tiger Prowess",
       "malid": 9973,
       "anidbid": 8431,
+      "tmdbid": 52028,
       "type": "movie",
       "releaseDate": "2010-01-29"
    },
@@ -51611,6 +51642,7 @@
       "title": "Zouressha ga Yatte Kita",
       "malid": 11095,
       "anidbid": 2715,
+      "tmdbid": 598107,
       "type": "movie",
       "releaseDate": "1992-07-04"
    },
@@ -53087,6 +53119,7 @@
       "title": "Dwaeji-ui Wang",
       "malid": 12035,
       "anidbid": 9322,
+      "tmdbid": 91088,
       "type": "movie",
       "releaseDate": "2011-11-03"
    },
@@ -53966,6 +53999,7 @@
       "enTitle": "Little Tiger and Bride",
       "malid": 12603,
       "anidbid": 6886,
+      "tmdbid": 86891,
       "type": "movie",
       "releaseDate": "1948-02"
    },
@@ -55326,6 +55360,7 @@
       "enTitle": "Striking Daughter",
       "malid": 13405,
       "anidbid": 9488,
+      "tmdbid": 354113,
       "type": "movie",
       "releaseDate": "2003"
    },
@@ -57335,6 +57370,7 @@
       "title": "Tsuki no Miya no Oujosama",
       "malid": 15139,
       "anidbid": 6853,
+      "tmdbid": 345472,
       "type": "movie",
       "releaseDate": "1934-10-25"
    },
@@ -59969,6 +60005,7 @@
       "title": "Chagama Ondo",
       "malid": 17076,
       "anidbid": 6854,
+      "tmdbid": 380975,
       "type": "movie",
       "releaseDate": "1935-03-19"
    },
@@ -60975,6 +61012,7 @@
       "title": "Kyubi no Kitsune to Tobimaru (Sesshoseki)",
       "malid": 17673,
       "anidbid": 5292,
+      "tmdbid": 868537,
       "type": "movie",
       "releaseDate": "1968-10-19"
    },
@@ -60982,6 +61020,7 @@
       "title": "Otogi no Sekai Ryokou",
       "malid": 17675,
       "anidbid": 3680,
+      "tmdbid": 558703,
       "type": "movie",
       "releaseDate": "1962-08-25"
    },
@@ -62317,6 +62356,7 @@
       "title": "Hanasaka Jijii",
       "malid": 18457,
       "anidbid": 5385,
+      "tmdbid": 381331,
       "type": "movie",
       "releaseDate": "1917-08-26"
    },
@@ -69360,6 +69400,7 @@
       "enTitle": "Spring Comes to Ponsuke",
       "malid": 23089,
       "anidbid": 6851,
+      "tmdbid": 443574,
       "type": "movie",
       "releaseDate": "1934-08-01"
    },
@@ -69648,6 +69689,7 @@
       "enTitle": "Sankichi and Osayo: A Genroku Romance",
       "malid": 23265,
       "anidbid": 6850,
+      "tmdbid": 1692263,
       "type": "movie",
       "releaseDate": "1934-06-23"
    },
@@ -69655,6 +69697,7 @@
       "title": "Osaru no Tairyou",
       "malid": 23267,
       "anidbid": 6849,
+      "tmdbid": 388877,
       "type": "movie",
       "releaseDate": "1933-12-01"
    },
@@ -70978,6 +71021,7 @@
       "title": "Fuku-chan no Kishuu",
       "malid": 23969,
       "anidbid": 6903,
+      "tmdbid": 955941,
       "type": "movie",
       "releaseDate": "1942-03-15"
    },
@@ -74812,6 +74856,7 @@
       "title": "J League wo 100-bai Tanoshiku Miru Houhou!!",
       "malid": 27561,
       "anidbid": 8619,
+      "tmdbid": 1695359,
       "type": "movie",
       "releaseDate": "1994-06-11"
    },
@@ -91431,6 +91476,7 @@
       "title": "Hong Haier: Juezhan Huoyanshan",
       "malid": 33465,
       "anidbid": 4364,
+      "tmdbid": 452907,
       "type": "movie",
       "releaseDate": "2005-08-05"
    },
@@ -108669,6 +108715,7 @@
       "title": "City Hunter Movie: Shinjuku Private Eyes",
       "malid": 37516,
       "anidbid": 13943,
+      "tmdbid": 540141,
       "type": "movie",
       "releaseDate": "2019-02-08"
    },
@@ -120978,6 +121025,7 @@
       "enTitle": "The Legend of Hei",
       "malid": 40211,
       "anidbid": 15253,
+      "tmdbid": 620249,
       "type": "movie",
       "releaseDate": "2019-09-07"
    },
@@ -139287,10 +139335,10 @@
       "releaseDate": "2020-04-16"
    },
    {
-      "title": "Jingling Meng Ye Luoli",
-      "enTitle": "The Guardians of Carcosa",
+      "title": "Jingling Meng Yeluoli",
+      "enTitle": "The Fairy Dream of Yeloli",
       "malid": 45133,
-      "type": "tv",
+      "type": "ona",
       "releaseDate": "2013-06-06"
    },
    {
@@ -156100,6 +156148,7 @@
       "title": "Chongire Hebi",
       "malid": 49254,
       "anidbid": 6934,
+      "tmdbid": 1458175,
       "type": "movie",
       "releaseDate": "1931-12-22"
    },
@@ -161655,6 +161704,7 @@
       "title": "Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!",
       "malid": 50963,
       "anidbid": 17176,
+      "tmdbid": 935017,
       "type": "movie",
       "releaseDate": "2022-09-23"
    },
@@ -168523,8 +168573,8 @@
       "releaseDate": "2019-09-27"
    },
    {
-      "title": "Benghuai 3rd: Dong Zhi Jiyi",
-      "enTitle": "Winter Memories: Honkai Impact 3rd Concept Animation",
+      "title": "Benghuai 3rd: Gainian Donghua Duanpian - Dong Zhi Jiyi",
+      "enTitle": "Honkai Impact 3rd: Concept Animation - Winter Memories",
       "malid": 52771,
       "type": "ona",
       "releaseDate": "2022-02-15"
@@ -169713,13 +169763,6 @@
       "releaseDate": "2023-07-08"
    },
    {
-      "title": "Kanojo, Okarishimasu 3rd Season",
-      "enTitle": "Rent-a-Girlfriend Season 3",
-      "malid": 53050,
-      "type": "tv",
-      "releaseDate": "2023-07-08"
-   },
-   {
       "title": "Jian Yu Yuanzheng: Insomnia De Naxie Shier",
       "enTitle": "Just Esperia Things",
       "malid": 53055,
@@ -170525,6 +170568,7 @@
       "enTitle": "Port of Return",
       "malid": 53230,
       "anidbid": 9180,
+      "tmdbid": 260707,
       "type": "movie",
       "releaseDate": "2010-03-05"
    },
@@ -181521,7 +181565,7 @@
       "releaseDate": "2024-04-08"
    },
    {
-      "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi",
+      "title": "Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi",
       "enTitle": "My Happy Marriage: The Shape of My Happiness",
       "malid": 55889,
       "anidbid": 18545,
@@ -191824,7 +191868,7 @@
    },
    {
       "title": "Benghuai 3rd: Chunzhen Meng Ge PV",
-      "enTitle": "Dreamy Euphony Online Concert Animated Trailer - Honkai Impact 3rd",
+      "enTitle": "Honkai Impact 3rd: Dreamy Euphony Online Concert Animated Trailer",
       "malid": 58145,
       "type": "pv",
       "releaseDate": "2022-08-20"
@@ -191853,6 +191897,13 @@
       "tmdbid": 805603,
       "type": "movie",
       "releaseDate": "2020"
+   },
+   {
+      "title": "Benghuai 3rd: Linhai Qi Lu PV",
+      "enTitle": "Honkai Impact 3rd: Forest Capriccio Online Concert Animated Trailer",
+      "malid": 58156,
+      "type": "pv",
+      "releaseDate": "2023-07-02"
    },
    {
       "title": "Spy x Family Movie: Code: White Manner Movie",
@@ -196892,6 +196943,13 @@
       "releaseDate": "2008-12-17"
    },
    {
+      "title": "Benghuai 3rd: Gainian Donghua Duanpian - Xialing Huixiang",
+      "enTitle": "Honkai Impact 3rd: Concept Animation - Summertime Reminiscences",
+      "malid": 59347,
+      "type": "ona",
+      "releaseDate": "2024-07-21"
+   },
+   {
       "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
       "enTitle": "Headhunted to Another World: From Salaryman to Big Four!",
       "malid": 59349,
@@ -199651,7 +199709,7 @@
       "malid": 59940,
       "anidbid": 18880,
       "type": "tv",
-      "releaseDate": "2026"
+      "releaseDate": "2027"
    },
    {
       "title": "Poketoon (2024)",
@@ -202781,7 +202839,7 @@
       "enTitle": "White Cat Legend Season 3",
       "malid": 60598,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-10-15"
    },
    {
       "title": "Tenkai Dokyuu Oshigoto Road",
@@ -207185,6 +207243,13 @@
       "releaseDate": "2025-04-29"
    },
    {
+      "title": "Benghuai: Xing Qiong Tiedao - Yanchanghui Donghua CM: Paishe Jinxing Zhong",
+      "enTitle": "Honkai: Star Rail - Concert Animated Commercial: Filming in Progress",
+      "malid": 61602,
+      "type": "cm",
+      "releaseDate": "2025-04-29"
+   },
+   {
       "title": "Ao Ashi Season 2",
       "enTitle": "Aoashi Season 2",
       "malid": 61603,
@@ -209817,7 +209882,7 @@
       "title": "Da Xia Shou Mu Ren",
       "malid": 62218,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-09-30"
    },
    {
       "title": "Guanglin Diqiu",
@@ -213235,7 +213300,7 @@
       "enTitle": "Rakshasa Street 5",
       "malid": 62958,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-12-11"
    },
    {
       "title": "Riron Busou Shite",
@@ -213306,7 +213371,7 @@
       "anidbid": 19724,
       "tmdbid": 1496928,
       "type": "movie",
-      "releaseDate": "2026-05-14"
+      "releaseDate": "2026-09-25"
    },
    {
       "title": "Fatal Trouble",
@@ -213387,7 +213452,7 @@
       "anidbid": 19731,
       "tvdbid": 470719,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Zhu Xian: Zuizhong Ji",
@@ -213680,10 +213745,11 @@
    },
    {
       "title": "Code Geass: Hoshi Oi no Aspal",
+      "enTitle": "Code Geass: Star Chaser Aspal",
       "malid": 63066,
       "anidbid": 19757,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Dondonshi Television Vol. 0: Saito-san wo Shinryaku shita yo.",
@@ -213932,7 +213998,7 @@
       "anidbid": 18884,
       "tvdbid": 352408,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-07"
    },
    {
       "title": "Boku no Hero Academia: More",
@@ -214050,6 +214116,7 @@
    {
       "title": "Keroro Gunsou☆",
       "malid": 63157,
+      "anidbid": 20085,
       "type": "tv",
       "releaseDate": "2026-10-03"
    },
@@ -215525,8 +215592,7 @@
       "enTitle": "I'm Dating a Dark Summoner",
       "malid": 63509,
       "anidbid": 19908,
-      "tvdbid": 474294,
-      "type": "tv",
+      "type": "ona",
       "releaseDate": "2026-10-05"
    },
    {
@@ -215705,7 +215771,7 @@
       "title": "Garou Densetsu: CotW - Nightmare Geese",
       "enTitle": "Fatal Fury: City of the Wolves - Nightmare Geese Trailer",
       "malid": 63567,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-02-26"
    },
    {
@@ -217350,7 +217416,7 @@
       "title": "Garou Densetsu: CotW - Wolfgang Krauser",
       "enTitle": "Fatal Fury: City of the Wolves - Wolfgang Krauser Trailer",
       "malid": 64011,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-04-24"
    },
    {
@@ -218245,7 +218311,7 @@
       "title": "Garou Densetsu: CotW - Mr. Karate",
       "enTitle": "Fatal Fury: City of the Wolves - Mr. KARATE Trailer",
       "malid": 64289,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-05-27"
    },
    {
@@ -219396,6 +219462,7 @@
    },
    {
       "title": "Watashi wo Center ni Suru to Chikaimasu ka?",
+      "enTitle": "Promise Me the Spotlight",
       "malid": 64573,
       "type": "tv",
       "releaseDate": ""
@@ -219866,6 +219933,13 @@
       "malid": 64686,
       "type": "pv",
       "releaseDate": "2026-07-24"
+   },
+   {
+      "title": "Tiny Giant (Remix)",
+      "enTitle": "Tiny Giant (Remix)",
+      "malid": 64687,
+      "type": "music",
+      "releaseDate": "2026-07-25"
    },
    {
       "title": "I-Bull",
@@ -220374,10 +220448,10 @@
       "releaseDate": "2025-04-06"
    },
    {
-      "title": "Kajitsu",
+      "title": "Kajitsu The Animation",
       "malid": 64823,
       "type": "ova",
-      "releaseDate": "2026"
+      "releaseDate": "2026-12-25"
    },
    {
       "title": "Bolts-wa Blip: Dalnala League Jeontu",
@@ -220565,7 +220639,7 @@
       "title": "Garou Densetsu: CotW - Rick Strowd \u0026 Duck King",
       "enTitle": "Fatal Fury: City of the Wolves - Rick Strowd \u0026 Duck King Trailer",
       "malid": 64876,
-      "type": "ona",
+      "type": "pv",
       "releaseDate": "2026-08-27"
    },
    {
@@ -220964,6 +221038,55 @@
       "releaseDate": "2026-09-15"
    },
    {
+      "title": "Yeluoli: Shijian Yu",
+      "enTitle": "The Fairy Dream of Yeloli: Rain of Time",
+      "malid": 64996,
+      "type": "ona",
+      "releaseDate": "2024-07-19"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Jin Huaguan",
+      "enTitle": "The Fairy Dream of Yeloli: Gold Wreath",
+      "malid": 64997,
+      "type": "ona",
+      "releaseDate": "2023-12-29"
+   },
+   {
+      "title": "Yeluoli: Mo Shui Yu",
+      "enTitle": "The Fairy Dream of Yeloli: Whisper of Silent Waters",
+      "malid": 64998,
+      "type": "ona",
+      "releaseDate": "2023-08-18"
+   },
+   {
+      "title": "Yeluoli: Yue Ling Shi",
+      "enTitle": "The Fairy Dream of Yeloli: Moon Spirit Stone",
+      "malid": 65000,
+      "type": "ona",
+      "releaseDate": "2025-01-15"
+   },
+   {
+      "title": "Yeluoli: Jin Liu Xin",
+      "enTitle": "The Fairy Dream of Yeloli: Golden Heart",
+      "malid": 65001,
+      "type": "ona",
+      "releaseDate": "2026-05-01"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Guang Fuchen",
+      "enTitle": "The Fairy Dream of Yeloli: Light Dust",
+      "malid": 65002,
+      "type": "ona",
+      "releaseDate": "2022-12-22"
+   },
+   {
+      "title": "Jingling Meng Yeluoli x Bing Lianhua",
+      "enTitle": "The Fairy Dream of Yeloli: Ice Lotus",
+      "malid": 65003,
+      "type": "ona",
+      "releaseDate": "2021-08-11"
+   },
+   {
       "title": "Yuanshen: Donghua Duanpian",
       "enTitle": "Genshin Impact: Animated Shorts",
       "malid": 65004,
@@ -221058,8 +221181,21 @@
       "title": "Neko to Ryuu 2nd Season",
       "enTitle": "The Cat and the Dragon Season 2",
       "malid": 65025,
+      "anidbid": 20404,
       "type": "tv",
       "releaseDate": "2027"
+   },
+   {
+      "title": "Pro, Pro, Pro!!",
+      "malid": 65026,
+      "type": "ona",
+      "releaseDate": "2026-03-13"
+   },
+   {
+      "title": "Norari Kurarism",
+      "malid": 65027,
+      "type": "music",
+      "releaseDate": "2026-09-19"
    },
    {
       "title": "Yi Huan: Juese PVs",
@@ -221074,5 +221210,170 @@
       "malid": 65029,
       "type": "ona",
       "releaseDate": "2026-04-21"
+   },
+   {
+      "title": "Me",
+      "enTitle": "Me",
+      "malid": 65030,
+      "type": "music",
+      "releaseDate": "2026-09-20"
+   },
+   {
+      "title": "Jue Qu Ling: Juese MVs",
+      "enTitle": "Zenless Zone Zero: Character MVs",
+      "malid": 65031,
+      "type": "music",
+      "releaseDate": "2024-07-05"
+   },
+   {
+      "title": "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den Part 2",
+      "enTitle": "Though I Am an Inept Villainess Part 2",
+      "malid": 65032,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Moon Fighters! CM",
+      "malid": 65033,
+      "type": "cm",
+      "releaseDate": "2026-09-09"
+   },
+   {
+      "title": "Kome Rice Onigiri feat. Karubi Akami \u0026 Kyouitirou",
+      "malid": 65034,
+      "type": "music",
+      "releaseDate": "2026-08-18"
+   },
+   {
+      "title": "Gals' Fiction The Animation",
+      "malid": 65035,
+      "type": "ova",
+      "releaseDate": "2026-12-18"
+   },
+   {
+      "title": "Grand Blue Season 4",
+      "enTitle": "Grand Blue Dreaming Season 4",
+      "malid": 65037,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Otonari no Nie",
+      "malid": 65038,
+      "type": "ova",
+      "releaseDate": "2026-11-27"
+   },
+   {
+      "title": "Limbus Company 3rd Anniversary Animation",
+      "enTitle": "Limbus Company 3rd Anniversary Animation",
+      "malid": 65043,
+      "type": "pv",
+      "releaseDate": "2026-02-27"
+   },
+   {
+      "title": "Doron",
+      "malid": 65044,
+      "type": "music",
+      "releaseDate": "2026-09-12"
+   },
+   {
+      "title": "Kyokaisen",
+      "malid": 65045,
+      "type": "music",
+      "releaseDate": "2026-09-23"
+   },
+   {
+      "title": "Katainaka no Ossan, Kensei ni Naru 3rd Season",
+      "enTitle": "From Old Country Bumpkin to Master Swordsman Season 3",
+      "malid": 65047,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tokyo (Music, 2026)",
+      "malid": 65048,
+      "type": "music",
+      "releaseDate": "2026-03-13"
+   },
+   {
+      "title": "Furutte.",
+      "malid": 65049,
+      "type": "music",
+      "releaseDate": "2025-09-20"
+   },
+   {
+      "title": "Odekake Hololive",
+      "enTitle": "Hololive: Let's Head Out!",
+      "malid": 65050,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Phantom Busters",
+      "enTitle": "Phantom Busters",
+      "malid": 65052,
+      "anidbid": 20413,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Shin Oishinbo",
+      "malid": 65053,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Garou Densetsu: CotW - Kim Kaphwan",
+      "enTitle": "Fatal Fury: City of the Wolves - Kim Kaphwan Trailer",
+      "malid": 65054,
+      "type": "pv",
+      "releaseDate": "2026-09-24"
+   },
+   {
+      "title": "Natsu ni Saku (Piano ver.)",
+      "malid": 65056,
+      "type": "music",
+      "releaseDate": "2026-09-01"
+   },
+   {
+      "title": "Kakujuu Anime: Chou Mukashibanashi",
+      "enTitle": "Kakujuu Anime: Super Ancient Tales",
+      "malid": 65067,
+      "type": "ona",
+      "releaseDate": "2026-07-25"
+   },
+   {
+      "title": "Elf-sensei no Toilet wa Doko desu ka?",
+      "enTitle": "Where Is the Elf Teacher's Toilet?",
+      "malid": 65069,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Tensei shitara Slime Datta Ken: Clayman Revenge",
+      "enTitle": "That Time I Got Reincarnated as a Slime: Clayman's Revenge",
+      "malid": 65070,
+      "type": "tv",
+      "releaseDate": "2027-04"
+   },
+   {
+      "title": "Kore Kaite Shine 2nd Season",
+      "enTitle": "Draw This, Then Die! Season 2",
+      "malid": 65071,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Luo Xiaohei Zhanji: Xueqian Pian",
+      "malid": 65072,
+      "type": "ona",
+      "releaseDate": "2026-10-30"
+   },
+   {
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru - S-kyuu Dungeon Kouryaku-hen",
+      "enTitle": "Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 3",
+      "malid": 65073,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]
