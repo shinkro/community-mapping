@@ -1,12 +1,4 @@
 animeMovies:
-    - mainTitle: Akira
-      tmdbid: 0
-      malid: 47
-
-    - mainTitle: Neko no Ongaeshi
-      tmdbid: 0
-      malid: 597
-
     - mainTitle: Chou Henshin Cosprayers vs. Ankoku Uchuu Shougun the Movie
       tmdbid: 0
       malid: 705
@@ -119,10 +111,6 @@ animeMovies:
       tmdbid: 0
       malid: 2750
 
-    - mainTitle: Chibikko Remi to Meiken Kapi
-      tmdbid: 0
-      malid: 2830
-
     - mainTitle: Ninkuu (Movie)
       tmdbid: 0
       malid: 2851
@@ -155,10 +143,6 @@ animeMovies:
       tmdbid: 0
       malid: 3276
 
-    - mainTitle: 'Biohazard: Degeneration'
-      tmdbid: 0
-      malid: 3446
-
     - mainTitle: Sugai-kun to Kazoku Ishi The Movie
       tmdbid: 0
       malid: 3575
@@ -171,29 +155,9 @@ animeMovies:
       tmdbid: 0
       malid: 3744
 
-    - mainTitle: 'Sekai Meisaku Douwa: Mori wa Ikiteiru'
-      tmdbid: 0
-      malid: 3751
-
-    - mainTitle: Panda no Daibouken
-      tmdbid: 0
-      malid: 3758
-
     - mainTitle: 'Black Jack: Dr. Pinoko no Mori no Bouken'
       tmdbid: 0
       malid: 4070
-
-    - mainTitle: Chuumon no Ooi Ryouriten (1991)
-      tmdbid: 0
-      malid: 4095
-
-    - mainTitle: Wanghu Sim Cheong
-      tmdbid: 0
-      malid: 4544
-
-    - mainTitle: Armageddon
-      tmdbid: 0
-      malid: 4567
 
     - mainTitle: Arisubyeon-ui Kkumnamu
       tmdbid: 0
@@ -227,14 +191,6 @@ animeMovies:
       tmdbid: 0
       malid: 5640
 
-    - mainTitle: Oira no Yakyuu
-      tmdbid: 0
-      malid: 5826
-
-    - mainTitle: Haru no Uta
-      tmdbid: 0
-      malid: 5868
-
     - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 0
       malid: 6072
@@ -247,21 +203,9 @@ animeMovies:
       tmdbid: 0
       malid: 6460
 
-    - mainTitle: Ai
-      tmdbid: 0
-      malid: 6535
-
-    - mainTitle: Ibara no Ou
-      tmdbid: 0
-      malid: 6610
-
     - mainTitle: 'Asari-chan: Ai no Marchen Shoujo'
       tmdbid: 0
       malid: 6630
-
-    - mainTitle: Byeolnala Samchongsa
-      tmdbid: 0
-      malid: 6671
 
     - mainTitle: Batain Lai!! Minami no Shima no Mizu Monogatari
       tmdbid: 0
@@ -286,18 +230,6 @@ animeMovies:
     - mainTitle: 'Cynical Hysterie Hour: Utakata no Uta'
       tmdbid: 0
       malid: 6762
-
-    - mainTitle: Docchi ni Suru?
-      tmdbid: 0
-      malid: 6797
-
-    - mainTitle: Da Nao Tiangong
-      tmdbid: 0
-      malid: 6855
-
-    - mainTitle: Aos
-      tmdbid: 0
-      malid: 6950
 
     - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
       tmdbid: 0
@@ -335,22 +267,6 @@ animeMovies:
       tmdbid: 0
       malid: 7045
 
-    - mainTitle: Shoujouji no Tanuki-bayashi
-      tmdbid: 0
-      malid: 7071
-
-    - mainTitle: Pika Don
-      tmdbid: 0
-      malid: 7117
-
-    - mainTitle: Oni
-      tmdbid: 0
-      malid: 7171
-
-    - mainTitle: Tabi
-      tmdbid: 0
-      malid: 7258
-
     - mainTitle: 'Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken'
       tmdbid: 0
       malid: 7329
@@ -367,10 +283,6 @@ animeMovies:
       tmdbid: 0
       malid: 7446
 
-    - mainTitle: Urashima Tarou (supposed title)
-      tmdbid: 0
-      malid: 7485
-
     - mainTitle: 'Karo to Piyobupt: Ame no Hi'
       tmdbid: 0
       malid: 7488
@@ -378,10 +290,6 @@ animeMovies:
     - mainTitle: Nonki na Tousan Ryuuguu Mairi
       tmdbid: 0
       malid: 7495
-
-    - mainTitle: 'Saiyuuki: Son Gokuu Monogatari'
-      tmdbid: 0
-      malid: 7496
 
     - mainTitle: Mabo no Shounen Koukuu Tsuwamono
       tmdbid: 0
@@ -394,10 +302,6 @@ animeMovies:
     - mainTitle: Ponsuke no Udekurabe
       tmdbid: 0
       malid: 7527
-
-    - mainTitle: Kujira (1952)
-      tmdbid: 0
-      malid: 7528
 
     - mainTitle: Mori no Ongakukai
       tmdbid: 0
@@ -414,10 +318,6 @@ animeMovies:
     - mainTitle: Suiren no Hito
       tmdbid: 0
       malid: 7683
-
-    - mainTitle: 'Sangokushi: Dai Ichi Bu - Eiyuu-tachi no Yoake'
-      tmdbid: 0
-      malid: 7696
 
     - mainTitle: 'Nihon Mukashibanashi: Saru Kani'
       tmdbid: 0
@@ -531,10 +431,6 @@ animeMovies:
       tmdbid: 0
       malid: 8550
 
-    - mainTitle: Future War 198X-nen
-      tmdbid: 0
-      malid: 8584
-
     - mainTitle: Yokoo's 3 Animation Films
       tmdbid: 0
       malid: 8663
@@ -562,10 +458,6 @@ animeMovies:
     - mainTitle: 'Sore Ike! Anpanman: Niji no Pyramid'
       tmdbid: 0
       malid: 9446
-
-    - mainTitle: Byulbyul Iyagi 2
-      tmdbid: 0
-      malid: 9447
 
     - mainTitle: 'Sore Ike! Anpanman: Ningyohime no Namida'
       tmdbid: 0
@@ -610,10 +502,6 @@ animeMovies:
     - mainTitle: Document Taiyou no Kiba Dougram
       tmdbid: 0
       malid: 9972
-
-    - mainTitle: 'Xi Yangyang Yu Hui Tailang: Hu Hu Sheng Wei'
-      tmdbid: 0
-      malid: 9973
 
     - mainTitle: 'Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana'
       tmdbid: 0
@@ -751,10 +639,6 @@ animeMovies:
       tmdbid: 0
       malid: 11073
 
-    - mainTitle: Zouressha ga Yatte Kita
-      tmdbid: 0
-      malid: 11095
-
     - mainTitle: Zou no Inai Doubutsuen
       tmdbid: 0
       malid: 11097
@@ -771,10 +655,6 @@ animeMovies:
       tmdbid: 0
       malid: 11693
 
-    - mainTitle: Dwaeji-ui Wang
-      tmdbid: 0
-      malid: 12035
-
     - mainTitle: Tobacco to Hai
       tmdbid: 0
       malid: 12295
@@ -786,10 +666,6 @@ animeMovies:
     - mainTitle: '3 Choume no Tama: Onegai! Momo-chan wo Sagashite!!'
       tmdbid: 0
       malid: 12589
-
-    - mainTitle: Tora-chan to Hanayome
-      tmdbid: 0
-      malid: 12603
 
     - mainTitle: 'Umeboshi Denka: Uchuu no Hate kara Panparopan!'
       tmdbid: 0
@@ -806,10 +682,6 @@ animeMovies:
     - mainTitle: Cornelis
       tmdbid: 0
       malid: 13369
-
-    - mainTitle: Utsu Musume Sayuri
-      tmdbid: 0
-      malid: 13405
 
     - mainTitle: Doudou
       tmdbid: 0
@@ -866,10 +738,6 @@ animeMovies:
     - mainTitle: Tanpen Animation Junpei Fujita
       tmdbid: 0
       malid: 15129
-
-    - mainTitle: Tsuki no Miya no Oujosama
-      tmdbid: 0
-      malid: 15139
 
     - mainTitle: Inazuma Eleven Go vs. Danball Senki W Movie
       tmdbid: 0
@@ -975,10 +843,6 @@ animeMovies:
       tmdbid: 0
       malid: 16838
 
-    - mainTitle: Chagama Ondo
-      tmdbid: 0
-      malid: 17076
-
     - mainTitle: Rolling Seutajeu (Movie)
       tmdbid: 0
       malid: 17104
@@ -1031,14 +895,6 @@ animeMovies:
       tmdbid: 0
       malid: 17573
 
-    - mainTitle: Kyubi no Kitsune to Tobimaru (Sesshoseki)
-      tmdbid: 0
-      malid: 17673
-
-    - mainTitle: Otogi no Sekai Ryokou
-      tmdbid: 0
-      malid: 17675
-
     - mainTitle: Mahoutsukai Sally (Movie)
       tmdbid: 0
       malid: 17719
@@ -1090,10 +946,6 @@ animeMovies:
     - mainTitle: Ganbare!! Tabuchi-kun!! Gekitou Pennant Race
       tmdbid: 0
       malid: 18377
-
-    - mainTitle: Hanasaka Jijii
-      tmdbid: 0
-      malid: 18457
 
     - mainTitle: Jungle Taitei (2000)
       tmdbid: 0
@@ -1359,10 +1211,6 @@ animeMovies:
       tmdbid: 0
       malid: 23065
 
-    - mainTitle: Ponsuke no Haru
-      tmdbid: 0
-      malid: 23089
-
     - mainTitle: Kousagi Monogatari
       tmdbid: 0
       malid: 23097
@@ -1395,14 +1243,6 @@ animeMovies:
       tmdbid: 0
       malid: 23191
 
-    - mainTitle: 'Genroku Koi Moyou: Sankichi to Osayo'
-      tmdbid: 0
-      malid: 23265
-
-    - mainTitle: Osaru no Tairyou
-      tmdbid: 0
-      malid: 23267
-
     - mainTitle: 'Poppoya-san: Nonki Kikanshi'
       tmdbid: 0
       malid: 23635
@@ -1430,10 +1270,6 @@ animeMovies:
     - mainTitle: 'Pokemon XY: Sora no Hahen'
       tmdbid: 0
       malid: 23849
-
-    - mainTitle: Fuku-chan no Kishuu
-      tmdbid: 0
-      malid: 23969
 
     - mainTitle: Fuku-chan no Zousan Butai
       tmdbid: 0
@@ -1550,10 +1386,6 @@ animeMovies:
     - mainTitle: Pikmin Short Movies
       tmdbid: 0
       malid: 27539
-
-    - mainTitle: J League wo 100-bai Tanoshiku Miru Houhou!!
-      tmdbid: 0
-      malid: 27561
 
     - mainTitle: Spy Gekimetsu
       tmdbid: 0
@@ -2235,10 +2067,6 @@ animeMovies:
       tmdbid: 0
       malid: 33348
 
-    - mainTitle: 'Hong Haier: Juezhan Huoyanshan'
-      tmdbid: 0
-      malid: 33465
-
     - mainTitle: Haha wo Tazunete Sanzenri (Movie)
       tmdbid: 0
       malid: 33474
@@ -2619,10 +2447,6 @@ animeMovies:
       tmdbid: 0
       malid: 37402
 
-    - mainTitle: 'City Hunter Movie: Shinjuku Private Eyes'
-      tmdbid: 0
-      malid: 37516
-
     - mainTitle: 'Hibike! Euphonium Movie: Photo Session e Youkoso'
       tmdbid: 0
       malid: 37577
@@ -2870,10 +2694,6 @@ animeMovies:
     - mainTitle: Hana (2006)
       tmdbid: 0
       malid: 40164
-
-    - mainTitle: Luo Xiaohei Zhanji (Movie)
-      tmdbid: 0
-      malid: 40211
 
     - mainTitle: 'Bomberman: Yuuki wo Arigatou - Watashi ga Mimi ni Naru'
       tmdbid: 0
@@ -4955,10 +4775,6 @@ animeMovies:
       tmdbid: 0
       malid: 49253
 
-    - mainTitle: Chongire Hebi
-      tmdbid: 0
-      malid: 49254
-
     - mainTitle: 'Nonsense Monogatari Dai 2-hen: Kaizokusen'
       tmdbid: 0
       malid: 49255
@@ -5074,10 +4890,6 @@ animeMovies:
     - mainTitle: Wanhua Jing
       tmdbid: 0
       malid: 50957
-
-    - mainTitle: 'Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!'
-      tmdbid: 0
-      malid: 50963
 
     - mainTitle: Bukusuta The World
       tmdbid: 0
@@ -5470,10 +5282,6 @@ animeMovies:
     - mainTitle: Ikashita Shikaku
       tmdbid: 0
       malid: 53214
-
-    - mainTitle: Kao An
-      tmdbid: 0
-      malid: 53230
 
     - mainTitle: 'Kaiketsu Zorori Movie: Lalala♪ Star Tanjou'
       tmdbid: 0
