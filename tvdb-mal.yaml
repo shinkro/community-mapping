@@ -52583,3 +52583,21 @@ AnimeMap:
       start: 0
       useMapping: false
       animeMapping: []
+
+    - malid: 64848
+      title: 'Duel Masters LOST: Danzai no Shounen'
+      type: ona
+      tvdbid: 446908
+      tvdbseason: 4
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65009
+      title: Aoki Denshou Welsh & Shedar
+      type: tv
+      tvdbid: 465468
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
