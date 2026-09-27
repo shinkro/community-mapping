@@ -1,12 +1,4 @@
 animeMovies:
-    - mainTitle: Akira
-      tmdbid: 149
-      malid: 47
-
-    - mainTitle: Neko no Ongaeshi
-      tmdbid: 15370
-      malid: 597
-
     - mainTitle: Mahoujin Guruguru Movie
       tmdbid: 411969
       malid: 796
@@ -103,10 +95,6 @@ animeMovies:
       tmdbid: 161699
       malid: 2672
 
-    - mainTitle: Chibikko Remi to Meiken Kapi
-      tmdbid: 355345
-      malid: 2830
-
     - mainTitle: Ninkuu (Movie)
       tmdbid: 68800
       malid: 2851
@@ -139,10 +127,6 @@ animeMovies:
       tmdbid: 672384
       malid: 3276
 
-    - mainTitle: 'Biohazard: Degeneration'
-      tmdbid: 13648
-      malid: 3446
-
     - mainTitle: Murder
       tmdbid: 73803
       malid: 3743
@@ -151,25 +135,9 @@ animeMovies:
       tmdbid: 117084
       malid: 3744
 
-    - mainTitle: 'Sekai Meisaku Douwa: Mori wa Ikiteiru'
-      tmdbid: 80536
-      malid: 3751
-
-    - mainTitle: Panda no Daibouken
-      tmdbid: 105224
-      malid: 3758
-
     - mainTitle: 'Black Jack: Dr. Pinoko no Mori no Bouken'
       tmdbid: 717058
       malid: 4070
-
-    - mainTitle: Chuumon no Ooi Ryouriten (1991)
-      tmdbid: 136601
-      malid: 4095
-
-    - mainTitle: Armageddon
-      tmdbid: 207278
-      malid: 4567
 
     - mainTitle: 'Major Movie: Yuujou no Winning Shot'
       tmdbid: 77940
@@ -191,14 +159,6 @@ animeMovies:
       tmdbid: 743131
       malid: 5640
 
-    - mainTitle: Oira no Yakyuu
-      tmdbid: 234006
-      malid: 5826
-
-    - mainTitle: Haru no Uta
-      tmdbid: 214495
-      malid: 5868
-
     - mainTitle: 11-piki no Neko to Ahoudori
       tmdbid: 408028
       malid: 6072
@@ -211,10 +171,6 @@ animeMovies:
       tmdbid: 89458
       malid: 6460
 
-    - mainTitle: Ibara no Ou
-      tmdbid: 50388
-      malid: 6610
-
     - mainTitle: Batain Lai!! Minami no Shima no Mizu Monogatari
       tmdbid: 296284
       malid: 6688
@@ -222,10 +178,6 @@ animeMovies:
     - mainTitle: 'Yatterman the Movie: Shin Yattermecha Dai Shuugou! Omocha no Kuni de Dai Ketsudan da Koron'
       tmdbid: 364134
       malid: 6693
-
-    - mainTitle: Aos
-      tmdbid: 106201
-      malid: 6950
 
     - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
       tmdbid: 1110835
@@ -351,10 +303,6 @@ animeMovies:
       tmdbid: 146095
       malid: 8550
 
-    - mainTitle: Future War 198X-nen
-      tmdbid: 71494
-      malid: 8584
-
     - mainTitle: 'Kuma no Gakkou: Jackie to Katie'
       tmdbid: 353102
       malid: 9339
@@ -479,10 +427,6 @@ animeMovies:
       tmdbid: 160642
       malid: 11053
 
-    - mainTitle: Zouressha ga Yatte Kita
-      tmdbid: 598107
-      malid: 11095
-
     - mainTitle: Zou no Inai Doubutsuen
       tmdbid: 742358
       malid: 11097
@@ -506,10 +450,6 @@ animeMovies:
     - mainTitle: 'Tsushima Maru: Sayounara Okinawa'
       tmdbid: 608371
       malid: 12903
-
-    - mainTitle: Utsu Musume Sayuri
-      tmdbid: 354113
-      malid: 13405
 
     - mainTitle: "663114"
       tmdbid: 178143

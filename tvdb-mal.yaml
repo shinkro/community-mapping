@@ -43678,15 +43678,6 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 53050
-      title: Kanojo, Okarishimasu 3rd Season
-      type: tv
-      tvdbid: 380654
-      tvdbseason: 3
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 53065
       title: Sono Bisque Doll wa Koi wo Suru Season 2
       type: tv
@@ -45641,7 +45632,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 55889
-      title: 'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi'
+      title: 'Watashi no Shiawase na Kekkon: Watashi no Shiawase no Katachi'
       type: ova
       tvdbid: 418665
       tvdbseason: 0
@@ -52091,7 +52082,7 @@ AnimeMap:
 
     - malid: 63509
       title: Dark Summoner to Dekiteiru
-      type: tv
+      type: ona
       tvdbid: 474294
       tvdbseason: 1
       start: 0
