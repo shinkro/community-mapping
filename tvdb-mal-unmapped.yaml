@@ -52812,7 +52812,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9756
-      title: Mahou Shoujo Madoka★Magica
+      title: Mahou Shoujo Madoka☆Magica
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -53784,7 +53784,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9956
-      title: 'The Primitives: Bongo and Grunge'
+      title: Gu Huo Xiang Jia Tou
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -56034,7 +56034,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10519
-      title: Mahou Shoujo Sonico★Magica
+      title: Mahou Shoujo Sonico☆Magica
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -59742,7 +59742,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11977
-      title: 'Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari'
+      title: 'Mahou Shoujo Madoka☆Magica Movie 1: Hajimari no Monogatari'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -59751,7 +59751,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11979
-      title: 'Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari'
+      title: 'Mahou Shoujo Madoka☆Magica Movie 2: Eien no Monogatari'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -59760,7 +59760,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 11981
-      title: 'Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari'
+      title: 'Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -80919,7 +80919,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 23831
-      title: 'Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin'
+      title: 'Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari - Magica Quartet x Nisioisin'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -100719,7 +100719,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 32153
-      title: 'Mahou Shoujo Madoka★Magica: Concept Movie'
+      title: 'Mahou Shoujo Madoka☆Magica: Concept Movie'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -188802,7 +188802,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 48820
-      title: 'Mahou Shoujo Madoka★Magica Movie 4: Walpurgis no Kaiten'
+      title: 'Mahou Shoujo Madoka☆Magica Movie 4: Walpurgis no Kaiten'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -260478,7 +260478,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62218
-      title: Da Xia Shou Mu Ren
+      title: Daxia Shou Mu Ren
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -262404,7 +262404,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62534
-      title: 'Shin Tennis no Oujisama: U-17 World Cup Kesshou Member Ketteisen'
+      title: 'Shin Tennis no Oujisama: U-17 World Cup - Kesshou Member Ketteisen'
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -267229,7 +267229,7 @@ AnimeMap:
 
     - malid: 63381
       title: Mouse Cursor de Genjitsu wo Sousa Dekiru You ni Natta node, Onna no Ko wo Ippai Click Shimaasu
-      type: tv
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -268452,7 +268452,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63619
-      title: Onaji Semi no Someya-san ga Sexy Joyuu datta Hanashi.
+      title: Onaji Zemi no Someya-san ga Sexy Joyuu datta Hanashi.
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -274841,6 +274841,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64887
+      title: 'Minikke: Chokotto Douwashuu'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 64888
       title: Light
       type: music
@@ -275789,6 +275798,204 @@ AnimeMap:
     - malid: 65073
       title: 'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru - S-kyuu Dungeon Kouryaku-hen'
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65076
+      title: Mairimashita! Iruma-kun Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65077
+      title: 'Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65078
+      title: 'Monster Strike: Mera×Death - Shinigami to Boku no Ijou na Koi'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65079
+      title: Koneko no Haitatsuin Uunyan (2026)
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65080
+      title: Houkago no Idol ni wa Himitsu ga Aru
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65083
+      title: Liar Game 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65084
+      title: Mo Bi Wu Si Huan
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65087
+      title: Seirei Gensouki 3
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65088
+      title: Agitato
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65089
+      title: Rururu
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65092
+      title: Thunder 3 Season 2
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65094
+      title: Maid nara Touzen desu.
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65095
+      title: 'PetitCure: Precure Fairies Season 4'
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65096
+      title: Ninifuni no Niwa
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65098
+      title: 22 Durnham Dew
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65099
+      title: Ghost (Music, 2026)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65100
+      title: Angels on the Dancefloor
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65103
+      title: 'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Kizokuin no Toshokan wo Sukuitai!'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65104
+      title: Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65105
+      title: Soshiki no Shukuteki to Kekkon shitara Mecha Amai
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65106
+      title: Delta to Gamma no Rigakubu Note
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65107
+      title: Kochira, Shuumatsu Teitai Iinkai.
+      type: unknown
       tvdbid: 0
       tvdbseason: 0
       start: 0

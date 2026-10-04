@@ -2407,10 +2407,6 @@ animeMovies:
       tmdbid: 0
       malid: 36748
 
-    - mainTitle: Hiragana Danshi
-      tmdbid: 0
-      malid: 36749
-
     - mainTitle: Shimajirou to Tanjoubi no Ohoshi-sama
       tmdbid: 0
       malid: 36759
@@ -2934,10 +2930,6 @@ animeMovies:
     - mainTitle: Luotuo Xian Wu
       tmdbid: 0
       malid: 43196
-
-    - mainTitle: Huangdi Meng
-      tmdbid: 0
-      malid: 43203
 
     - mainTitle: Xiexie Xiaohua Mao
       tmdbid: 0
@@ -5835,10 +5827,6 @@ animeMovies:
       tmdbid: 0
       malid: 54872
 
-    - mainTitle: Chang An San Wan Li
-      tmdbid: 0
-      malid: 54945
-
     - mainTitle: Ojing-eoui Nwiuchim
       tmdbid: 0
       malid: 55019
@@ -6506,10 +6494,6 @@ animeMovies:
     - mainTitle: May
       tmdbid: 0
       malid: 59371
-
-    - mainTitle: Super Oneechan
-      tmdbid: 0
-      malid: 59376
 
     - mainTitle: Stinky Winky
       tmdbid: 0
@@ -7458,4 +7442,8 @@ animeMovies:
     - mainTitle: Namjadaun
       tmdbid: 0
       malid: 64927
+
+    - mainTitle: Mairimashita! Iruma-kun Movie
+      tmdbid: 0
+      malid: 65076
 
