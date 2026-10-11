@@ -89348,6 +89348,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 28955
+      title: Columbos
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 28957
       title: 'Mushishi Zoku Shou: Suzu no Shizuku'
       type: movie
@@ -90921,6 +90930,15 @@ AnimeMap:
       type: movie
       tvdbid: 0
       tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 29643
+      title: 6HP (Six Hearts Princess)
+      type: tv_special
+      tvdbid: 372834
+      tvdbseason: 1
       start: 0
       useMapping: false
       animeMapping: []
@@ -252719,7 +252737,7 @@ AnimeMap:
 
     - malid: 60739
       title: Otome Game no Heroine de Saikyou Survival
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -255626,7 +255644,7 @@ AnimeMap:
 
     - malid: 61199
       title: Houkago Kitaku Biyori
-      type: unknown
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -270115,7 +270133,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63818
-      title: 'Battle Spirits [Re]: Zekkai no Kuu'
+      title: Battle Spirits [Re] Zekkai no Kuu
       type: tv
       tvdbid: 475488
       tvdbseason: 1
@@ -270511,7 +270529,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63912
-      title: Isekai Maou to Shoukan Shoujo no Dorei Majutsu 3rd Season
+      title: Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ult
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -271888,7 +271906,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64217
-      title: Nikenichi! Non Non Zenshou Kichi
+      title: Nikkenichi! Non Non Zenshou Kichi
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -276623,6 +276641,267 @@ AnimeMap:
 
     - malid: 65107
       title: Kochira, Shuumatsu Teitai Iinkai.
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65112
+      title: 'Shitanoya Iseki: Joumon Monogatari'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65113
+      title: Kabuto Bushi
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65114
+      title: 'Bakugan: Evolutions Specials'
+      type: special
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65115
+      title: Manshuu Ahen Squad
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65116
+      title: Akuryou Taisan! Onegai! Iro Kamisama
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65117
+      title: Anemone (2027)
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65118
+      title: Vampire Juujikai
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65119
+      title: Maomao no Hitorigoto 3rd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65124
+      title: Uchuu Senkan Yamato √2199
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65125
+      title: Go Off
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65126
+      title: Hachi no Musashi wa Shinda no sa
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65130
+      title: My Bad
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65131
+      title: Hakobiya Maki-chan
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65133
+      title: Amaizo! Dango Pilot Film
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65134
+      title: Chichi no Yukue
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65135
+      title: Onimomomomo 2nd Season
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65138
+      title: Respawn!!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65141
+      title: Kuang Wang 2
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65144
+      title: The Boxer
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65145
+      title: Saikon Shounin wo Youkyuu Shimasu
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65146
+      title: Hikari no Tabibito Mellow
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65147
+      title: Monster no Niku wo Kutteitara Oui ni Tsuita Ken
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65148
+      title: Monster Factory
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65152
+      title: Castle (Music)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65153
+      title: On and On
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65154
+      title: 'Video de Utaou: Minna no Douyou'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65157
+      title: Yumegokochi
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65159
+      title: Orbit (2026)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65161
+      title: 'Dr. Stone: Terraforming'
       type: unknown
       tvdbid: 0
       tvdbseason: 0

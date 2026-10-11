@@ -64301,6 +64301,12 @@
       "releaseDate": "2012"
    },
    {
+      "title": "Columbos",
+      "malid": 28955,
+      "type": "movie",
+      "releaseDate": "2012"
+   },
+   {
       "title": "Mushishi Zoku Shou: Suzu no Shizuku",
       "enTitle": "Mushi-Shi: The Next Chapter - Drops of Bells",
       "malid": 28957,
@@ -65405,6 +65411,12 @@
       "malid": 29637,
       "type": "movie",
       "releaseDate": "1965"
+   },
+   {
+      "title": "6HP (Six Hearts Princess)",
+      "malid": 29643,
+      "type": "tv_special",
+      "releaseDate": "2016-12-30"
    },
    {
       "title": "6HP (Six Hearts Princess)",
@@ -82970,7 +82982,7 @@
       "title": "Boku wa Ko Zou no Shouboutai",
       "malid": 35147,
       "type": "ova",
-      "releaseDate": ""
+      "releaseDate": "1982"
    },
    {
       "title": "Nyanta no Otanjoubi wa Kaji Sawagi!",
@@ -95735,7 +95747,7 @@
       "title": "Magic Knight Rayearth Pilot",
       "malid": 38372,
       "type": "special",
-      "releaseDate": "2014-10-29"
+      "releaseDate": "1994-06-05"
    },
    {
       "title": "Macross Δ Movie 2: Zettai Live!!!",
@@ -102320,7 +102332,7 @@
       "title": "Vlad Love",
       "malid": 39990,
       "type": "ona",
-      "releaseDate": "2020-12-18"
+      "releaseDate": "2021-02-14"
    },
    {
       "title": "Promare: Galo-hen",
@@ -135788,7 +135800,7 @@
       "title": "100-man no Inochi no Ue ni Ore wa Tatteiru Recap",
       "malid": 48976,
       "type": "tv_special",
-      "releaseDate": "2021-07-02"
+      "releaseDate": "2021-07-03"
    },
    {
       "title": "Ba Luo Bo",
@@ -152094,7 +152106,7 @@
       "enTitle": "Reincarnated as a Sword Season 2",
       "malid": 53913,
       "type": "tv",
-      "releaseDate": "2026-10-01"
+      "releaseDate": "2026-10-08"
    },
    {
       "title": "1000-mankai Hug Nanda",
@@ -176420,7 +176432,7 @@
       "enTitle": "Romelia War Chronicle",
       "malid": 59787,
       "type": "tv",
-      "releaseDate": "2026-10-03"
+      "releaseDate": "2026-10-05"
    },
    {
       "title": "Feeling Gradation",
@@ -178224,7 +178236,7 @@
       "enTitle": "Mobile Suit Gundam SEED Freedom Zero",
       "malid": 60230,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2027-01-15"
    },
    {
       "title": "Wanko to Piroshi",
@@ -178488,7 +178500,7 @@
       "enTitle": "The Moon on a Rainy Night",
       "malid": 60301,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Natsume Yuujinchou Shichi: Nobashita Te wa",
@@ -180504,7 +180516,7 @@
       "title": "Ghost of Tsushima: Kuroudo Kitan",
       "malid": 60714,
       "type": "unknown",
-      "releaseDate": "2027"
+      "releaseDate": "2028"
    },
    {
       "title": "Hadaka no Yume",
@@ -180612,9 +180624,10 @@
    },
    {
       "title": "Otome Game no Heroine de Saikyou Survival",
+      "enTitle": "The Otome Heroine's Fight for Survival",
       "malid": 60739,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2027-07"
    },
    {
       "title": "Aye, Aye, Sir!",
@@ -181954,7 +181967,7 @@
       "enTitle": "The Guy She Was Interested in Wasn't a Guy at All",
       "malid": 61035,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-08"
    },
    {
       "title": "Asayake wa Ame no Kizashi",
@@ -182653,8 +182666,8 @@
    {
       "title": "Houkago Kitaku Biyori",
       "malid": 61199,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "tv",
+      "releaseDate": "2027-04"
    },
    {
       "title": "Shuumatsu no Walküre III",
@@ -185130,9 +185143,10 @@
    },
    {
       "title": "Nyuugaku Youhei",
+      "enTitle": "Teenage Mercenary",
       "malid": 61872,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Guruguru Live",
@@ -190534,6 +190548,7 @@
    },
    {
       "title": "Keroro Gunsou☆",
+      "enTitle": "Keroro☆",
       "malid": 63157,
       "type": "tv",
       "releaseDate": "2026-10-03"
@@ -190717,7 +190732,7 @@
       "enTitle": "One-Punch Man Season 3 Part 2",
       "malid": 63193,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-01"
    },
    {
       "title": "GUSH 20-shuunen Kinen Short Animation",
@@ -191338,7 +191353,7 @@
       "title": "Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu",
       "malid": 63350,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Onegai AiPri",
@@ -191507,7 +191522,7 @@
    },
    {
       "title": "Doumo, Suki na Hito ni Horegusuri wo Irai sareta Majo desu.",
-      "enTitle": "Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion!",
+      "enTitle": "Hello, I am a Witch and my Crush Wants me to Make a Love Potion!",
       "malid": 63409,
       "type": "tv",
       "releaseDate": "2026-10-05"
@@ -191581,7 +191596,7 @@
       "enTitle": "To You in the Beyond",
       "malid": 63423,
       "type": "movie",
-      "releaseDate": "2026-07-04"
+      "releaseDate": "2026-10-09"
    },
    {
       "title": "Yuukyuu no Gusha Asley no, Kenja no Susume",
@@ -192278,7 +192293,7 @@
       "enTitle": "Skull Dragon's Precious Daughter",
       "malid": 63601,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Rousoku",
@@ -192880,7 +192895,7 @@
       "enTitle": "Magical Buffs: The Support Caster Is Stronger Than He Realized!",
       "malid": 63763,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-04"
    },
    {
       "title": "Vertex Force",
@@ -193042,7 +193057,7 @@
       "enTitle": "The Vermilion Mask",
       "malid": 63811,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "Hanataba wo Kimi ni",
@@ -193071,7 +193086,8 @@
       "releaseDate": "2026-07-04"
    },
    {
-      "title": "Battle Spirits [Re]: Zekkai no Kuu",
+      "title": "Battle Spirits [Re] Zekkai no Kuu",
+      "enTitle": "Battle Spirits [Re] Zekkai no Ku",
       "malid": 63818,
       "type": "tv",
       "releaseDate": "2026-10-06"
@@ -193360,8 +193376,8 @@
       "releaseDate": "2025-08-06"
    },
    {
-      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu 3rd Season",
-      "enTitle": "How Not to Summon a Demon Lord Season 3",
+      "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ult",
+      "enTitle": "How Not to Summon a Demon Lord Ult",
       "malid": 63912,
       "type": "tv",
       "releaseDate": ""
@@ -193887,7 +193903,7 @@
       "title": "Hokuhokusei ni Kumo to Ike",
       "malid": 64064,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Beni Bara, Shiro Bara",
@@ -194341,7 +194357,7 @@
       "releaseDate": "2010-11-09"
    },
    {
-      "title": "Nikenichi! Non Non Zenshou Kichi",
+      "title": "Nikkenichi! Non Non Zenshou Kichi",
       "enTitle": "Outpost: Off-Duty Tales",
       "malid": 64217,
       "type": "ona",
@@ -195272,6 +195288,7 @@
    },
    {
       "title": "Sudachi no Maoujou",
+      "enTitle": "The Fledgling Demon Lord's Starter Shop",
       "malid": 64467,
       "type": "tv",
       "releaseDate": "2027-01"
@@ -196561,7 +196578,7 @@
       "enTitle": "Red Riding Hood: A Detective Story",
       "malid": 64782,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-01"
    },
    {
       "title": "Hitotsu ni Naru Koe",
@@ -197742,6 +197759,190 @@
    {
       "title": "Kochira, Shuumatsu Teitai Iinkai.",
       "malid": 65107,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Shitanoya Iseki: Joumon Monogatari",
+      "malid": 65112,
+      "type": "movie",
+      "releaseDate": "2015"
+   },
+   {
+      "title": "Kabuto Bushi",
+      "malid": 65113,
+      "type": "ona",
+      "releaseDate": "2017-08-07"
+   },
+   {
+      "title": "Bakugan: Evolutions Specials",
+      "malid": 65114,
+      "type": "special",
+      "releaseDate": "2022-04-01"
+   },
+   {
+      "title": "Manshuu Ahen Squad",
+      "malid": 65115,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Akuryou Taisan! Onegai! Iro Kamisama",
+      "malid": 65116,
+      "type": "ova",
+      "releaseDate": "2026-12-25"
+   },
+   {
+      "title": "Anemone (2027)",
+      "malid": 65117,
+      "type": "ova",
+      "releaseDate": "2026-12-25"
+   },
+   {
+      "title": "Vampire Juujikai",
+      "enTitle": "The Record of a Fallen Vampire",
+      "malid": 65118,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Maomao no Hitorigoto 3rd Season",
+      "malid": 65119,
+      "type": "ona",
+      "releaseDate": "2026-10-05"
+   },
+   {
+      "title": "Uchuu Senkan Yamato √2199",
+      "malid": 65124,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Go Off",
+      "malid": 65125,
+      "type": "pv",
+      "releaseDate": "2025-11-11"
+   },
+   {
+      "title": "Hachi no Musashi wa Shinda no sa",
+      "malid": 65126,
+      "type": "music",
+      "releaseDate": "2026-04-05"
+   },
+   {
+      "title": "My Bad",
+      "enTitle": "My Bad",
+      "malid": 65130,
+      "type": "music",
+      "releaseDate": "2026-10-06"
+   },
+   {
+      "title": "Hakobiya Maki-chan",
+      "malid": 65131,
+      "type": "movie",
+      "releaseDate": "1995-06-18"
+   },
+   {
+      "title": "Amaizo! Dango Pilot Film",
+      "malid": 65133,
+      "type": "movie",
+      "releaseDate": "2016-09-10"
+   },
+   {
+      "title": "Chichi no Yukue",
+      "enTitle": "Where My Father Remains",
+      "malid": 65134,
+      "type": "movie",
+      "releaseDate": "2026-04-14"
+   },
+   {
+      "title": "Onimomomomo 2nd Season",
+      "malid": 65135,
+      "type": "ona",
+      "releaseDate": "2026-10-06"
+   },
+   {
+      "title": "Respawn!!",
+      "enTitle": "Respawn!!",
+      "malid": 65138,
+      "type": "music",
+      "releaseDate": "2026-10-07"
+   },
+   {
+      "title": "Kuang Wang 2",
+      "enTitle": "Asura 2",
+      "malid": 65141,
+      "type": "ona",
+      "releaseDate": "2026-10-08"
+   },
+   {
+      "title": "The Boxer",
+      "enTitle": "The Boxer",
+      "malid": 65144,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Saikon Shounin wo Youkyuu Shimasu",
+      "enTitle": "The Remarried Empress",
+      "malid": 65145,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Hikari no Tabibito Mellow",
+      "malid": 65146,
+      "type": "movie",
+      "releaseDate": "1995-06-18"
+   },
+   {
+      "title": "Monster no Niku wo Kutteitara Oui ni Tsuita Ken",
+      "malid": 65147,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Monster Factory",
+      "enTitle": "Monster Factory",
+      "malid": 65148,
+      "type": "music",
+      "releaseDate": "2026-10-09"
+   },
+   {
+      "title": "Castle (Music)",
+      "malid": 65152,
+      "type": "music",
+      "releaseDate": "2024-09-08"
+   },
+   {
+      "title": "On and On",
+      "malid": 65153,
+      "type": "music",
+      "releaseDate": "2012-11-20"
+   },
+   {
+      "title": "Video de Utaou: Minna no Douyou",
+      "malid": 65154,
+      "type": "ova",
+      "releaseDate": "1991-11-21"
+   },
+   {
+      "title": "Yumegokochi",
+      "enTitle": "Feeling Good",
+      "malid": 65157,
+      "type": "music",
+      "releaseDate": "2026-10-10"
+   },
+   {
+      "title": "Orbit (2026)",
+      "enTitle": "Orbit",
+      "malid": 65159,
+      "type": "music",
+      "releaseDate": "2026-10-10"
+   },
+   {
+      "title": "Dr. Stone: Terraforming",
+      "malid": 65161,
       "type": "unknown",
       "releaseDate": ""
    }

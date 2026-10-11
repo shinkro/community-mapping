@@ -675,10 +675,6 @@ animeMovies:
       tmdbid: 608371
       malid: 12903
 
-    - mainTitle: Yoru no Hi
-      tmdbid: 0
-      malid: 12919
-
     - mainTitle: Cornelis
       tmdbid: 0
       malid: 13369
@@ -4091,10 +4087,6 @@ animeMovies:
       tmdbid: 0
       malid: 44666
 
-    - mainTitle: Milu Wang
-      tmdbid: 0
-      malid: 44667
-
     - mainTitle: Yu Shi
       tmdbid: 0
       malid: 44669
@@ -6659,10 +6651,6 @@ animeMovies:
       tmdbid: 0
       malid: 60190
 
-    - mainTitle: Kidou Senshi Gundam SEED Freedom Zero
-      tmdbid: 0
-      malid: 60230
-
     - mainTitle: Yiqing Qijian de Feitian Gou
       tmdbid: 0
       malid: 60236
@@ -6714,10 +6702,6 @@ animeMovies:
     - mainTitle: 'Xin Datou Er Zi He Xiao Tou Baba 6: Mini da Maoxian'
       tmdbid: 0
       malid: 60457
-
-    - mainTitle: "520"
-      tmdbid: 0
-      malid: 60486
 
     - mainTitle: Geulium
       tmdbid: 0
@@ -7446,4 +7430,28 @@ animeMovies:
     - mainTitle: Mairimashita! Iruma-kun Movie
       tmdbid: 0
       malid: 65076
+
+    - mainTitle: 'Shitanoya Iseki: Joumon Monogatari'
+      tmdbid: 0
+      malid: 65112
+
+    - mainTitle: Uchuu Senkan Yamato √2199
+      tmdbid: 0
+      malid: 65124
+
+    - mainTitle: Hakobiya Maki-chan
+      tmdbid: 0
+      malid: 65131
+
+    - mainTitle: Amaizo! Dango Pilot Film
+      tmdbid: 0
+      malid: 65133
+
+    - mainTitle: Chichi no Yukue
+      tmdbid: 0
+      malid: 65134
+
+    - mainTitle: Hikari no Tabibito Mellow
+      tmdbid: 0
+      malid: 65146
 
