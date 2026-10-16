@@ -27043,6 +27043,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 29643
+      title: 6HP (Six Hearts Princess)
+      type: tv_special
+      tvdbid: 372834
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 29758
       title: Taboo Tattoo
       type: tv
@@ -52252,7 +52261,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63818
-      title: 'Battle Spirits [Re]: Zekkai no Kuu'
+      title: Battle Spirits [Re] Zekkai no Kuu
       type: tv
       tvdbid: 475488
       tvdbseason: 1
