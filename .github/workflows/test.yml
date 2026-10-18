@@ -52,8 +52,8 @@ jobs:
 
       - name: Check no mapped entries deleted (TVDB)
         run: |
-          base=$(git show origin/main:tvdb-mal-master.yaml | yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' | sort)
-          pr=$(yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' tvdb-mal-master.yaml | sort)
+          base=$(git show origin/main:tvdb-mal-master.yaml | yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' | sort -u)
+          pr=$(yq '.AnimeMap[] | select(.useMapping == true or .tvdbid != 0) | .malid' tvdb-mal-master.yaml | sort -u)
           missing=$(comm -23 <(echo "$base") <(echo "$pr"))
           if [ -n "$missing" ]; then
             echo "ERROR: Mapped entries deleted from tvdb-mal-master.yaml (malids):"
@@ -63,8 +63,8 @@ jobs:
 
       - name: Check no mapped entries deleted (TMDB)
         run: |
-          base=$(git show origin/main:tmdb-mal-master.yaml | yq '.animeMovies[] | select(.tmdbid != 0) | .malid' | sort)
-          pr=$(yq '.animeMovies[] | select(.tmdbid != 0) | .malid' tmdb-mal-master.yaml | sort)
+          base=$(git show origin/main:tmdb-mal-master.yaml | yq '.animeMovies[] | select(.tmdbid != 0) | .malid' | sort -u)
+          pr=$(yq '.animeMovies[] | select(.tmdbid != 0) | .malid' tmdb-mal-master.yaml | sort -u)
           missing=$(comm -23 <(echo "$base") <(echo "$pr"))
           if [ -n "$missing" ]; then
             echo "ERROR: Mapped entries deleted from tmdb-mal-master.yaml (malids):"
