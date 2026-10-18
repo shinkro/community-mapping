@@ -3,6 +3,10 @@
 - Community mapping for use with [shinkro](https://github.com/varoOP/shinkro).
 - Pull requests are welcome and appreciated!
 
+## Generated catalogue
+
+ShinkroDB refreshes the active MAL catalogue and retains unavailable IDs in `shinkrodb/mal-unavailable.json` for rechecking. Mapping masters preserve historical community rules; generated exports include only active MAL targets. Commit the unavailable file together with the regenerated catalogue and exports.
+
 ## Description of `tvdb-mal-master.yaml`:
 
 - This is the file that needs to be manually edited. The rest are generated automagically, `tvdb-mal.yaml` is used by shinkro.
@@ -145,7 +149,8 @@ This maps TVDB S03E01-E23 to MAL episodes, skipping MAL E06, E11, and E16. The a
 
 ## Description of `tmdb-mal-master.yaml`:
 
-- This mapping only contains anime movies which aren't already mapped in the database of shinkro i.e `shinkro.db`.
+- This master contains all MAL movies, including movies with automatic TMDB links. Nonzero `tmdbid` values are community mappings; automatic links remain in the generated catalogue.
+- `tmdb-mal-unmapped.yaml` lists current movies without either an automatic or community TMDB link.
 - This is the file that needs to be manually edited. The rest are generated automagically, `tmdb-mal.yaml` is used by shinkro.
 - It is mapping between anime titles, as recognized by the main title, and their corresponding entries on MyAnimeList (MAL) and The Movie Database (TMDb).
 

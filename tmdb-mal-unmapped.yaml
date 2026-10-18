@@ -3,105 +3,9 @@ animeMovies:
       tmdbid: 0
       malid: 705
 
-    - mainTitle: Mahoujin Guruguru Movie
-      tmdbid: 0
-      malid: 796
-
-    - mainTitle: 'Cardcaptor Sakura: Kero-chan ni Omakase!'
-      tmdbid: 0
-      malid: 1078
-
     - mainTitle: 'Lupin III: Pilot Film (1978)'
       tmdbid: 0
       malid: 1428
-
-    - mainTitle: '1000-nen Joou: Queen Millennia'
-      tmdbid: 0
-      malid: 1549
-
-    - mainTitle: 'Dirty Pair: The Movie'
-      tmdbid: 0
-      malid: 1796
-
-    - mainTitle: 'Rockman.EXE Movie: Hikari to Yami no Program'
-      tmdbid: 0
-      malid: 2111
-
-    - mainTitle: 'Crayon Shin-chan Movie 15: Arashi wo Yobu Utau Ketsu dake Bakudan!'
-      tmdbid: 0
-      malid: 2172
-
-    - mainTitle: 'Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu'
-      tmdbid: 0
-      malid: 2173
-
-    - mainTitle: 'Doraemon Movie 24: Nobita to Fushigi Kaze Tsukai'
-      tmdbid: 0
-      malid: 2393
-
-    - mainTitle: Keroro Gunsou Movie 1
-      tmdbid: 0
-      malid: 2407
-
-    - mainTitle: 'Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!'
-      tmdbid: 0
-      malid: 2408
-
-    - mainTitle: 'Uchuu Kaizoku Captain Herlock: Arcadia-gou no Nazo'
-      tmdbid: 0
-      malid: 2470
-
-    - mainTitle: 'The☆Doraemons: Mushimushi Pyonpyon Daisakusen!'
-      tmdbid: 0
-      malid: 2626
-
-    - mainTitle: 'The☆Doraemons: Dokidoki Kikansha Daibakusou!'
-      tmdbid: 0
-      malid: 2633
-
-    - mainTitle: 'Doraemon: Kaette Kita Doraemon (Movie)'
-      tmdbid: 0
-      malid: 2651
-
-    - mainTitle: 'Doraemon Movie 23: Nobita to Robot Kingdom'
-      tmdbid: 0
-      malid: 2655
-
-    - mainTitle: 'Doraemon Movie 25: Nobita no Wan Nyan Jikuuden'
-      tmdbid: 0
-      malid: 2656
-
-    - mainTitle: 'Doraemon Movie 09: Nobita no Parallel Saiyuuki'
-      tmdbid: 0
-      malid: 2658
-
-    - mainTitle: 'Doraemon Movie 02: Nobita no Uchuu Kaitakushi'
-      tmdbid: 0
-      malid: 2662
-
-    - mainTitle: 'Doraemon Movie 19: Nobita no Nankai Daibouken'
-      tmdbid: 0
-      malid: 2664
-
-    - mainTitle: 'Doraemon Movie 07: Nobita to Tetsujin Heidan'
-      tmdbid: 0
-      malid: 2665
-
-    - mainTitle: 'Doraemon Movie 20: Nobita no Uchuu Hyouryuuki'
-      tmdbid: 0
-      malid: 2668
-
-    - mainTitle: 'Doraemon Movie 06: Nobita no Little Star Wars'
-      tmdbid: 0
-      malid: 2669
-
-    - mainTitle: 'Doraemon Movie 03: Nobita no Daimakyou'
-      tmdbid: 0
-      malid: 2671
-
-    - mainTitle: 'Doraemon Movie 05: Nobita no Makai Daibouken'
-      tmdbid: 0
-      malid: 2672
 
     - mainTitle: MiniPato
       tmdbid: 0
@@ -111,53 +15,9 @@ animeMovies:
       tmdbid: 0
       malid: 2750
 
-    - mainTitle: Ninkuu (Movie)
-      tmdbid: 0
-      malid: 2851
-
-    - mainTitle: 'Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu'
-      tmdbid: 0
-      malid: 2948
-
-    - mainTitle: 'GS Mikami: Gokuraku Daisakusen!!'
-      tmdbid: 0
-      malid: 3037
-
-    - mainTitle: 'Saraba Uchuu Senkan Yamato: Ai no Senshi-tachi'
-      tmdbid: 0
-      malid: 3067
-
-    - mainTitle: Kinnikuman (Movie)
-      tmdbid: 0
-      malid: 3273
-
-    - mainTitle: 'Kinnikuman: Ooabare! Seigi Choujin'
-      tmdbid: 0
-      malid: 3274
-
-    - mainTitle: 'Kinnikuman: Seigi Choujin vs. Kodai Choujin'
-      tmdbid: 0
-      malid: 3275
-
-    - mainTitle: 'Kinnikuman: Gyakushuu! Uchuu Kakure Choujin'
-      tmdbid: 0
-      malid: 3276
-
     - mainTitle: Sugai-kun to Kazoku Ishi The Movie
       tmdbid: 0
       malid: 3575
-
-    - mainTitle: Murder
-      tmdbid: 0
-      malid: 3743
-
-    - mainTitle: 'Crayon Shin-chan Movie 10: Arashi wo Yobu Appare! Sengoku Daikassen'
-      tmdbid: 0
-      malid: 3744
-
-    - mainTitle: 'Black Jack: Dr. Pinoko no Mori no Bouken'
-      tmdbid: 0
-      malid: 4070
 
     - mainTitle: Arisubyeon-ui Kkumnamu
       tmdbid: 0
@@ -167,53 +27,13 @@ animeMovies:
       tmdbid: 0
       malid: 4966
 
-    - mainTitle: 'Major Movie: Yuujou no Winning Shot'
-      tmdbid: 0
-      malid: 5029
-
-    - mainTitle: 'Doraemon Movie 28: Nobita to Midori no Kyojin Den'
-      tmdbid: 0
-      malid: 5096
-
     - mainTitle: Coffee Tadaiku
       tmdbid: 0
       malid: 5299
 
-    - mainTitle: 'Rokumon Tengai Mon Colle Knights Movie: Densetsu no Fire Dragon'
-      tmdbid: 0
-      malid: 5314
-
-    - mainTitle: Kaumori
-      tmdbid: 0
-      malid: 5631
-
-    - mainTitle: 'Tabidachi: Ami Shuushou'
-      tmdbid: 0
-      malid: 5640
-
-    - mainTitle: 11-piki no Neko to Ahoudori
-      tmdbid: 0
-      malid: 6072
-
-    - mainTitle: 'Kinnikuman II Sei: Second Generations'
-      tmdbid: 0
-      malid: 6310
-
-    - mainTitle: 'Crayon Shin-chan Movie 05: Ankoku Tamatama Daitsuiseki'
-      tmdbid: 0
-      malid: 6460
-
     - mainTitle: 'Asari-chan: Ai no Marchen Shoujo'
       tmdbid: 0
       malid: 6630
-
-    - mainTitle: Batain Lai!! Minami no Shima no Mizu Monogatari
-      tmdbid: 0
-      malid: 6688
-
-    - mainTitle: 'Yatterman the Movie: Shin Yattermecha Dai Shuugou! Omocha no Kuni de Dai Ketsudan da Koron'
-      tmdbid: 0
-      malid: 6693
 
     - mainTitle: 'Cynical Hysterie Hour: Trip Coaster'
       tmdbid: 0
@@ -230,18 +50,6 @@ animeMovies:
     - mainTitle: 'Cynical Hysterie Hour: Utakata no Uta'
       tmdbid: 0
       malid: 6762
-
-    - mainTitle: 'Kaiketsu Zorori: Mahoutsukai no Deshi/Dai Kaizoku no Takara Sagashi'
-      tmdbid: 0
-      malid: 6965
-
-    - mainTitle: Fashion
-      tmdbid: 0
-      malid: 7020
-
-    - mainTitle: Ni-hiki no Sanma
-      tmdbid: 0
-      malid: 7021
 
     - mainTitle: Mado
       tmdbid: 0
@@ -262,18 +70,6 @@ animeMovies:
     - mainTitle: Kitte no Gensou
       tmdbid: 0
       malid: 7032
-
-    - mainTitle: 'Doraemon Movie 21: Nobita no Taiyou Ou Densetsu'
-      tmdbid: 0
-      malid: 7045
-
-    - mainTitle: 'Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken'
-      tmdbid: 0
-      malid: 7329
-
-    - mainTitle: 'Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess'
-      tmdbid: 0
-      malid: 7330
 
     - mainTitle: 'Karo to Piyobupt: Ouchi'
       tmdbid: 0
@@ -311,14 +107,6 @@ animeMovies:
       tmdbid: 0
       malid: 7616
 
-    - mainTitle: Umi no Triton (1979)
-      tmdbid: 0
-      malid: 7626
-
-    - mainTitle: Suiren no Hito
-      tmdbid: 0
-      malid: 7683
-
     - mainTitle: 'Nihon Mukashibanashi: Saru Kani'
       tmdbid: 0
       malid: 7713
@@ -326,34 +114,6 @@ animeMovies:
     - mainTitle: Animation!
       tmdbid: 0
       malid: 7939
-
-    - mainTitle: Tetsuro no Kanata
-      tmdbid: 0
-      malid: 7982
-
-    - mainTitle: 'Tottoko Hamtarou Movie 3: Ham Ham Grand Prix Aurora Tani no Kiseki - Ribon-chan Kiki Ippatsu!'
-      tmdbid: 0
-      malid: 8108
-
-    - mainTitle: 'Tottoko Hamtarou Movie 4: Hamtarou to Fushigi no Oni no Emon Tou'
-      tmdbid: 0
-      malid: 8109
-
-    - mainTitle: 'Keroro Gunsou Movie 5: Tanjou! Kyuukyoku Keroro, Kiseki no Jikuu-jima, de Arimasu!!'
-      tmdbid: 0
-      malid: 8134
-
-    - mainTitle: 'Konchuu Monogatari Mitsubachi Hutch: Yuuki no Melody'
-      tmdbid: 0
-      malid: 8141
-
-    - mainTitle: 'Gegege no Kitarou: Daikaijuu'
-      tmdbid: 0
-      malid: 8146
-
-    - mainTitle: 'Gegege no Kitarou: Gekitotsu!! Ijigen Youkai no Daihanran'
-      tmdbid: 0
-      malid: 8155
 
     - mainTitle: Norabbits' Minutes
       tmdbid: 0
@@ -363,73 +123,9 @@ animeMovies:
       tmdbid: 0
       malid: 8218
 
-    - mainTitle: Akuma-kun (Movie)
-      tmdbid: 0
-      malid: 8226
-
-    - mainTitle: 'Akuma-kun: Youkoso Akuma Land e!!'
-      tmdbid: 0
-      malid: 8227
-
-    - mainTitle: 'Himitsukessha Taka no Tsume The Movie 1: Soutou wa Nido Shinu'
-      tmdbid: 0
-      malid: 8355
-
-    - mainTitle: 'Himitsukessha Taka no Tsume The Movie II: Watashi wo Aishita Kuro Oolong-Cha'
-      tmdbid: 0
-      malid: 8356
-
-    - mainTitle: 'Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni'
-      tmdbid: 0
-      malid: 8357
-
-    - mainTitle: 'Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou'
-      tmdbid: 0
-      malid: 8358
-
-    - mainTitle: 'Crayon Shin-chan Movie 04: Henderland no Daibouken'
-      tmdbid: 0
-      malid: 8359
-
-    - mainTitle: 'Crayon Shin-chan Movie 07: Bakuhatsu! Onsen Wakuwaku Daikessen'
-      tmdbid: 0
-      malid: 8361
-
-    - mainTitle: 'Crayon Shin-chan Movie 08: Arashi wo Yobu Jungle'
-      tmdbid: 0
-      malid: 8362
-
-    - mainTitle: 'Crayon Shin-chan Movie 11: Arashi wo Yobu Eikou no Yakiniku Road'
-      tmdbid: 0
-      malid: 8363
-
-    - mainTitle: 'Crayon Shin-chan Movie 13: Densetsu wo Yobu Buriburi 3-pun Dai Shingeki'
-      tmdbid: 0
-      malid: 8365
-
-    - mainTitle: 'Crayon Shin-chan Movie 14: Densetsu wo Yobu Odore! Amigo!'
-      tmdbid: 0
-      malid: 8366
-
-    - mainTitle: 'Crayon Shin-chan Movie 17: Otakebe! Kasukabe Yasei Oukoku'
-      tmdbid: 0
-      malid: 8368
-
-    - mainTitle: 'Digimon Savers 3D: Digital World Kiki Ippatsu!'
-      tmdbid: 0
-      malid: 8491
-
-    - mainTitle: 'Kikansha Yaemon: D51 no Daibouken'
-      tmdbid: 0
-      malid: 8494
-
     - mainTitle: Mahoutsukai Haley no Speed Story
       tmdbid: 0
       malid: 8495
-
-    - mainTitle: 'Dr. Slump Movie 10: Arale no Bikkuriman'
-      tmdbid: 0
-      malid: 8550
 
     - mainTitle: Yokoo's 3 Animation Films
       tmdbid: 0
@@ -447,21 +143,9 @@ animeMovies:
       tmdbid: 0
       malid: 9318
 
-    - mainTitle: 'Kuma no Gakkou: Jackie to Katie'
-      tmdbid: 0
-      malid: 9339
-
     - mainTitle: Renshenguo
       tmdbid: 0
       malid: 9416
-
-    - mainTitle: 'Sore Ike! Anpanman: Niji no Pyramid'
-      tmdbid: 0
-      malid: 9446
-
-    - mainTitle: 'Sore Ike! Anpanman: Ningyohime no Namida'
-      tmdbid: 0
-      malid: 9451
 
     - mainTitle: 'Greek Roman Sinhwa: Olympus Guardian (Movie)'
       tmdbid: 0
@@ -471,77 +155,13 @@ animeMovies:
       tmdbid: 0
       malid: 9525
 
-    - mainTitle: 'Alps no Shoujo Heidi: Alm no Yama-hen'
-      tmdbid: 0
-      malid: 9548
-
-    - mainTitle: Amanatsu
-      tmdbid: 0
-      malid: 9595
-
-    - mainTitle: 'Sengoku Basara Movie: The Last Party'
-      tmdbid: 0
-      malid: 9745
-
-    - mainTitle: Lady Lady!! (1988)
-      tmdbid: 0
-      malid: 9773
-
     - mainTitle: 'Meitantei Conan: Conan vs. Kid - Shikkoku no Sniper'
       tmdbid: 0
       malid: 9786
 
-    - mainTitle: 'Hana no Mahoutsukai Mary Bell: Phoenix no Kagi'
-      tmdbid: 0
-      malid: 9862
-
-    - mainTitle: The Bathroom
-      tmdbid: 0
-      malid: 9895
-
-    - mainTitle: Document Taiyou no Kiba Dougram
-      tmdbid: 0
-      malid: 9972
-
-    - mainTitle: 'Precure All Stars Movie DX3: Mirai ni Todoke! Sekai wo Tsunagu☆Nijiiro no Hana'
-      tmdbid: 0
-      malid: 9979
-
-    - mainTitle: Shouwa Monogatari (Movie)
-      tmdbid: 0
-      malid: 10013
-
-    - mainTitle: 'Sore Ike! Anpanman: Kyouryuu Nosshii no Daibouken'
-      tmdbid: 0
-      malid: 10056
-
-    - mainTitle: 'Sore Ike! Anpanman: Tobe! Tobe! Chibigon'
-      tmdbid: 0
-      malid: 10057
-
-    - mainTitle: 'Sore Ike! Anpanman: Yuurei Sen wo Yattsukero!!'
-      tmdbid: 0
-      malid: 10058
-
-    - mainTitle: 'Sore Ike! Anpanman: Tsumikijou no Himitsu'
-      tmdbid: 0
-      malid: 10059
-
-    - mainTitle: 'Sore Ike! Anpanman: Baikinman no Gyakushuu'
-      tmdbid: 0
-      malid: 10061
-
     - mainTitle: 'Super Doll Licca-chan: Licca-chan Zettai Zetsumei! Doll Knights no Kiseki'
       tmdbid: 0
       malid: 10199
-
-    - mainTitle: 'Bikkuriman: Muen Zone no Hihou'
-      tmdbid: 0
-      malid: 10200
-
-    - mainTitle: 'Bikkuriman: Daiichiji Seima Taisen'
-      tmdbid: 0
-      malid: 10203
 
     - mainTitle: Hybrid Deka
       tmdbid: 0
@@ -551,14 +171,6 @@ animeMovies:
       tmdbid: 0
       malid: 10285
 
-    - mainTitle: Hoero Bunbun (Movie)
-      tmdbid: 0
-      malid: 10509
-
-    - mainTitle: 'Yakyuukyou no Uta: Kita no Ookami Minami no Tora'
-      tmdbid: 0
-      malid: 10563
-
     - mainTitle: 'Hayabusa: Back to the Earth - Kikan'
       tmdbid: 0
       malid: 10602
@@ -567,37 +179,13 @@ animeMovies:
       tmdbid: 0
       malid: 10603
 
-    - mainTitle: 'Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!'
-      tmdbid: 0
-      malid: 10659
-
     - mainTitle: Omake
       tmdbid: 0
       malid: 10674
 
-    - mainTitle: 'Sore Ike! Anpanman: Sukue! Kokorin to Kiseki no Hoshi'
-      tmdbid: 0
-      malid: 10684
-
-    - mainTitle: 'Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara'
-      tmdbid: 0
-      malid: 10685
-
-    - mainTitle: 'Appleseed XIII Remix Movie 1: Yuigon'
-      tmdbid: 0
-      malid: 10689
-
-    - mainTitle: 'Appleseed XIII Remix Movie 2: Yogen'
-      tmdbid: 0
-      malid: 10693
-
     - mainTitle: 'Houkago no Pleiades: Manner Movie'
       tmdbid: 0
       malid: 10710
-
-    - mainTitle: 'Towa no Quon 6: Towa no Quon'
-      tmdbid: 0
-      malid: 10717
 
     - mainTitle: Shita-kiri Suzume
       tmdbid: 0
@@ -615,37 +203,13 @@ animeMovies:
       tmdbid: 0
       malid: 10760
 
-    - mainTitle: Sengoku Majin Goushougun (Movie)
-      tmdbid: 0
-      malid: 10820
-
-    - mainTitle: Kowarekake no Orgel (Movie)
-      tmdbid: 0
-      malid: 10918
-
-    - mainTitle: 'Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon'
-      tmdbid: 0
-      malid: 10999
-
     - mainTitle: 'Shin Maple Town Monogatari: Palm Town-hen - Konnichiwa! Atarashii Machi'
       tmdbid: 0
       malid: 11049
 
-    - mainTitle: 'Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure'
-      tmdbid: 0
-      malid: 11053
-
     - mainTitle: Pokemon Introductory Recap
       tmdbid: 0
       malid: 11073
-
-    - mainTitle: Zou no Inai Doubutsuen
-      tmdbid: 0
-      malid: 11097
-
-    - mainTitle: Micro Teukgongdae Diatron 5
-      tmdbid: 0
-      malid: 11357
 
     - mainTitle: Tetsu no Ko Kanahiru
       tmdbid: 0
@@ -658,22 +222,6 @@ animeMovies:
     - mainTitle: Tobacco to Hai
       tmdbid: 0
       malid: 12295
-
-    - mainTitle: Himitsu no Akko-chan (Movie)
-      tmdbid: 0
-      malid: 12569
-
-    - mainTitle: '3 Choume no Tama: Onegai! Momo-chan wo Sagashite!!'
-      tmdbid: 0
-      malid: 12589
-
-    - mainTitle: 'Umeboshi Denka: Uchuu no Hate kara Panparopan!'
-      tmdbid: 0
-      malid: 12861
-
-    - mainTitle: 'Tsushima Maru: Sayounara Okinawa'
-      tmdbid: 0
-      malid: 12903
 
     - mainTitle: Cornelis
       tmdbid: 0
@@ -719,33 +267,9 @@ animeMovies:
       tmdbid: 0
       malid: 13827
 
-    - mainTitle: "663114"
-      tmdbid: 0
-      malid: 13971
-
-    - mainTitle: Ribbon no Kishi (1999)
-      tmdbid: 0
-      malid: 14249
-
-    - mainTitle: Tsukumo
-      tmdbid: 0
-      malid: 14853
-
     - mainTitle: Tanpen Animation Junpei Fujita
       tmdbid: 0
       malid: 15129
-
-    - mainTitle: Inazuma Eleven Go vs. Danball Senki W Movie
-      tmdbid: 0
-      malid: 15785
-
-    - mainTitle: 'Doraemon Movie 33: Nobita no Himitsu Dougu Museum'
-      tmdbid: 0
-      malid: 15925
-
-    - mainTitle: Umi Da! Funade Da! Nikoniko, Pun
-      tmdbid: 0
-      malid: 16253
 
     - mainTitle: San Ge Heshang
       tmdbid: 0
@@ -767,10 +291,6 @@ animeMovies:
       tmdbid: 0
       malid: 16572
 
-    - mainTitle: Ojamanga Yamada-kun (Movie)
-      tmdbid: 0
-      malid: 16730
-
     - mainTitle: Haedori Daemoheom
       tmdbid: 0
       malid: 16752
@@ -778,10 +298,6 @@ animeMovies:
     - mainTitle: Taegeugsonyeon Huin Dogsuli
       tmdbid: 0
       malid: 16754
-
-    - mainTitle: Hurdle
-      tmdbid: 0
-      malid: 16776
 
     - mainTitle: Gongnyong Baengmannyeon Ttori
       tmdbid: 0
@@ -2346,18 +1862,6 @@ animeMovies:
     - mainTitle: Arara
       tmdbid: 0
       malid: 35709
-
-    - mainTitle: 'Zero Seiki Movie 1: Emeraldas'
-      tmdbid: 0
-      malid: 35853
-
-    - mainTitle: 'Zero Seiki Movie 2: Herlock'
-      tmdbid: 0
-      malid: 35854
-
-    - mainTitle: 'Zero Seiki Movie 3: Maetel'
-      tmdbid: 0
-      malid: 35855
 
     - mainTitle: 'Black Jack: Futari no Kuroi Isha - Manner Movie'
       tmdbid: 0
@@ -5279,10 +4783,6 @@ animeMovies:
       tmdbid: 0
       malid: 53529
 
-    - mainTitle: 'Sword Art Online: Full Dive - Opening Eizou'
-      tmdbid: 0
-      malid: 53588
-
     - mainTitle: 'Project Symphogear: Next'
       tmdbid: 0
       malid: 53646
@@ -6339,10 +5839,6 @@ animeMovies:
       tmdbid: 0
       malid: 58159
 
-    - mainTitle: Story of Krishna
-      tmdbid: 0
-      malid: 58171
-
     - mainTitle: Krasue
       tmdbid: 0
       malid: 58178
@@ -6414,10 +5910,6 @@ animeMovies:
     - mainTitle: Koukou Eisei
       tmdbid: 0
       malid: 58828
-
-    - mainTitle: Etaspe Komuy
-      tmdbid: 0
-      malid: 58864
 
     - mainTitle: Emerald no Wa
       tmdbid: 0
@@ -6943,10 +6435,6 @@ animeMovies:
       tmdbid: 0
       malid: 62061
 
-    - mainTitle: 'Golden Kamuy: Sapporo Beer Koujou-hen'
-      tmdbid: 0
-      malid: 62067
-
     - mainTitle: First Light
       tmdbid: 0
       malid: 62072
@@ -7454,4 +6942,36 @@ animeMovies:
     - mainTitle: Hikari no Tabibito Mellow
       tmdbid: 0
       malid: 65146
+
+    - mainTitle: Saigo no Kuushuu Kumagaya
+      tmdbid: 0
+      malid: 65162
+
+    - mainTitle: 'Himeyuri no Tou: "Inochi do Takara" Monogatari'
+      tmdbid: 0
+      malid: 65163
+
+    - mainTitle: Genbaku no Ko
+      tmdbid: 0
+      malid: 65164
+
+    - mainTitle: Zouki Daigaku
+      tmdbid: 0
+      malid: 65173
+
+    - mainTitle: Hikari no Kaze no Arma
+      tmdbid: 0
+      malid: 65182
+
+    - mainTitle: 'Planetarium Doraemon: Jikan no Himitsu'
+      tmdbid: 0
+      malid: 65200
+
+    - mainTitle: 'Sore Ike! Anpanman: Hoshizora wo Kaese (2024)'
+      tmdbid: 0
+      malid: 65201
+
+    - mainTitle: Shimajirou to Uchuu Ongakukai
+      tmdbid: 0
+      malid: 65202
 
