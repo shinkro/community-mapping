@@ -276891,6 +276891,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 65158
+      title: Puripuri Princess
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65159
       title: Orbit (2026)
       type: music
@@ -276975,6 +276984,15 @@ AnimeMap:
     - malid: 65173
       title: Zouki Daigaku
       type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65174
+      title: For Rose Marie
+      type: music
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -277125,6 +277143,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 65203
+      title: 'Crayon Shin-chan: Kirakira☆Hoshi Furu Yoru no Oyaku da zo'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65204
       title: Doukeshi
       type: music
@@ -277146,6 +277173,24 @@ AnimeMap:
     - malid: 65209
       title: 'Wan Sheng Jie: Gubao de Mimi'
       type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65211
+      title: Eigo Fuda
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65214
+      title: NullMeta
+      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
