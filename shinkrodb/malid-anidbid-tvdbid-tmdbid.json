@@ -202699,7 +202699,7 @@
    },
    {
       "title": "Da Li Si Rizhi 3rd Season",
-      "enTitle": "White Cat Legend Season 3",
+      "enTitle": "White Cat Legend 3",
       "malid": 60598,
       "type": "ona",
       "releaseDate": "2026-10-15"
@@ -211051,7 +211051,7 @@
       "malid": 62507,
       "anidbid": 19582,
       "type": "unknown",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou",
@@ -214839,6 +214839,8 @@
       "title": "Dragon Ball Super: Beerus",
       "enTitle": "Dragon Ball Super: Beerus",
       "malid": 63367,
+      "anidbid": 19859,
+      "tvdbid": 473154,
       "type": "tv",
       "releaseDate": "2026-10-11"
    },
@@ -216620,8 +216622,9 @@
    {
       "title": "Love Live! Hasunosora Jogakuin School Idol Club",
       "malid": 63851,
+      "anidbid": 19989,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-10"
    },
    {
       "title": "Tower Dungeon Manga PV",
@@ -219033,7 +219036,7 @@
       "title": "Aikatsu Stars!: Hoshiboshi no Progress",
       "malid": 64541,
       "type": "movie",
-      "releaseDate": "2027"
+      "releaseDate": "2027-01-22"
    },
    {
       "title": "Cheat Item Kanrikyoku no Oshigoto EX: Sanzan Yarareta Atodashi, Toose Zenbu Wasureru kara, Higaisha Tsumamigui shite mo Ii yo ne",
@@ -221398,6 +221401,12 @@
       "releaseDate": "2026-10-10"
    },
    {
+      "title": "Puripuri Princess",
+      "malid": 65158,
+      "type": "music",
+      "releaseDate": "2026-10-10"
+   },
+   {
       "title": "Orbit (2026)",
       "enTitle": "Orbit",
       "malid": 65159,
@@ -221464,6 +221473,12 @@
       "malid": 65173,
       "type": "movie",
       "releaseDate": "2012-01"
+   },
+   {
+      "title": "For Rose Marie",
+      "malid": 65174,
+      "type": "music",
+      "releaseDate": "2021-07-31"
    },
    {
       "title": "Star Trace",
@@ -221566,6 +221581,12 @@
       "releaseDate": "2025-07-19"
    },
    {
+      "title": "Crayon Shin-chan: Kirakira☆Hoshi Furu Yoru no Oyaku da zo",
+      "malid": 65203,
+      "type": "movie",
+      "releaseDate": "2026-03-29"
+   },
+   {
       "title": "Doukeshi",
       "enTitle": "Play the Fool",
       "malid": 65204,
@@ -221584,5 +221605,18 @@
       "malid": 65209,
       "type": "ona",
       "releaseDate": "2026-10-31"
+   },
+   {
+      "title": "Eigo Fuda",
+      "malid": 65211,
+      "type": "tv",
+      "releaseDate": "2006"
+   },
+   {
+      "title": "NullMeta",
+      "malid": 65214,
+      "anidbid": 20495,
+      "type": "tv",
+      "releaseDate": "2027"
    }
 ]
