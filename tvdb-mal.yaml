@@ -2926,6 +2926,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 366
+      title: AIKa
+      type: ova
+      tvdbid: 80900
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 367
       title: Akazukin Chacha OVA
       type: ova
@@ -2971,6 +2980,24 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 373
+      title: Bannou Bunka Neko-Musume
+      type: ova
+      tvdbid: 79587
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 374
+      title: Bannou Bunka Neko-Musume DASH!
+      type: ova
+      tvdbid: 79589
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 375
       title: Bannou Bunka Neko-Musume (1998)
       type: tv
@@ -2989,12 +3016,39 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 377
+      title: eX-Driver
+      type: ova
+      tvdbid: 73571
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 379
       title: Heppoko Jikken Animation Excel♥Saga
       type: tv
       tvdbid: 72462
       tvdbseason: 1
       start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 380
+      title: Fushigi Yuugi OVA
+      type: ova
+      tvdbid: 71444
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 381
+      title: 'Fushigi Yuugi: Dai Ni Bu'
+      type: ova
+      tvdbid: 71444
+      tvdbseason: 0
+      start: 4
       useMapping: false
       animeMapping: []
 
@@ -52512,6 +52566,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 64445
+      title: 'Xian Ni Movie: Shi Xian Zhi Zhan'
+      type: ona
+      tvdbid: 433335
+      tvdbseason: 0
+      start: 2
+      useMapping: false
+      animeMapping: []
+
     - malid: 64459
       title: Fool Night
       type: ona
@@ -52570,6 +52633,15 @@ AnimeMap:
       title: Senren＊Banka
       type: tv
       tvdbid: 480865
+      tvdbseason: 1
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 64717
+      title: Yuusanchi! from Yuu-hachi
+      type: tv
+      tvdbid: 484244
       tvdbseason: 1
       start: 0
       useMapping: false
