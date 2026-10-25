@@ -10404,7 +10404,8 @@
       "releaseDate": "1996-04-26"
    },
    {
-      "title": "Future GPX Cyber Formula",
+      "title": "Shinseiki GPX Cyber Formula",
+      "enTitle": "Future GPX Cyber Formula",
       "malid": 1391,
       "anidbid": 739,
       "tvdbid": 82595,
@@ -10412,35 +10413,40 @@
       "releaseDate": "1991-03-15"
    },
    {
-      "title": "Future GPX Cyber Formula 11",
+      "title": "Shinseiki GPX Cyber Formula 11",
+      "enTitle": "Future GPX Cyber Formula 11",
       "malid": 1392,
       "anidbid": 2463,
       "type": "ova",
       "releaseDate": "1992-11-01"
    },
    {
-      "title": "Future GPX Cyber Formula Zero",
+      "title": "Shinseiki GPX Cyber Formula Zero",
+      "enTitle": "Future GPX Cyber Formula Zero",
       "malid": 1393,
       "anidbid": 2462,
       "type": "ova",
       "releaseDate": "1994-04-01"
    },
    {
-      "title": "Future GPX Cyber Formula Saga",
+      "title": "Shinseki GPX Cyber Formula Saga",
+      "enTitle": "Future GPX Cyber Formula Saga",
       "malid": 1394,
       "anidbid": 2149,
       "type": "ova",
       "releaseDate": "1996-08-01"
    },
    {
-      "title": "Future GPX Cyber Formula Sin",
+      "title": "Shinseiki GPX Cyber Formula Sin",
+      "enTitle": "Future GPX Cyber Formula Sin",
       "malid": 1395,
       "anidbid": 2438,
       "type": "ova",
       "releaseDate": "1998-12-21"
    },
    {
-      "title": "Future GPX Cyber Formula: Early Days Renewal",
+      "title": "Shinseiki GPX Cyber Formula: Early Days Renewal",
+      "enTitle": "Future GPX Cyber Formula: Early Days Renewal",
       "malid": 1396,
       "anidbid": 2461,
       "type": "ova",
@@ -194465,7 +194471,7 @@
       "releaseDate": "2024-10-05"
    },
    {
-      "title": "Kaijuu 8-gou Movie",
+      "title": "Kaijuu 8-gou Recap",
       "enTitle": "Kaiju No. 8: Mission Recon",
       "malid": 59489,
       "type": "movie",
@@ -195245,7 +195251,7 @@
       "releaseDate": "2024-08-17"
    },
    {
-      "title": "Jujutsu Kaisen: Kaigyoku/Gyokusetsu",
+      "title": "Jujutsu Kaisen Movie: Kaigyoku/Gyokusetsu",
       "enTitle": "Jujutsu Kaisen: Hidden Inventory/Premature Death",
       "malid": 59654,
       "anidbid": 18835,
@@ -196342,7 +196348,7 @@
       "releaseDate": "2024"
    },
    {
-      "title": "Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu",
+      "title": "Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu",
       "enTitle": "Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
       "malid": 59897,
       "anidbid": 18873,
@@ -202938,10 +202944,10 @@
       "releaseDate": "2026-10-04"
    },
    {
-      "title": "BanG Dream! It's MyGO!!!!! / Ave Mujica",
+      "title": "BanG Dream! MyGO!!!!! / Ave Mujica",
       "malid": 61324,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-08"
    },
    {
       "title": "Douse, Koishite Shimaunda. 2nd Season",
@@ -205384,7 +205390,7 @@
       "malid": 61944,
       "anidbid": 19425,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-04"
    },
    {
       "title": "Aru Mirai yori Ai wo Komete",
@@ -205513,7 +205519,7 @@
       "malid": 61966,
       "anidbid": 19431,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Black Clover 2nd Season",
@@ -209573,7 +209579,7 @@
       "title": "Naui Bimilchingu Haechi",
       "malid": 62875,
       "type": "tv",
-      "releaseDate": "2025-10-08"
+      "releaseDate": "2025-12-10"
    },
    {
       "title": "Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita",
@@ -210655,12 +210661,12 @@
       "releaseDate": ""
    },
    {
-      "title": "Kaijuu 8-gou: Kanketsu-hen",
-      "enTitle": "Kaiju No. 8: Final Chapter",
+      "title": "Kaijuu 8-gou Movie",
+      "enTitle": "Kaiju No. 8: The Final Mission",
       "malid": 63136,
       "anidbid": 19776,
-      "type": "unknown",
-      "releaseDate": ""
+      "type": "movie",
+      "releaseDate": "2027"
    },
    {
       "title": "Kaijuu 8-gou: Narumi no Heijitsu",
@@ -213383,8 +213389,8 @@
    {
       "title": "Jubito",
       "malid": 63835,
-      "type": "ona",
-      "releaseDate": "2021-05-13"
+      "type": "movie",
+      "releaseDate": "2020"
    },
    {
       "title": "Friend Ship",
@@ -213548,6 +213554,7 @@
       "title": "Shirotan",
       "enTitle": "Sirotan",
       "malid": 63901,
+      "anidbid": 20441,
       "type": "tv",
       "releaseDate": "2026-10-03"
    },
@@ -213593,7 +213600,7 @@
    {
       "title": "Date A Live F: Last Date",
       "malid": 63934,
-      "type": "unknown",
+      "type": "movie",
       "releaseDate": "2027-03-26"
    },
    {
@@ -214730,7 +214737,7 @@
       "releaseDate": "2023-05-20"
    },
    {
-      "title": "Takopii no Genzai: Arigatou, Mata Ashita",
+      "title": "Takopii no Genzai Movie: Arigatou, Mata Ashita",
       "malid": 64266,
       "type": "movie",
       "releaseDate": "2026-11-27"
@@ -217913,6 +217920,13 @@
       "releaseDate": "2026-09-30"
    },
    {
+      "title": "Watashi no Me ni Utsuru Tsumi, Anata no Me ni Utsuru Watashi",
+      "enTitle": "The Sin in My Eyes, the Me in Your Eyes",
+      "malid": 65091,
+      "type": "movie",
+      "releaseDate": "2024"
+   },
+   {
       "title": "Thunder 3 Season 2",
       "malid": 65092,
       "type": "tv",
@@ -218070,6 +218084,13 @@
       "releaseDate": "2026-04-05"
    },
    {
+      "title": "Oushun Jogakuen no Danyuu",
+      "enTitle": "Backstage at Oushun Academy",
+      "malid": 65129,
+      "type": "ona",
+      "releaseDate": "2026-08-25"
+   },
+   {
       "title": "My Bad",
       "enTitle": "My Bad",
       "malid": 65130,
@@ -218224,7 +218245,7 @@
       "anidbid": 20040,
       "tvdbid": 477658,
       "type": "tv",
-      "releaseDate": "2026-10-08"
+      "releaseDate": "2026-10-18"
    },
    {
       "title": "Dark Summoner to Dekiteiru Mini Anime Gekijou",
@@ -218391,5 +218412,125 @@
       "anidbid": 20495,
       "type": "tv",
       "releaseDate": "2027"
+   },
+   {
+      "title": "Dinoster: Gonglyongsuhodae 4th Season",
+      "enTitle": "Dinoster 4th Season",
+      "malid": 65216,
+      "type": "tv",
+      "releaseDate": "2026-08-31"
+   },
+   {
+      "title": "Doraemon: Doraemon no Nandemo Quiz Pocket",
+      "malid": 65221,
+      "type": "ova",
+      "releaseDate": "1992-12-31"
+   },
+   {
+      "title": "Hello! Lady Lynn no Yume no Oheya e Youkoso",
+      "malid": 65222,
+      "type": "ova",
+      "releaseDate": "1988-12-31"
+   },
+   {
+      "title": "Fukai desu!",
+      "enTitle": "Love Me, Own Me",
+      "malid": 65224,
+      "type": "music",
+      "releaseDate": "2026-10-21"
+   },
+   {
+      "title": "Tanoshii Moomin Ikka: Moomin no Sutekina Present",
+      "malid": 65225,
+      "type": "ova",
+      "releaseDate": "1990"
+   },
+   {
+      "title": "Obake no Q-taro: Oba Q Channel",
+      "malid": 65226,
+      "type": "ova",
+      "releaseDate": "1988-01-01"
+   },
+   {
+      "title": "Hello Kitty Tanoshii Okaimono",
+      "malid": 65227,
+      "type": "ova",
+      "releaseDate": "1989-01-01"
+   },
+   {
+      "title": "Soreike! Anpanman: Norimono Iro-iro Daibouken",
+      "malid": 65228,
+      "type": "ova",
+      "releaseDate": "1992-12-31"
+   },
+   {
+      "title": "Soreike! Anpanman: Panya-san te Donnatoko?",
+      "malid": 65229,
+      "type": "ova",
+      "releaseDate": "1992-12-31"
+   },
+   {
+      "title": "Chinou Kaihatsu Series 4-sai: Wakarukana Kazuasobi",
+      "malid": 65230,
+      "type": "ova",
+      "releaseDate": "1989"
+   },
+   {
+      "title": "Kero Kero Keroppi no Issho ni Asobou",
+      "malid": 65231,
+      "type": "ova",
+      "releaseDate": "1991-12-31"
+   },
+   {
+      "title": "Garou Densetsu: CotW x Tokyo Revengers",
+      "enTitle": "Fatal Fury: CotW x Tokyo Revengers Trailer",
+      "malid": 65232,
+      "type": "pv",
+      "releaseDate": "2026-10-22"
+   },
+   {
+      "title": "Pupa (Music)",
+      "malid": 65233,
+      "type": "music",
+      "releaseDate": "2026-10-22"
+   },
+   {
+      "title": "Hitozuma to Netorare Ryokou",
+      "malid": 65234,
+      "type": "ova",
+      "releaseDate": "2026-12-11"
+   },
+   {
+      "title": "Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition",
+      "enTitle": "Future GPX Cyber Formula: Early Days Renewal Movie Edition",
+      "malid": 65246,
+      "type": "movie",
+      "releaseDate": "2027-02-19"
+   },
+   {
+      "title": "Shinseiki GPX Cyber Formula Asurada",
+      "enTitle": "Future GPX Cyber Formula Asurada",
+      "malid": 65247,
+      "type": "movie",
+      "releaseDate": "2027-02-19"
+   },
+   {
+      "title": "Made in Abyss: Mezameru Shinpi Part 2",
+      "malid": 65248,
+      "type": "movie",
+      "releaseDate": ""
+   },
+   {
+      "title": "Koukaku Kidoutai (Shinsaku Animation)",
+      "enTitle": "The Ghost in the Shell (New Animation)",
+      "malid": 65252,
+      "type": "unknown",
+      "releaseDate": ""
+   },
+   {
+      "title": "Cha A Er Zhong 6th Season",
+      "malid": 65256,
+      "type": "ona",
+      "releaseDate": "2026-07-26"
    }
 ]
