@@ -413,44 +413,8 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
-    - malid: 366
-      title: AIKa
-      type: ova
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
     - malid: 368
       title: Bible Black
-      type: ova
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 373
-      title: Bannou Bunka Neko-Musume
-      type: ova
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 374
-      title: Bannou Bunka Neko-Musume DASH!
-      type: ova
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 377
-      title: eX-Driver
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -461,24 +425,6 @@ AnimeMap:
     - malid: 378
       title: eX-Driver the Movie
       type: movie
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 380
-      title: Fushigi Yuugi OVA
-      type: ova
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 381
-      title: 'Fushigi Yuugi: Dai Ni Bu'
-      type: ova
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -4410,7 +4356,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1392
-      title: Future GPX Cyber Formula 11
+      title: Shinseiki GPX Cyber Formula 11
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -4419,7 +4365,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1393
-      title: Future GPX Cyber Formula Zero
+      title: Shinseiki GPX Cyber Formula Zero
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -4428,7 +4374,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1394
-      title: Future GPX Cyber Formula Saga
+      title: Shinseki GPX Cyber Formula Saga
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -4437,7 +4383,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1395
-      title: Future GPX Cyber Formula Sin
+      title: Shinseiki GPX Cyber Formula Sin
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -4446,7 +4392,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1396
-      title: 'Future GPX Cyber Formula: Early Days Renewal'
+      title: 'Shinseiki GPX Cyber Formula: Early Days Renewal'
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -196497,7 +196443,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59489
-      title: Kaijuu 8-gou Movie
+      title: Kaijuu 8-gou Recap
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -197388,7 +197334,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59654
-      title: 'Jujutsu Kaisen: Kaigyoku/Gyokusetsu'
+      title: 'Jujutsu Kaisen Movie: Kaigyoku/Gyokusetsu'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -198621,7 +198567,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 59897
-      title: 'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu'
+      title: 'Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -205794,7 +205740,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 61324
-      title: BanG Dream! It's MyGO!!!!! / Ave Mujica
+      title: BanG Dream! MyGO!!!!! / Ave Mujica
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -214443,8 +214389,8 @@ AnimeMap:
       animeMapping: []
 
     - malid: 63136
-      title: 'Kaijuu 8-gou: Kanketsu-hen'
-      type: unknown
+      title: Kaijuu 8-gou Movie
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -217531,7 +217477,7 @@ AnimeMap:
 
     - malid: 63835
       title: Jubito
-      type: ona
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -217792,7 +217738,7 @@ AnimeMap:
 
     - malid: 63934
       title: 'Date A Live F: Last Date'
-      type: unknown
+      type: movie
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -219258,7 +219204,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64266
-      title: 'Takopii no Genzai: Arigatou, Mata Ashita'
+      title: 'Takopii no Genzai Movie: Arigatou, Mata Ashita'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -220042,15 +219988,6 @@ AnimeMap:
 
     - malid: 64444
       title: Qiu Mo
-      type: ona
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 64445
-      title: 'Xian Ni Movie: Shi Xian Zhi Zhan'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -221528,15 +221465,6 @@ AnimeMap:
     - malid: 64716
       title: Kuraiai
       type: music
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 64717
-      title: Yuusanchi! from Yuu-hachi
-      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -223433,6 +223361,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 65091
+      title: Watashi no Me ni Utsuru Tsumi, Anata no Me ni Utsuru Watashi
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65092
       title: Thunder 3 Season 2
       type: tv
@@ -223658,6 +223595,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 65129
+      title: Oushun Jogakuen no Danyuu
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 65130
       title: My Bad
       type: music
@@ -223859,15 +223805,6 @@ AnimeMap:
     - malid: 65164
       title: Genbaku no Ko
       type: movie
-      tvdbid: 0
-      tvdbseason: 0
-      start: 0
-      useMapping: false
-      animeMapping: []
-
-    - malid: 65167
-      title: Kanojo no Tomodachi Mini Anime Gekijou
-      type: tv
       tvdbid: 0
       tvdbseason: 0
       start: 0
@@ -224102,6 +224039,177 @@ AnimeMap:
     - malid: 65214
       title: NullMeta
       type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65216
+      title: 'Dinoster: Gonglyongsuhodae 4th Season'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65221
+      title: 'Doraemon: Doraemon no Nandemo Quiz Pocket'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65222
+      title: Hello! Lady Lynn no Yume no Oheya e Youkoso
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65224
+      title: Fukai desu!
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65225
+      title: 'Tanoshii Moomin Ikka: Moomin no Sutekina Present'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65226
+      title: 'Obake no Q-taro: Oba Q Channel'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65227
+      title: Hello Kitty Tanoshii Okaimono
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65228
+      title: 'Soreike! Anpanman: Norimono Iro-iro Daibouken'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65229
+      title: 'Soreike! Anpanman: Panya-san te Donnatoko?'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65230
+      title: 'Chinou Kaihatsu Series 4-sai: Wakarukana Kazuasobi'
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65231
+      title: Kero Kero Keroppi no Issho ni Asobou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65232
+      title: 'Garou Densetsu: CotW x Tokyo Revengers'
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65233
+      title: Pupa (Music)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65234
+      title: Hitozuma to Netorare Ryokou
+      type: ova
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65246
+      title: 'Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65247
+      title: Shinseiki GPX Cyber Formula Asurada
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65248
+      title: 'Made in Abyss: Mezameru Shinpi Part 2'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65252
+      title: Koukaku Kidoutai (Shinsaku Animation)
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65256
+      title: Cha A Er Zhong 6th Season
+      type: ona
       tvdbid: 0
       tvdbseason: 0
       start: 0

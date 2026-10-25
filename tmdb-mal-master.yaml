@@ -18631,7 +18631,7 @@ animeMovies:
       tmdbid: 0
       malid: 59479
 
-    - mainTitle: Kaijuu 8-gou Movie
+    - mainTitle: Kaijuu 8-gou Recap
       tmdbid: 0
       malid: 59489
 
@@ -18655,7 +18655,7 @@ animeMovies:
       tmdbid: 0
       malid: 59588
 
-    - mainTitle: 'Jujutsu Kaisen: Kaigyoku/Gyokusetsu'
+    - mainTitle: 'Jujutsu Kaisen Movie: Kaigyoku/Gyokusetsu'
       tmdbid: 0
       malid: 59654
 
@@ -18851,7 +18851,7 @@ animeMovies:
       tmdbid: 0
       malid: 59896
 
-    - mainTitle: 'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu'
+    - mainTitle: 'Kobayashi-san Chi no Maid Dragon Movie: Samishigariya no Ryuu'
       tmdbid: 0
       malid: 59897
 
@@ -19851,6 +19851,10 @@ animeMovies:
       tmdbid: 0
       malid: 63033
 
+    - mainTitle: Kaijuu 8-gou Movie
+      tmdbid: 0
+      malid: 63136
+
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -19963,6 +19967,10 @@ animeMovies:
       tmdbid: 0
       malid: 63829
 
+    - mainTitle: Jubito
+      tmdbid: 0
+      malid: 63835
+
     - mainTitle: Friend Ship
       tmdbid: 0
       malid: 63836
@@ -19978,6 +19986,10 @@ animeMovies:
     - mainTitle: 'Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu'
       tmdbid: 0
       malid: 63903
+
+    - mainTitle: 'Date A Live F: Last Date'
+      tmdbid: 0
+      malid: 63934
 
     - mainTitle: 'Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou'
       tmdbid: 0
@@ -20103,7 +20115,7 @@ animeMovies:
       tmdbid: 0
       malid: 64243
 
-    - mainTitle: 'Takopii no Genzai: Arigatou, Mata Ashita'
+    - mainTitle: 'Takopii no Genzai Movie: Arigatou, Mata Ashita'
       tmdbid: 0
       malid: 64266
 
@@ -20331,6 +20343,10 @@ animeMovies:
       tmdbid: 0
       malid: 65076
 
+    - mainTitle: Watashi no Me ni Utsuru Tsumi, Anata no Me ni Utsuru Watashi
+      tmdbid: 0
+      malid: 65091
+
     - mainTitle: Ninifuni no Niwa
       tmdbid: 0
       malid: 65096
@@ -20394,4 +20410,16 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan: Kirakira☆Hoshi Furu Yoru no Oyaku da zo'
       tmdbid: 0
       malid: 65203
+
+    - mainTitle: 'Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition'
+      tmdbid: 0
+      malid: 65246
+
+    - mainTitle: Shinseiki GPX Cyber Formula Asurada
+      tmdbid: 0
+      malid: 65247
+
+    - mainTitle: 'Made in Abyss: Mezameru Shinpi Part 2'
+      tmdbid: 0
+      malid: 65248
 
