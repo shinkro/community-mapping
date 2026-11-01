@@ -6579,6 +6579,10 @@ animeMovies:
       tmdbid: 0
       malid: 62914
 
+    - mainTitle: Kaijuu 8-gou Movie
+      tmdbid: 0
+      malid: 63136
+
     - mainTitle: Wani no Shokuji
       tmdbid: 0
       malid: 63211
@@ -6651,6 +6655,10 @@ animeMovies:
       tmdbid: 0
       malid: 63827
 
+    - mainTitle: Jubito
+      tmdbid: 0
+      malid: 63835
+
     - mainTitle: Friend Ship
       tmdbid: 0
       malid: 63836
@@ -6662,6 +6670,10 @@ animeMovies:
     - mainTitle: 'Ganbare Rockman: Jishin Youjin - Hi no Youjin'
       tmdbid: 0
       malid: 63897
+
+    - mainTitle: 'Date A Live F: Last Date'
+      tmdbid: 0
+      malid: 63934
 
     - mainTitle: 'Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni/Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets Makuai Eizou'
       tmdbid: 0
@@ -6851,10 +6863,6 @@ animeMovies:
       tmdbid: 0
       malid: 64673
 
-    - mainTitle: Wukong Da Sheng
-      tmdbid: 0
-      malid: 64674
-
     - mainTitle: Ginga Tetsudou 999 (New Movie)
       tmdbid: 0
       malid: 64693
@@ -6919,6 +6927,10 @@ animeMovies:
       tmdbid: 0
       malid: 65076
 
+    - mainTitle: Watashi no Me ni Utsuru Tsumi, Anata no Me ni Utsuru Watashi
+      tmdbid: 0
+      malid: 65091
+
     - mainTitle: 'Shitanoya Iseki: Joumon Monogatari'
       tmdbid: 0
       malid: 65112
@@ -6959,7 +6971,7 @@ animeMovies:
       tmdbid: 0
       malid: 65173
 
-    - mainTitle: Hikari no Kaze no Arma
+    - mainTitle: Hikari no Kaze no Ama
       tmdbid: 0
       malid: 65182
 
@@ -6978,4 +6990,52 @@ animeMovies:
     - mainTitle: 'Crayon Shin-chan: Kirakira☆Hoshi Furu Yoru no Oyaku da zo'
       tmdbid: 0
       malid: 65203
+
+    - mainTitle: 'Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition'
+      tmdbid: 0
+      malid: 65246
+
+    - mainTitle: Shinseiki GPX Cyber Formula Asurada
+      tmdbid: 0
+      malid: 65247
+
+    - mainTitle: 'Made in Abyss: Mezameru Shinpi Part 2'
+      tmdbid: 0
+      malid: 65248
+
+    - mainTitle: Uchuu Senkan Yamato 8mm Film
+      tmdbid: 0
+      malid: 65268
+
+    - mainTitle: Jiyuu Kenkyuu Jihan
+      tmdbid: 0
+      malid: 65280
+
+    - mainTitle: The Perfect Body
+      tmdbid: 0
+      malid: 65284
+
+    - mainTitle: Soshite Knife wo Te ni Shita
+      tmdbid: 0
+      malid: 65285
+
+    - mainTitle: Oi no Oinomori to Zarumori, Mesutomori
+      tmdbid: 0
+      malid: 65291
+
+    - mainTitle: Nightingale Monogatari
+      tmdbid: 0
+      malid: 65292
+
+    - mainTitle: Otsuki-san Momoiro
+      tmdbid: 0
+      malid: 65293
+
+    - mainTitle: Gonza to Souza
+      tmdbid: 0
+      malid: 65294
+
+    - mainTitle: Bekkanko Oni
+      tmdbid: 0
+      malid: 65295
 
