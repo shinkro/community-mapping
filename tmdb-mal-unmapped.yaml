@@ -6555,10 +6555,6 @@ animeMovies:
       tmdbid: 0
       malid: 62549
 
-    - mainTitle: Girls Band Cry Movie 2
-      tmdbid: 0
-      malid: 62550
-
     - mainTitle: Tanglang
       tmdbid: 0
       malid: 62575
@@ -6795,7 +6791,7 @@ animeMovies:
       tmdbid: 0
       malid: 64280
 
-    - mainTitle: Paradox Live the Animation Movie
+    - mainTitle: Paradox Live the Movie
       tmdbid: 0
       malid: 64317
 
@@ -7038,4 +7034,24 @@ animeMovies:
     - mainTitle: Bekkanko Oni
       tmdbid: 0
       malid: 65295
+
+    - mainTitle: 'Bocchi the Rock! Movie: Hoshi no Ashiato'
+      tmdbid: 0
+      malid: 65302
+
+    - mainTitle: Tsutsuji no Saka
+      tmdbid: 0
+      malid: 65306
+
+    - mainTitle: Day of Judgement
+      tmdbid: 0
+      malid: 65307
+
+    - mainTitle: Nokoru Mono ni Tsuite
+      tmdbid: 0
+      malid: 65321
+
+    - mainTitle: Renai Discourse
+      tmdbid: 0
+      malid: 65334
 

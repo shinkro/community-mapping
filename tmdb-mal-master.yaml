@@ -1703,7 +1703,7 @@ animeMovies:
       tmdbid: 599921
       malid: 2948
 
-    - mainTitle: Doubutsu no Mori
+    - mainTitle: Doubutsu no Mori Movie
       tmdbid: 0
       malid: 2950
 
@@ -4187,7 +4187,7 @@ animeMovies:
       tmdbid: 0
       malid: 9789
 
-    - mainTitle: 'Sora no Otoshimono: Tokeijikake no Angeloid'
+    - mainTitle: 'Sora no Otoshimono Movie: Tokeijikake no Angeloid'
       tmdbid: 0
       malid: 9790
 
@@ -4507,7 +4507,7 @@ animeMovies:
       tmdbid: 0
       malid: 10674
 
-    - mainTitle: 'Blood-C: The Last Dark'
+    - mainTitle: 'Blood-C Movie: The Last Dark'
       tmdbid: 0
       malid: 10681
 
@@ -9187,7 +9187,7 @@ animeMovies:
       tmdbid: 0
       malid: 33485
 
-    - mainTitle: 'Ansatsu Kyoushitsu: 365-nichi no Jikan'
+    - mainTitle: 'Ansatsu Kyoushitsu Movie: 365-nichi no Jikan'
       tmdbid: 0
       malid: 33513
 
@@ -19775,7 +19775,7 @@ animeMovies:
       tmdbid: 0
       malid: 62549
 
-    - mainTitle: Girls Band Cry Movie 2
+    - mainTitle: Girls Band Cry the Movie
       tmdbid: 0
       malid: 62550
 
@@ -20131,7 +20131,7 @@ animeMovies:
       tmdbid: 0
       malid: 64280
 
-    - mainTitle: Paradox Live the Animation Movie
+    - mainTitle: Paradox Live the Movie
       tmdbid: 0
       malid: 64317
 
@@ -20458,4 +20458,24 @@ animeMovies:
     - mainTitle: Bekkanko Oni
       tmdbid: 0
       malid: 65295
+
+    - mainTitle: 'Bocchi the Rock! Movie: Hoshi no Ashiato'
+      tmdbid: 0
+      malid: 65302
+
+    - mainTitle: Tsutsuji no Saka
+      tmdbid: 0
+      malid: 65306
+
+    - mainTitle: Day of Judgement
+      tmdbid: 0
+      malid: 65307
+
+    - mainTitle: Nokoru Mono ni Tsuite
+      tmdbid: 0
+      malid: 65321
+
+    - mainTitle: Renai Discourse
+      tmdbid: 0
+      malid: 65334
 
