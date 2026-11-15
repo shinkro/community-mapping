@@ -8506,42 +8506,42 @@
       "releaseDate": "1996-04-26"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula",
+      "title": "Future GPX Cyber Formula",
       "enTitle": "Future GPX Cyber Formula",
       "malid": 1391,
       "type": "tv",
       "releaseDate": "1991-03-15"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula 11",
+      "title": "Future GPX Cyber Formula 11",
       "enTitle": "Future GPX Cyber Formula 11",
       "malid": 1392,
       "type": "ova",
       "releaseDate": "1992-11-01"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula Zero",
+      "title": "Future GPX Cyber Formula Zero",
       "enTitle": "Future GPX Cyber Formula Zero",
       "malid": 1393,
       "type": "ova",
       "releaseDate": "1994-04-01"
    },
    {
-      "title": "Shinseki GPX Cyber Formula Saga",
+      "title": "Future GPX Cyber Formula Saga",
       "enTitle": "Future GPX Cyber Formula Saga",
       "malid": 1394,
       "type": "ova",
       "releaseDate": "1996-08-01"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula Sin",
+      "title": "Future GPX Cyber Formula Sin",
       "enTitle": "Future GPX Cyber Formula Sin",
       "malid": 1395,
       "type": "ova",
       "releaseDate": "1998-12-21"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula: Early Days Renewal",
+      "title": "Future GPX Cyber Formula: Early Days Renewal",
       "enTitle": "Future GPX Cyber Formula: Early Days Renewal",
       "malid": 1396,
       "type": "ova",
@@ -12569,6 +12569,7 @@
    },
    {
       "title": "Kikou Ryouhei Merowlink",
+      "enTitle": "Armor Hunter Mellowlink",
       "malid": 2048,
       "type": "ova",
       "releaseDate": "1988-11-21"
@@ -17944,7 +17945,7 @@
       "releaseDate": "2001-07-14"
    },
    {
-      "title": "Doubutsu no Mori",
+      "title": "Doubutsu no Mori Movie",
       "enTitle": "Animal Crossing: The Movie",
       "malid": 2950,
       "type": "movie",
@@ -27534,6 +27535,7 @@
    },
    {
       "title": "Mahoutsukai Tai! vs. Shamanic Princess",
+      "enTitle": "Magic User's Club! vs. Shamanic Princess",
       "malid": 5466,
       "type": "ova",
       "releaseDate": "1998"
@@ -38866,7 +38868,7 @@
       "releaseDate": "2007-12-22"
    },
    {
-      "title": "Sora no Otoshimono: Tokeijikake no Angeloid",
+      "title": "Sora no Otoshimono Movie: Tokeijikake no Angeloid",
       "enTitle": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
       "malid": 9790,
       "type": "movie",
@@ -41480,7 +41482,7 @@
       "releaseDate": "2011-04-28"
    },
    {
-      "title": "Blood-C: The Last Dark",
+      "title": "Blood-C Movie: The Last Dark",
       "enTitle": "Blood-C: The Last Dark",
       "malid": 10681,
       "type": "movie",
@@ -64691,6 +64693,7 @@
    },
    {
       "title": "Uchuu Kaizoku Mito no Daibouken Pilot",
+      "enTitle": "Space Pirate Mito Pilot",
       "malid": 29283,
       "type": "special",
       "releaseDate": "1999"
@@ -77060,7 +77063,7 @@
       "releaseDate": "2015-06-12"
    },
    {
-      "title": "Ansatsu Kyoushitsu: 365-nichi no Jikan",
+      "title": "Ansatsu Kyoushitsu Movie: 365-nichi no Jikan",
       "enTitle": "Assassination Classroom The Movie: 365 Days' Time",
       "malid": 33513,
       "type": "movie",
@@ -94110,7 +94113,7 @@
       "releaseDate": "2019-01-12"
    },
    {
-      "title": "Nekopara: Koneko no Hi no Yakusoku",
+      "title": "Nekopara OVA: Koneko no Hi no Yakusoku",
       "malid": 37983,
       "type": "ona",
       "releaseDate": "2018-07-27"
@@ -101859,7 +101862,7 @@
       "releaseDate": "2019-12-26"
    },
    {
-      "title": "Kyouryuu Shoujo Gauko",
+      "title": "Kyouryuu Shoujo Gauko (2019)",
       "enTitle": "Dino Girl Gauko",
       "malid": 39849,
       "type": "ona",
@@ -102871,12 +102874,6 @@
       "malid": 40145,
       "type": "tv",
       "releaseDate": "2020-04-04"
-   },
-   {
-      "title": "Nanimo Shite Agerarenai",
-      "malid": 40147,
-      "type": "music",
-      "releaseDate": "2019-07-22"
    },
    {
       "title": "22/7",
@@ -107396,7 +107393,7 @@
       "releaseDate": "2011-04-14"
    },
    {
-      "title": "Kyouryuu Shoujo Gauko 2nd Season",
+      "title": "Kyouryuu Shoujo Gauko (2019) 2nd Season",
       "enTitle": "Dino Girl Gauko Season 2",
       "malid": 41421,
       "type": "ona",
@@ -157587,6 +157584,7 @@
    },
    {
       "title": "Bocchi the Rock! Movie",
+      "enTitle": "Bocchi the Rock! Recap",
       "malid": 55357,
       "type": "movie",
       "releaseDate": "2024-06-07"
@@ -159056,6 +159054,7 @@
    },
    {
       "title": "Sayonara Wonderland",
+      "enTitle": "Goodbye Wonderland",
       "malid": 55682,
       "type": "music",
       "releaseDate": "2023-06-16"
@@ -171036,7 +171035,7 @@
    },
    {
       "title": "Sengoku Youko: Senma Konton-hen",
-      "enTitle": "Sengoku Youko 2nd Season",
+      "enTitle": "Sengoku Youko Part 2",
       "malid": 58488,
       "type": "tv",
       "releaseDate": "2024-07-18"
@@ -172605,7 +172604,7 @@
       "enTitle": "Mashle: Magic and Muscles - The Tri-Magicathlon Divine Visionary Final Exam Arc",
       "malid": 58934,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-10"
    },
    {
       "title": "Nyaaaanvy",
@@ -173850,7 +173849,7 @@
       "title": "Grotesqqque",
       "malid": 59217,
       "type": "movie",
-      "releaseDate": "2026-07-25"
+      "releaseDate": "2026-11-06"
    },
    {
       "title": "Soccer Boy",
@@ -173927,7 +173926,7 @@
       "title": "Minami-ke Korekara",
       "malid": 59235,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "San Shaonu",
@@ -177439,10 +177438,11 @@
       "releaseDate": "2025-03-28"
    },
    {
-      "title": "Mahou Shoujo ni Akogarete 2nd Season",
+      "title": "Mahou Shoujo ni Akogarete Season 2",
+      "enTitle": "Gushing over Magical Girls Season 2",
       "malid": 60046,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Bleach 20th PV",
@@ -178247,7 +178247,7 @@
       "enTitle": "Laid-Back Camp Season 4",
       "malid": 60267,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-04"
    },
    {
       "title": "Xiangle Huayuan",
@@ -184508,7 +184508,7 @@
       "enTitle": "Gacha Girls Corps",
       "malid": 61756,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-07"
    },
    {
       "title": "Akuyaku Reijou no Naka no Hito",
@@ -187868,10 +187868,10 @@
       "releaseDate": ""
    },
    {
-      "title": "Girls Band Cry Movie 2",
+      "title": "Girls Band Cry the Movie",
       "malid": 62550,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2027-05-21"
    },
    {
       "title": "BeyWarriors: Cyborg Specials",
@@ -188562,7 +188562,7 @@
       "enTitle": "Martial Universe 7th Season",
       "malid": 62717,
       "type": "ona",
-      "releaseDate": "2026"
+      "releaseDate": "2026-11-29"
    },
    {
       "title": "Xingchen Bian: Zuizhong Ji",
@@ -191150,6 +191150,12 @@
       "releaseDate": "2025-11-24"
    },
    {
+      "title": "The Edge",
+      "malid": 63344,
+      "type": "music",
+      "releaseDate": "2023-02-24"
+   },
+   {
       "title": "Love wa Gal kara Hajimaru Unmei",
       "malid": 63345,
       "type": "ova",
@@ -191617,7 +191623,7 @@
       "enTitle": "Rainy Day Serenade",
       "malid": 63472,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-04"
    },
    {
       "title": "Uza Kawaikute Nani ga Warui!",
@@ -192213,7 +192219,7 @@
       "title": "Bless",
       "malid": 63640,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-08"
    },
    {
       "title": "Plannosaurus Gachi Koseibutsu-bu",
@@ -192478,7 +192484,7 @@
       "title": "Isekai Tensei Soudouki",
       "malid": 63730,
       "type": "tv",
-      "releaseDate": "2027-01"
+      "releaseDate": "2027-01-06"
    },
    {
       "title": "Urei no Bakemono",
@@ -192498,7 +192504,7 @@
       "enTitle": "The Dangers in My Heart Season 3",
       "malid": 63735,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-04"
    },
    {
       "title": "Sword Art Online: Unanswered//butterfly",
@@ -193570,11 +193576,11 @@
       "releaseDate": "2027-04"
    },
    {
-      "title": "Boushoku no Berserk 2nd Season",
+      "title": "Boushoku no Berserk Season 2",
       "enTitle": "Berserk of Gluttony Season 2",
       "malid": 64059,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-04"
    },
    {
       "title": "Re:Prism",
@@ -194374,10 +194380,10 @@
       "releaseDate": "2023-06-21"
    },
    {
-      "title": "Paradox Live the Animation Movie",
+      "title": "Paradox Live the Movie",
       "malid": 64317,
       "type": "movie",
-      "releaseDate": ""
+      "releaseDate": "2027"
    },
    {
       "title": "Subarashii Sekai Ryokou: Mirai Series",
@@ -194861,7 +194867,7 @@
       "title": "Doupo Cangqiong Movie: Shuang Di Zhi Zhan",
       "malid": 64448,
       "type": "ona",
-      "releaseDate": ""
+      "releaseDate": "2026-11-22"
    },
    {
       "title": "Higurashi no Naku Koro ni (Shinsaku TV Animation)",
@@ -194959,7 +194965,7 @@
       "enTitle": "Getting Shots on a Frying Pan",
       "malid": 64466,
       "type": "tv",
-      "releaseDate": "2027"
+      "releaseDate": "2027-01"
    },
    {
       "title": "Sudachi no Maoujou",
@@ -195551,7 +195557,7 @@
       "title": "Toratsugumi: Tsugumi Project",
       "malid": 64608,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "PetitCure: Gekijou Manner Movie",
@@ -195876,7 +195882,7 @@
       "releaseDate": ""
    },
    {
-      "title": "Senren＊Banka",
+      "title": "Senren*Banka",
       "malid": 64694,
       "type": "tv",
       "releaseDate": "2027"
@@ -196539,9 +196545,10 @@
    },
    {
       "title": "Boku no Suki na Hito ga Suki na Hito",
+      "enTitle": "My Crush's Crush",
       "malid": 64877,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-04"
    },
    {
       "title": "Ah!",
@@ -196660,7 +196667,7 @@
       "title": "Aoharu Once More",
       "malid": 64906,
       "type": "tv",
-      "releaseDate": ""
+      "releaseDate": "2027-01"
    },
    {
       "title": "Softly",
@@ -197919,14 +197926,14 @@
       "releaseDate": "2026-12-11"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition",
+      "title": "Future GPX Cyber Formula: Early Days Renewal Movie Edition",
       "enTitle": "Future GPX Cyber Formula: Early Days Renewal Movie Edition",
       "malid": 65246,
       "type": "movie",
       "releaseDate": "2027-02-19"
    },
    {
-      "title": "Shinseiki GPX Cyber Formula Asurada",
+      "title": "Future GPX Cyber Formula Asurada",
       "enTitle": "Future GPX Cyber Formula Asurada",
       "malid": 65247,
       "type": "movie",
@@ -198139,5 +198146,288 @@
       "malid": 65300,
       "type": "tv",
       "releaseDate": "2027-07"
+   },
+   {
+      "title": "Pikmin Close to You",
+      "malid": 65301,
+      "type": "ona",
+      "releaseDate": "2025-10-09"
+   },
+   {
+      "title": "Bocchi the Rock! Movie: Hoshi no Ashiato",
+      "malid": 65302,
+      "type": "movie",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Fortnite Treasure Hunters",
+      "malid": 65305,
+      "type": "pv",
+      "releaseDate": "2026-11-01"
+   },
+   {
+      "title": "Tsutsuji no Saka",
+      "malid": 65306,
+      "type": "movie",
+      "releaseDate": "2025"
+   },
+   {
+      "title": "Day of Judgement",
+      "malid": 65307,
+      "type": "movie",
+      "releaseDate": "2007"
+   },
+   {
+      "title": "Chemical Love",
+      "malid": 65308,
+      "type": "music",
+      "releaseDate": "2026-01-07"
+   },
+   {
+      "title": "Lowkey",
+      "malid": 65309,
+      "type": "music",
+      "releaseDate": "2026-10-31"
+   },
+   {
+      "title": "Jogeum Deo Gakkai",
+      "enTitle": "A Little Closer",
+      "malid": 65310,
+      "type": "music",
+      "releaseDate": "2026-05-29"
+   },
+   {
+      "title": "Sweet Paradise",
+      "malid": 65311,
+      "type": "music",
+      "releaseDate": "2026-08-29"
+   },
+   {
+      "title": "Chi ni Ueta Hanayome wa Ou wo Kurau",
+      "enTitle": "The Bloodthirsty Bride Devours the King",
+      "malid": 65312,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Mirror Mirror",
+      "enTitle": "Mirror Mirror",
+      "malid": 65314,
+      "type": "music",
+      "releaseDate": "2026-03-11"
+   },
+   {
+      "title": "Bakuretsu Aishisugite Metsu! (Crazy Mashup by TeddyLoid)",
+      "malid": 65316,
+      "type": "music",
+      "releaseDate": "2026-11-03"
+   },
+   {
+      "title": "Oshi ni Amagami",
+      "enTitle": "Otaku Vampire's Love Bite",
+      "malid": 65318,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Nokoru Mono ni Tsuite",
+      "enTitle": "What Remains",
+      "malid": 65321,
+      "type": "movie",
+      "releaseDate": "2026"
+   },
+   {
+      "title": "Uma",
+      "malid": 65322,
+      "type": "music",
+      "releaseDate": "2025-06-19"
+   },
+   {
+      "title": "Spirit Circle",
+      "malid": 65323,
+      "type": "tv",
+      "releaseDate": "2026-12"
+   },
+   {
+      "title": "33-sai Dokushin Onna Kishi Taichou.",
+      "enTitle": "33 Years Old Single Female Knight-Captain.",
+      "malid": 65324,
+      "type": "unknown",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Karada ni Ii Otoko",
+      "enTitle": "He Does a Body Good",
+      "malid": 65325,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Hagure Idol: Jigoku-hen",
+      "malid": 65326,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Harajuku Himegoto House",
+      "malid": 65332,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Renai Discourse",
+      "enTitle": "A Lover's Discourse",
+      "malid": 65334,
+      "type": "movie",
+      "releaseDate": "2024"
+   },
+   {
+      "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. 2nd Season",
+      "enTitle": "There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her Season 2",
+      "malid": 65335,
+      "type": "tv",
+      "releaseDate": ""
+   },
+   {
+      "title": "Light Hole",
+      "malid": 65338,
+      "type": "cm",
+      "releaseDate": "2026-03-02"
+   },
+   {
+      "title": "Beach Therapy",
+      "enTitle": "Beach Therapy",
+      "malid": 65343,
+      "type": "ona",
+      "releaseDate": "2026-10-17"
+   },
+   {
+      "title": "Warning",
+      "enTitle": "Warning",
+      "malid": 65344,
+      "type": "ona",
+      "releaseDate": "2026-10-31"
+   },
+   {
+      "title": "The Bullet",
+      "enTitle": "The Bullet",
+      "malid": 65345,
+      "type": "ona",
+      "releaseDate": "2026-06-20"
+   },
+   {
+      "title": "Damage",
+      "enTitle": "Damage",
+      "malid": 65346,
+      "type": "ona",
+      "releaseDate": "2026-04-04"
+   },
+   {
+      "title": "New Style",
+      "enTitle": "New Style",
+      "malid": 65347,
+      "type": "ona",
+      "releaseDate": "2026-04-18"
+   },
+   {
+      "title": "Spy x Family Season 4",
+      "malid": 65350,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Spy x Family Movie 2",
+      "malid": 65351,
+      "type": "movie",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Like 1",
+      "enTitle": "Like 1",
+      "malid": 65354,
+      "type": "music",
+      "releaseDate": "2025-08-19"
+   },
+   {
+      "title": "Kyouryuu Shoujo Gauko",
+      "malid": 65360,
+      "type": "ona",
+      "releaseDate": "2017-05-12"
+   },
+   {
+      "title": "Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai",
+      "malid": 65362,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Hao×2+Lie×2",
+      "malid": 65365,
+      "type": "music",
+      "releaseDate": "2024-07-13"
+   },
+   {
+      "title": "Gelpiyo 2nd Season",
+      "malid": 65409,
+      "type": "tv",
+      "releaseDate": "2026-10-21"
+   },
+   {
+      "title": "My Life as a Dog",
+      "malid": 65410,
+      "type": "movie",
+      "releaseDate": "2024"
+   },
+   {
+      "title": "Nanatsuya: Shinobu no Housekibako",
+      "enTitle": "Nanatsu-ya: Shinobu and Her Jewelry Box",
+      "malid": 65412,
+      "type": "tv",
+      "releaseDate": "2027"
+   },
+   {
+      "title": "Wondering Mate",
+      "malid": 65422,
+      "type": "ona",
+      "releaseDate": "2026-12-16"
+   },
+   {
+      "title": "Peropero★Sparkles",
+      "malid": 65423,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Nennen",
+      "enTitle": "Nen-nen, My Blankie",
+      "malid": 65424,
+      "type": "movie",
+      "releaseDate": "2026-07-08"
+   },
+   {
+      "title": "Oyatsushiba",
+      "malid": 65425,
+      "type": "ona",
+      "releaseDate": "2026-11-14"
+   },
+   {
+      "title": "Isekai Douraku ni Akitara",
+      "malid": 65437,
+      "type": "tv",
+      "releaseDate": "2027-01"
+   },
+   {
+      "title": "Banana no Kawa de Subette Korobu Usagi Movie",
+      "enTitle": "A Rabbit Slipping on Banana Peels: The Movie",
+      "malid": 65439,
+      "type": "movie",
+      "releaseDate": "2024-02-22"
+   },
+   {
+      "title": "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season",
+      "enTitle": "Re:ZERO -Starting Life in Another World- Season 5",
+      "malid": 65450,
+      "type": "tv",
+      "releaseDate": ""
    }
 ]
