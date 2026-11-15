@@ -11700,7 +11700,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1391
-      title: Shinseiki GPX Cyber Formula
+      title: Future GPX Cyber Formula
       type: tv
       tvdbid: 82595
       tvdbseason: 1
@@ -11709,7 +11709,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1392
-      title: Shinseiki GPX Cyber Formula 11
+      title: Future GPX Cyber Formula 11
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -11718,7 +11718,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1393
-      title: Shinseiki GPX Cyber Formula Zero
+      title: Future GPX Cyber Formula Zero
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -11727,7 +11727,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1394
-      title: Shinseki GPX Cyber Formula Saga
+      title: Future GPX Cyber Formula Saga
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -11736,7 +11736,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1395
-      title: Shinseiki GPX Cyber Formula Sin
+      title: Future GPX Cyber Formula Sin
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -11745,7 +11745,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 1396
-      title: 'Shinseiki GPX Cyber Formula: Early Days Renewal'
+      title: 'Future GPX Cyber Formula: Early Days Renewal'
       type: ova
       tvdbid: 0
       tvdbseason: 0
@@ -24594,7 +24594,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 2950
-      title: Doubutsu no Mori
+      title: Doubutsu no Mori Movie
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -53452,7 +53452,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 9790
-      title: 'Sora no Otoshimono: Tokeijikake no Angeloid'
+      title: 'Sora no Otoshimono Movie: Tokeijikake no Angeloid'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -57132,7 +57132,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 10681
-      title: 'Blood-C: The Last Dark'
+      title: 'Blood-C Movie: The Last Dark'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -107332,7 +107332,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 33513
-      title: 'Ansatsu Kyoushitsu: 365-nichi no Jikan'
+      title: 'Ansatsu Kyoushitsu Movie: 365-nichi no Jikan'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -131103,7 +131103,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 37983
-      title: 'Nekopara: Koneko no Hi no Yakusoku'
+      title: 'Nekopara OVA: Koneko no Hi no Yakusoku'
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -141813,7 +141813,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 39849
-      title: Kyouryuu Shoujo Gauko
+      title: Kyouryuu Shoujo Gauko (2019)
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -149494,7 +149494,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 41421
-      title: Kyouryuu Shoujo Gauko 2nd Season
+      title: Kyouryuu Shoujo Gauko (2019) 2nd Season
       type: ona
       tvdbid: 0
       tvdbseason: 0
@@ -248482,7 +248482,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 60046
-      title: Mahou Shoujo ni Akogarete 2nd Season
+      title: Mahou Shoujo ni Akogarete Season 2
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -263149,7 +263149,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 62550
-      title: Girls Band Cry Movie 2
+      title: Girls Band Cry the Movie
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -267693,6 +267693,15 @@ AnimeMap:
       useMapping: false
       animeMapping: []
 
+    - malid: 63344
+      title: The Edge
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
     - malid: 63345
       title: Love wa Gal kara Hajimaru Unmei
       type: ova
@@ -271222,7 +271231,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64059
-      title: Boushoku no Berserk 2nd Season
+      title: Boushoku no Berserk Season 2
       type: tv
       tvdbid: 0
       tvdbseason: 0
@@ -272365,7 +272374,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64317
-      title: Paradox Live the Animation Movie
+      title: Paradox Live the Movie
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -274480,7 +274489,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 64694
-      title: Senren＊Banka
+      title: Senren*Banka
       type: tv
       tvdbid: 480865
       tvdbseason: 1
@@ -277351,7 +277360,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 65246
-      title: 'Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition'
+      title: 'Future GPX Cyber Formula: Early Days Renewal Movie Edition'
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -277360,7 +277369,7 @@ AnimeMap:
       animeMapping: []
 
     - malid: 65247
-      title: Shinseiki GPX Cyber Formula Asurada
+      title: Future GPX Cyber Formula Asurada
       type: movie
       tvdbid: 0
       tvdbseason: 0
@@ -277658,6 +277667,402 @@ AnimeMap:
 
     - malid: 65300
       title: Shibatsuki Bukken
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65301
+      title: Pikmin Close to You
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65302
+      title: 'Bocchi the Rock! Movie: Hoshi no Ashiato'
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65305
+      title: Fortnite Treasure Hunters
+      type: pv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65306
+      title: Tsutsuji no Saka
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65307
+      title: Day of Judgement
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65308
+      title: Chemical Love
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65309
+      title: Lowkey
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65310
+      title: Jogeum Deo Gakkai
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65311
+      title: Sweet Paradise
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65312
+      title: Chi ni Ueta Hanayome wa Ou wo Kurau
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65314
+      title: Mirror Mirror
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65316
+      title: Bakuretsu Aishisugite Metsu! (Crazy Mashup by TeddyLoid)
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65318
+      title: Oshi ni Amagami
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65321
+      title: Nokoru Mono ni Tsuite
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65322
+      title: Uma
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65323
+      title: Spirit Circle
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65324
+      title: 33-sai Dokushin Onna Kishi Taichou.
+      type: unknown
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65325
+      title: Karada ni Ii Otoko
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65326
+      title: 'Hagure Idol: Jigoku-hen'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65332
+      title: Harajuku Himegoto House
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65334
+      title: Renai Discourse
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65335
+      title: Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65338
+      title: Light Hole
+      type: cm
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65343
+      title: Beach Therapy
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65344
+      title: Warning
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65345
+      title: The Bullet
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65346
+      title: Damage
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65347
+      title: New Style
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65350
+      title: Spy x Family Season 4
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65351
+      title: Spy x Family Movie 2
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65354
+      title: Like 1
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65360
+      title: Kyouryuu Shoujo Gauko
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65362
+      title: Ore no Shibou Flag ga Todomaru Tokoro wo Shiranai
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65365
+      title: Hao×2+Lie×2
+      type: music
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65409
+      title: Gelpiyo 2nd Season
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65410
+      title: My Life as a Dog
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65412
+      title: 'Nanatsuya: Shinobu no Housekibako'
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65422
+      title: Wondering Mate
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65423
+      title: Peropero★Sparkles
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65424
+      title: Nennen
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65425
+      title: Oyatsushiba
+      type: ona
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65437
+      title: Isekai Douraku ni Akitara
+      type: tv
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65439
+      title: Banana no Kawa de Subette Korobu Usagi Movie
+      type: movie
+      tvdbid: 0
+      tvdbseason: 0
+      start: 0
+      useMapping: false
+      animeMapping: []
+
+    - malid: 65450
+      title: Re:Zero kara Hajimeru Isekai Seikatsu 5th Season
       type: tv
       tvdbid: 0
       tvdbseason: 0
